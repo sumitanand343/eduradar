@@ -1,0 +1,47 @@
+name: Fetch & Deploy
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:   # allows manual trigger from the Actions tab
+  push:
+    branches: [main]   # also run on every push for easy testing
+
+permissions:
+  contents: write      # needed to commit data/ files back to the repo
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests feedparser pyyaml
+
+      - name: Run fetcher
+        run: python fetch.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: eduradar update $(date -u +%Y-%m-%dT%H:%M)Z"
+          git push
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          exclude_assets: ".github,fetch.py,sources.yaml,requirements.txt,README.md"
+          cname: ""  # add your custom domain here if you have one
