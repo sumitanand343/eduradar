@@ -2,6 +2,15 @@
   "streams": {
     "fln": [
       {
+        "title": "A study protocol evaluating the effectiveness of the older adult’s digital health literacy (ODDHeaL) intervention",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359396",
+        "summary": "by Nor Hazimah Rosle, Halimatus Sakdiah Minhat, Lim Poh Ying, Siti Aisah Mokhtar Digital health literacy (DHL) is recognised as a vital determinant of healthy ageing, directly influencing the ability of older adults to navigate an increasingly technology-driven healthcare landscape. Despite increasing internet penetration, overall DHL among the elderly remains significantly low. Guided by the social cognitive theory (SCT), the ODDHeaL intervention module aims to improve the DHL of the community-dwelling older adults. A single-blinded, two-arm cluster randomised controlled trial was conducted t",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "fln"
+      },
+      {
         "title": "Digital literacy shapes AI chatbot adoption, barriers, and performance outcomes in football coaches: a multi-method analytical study",
         "url": "https://www.nature.com/articles/s41598-026-72410-4",
         "summary": "",
@@ -144,15 +153,6 @@
         "published": "2026-08-27T22:00:00+00:00",
         "region": "europe",
         "stream": "fln"
-      },
-      {
-        "title": "Beyond pilotitis: Zimbabwe calls for continental action on foundational numeracy",
-        "url": "https://world-education-blog.org/2026/07/30/beyond-pilotitis-zimbabwe-calls-for-continental-action-on-foundational-numeracy/",
-        "summary": "By Prof. Torerayi Moyo, Honorable Minister of Primary and Secondary Education, Zimbabwe During the Foundational Learning Exchange 2026 in Lilongwe, Zimbabwe’s Minister of Primary and Secondary Education, Hon. Prof. Torerayi Moyo, made the case for giving foundational numeracy the same priority as literacy — and called for the development of an Africa Foundational Numeracy White [&#8230;] The post Beyond pilotitis: Zimbabwe calls for continental action on foundational numeracy appeared first on World Education Blog .",
-        "source": "UNESCO — World Education Blog (GEM Report)",
-        "published": "2026-07-30T14:46:07+00:00",
-        "region": "global",
-        "stream": "fln"
       }
     ],
     "ece": [
@@ -254,24 +254,6 @@
         "published": "2026-08-31T08:46:23+00:00",
         "region": "europe",
         "stream": "ece"
-      },
-      {
-        "title": "CIPPEC impulsa un proyecto para fortalecer el clima de negocios en cuatro ciudades argentinas",
-        "url": "https://www.cippec.org/cippec-impulsa-un-proyecto-para-fortalecer-el-clima-de-negocios-en-cuatro-ciudades-argentinas/",
-        "summary": "CIPPEC, en conjunto con el Center for International Private Enterprise (CIPE), está llevando adelante un proyecto orientado a analizar y fortalecer la eficiencia regulatoria subnacional en cuatro ciudades argentinas (Córdoba, Rosario, Salta y Tandil), en pos del desarrollo. La iniciativa forma parte de un programa regional que involucra también a las organizaciones Fundación Milenio (Bolivia), [&#8230;] La entrada CIPPEC impulsa un proyecto para fortalecer el clima de negocios en cuatro ciudades argentinas se publicó primero en CIPPEC .",
-        "source": "CIPPEC — Education (Argentina)",
-        "published": "2026-07-30T15:49:09+00:00",
-        "region": "latin_america",
-        "stream": "ece"
-      },
-      {
-        "title": "Early childhood is a great time to learn about clean energy: this game aims to make it fun",
-        "url": "https://theconversation.com/early-childhood-is-a-great-time-to-learn-about-clean-energy-this-game-aims-to-make-it-fun-283817",
-        "summary": "Early childhood is an important stage where children develop curiosity, values and problem-solving skills.",
-        "source": "The Conversation Africa — Education",
-        "published": "2026-07-30T14:45:30+00:00",
-        "region": "east_africa",
-        "stream": "ece"
       }
     ],
     "k12": [
@@ -286,6 +268,15 @@
       }
     ],
     "secondary": [
+      {
+        "title": "Protocol for a systematic literature review on risk and protective factors for non-suicidal self-injurious behavior among adolescents in Iran",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359411",
+        "summary": "by Bita Erfanifar, Maud Modders, Karlijn Massar Background Self-harm, including non-suicidal self-injury (NSSI), represents a major public health concern among adolescents. Although numerous risk and protective factors have been identified in the literature, their utility for assessment and management remains limited due to their large number and the variability in the strength of their associations. In Iran, in particular, there is a notable lack of synthesis, related to adolescent NSSI, especially regarding protective factors. To address this gap, this protocol outlines an ongoing systematic",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "secondary"
+      },
       {
         "title": "Mizoram to recruit 671 primary, 107 high school teachers; reviews education staffing",
         "url": "https://education.economictimes.indiatimes.com/news/government-policies/mizoram-to-recruit-671-primary-107-high-school-teachers-reviews-education-staffing/134426570",
@@ -506,6 +497,15 @@
       }
     ],
     "tvet": [
+      {
+        "title": "TPE-optimized XGBoost model for fine–grained prediction of tertiary vocational college students’ employment destinations",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359421",
+        "summary": "by Juntao Chen, Jinmei Zhan, Xiaodeng Zhou, Jiahua Yao, Su-Kit Tang, Xia Liu Predicting tertiary vocational college students’ employment destinations has become an urgent need for most tertiary vocational colleges. This study proposes a machine learning framework based on Tree-structured Parzen Estimator (TPE)-Optimized eXtreme gradient boosting (XGBoost) for fine-grained prediction of tertiary vocational college students’ employment destinations. The dataset comprises 2,270 graduates (2016–2019 cohorts) from a single tertiary vocational college in China, characterized by 27 features spanning ",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "tvet"
+      },
       {
         "title": "From Skills Gap to Learner Success: Why the TVET Learning Experience Needs to Change",
         "url": "https://efvet.org/from-skills-gap-to-learner-success-why-the-tvet-learning-experience-needs-to-change/",
@@ -748,6 +748,15 @@
       }
     ],
     "policy": [
+      {
+        "title": "Correction: Research on the resource and governance effects of state-owned equity participation: Based on the analysis of the green transformation process and path of private enterprises",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359539",
+        "summary": "by Haizhi Ren, Yani Wen",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "policy"
+      },
       {
         "title": "Flood disaster zones in Nonthaburi, more rain forecast",
         "url": "https://www.bangkokpost.com/learning/easy/3327418/flood-disaster-zones-in-nonthaburi-more-rain-forecast",
@@ -1146,6 +1155,240 @@
       }
     ],
     "research": [
+      {
+        "title": "Non-ablative dermal remodeling lasers in acquired dermal macular hyperpigmentation: A scoping review",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359552",
+        "summary": "by Virgilio Blandon, Halyma Gomez, Erick Correa, Miguel Borge, Maria-Jose Altamirano, Alessandro Alvarado, Taylys Leyton Background Acquired dermal macular hyperpigmentation (ADMH) encompasses a group of challenging pigmentary disorders characterized by dermal melanophages and variable lichenoid interface inflammation. Non-ablative dermal remodeling lasers (NADRL), which target water rather than melanin, have been proposed as a potential therapeutic option through neocollagenesis and modulation of the dermal microenvironment. However, the evidence base for these devices in ADMH has not been sy",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Perceived factors associated with self-reported AI-assisted academic cheating among undergraduate students: Evidence from ethical ambiguity, technological affordances, institutional gaps, academic pressure, and peer comparison",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359549",
+        "summary": "by Hanh Van Nguyen, Mai Thi-Thuy Duong The rapid development of generative artificial intelligence (AI) has made academic cheating in higher education increasingly complex and difficult to regulate. Using a cross-sectional self-report survey of 863 undergraduate students at a university of science and technology in Vietnam, this study examined the latent structure of students’ perceptions of factors associated with AI-assisted academic cheating and the associations of the resulting constructs with self-reported cheating behaviors. Data were analyzed using exploratory factor analysis, confirmat",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Correction: White-tailed deer population declines in a high-prevalence chronic wasting disease region of Arkansas, USA",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359536",
+        "summary": "by Heather E. Gaya, Marcelo H. Jorge, Lisa A. Jorge, Mark G. Ruder, Gino J. D’Angelo, Richard B. Chandler, Michael J. Chamberlain",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Technical-tactical indicators associated with winning in elite amateur boxing: A matched-pair analysis",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359509",
+        "summary": "by Xuguang Chen, Mohamad Nizam Mohamed Shapie, Wenyao Chen Identifying technical-tactical indicators associated with winning in elite amateur boxing remains challenging because each bout contains a naturally dependent winner-loser pair. Using a matched-pair notational design, we analysed 108 international elite amateur bouts (216 boxer observations) from 2019 to 2025 based on official competition videos and official results. Coded indicators were total punches thrown, punches landed, punching accuracy, successful counterattacks, defensive success rate, ring-centre control and warnings. Winner-",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Correction: Renal coccidiosis in black skimmers in North America reveals an uncharacterized <i>Eimeria</i> lineage (Apicomplexa: Eimeriidae)",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359440",
+        "summary": "by Kátia R. Groch, Tiana L. Sanders, Elena M. I. Duran, Susan A. Heath, Dallas Clontz, Jacquelyn K. Grace, Raquel R. Rech, Guilherme G. Verocai, Laura K. Bryan",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "The perceived facilitators and barriers to the potential adoption of teledentistry among dental care providers in Saudi Arabia: A systematic review",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359436",
+        "summary": "by Amjad Hakami, Sarika Mohan Teledentistry has emerged as a tool that holds great potential to enhance access, efficiency, and continuity of oral healthcare delivery. In Saudi Arabia, its adoption is important in the context of the health transformation programme and Vision 2030, particularly given the high prevalence of dental caries among schoolchildren. Despite this potential, actual implementation is still limited. In this context, there is a need to systematically assess the factors influencing its potential adoption from the care providers’ perspectives. This review aimed to systematica",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Dynamic hypernode injection and graph attention fusion for multimodal sentiment analysis of behavioral signals",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359425",
+        "summary": "by Wenfei Cao, Jian Xu, Yinghao Li, Huizi Yan, Zhuowei Hu, Wenxu Chen Language use, vocal behavior, and facial activity provide complementary indicators of affective state, but multimodal models can be affected by noisy temporal observations and insufficient global guidance before cross-modal interaction. We developed a framework combining bidirectional gated recurrent unit encoders, attention pooling, dynamic hypernode injection, and graph attention fusion. Textual, acoustic, and visual sequences were mapped into a shared latent space and compressed into modality-level representations. A samp",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Dioscin attenuates D‑galactose‑induced retinal pigment epithelium senescence and epithelial–mesenchymal transition via the TGF‑β2/PI3K/Akt/β‑catenin pathway",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359423",
+        "summary": "by Qi Ouyang, Huiqin Zhou, Chenhao Ji, Hong Jiang, Linhui Zhao, Yiwei Pan, Shuanglin Xiang, Xiang Hu Purpose This study aimed to evaluate the protective effects of Dioscin in an age-related macular degeneration (AMD) -like model and to explore its potential therapeutic mechanisms. Methods The therapeutic potential of Dioscin for AMD was investigated using D-galactose-induced senescence models in ARPE-19 cells (an in vitro preliminary screening model) and C57BL/6J mice using RT-qPCR, western blotting, immunofluorescence, and SA-β-gal staining. Bioinformatic analysis and molecular docking identi",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Evaluation of the real-world protective effect of mumps-containing vaccines among children under 15 years old in Taizhou: A 1:2 matched case-control study",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359417",
+        "summary": "by Huaxian Liu, Zhongkui Zhu, Yuanbao Liu, Jintao Wang, Yunke Qian, Yang Yu, Lu Shen, Yan Xie, Wanqin Tang Background This study aimed to evaluate the real-world protective effectiveness of the mumps-containing vaccine (MuCV) among children under 15 years of age in Taizhou City, and to analyze the impact of various vaccination-related factors on vaccine effectiveness (VE), so as to provide localized epidemiological evidence for optimizing mumps immunization strategies in children. Methods A 1:2 matched case-control study was conducted, enrolling 1,405 clinically or laboratory-confirmed mumps c",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Resident-reported evaluation of Party-Mass Service Centers in China: A cross-sectional analysis of participation and governance context",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359412",
+        "summary": "by Haibo Yao, Qirui Zhang, Huaizhi Xu, LiFa Hu Party-Mass Service Centers (PMSCs) combine grassroots service delivery, participation, and Party-led community governance, yet little is known about how residents evaluate these institutions. Using a mixed-mode nonprobability survey of 2,688 residents linked to 140 PMSCs in Hanjiang District, Yangzhou, this study conceptualizes resident evaluation as a reported, reference-dependent judgment rather than a direct measure of institutional performance. Evaluation was strongly ceiling-concentrated (M = 4.747, median = 5.000; 63.3% strict top box). Cent",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "A prototype-aligned multi-scale attention network for few-shot industrial surface defect detection",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359400",
+        "summary": "by Rubing Huang, Lianyi Zhao Few-shot industrial surface defect detection remains challenging because annotated defect images are scarce, defect scales vary considerably, and textured backgrounds can cause false responses. This study proposes a Prototype-Aligned Multi-Scale Attention Network (PA-MSAN) that integrates multi-receptive-field feature extraction, spatial-channel attention, and region of interest (RoI)-level prototype matching within a two-stage detector. Experiments are conducted on NEU-DET under 1-shot, 3-shot, and 5-shot episode settings, with 5-shot cross-domain evaluation on GC",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Correction: Cranial Osteology of <i>Fona herzogae</i> (Dinosauria: Thescelosaurinae) from the Mussentuchit Member of the Cedar Mountain Formation",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359389",
+        "summary": "by The PLOS One Staff",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "HADD: A hierarchy-aware disentangled diffusion framework with spatio-temporal denoising for 3D human pose estimation",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359321",
+        "summary": "by Jinze Jiang, Zhongheng Jian, Hualing Zheng, Minsi Liang, Yuxing Shi, Liming Zhang Monocular 3D Human Pose Estimation (3D HPE) is a core task in computer vision, which provides critical technical support for applications including VR/AR, immersive human-computer interaction, digital human animation, as well as sports motion capture, athletic technique diagnosis, physical fitness assessment and sports rehabilitation training. However, existing methods still face three key limitations: diffusion-based methods lack explicit human anatomical prior constraints in the diffusion process; disentangl",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Classification of pre-metabolic syndrome and metabolic syndrome using machine learning and routine clinical variables in Thai adults",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359283",
+        "summary": "by Metha Yaikwawong, Khanittha Kamdee, Somlak Chuengsamarn Background Metabolic syndrome (MetS) and pre-metabolic syndrome (pre-MetS) are increasingly recognized as important stages of metabolic dysfunction in Asian populations. Conventional diagnostic approaches rely on fixed threshold criteria, whereas metabolic dysfunction occurs along a continuous spectrum. Machine learning (ML) can integrate multidimensional clinical data and model nonlinear relationships among clinical variables, potentially providing complementary information for distinguishing metabolic states. This study evaluated ten",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Effectiveness of elastic therapeutic taping in pain management after median sternotomy: A randomized controlled trial",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359282",
+        "summary": "by Alp Özel, Umut Ata Uğraş, Muhammet Fatih Uysal, Erhan Renan Uçaroğlu To evaluate the effectiveness of elastic therapeutic taping on postoperative pain, functional mobility, sleep quality, analgesic consumption, and length of hospital stay in patients undergoing coronary artery bypass grafting (CABG) via median sternotomy. In this prospective, randomized, double-blind, placebo- and sham-controlled trial, 195 patients undergoing elective CABG were randomly assigned to elastic therapeutic taping (n = 65), placebo taping without tension (n = 65), or sham taping to a non-related region (n = 65).",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Bornological stabilization families and oscillation dynamics of closed-set sequences",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359280",
+        "summary": "by Zhi-Peng Lin, Mehmet Gürdal, Ömer Kişi Convergence of moving closed sets is usually studied relative to a family of test regions fixed in advance. This may conceal the regions on which a given sequence actually stabilizes. We introduce a sequence-dependent construction in a metric space. For each test set, we take the infimum over all tails of the supremum of the symmetric localized excess between pairs of tail members. The test sets for which this quantity is zero form the stabilization family. We prove that this family is hereditary and closed under finite unions, and hence is a bornology",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Characterisation of microbial metabolite profiles across the gastrointestinal tract of horses fed on pasture, hay or oat-supplemented rations",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359277",
+        "summary": "by Milena Marie Santo, Martin Bachmann, Gerald Fritz Schusser, Monika Wensch-Dorendorf, Caroline Pisch, Mandy Bochnia, Liane Hüther, Karin Heinichen, Annette Zeyner Dietary composition substantially influences the intensity and site of microbial metabolite production in the gastrointestinal tract. These metabolites have numerous beneficial effects on equine health, but may also be involved in the development of gastrointestinal disorders. It remains unclear whether different feeding strategies, including starch supplementation, can alter microbial metabolite profiles along the gastrointestinal",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Stabilization of cervical stiffness associated with cervical pessary placement in women at risk for preterm birth",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359271",
+        "summary": "by Ioannis Kyvernitakis, Philien Lauer, Laura Bernardi, Sabrina Badir, Franz Bahlmann, Holger Maul, Maciej Osinski Purpose Shortening of the cervix is a predictor of spontaneous preterm birth (PTB). It is assumed that a cervical pessary reduces mechanical stress on the internal os and consequently decreases the risk of premature delivery. The primary aim of this study was to compare longitudinal changes in cervical stiffness between women with cervical shortening (a cervical length ≤ 25 mm according to the ISUOG guidelines) treated with a cervical pessary and healthy controls. Methods A total ",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Implementing a climate-resilient and inclusive WASH guidance in Indonesia: A mixed-methods case study",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359266",
+        "summary": "by Silvia Landa, Fahrunnisa, Sarah Lebu, Novika Noerdiyanti, Musa Manga Climate change increasingly disrupts water, sanitation, and hygiene (WASH) services, disproportionately affecting women, children, people with disabilities, and groups with limited adaptive resources. Evidence remains limited on how WASH programs integrate climate resilience, equity, and social inclusion and on the conditions that enable benefits to reach households. Researchers examined how Climate Change Response for Inclusive WASH (CCRIW) guidance was implemented and adapted within routine programming in Indonesia, how ",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Editorial Note: Significant increase in eco-efficiency of China’s grain production from 2000 to 2022: Trend changes, typological evolution, and driving factors",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359242",
+        "summary": "by The PLOS One Editors",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Characterization and risk assessment of ambient VOCs in Qingyang city, China",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359213",
+        "summary": "by Weihong Wang, Leping He, Yongqiang Wei, Fei Dou, Li Ma, Yue Zhang, Yuwei Tie Introduction Atmospheric volatile organic compounds (VOCs) are critical pollutants that significantly affect urban air quality and drive photochemical reaction processes. Industrial cities, especially those in western China, often face unique VOC pollution characteristics due to regional industrial structures and geographical conditions. Objective This study aimed to characterize VOC composition, concentrations, photochemical reactivity, sources, and health risks in a western Chinese industrial city. Methods Gaseou",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Food consumption patterns and nutrient adequacy across lifecycle stages in Bangladesh",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359205",
+        "summary": "by Md. Hafizul Islam, Nazma Shaheen, Masum Ali, Abira Nowar, Saiful Islam, Syed Shahadat Hossain, Md. Ruhul Amin Objective The study aimed to estimate energy, macro, and micronutrient intakes and to compute the probability of adequacy (PA) of 11 selected micronutrient intakes by age, sex, and vulnerabilities. Methods This study analyzed dietary data from two nationally representative surveys in Bangladesh: the BIHS 2015 (N = 13,086; rural only) and the NSB 2017–2018 (N = 3,116; rural and urban, all divisions). Participants included individuals of all ages and both sexes. Primary outcomes were ",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Editorial Note: C4b Binding Protein Binds to CD154 Preventing CD40 Mediated Cholangiocyte Apoptosis: A Novel Link between Complement and Epithelial Cell Survival",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359124",
+        "summary": "by The PLOS One Editors",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Design and implementation of a Wireless Power Transfer with double-sided LCC compensation for a farming robot",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359107",
+        "summary": "by Aryadharma Sudhartio, Marojahan Tampubolon, Gervasius Geovan, M. B. Nugraha, Ahmad Syahril Muharom Farming robots are used nowadays to increase farming efficiency and production. In this paper, the Wireless Power Transfer (WPT) is proposed to be used as the enabler technology to support the autonomous characteristics of the robot. A low input voltage supplied from a solar panel is assumed as the source for the WPT system in this work. The mathematical modeling, design, and hardware implementation are discussed in this paper. The experimental results of WPT with double-sided LCC compensation",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Ability of the triglyceride–glucose index and C-reactive protein-to-albumin ratio to predict severity of acute pancreatitis and 28-day mortality",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359089",
+        "summary": "by Qiuhui Tian, Yinyin Zhang, Xiaolin Zhu, Ting Luo, Qiumei Cao, Yu Liu Background Severe acute pancreatitis (SAP) is characterized by rapid development, complex clinical changes, and a high mortality rate. Early identification of patients with acute pancreatitis that has the potential to become severe is important for optimizing clinical outcomes. However, at present, there is no effective prediction or evaluation tool. This study aimed to determine the ability of the triglyceride–glucose (TyG) index and C-reactive protein-to-albumin ratio (CAR) to predict the risk of progression to SAP and 2",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
+      {
+        "title": "Development of mechanically optimized biomimetic hybrid scaffold–stem cell constructs for functional tendon regeneration and restoration of mechanical integrity",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359084",
+        "summary": "by Alani Mohanad Khalid Ahmed Tendon ruptures heal poorly due to hypocellularity, disorganized extracellular matrix (ECM), and inadequate mechanical loading. Current scaffold-stem cell strategies lack integration of dynamic mechanical cues and sustained growth factor delivery. The objective of this study is to engineer a mechanically tuned, bioactive hybrid scaffold system that integrates tendon-derived stem cells (TDSCs) and mesenchymal stem cells (MSCs), controlled growth factor release, and progressive mechanical stimulation to achieve functional tendon regeneration with enhanced structural",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
       {
         "title": "Basque VET Centres Scale Immersive Learning Across the Network",
         "url": "https://efvet.org/basque-vet-centres-scale-immersive-learning-across-the-network/",
@@ -1631,240 +1874,6 @@
         "published": "2026-09-28T04:00:00+00:00",
         "region": "global",
         "stream": "research"
-      },
-      {
-        "title": "Training-Free Pronunciation Transcription via Text-Constrained Acoustic Rescoring",
-        "url": "https://arxiv.org/abs/2609.30924",
-        "summary": "arXiv:2609.30924v1 Announce Type: new Abstract: Accurate and efficient pronunciation transcription is essential for preparing text-to-speech training data at scale. Existing approaches have different limitations: grapheme-to-pronunciation (G2P) and speech-to-pronunciation (S2P) methods each capture only partial information, using only text or only speech, while speech-and-text-to-pronunciation (ST2P) methods use both but require costly pronunciation-annotated data. To address this problem, we pr",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "Estimating and Orthogonalizing Unknown Pre-training Gradients for Continual Fine-tuning of Large Language Models",
-        "url": "https://arxiv.org/abs/2609.30935",
-        "summary": "arXiv:2609.30935v1 Announce Type: new Abstract: Continual fine-tuning is essential for large language models (LLMs) to dynamically adapt to real-world environments, yet it inevitably suffers from catastrophic forgetting, particularly the performance degradation of previous tasks and LLMs' general-purpose knowledge. Although existing methods, such as orthogonal gradient projection, mitigate the forgetting across various fine-tuning tasks, they fundamentally fail to preserve pre-training LLMs' inh",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "FAVoR: Measuring and Mitigating Author-Style Homogenization in Federated Personalized Generation",
-        "url": "https://arxiv.org/abs/2609.30968",
-        "summary": "arXiv:2609.30968v1 Announce Type: new Abstract: Large language models are increasingly used as personalized writing assistants, but adapting a model across many authors can compromise individual writing style by pulling author-specific signals toward a shared register. Federated parameter-efficient fine-tuning (PEFT) offers a data-local setting for this multi-author adaptation problem: clients keep author text local while sharing compact adapter updates. However, we show that standard aggregatio",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "Coupled Usage-Sense Processes: Temporal and Attributable Lexical Semantic Change",
-        "url": "https://arxiv.org/abs/2609.30974",
-        "summary": "arXiv:2609.30974v1 Announce Type: new Abstract: Lexical semantic change is usually summarized by a scalar distance between independently sampled period distributions. This measures how much a word changed, but does not reveal when it changed, which mechanisms and component movements carried the change, or which usages support the attribution. We introduce Coupled Usage--Sense Processes (CUSP), which derives these answers from a single marginal preserving temporal process. A hierarchical coupling",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "THA: Weighted Finite-State Text Normalization and Inverse Text Normalization for Khmer",
-        "url": "https://arxiv.org/abs/2609.30984",
-        "summary": "arXiv:2609.30984v1 Announce Type: new Abstract: Text-to-speech needs written text in spoken form, and speech recognition output needs the reverse. For Khmer, neither direction has a maintained open-source tool, and the script makes both harder: words are not separated by spaces, and number words occur inside ordinary words. We present Tha, a Khmer text normalization and inverse text normalization toolkit built from weighted finite-state transducers. It segments and classifies a whole line in one",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "Evaluating Sycophancy in Chinese Large Language Models on Factual Questions Derived from Online Search Queries",
-        "url": "https://arxiv.org/abs/2609.30986",
-        "summary": "arXiv:2609.30986v1 Announce Type: new Abstract: As large language models increasingly mediate information access, factually accurate and independent answers are critical. However, these models can exhibit sycophancy by aligning their responses with users' stated beliefs even when those beliefs are incorrect, potentially presenting misinformation as independently verified and reinforcing users' confidence in false claims. Prior work leaves unresolved whether introducing user beliefs causes correc",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "ZooWork-ShopRanker: An Open, Preference-Aligned E-Commerce Reranker",
-        "url": "https://arxiv.org/abs/2609.31002",
-        "summary": "arXiv:2609.31002v1 Announce Type: new Abstract: Open rerankers trained for general web retrieval transfer imperfectly to e-commerce, where ranking decisions depend not only on topical relevance but also on user preferences, product constraints, and comparative product fit. These preference signals are difficult to supervise at scale: real search traffic provides authentic queries and candidates but no clean pairwise labels. We present ZooWork-ShopRanker, a family of e-commerce rerankers (0.6B, 4",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "G$^2$PTQ: Improving LLM Post-Training Quantization with Generalized Gradient Compensation",
-        "url": "https://arxiv.org/abs/2609.31009",
-        "summary": "arXiv:2609.31009v1 Announce Type: new Abstract: Post-training quantization (PTQ) is a practical approach to reducing the memory and computational footprint of large language models (LLMs) without retraining. GPTQ-based methods have become the de facto standard, yet they suffer from two complementary limitations. Methods with local, layer-wise objectives lack global supervision; while methods with global objectives fix their Hessian estimates at the start and ignore first-order gradients, so thei",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "Modeling Student Sensemaking with LLMs and Knowledge-Graph-Guided Inference",
-        "url": "https://arxiv.org/abs/2609.31046",
-        "summary": "arXiv:2609.31046v1 Announce Type: new Abstract: Collaborative science learning requires nuanced interpretation of student dialogue to characterize how learners identify knowledge gaps, build explanations, and work toward resolution - a theory-driven analysis that is labor-intensive and difficult to scale. We investigate whether instruction-tuned large language models (LLMs) can support multidimensional analysis of collaborative sensemaking without task-specific training, and whether structured k",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "CG-Probes: Recovering Guardrail Directions from Patient Query Embeddings",
-        "url": "https://arxiv.org/abs/2609.31062",
-        "summary": "arXiv:2609.31062v1 Announce Type: new Abstract: Patient-facing AI assistants promise valuable support to patients, but incoming queries can pose medical risks. To create guardrails, we work with oncologists to define three ordinal risk axes: Medical Urgency, Psychological Urgency, and Topic Sensitivity. We propose Clinical Guardrail Probes (CG-Probes) to measure the risks from query embeddings. We probe for each axis in the normalized embedding space of frozen embedders via the difference-in-mea",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "LocUS: Head Selection and Subspace Projection for Targeted Activation Steering",
-        "url": "https://arxiv.org/abs/2609.31122",
-        "summary": "arXiv:2609.31122v1 Announce Type: new Abstract: Activation steering is a powerful training-free paradigm for controlling large language models at inference time. However, standard approaches estimate a per-layer steering direction from contrastive data and apply it on the layer's entire representation space, which may couple the intervention to off-target properties present in the contrastive data and degrade unrelated capabilities. To mitigate this issue, we introduce LocUS (Localized Unembeddi",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "Do we need to answer that question? Salience and Answerability of Potential Questions in Naturalistic Dialogue",
-        "url": "https://arxiv.org/abs/2609.31130",
-        "summary": "arXiv:2609.31130v1 Announce Type: new Abstract: We empirically investigate Question Under Discussion based modelling in naturalistic dialogue by studying whether the salience of generated potential questions predicts their subsequent resolution. Building on Wu et al. (2024), we construct a dataset of 7,124 questions automatically generated from utterances and preceding context from the British National Corpus, and annotated for salience and answerability. We find a robust but low positive correl",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "Improving Visual Sensitivity of LLMs on Multimodal Machine Translation with Metric-based Loss Weighting",
-        "url": "https://arxiv.org/abs/2609.31169",
-        "summary": "arXiv:2609.31169v1 Announce Type: new Abstract: Multimodal Machine Translation aims to incorporate additional signal from non-textual modalities to improve translations by resolving ambiguities. While models, through multimodal fusion, are able to accept images related to the source text, they can ignore this information. Therefore, increasing their visual sensitivity remains an active research area. In this work, we introduce a training method, Metric-based Loss Weighting, that improves visual ",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "Where a Model Sends Its Own Repeated Token",
-        "url": "https://arxiv.org/abs/2609.31181",
-        "summary": "arXiv:2609.31181v1 Announce Type: new Abstract: Black-box model identification works by scoring a model's response to natural-language prompts. One line of work feeds models a degenerate input -- their own token, repeated -- to find a failure mode rather than an identity. We take that input and ask where the model goes when it does not. For each token t, read argmax p(. | t, t) in one forward pass; the result is a map on the whole vocabulary, with two halves. The first -- which tokens are fixed ",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "RupeeBias: Auditing Demographic Bias in Indian Economic Guidance from Large Language Models",
-        "url": "https://arxiv.org/abs/2609.31245",
-        "summary": "arXiv:2609.31245v1 Announce Type: new Abstract: Individuals turn to large language models (LLMs) for guidance across a wide range of economic tasks, from comparing loan options and planning savings to deciding what raise to ask for or how much to charge for their services. LLMs are known to reproduce social biases, and biased economic guidance may influence what users believe they are worth, what they ask for, and what they ultimately accept. This risk is especially salient in India, where econo",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "PIA: A Personal Intelligence Agent Turning Health Conversations into Records and Records into Understanding",
-        "url": "https://arxiv.org/abs/2609.31255",
-        "summary": "arXiv:2609.31255v1 Announce Type: new Abstract: General-purpose agent memory summarizes conversations: it extracts salient snippets, embeds them, and retrieves the top-k into the prompt. A health agent cannot run on summaries: a dose becomes a sentence, \"since last week\" is resolved at the model's discretion, and a three-month glucose trend cannot be answered by text similarity. We present PIA, a personal intelligence agent deployed alongside a consumer health agent. PIA receives the agent's nat",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "MoSAR: Mixture of Semantic Attention Regimes for Learning Adaptive and Approximable Attention Geometries",
-        "url": "https://arxiv.org/abs/2609.31261",
-        "summary": "arXiv:2609.31261v1 Announce Type: new Abstract: The quadratic complexity of dense self-attention remains a central bottleneck for long-context language modeling. Many efficient alternatives address this cost by deciding in advance where attention should be sparse or local. We argue that attention approximation should instead be approached as a geometric problem, with the relevant interaction geometry learned from data: natural-language dependencies are input-dependent and difficult to prescribe ",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "Identifying Scientists on X",
-        "url": "https://arxiv.org/abs/2609.31264",
-        "summary": "arXiv:2609.31264v1 Announce Type: new Abstract: With the growing importance of science-related discourse on the Web and the erosion of the classical knowledge order, it is important to identify different user groups, such as scientists, automatically. This work proposes an approach for identifying scientists and non- scientists on X/Twitter based on their user biographies and tweets. We show that we are able to classify accounts as scientists and non- scientists on two different datasets, reachi",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "Stale-Document Poisoning: When Outdated Retrieval Overrides Correct Model Answers",
-        "url": "https://arxiv.org/abs/2609.31342",
-        "summary": "arXiv:2609.31342v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) is often used to address outdated knowledge by providing external evidence. But retrieval helps only when that evidence is still valid. We identify a temporal alignment failure, stale-document poisoning, in which outdated evidence makes a model wrong despite answering correctly without retrieval. We construct a benchmark of 317 verified knowledge reversals across medicine, law, software, and platform policy, gro",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "Highlight-Then-Summarize: Learning to Compress Evidence for Long-Context Understanding",
-        "url": "https://arxiv.org/abs/2609.31382",
-        "summary": "arXiv:2609.31382v1 Announce Type: new Abstract: Long-context understanding requires large language models (LLMs) to reason over lengthy documents, conversations, and code, yet task-relevant evidence is often sparse and scattered amid substantial irrelevant and redundant content. We propose Highlight-Then-Summarize (H2S), a compress-then-reason paradigm that first identifies source-grounded, question-relevant evidence and then integrates it into a compact, question-conditioned summary before prod",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "Sorry Robot, Happy Human: Vision-Language Models Read Only One of Two Legible Typographic Layers",
-        "url": "https://arxiv.org/abs/2609.31403",
-        "summary": "arXiv:2609.31403v1 Announce Type: new Abstract: Vision-language models (VLMs), despite their success in optical character recognition (OCR) tasks, are vulnerable to typographic attacks and have a fragile structure for images with multiple text layers. In this study, the DecoyBench dataset was created using the Decoy Font method. The dataset consists of 300 images, each containing text with sharp contour lines superimposed on another text with soft shading. Six recent closed-source models from th",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "ViSTA: A Simple Bridge Extends Visual Alignment to Clinical Time-Series Understanding in Multimodal LLMs",
-        "url": "https://arxiv.org/abs/2609.31448",
-        "summary": "arXiv:2609.31448v1 Announce Type: new Abstract: Clinical prediction models estimate risk from patient measurements, while large language models support medical text understanding and question answering. Yet their language capabilities do not ensure accurate prediction from structured, high-dimensional clinical time series. Improving this ability would connect risk estimation with flexible questions about a patient's evolving condition. We introduce ViSTA, a compact adapter that incorporates irre",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "Evaluating Cultural Awareness of LLMs for Haitian Creole",
-        "url": "https://arxiv.org/abs/2609.31506",
-        "summary": "arXiv:2609.31506v1 Announce Type: new Abstract: Large language models (LLMs) exhibit substantial performance disparities between high- and low-resource languages. Beyond lower task performance, they often fail to capture the cultural norms and values of underrepresented communities. In this work, we present the first systematic evaluation of cultural awareness in LLMs for Haitian Creole, a language spoken by millions but severely underrepresented in digital resources. We assess cultural awarenes",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "Muslim: A Deployed Arabic Voice AI Platform for Grounded Islamic Knowledge",
-        "url": "https://arxiv.org/abs/2609.31511",
-        "summary": "arXiv:2609.31511v1 Announce Type: new Abstract: We present Muslim, a production Arabic voice AI platform serving grounded, sourced Islamic knowledge to real users. Beyond a real-time voice pipeline (NeMo Arabic ASR, an OpenAI-compatible LLM endpoint, self-hosted TTS) and a deterministic multi-source retrieval layer routed across six Model Context Protocol servers, we report three things a research prototype typically lacks. First, a released family of fine-tuned Arabic Islamic model artifacts: a",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "MexHat: A Dataset for Hate Speech Detection in Mexican Spanish Videos",
-        "url": "https://arxiv.org/abs/2609.31553",
-        "summary": "arXiv:2609.31553v1 Announce Type: new Abstract: Ensuring online safety through content monitoring had raised Hate Speech Detection as a crucial task to be addressed. By essence the task demands the capture of contextual cues, which are essential for a precise understanding of the content's intent. Although automated detection approaches for the task have advanced significantly, the scarcity of non-English resources persists, limiting the ability of models to adapt to the subtle, context-dependen",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "Strategically Diverse Sampling for Self-Training",
-        "url": "https://arxiv.org/abs/2609.31571",
-        "summary": "arXiv:2609.31571v1 Announce Type: new Abstract: Many LLM training and inference methods, including RL and test-time scaling, depend on repeated sampling, but benefit only when the responses meaningfully differ. Self-training faces the same challenge: training data is typically constructed by sampling IID responses and filtering primarily for correctness, thereby overrepresenting strategies a model already favours. We investigate strategic diversity, or substantive variation among approaches to a",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
       }
     ],
     "funding": [
@@ -1954,6 +1963,276 @@
   "regions": {
     "global": [
       {
+        "title": "Non-ablative dermal remodeling lasers in acquired dermal macular hyperpigmentation: A scoping review",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359552",
+        "summary": "by Virgilio Blandon, Halyma Gomez, Erick Correa, Miguel Borge, Maria-Jose Altamirano, Alessandro Alvarado, Taylys Leyton Background Acquired dermal macular hyperpigmentation (ADMH) encompasses a group of challenging pigmentary disorders characterized by dermal melanophages and variable lichenoid interface inflammation. Non-ablative dermal remodeling lasers (NADRL), which target water rather than melanin, have been proposed as a potential therapeutic option through neocollagenesis and modulation of the dermal microenvironment. However, the evidence base for these devices in ADMH has not been sy",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Perceived factors associated with self-reported AI-assisted academic cheating among undergraduate students: Evidence from ethical ambiguity, technological affordances, institutional gaps, academic pressure, and peer comparison",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359549",
+        "summary": "by Hanh Van Nguyen, Mai Thi-Thuy Duong The rapid development of generative artificial intelligence (AI) has made academic cheating in higher education increasingly complex and difficult to regulate. Using a cross-sectional self-report survey of 863 undergraduate students at a university of science and technology in Vietnam, this study examined the latent structure of students’ perceptions of factors associated with AI-assisted academic cheating and the associations of the resulting constructs with self-reported cheating behaviors. Data were analyzed using exploratory factor analysis, confirmat",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Correction: Research on the resource and governance effects of state-owned equity participation: Based on the analysis of the green transformation process and path of private enterprises",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359539",
+        "summary": "by Haizhi Ren, Yani Wen",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "policy",
+        "region": "global"
+      },
+      {
+        "title": "Correction: White-tailed deer population declines in a high-prevalence chronic wasting disease region of Arkansas, USA",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359536",
+        "summary": "by Heather E. Gaya, Marcelo H. Jorge, Lisa A. Jorge, Mark G. Ruder, Gino J. D’Angelo, Richard B. Chandler, Michael J. Chamberlain",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Technical-tactical indicators associated with winning in elite amateur boxing: A matched-pair analysis",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359509",
+        "summary": "by Xuguang Chen, Mohamad Nizam Mohamed Shapie, Wenyao Chen Identifying technical-tactical indicators associated with winning in elite amateur boxing remains challenging because each bout contains a naturally dependent winner-loser pair. Using a matched-pair notational design, we analysed 108 international elite amateur bouts (216 boxer observations) from 2019 to 2025 based on official competition videos and official results. Coded indicators were total punches thrown, punches landed, punching accuracy, successful counterattacks, defensive success rate, ring-centre control and warnings. Winner-",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Correction: Renal coccidiosis in black skimmers in North America reveals an uncharacterized <i>Eimeria</i> lineage (Apicomplexa: Eimeriidae)",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359440",
+        "summary": "by Kátia R. Groch, Tiana L. Sanders, Elena M. I. Duran, Susan A. Heath, Dallas Clontz, Jacquelyn K. Grace, Raquel R. Rech, Guilherme G. Verocai, Laura K. Bryan",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "The perceived facilitators and barriers to the potential adoption of teledentistry among dental care providers in Saudi Arabia: A systematic review",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359436",
+        "summary": "by Amjad Hakami, Sarika Mohan Teledentistry has emerged as a tool that holds great potential to enhance access, efficiency, and continuity of oral healthcare delivery. In Saudi Arabia, its adoption is important in the context of the health transformation programme and Vision 2030, particularly given the high prevalence of dental caries among schoolchildren. Despite this potential, actual implementation is still limited. In this context, there is a need to systematically assess the factors influencing its potential adoption from the care providers’ perspectives. This review aimed to systematica",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Dynamic hypernode injection and graph attention fusion for multimodal sentiment analysis of behavioral signals",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359425",
+        "summary": "by Wenfei Cao, Jian Xu, Yinghao Li, Huizi Yan, Zhuowei Hu, Wenxu Chen Language use, vocal behavior, and facial activity provide complementary indicators of affective state, but multimodal models can be affected by noisy temporal observations and insufficient global guidance before cross-modal interaction. We developed a framework combining bidirectional gated recurrent unit encoders, attention pooling, dynamic hypernode injection, and graph attention fusion. Textual, acoustic, and visual sequences were mapped into a shared latent space and compressed into modality-level representations. A samp",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Dioscin attenuates D‑galactose‑induced retinal pigment epithelium senescence and epithelial–mesenchymal transition via the TGF‑β2/PI3K/Akt/β‑catenin pathway",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359423",
+        "summary": "by Qi Ouyang, Huiqin Zhou, Chenhao Ji, Hong Jiang, Linhui Zhao, Yiwei Pan, Shuanglin Xiang, Xiang Hu Purpose This study aimed to evaluate the protective effects of Dioscin in an age-related macular degeneration (AMD) -like model and to explore its potential therapeutic mechanisms. Methods The therapeutic potential of Dioscin for AMD was investigated using D-galactose-induced senescence models in ARPE-19 cells (an in vitro preliminary screening model) and C57BL/6J mice using RT-qPCR, western blotting, immunofluorescence, and SA-β-gal staining. Bioinformatic analysis and molecular docking identi",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "TPE-optimized XGBoost model for fine–grained prediction of tertiary vocational college students’ employment destinations",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359421",
+        "summary": "by Juntao Chen, Jinmei Zhan, Xiaodeng Zhou, Jiahua Yao, Su-Kit Tang, Xia Liu Predicting tertiary vocational college students’ employment destinations has become an urgent need for most tertiary vocational colleges. This study proposes a machine learning framework based on Tree-structured Parzen Estimator (TPE)-Optimized eXtreme gradient boosting (XGBoost) for fine-grained prediction of tertiary vocational college students’ employment destinations. The dataset comprises 2,270 graduates (2016–2019 cohorts) from a single tertiary vocational college in China, characterized by 27 features spanning ",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "tvet",
+        "region": "global"
+      },
+      {
+        "title": "Evaluation of the real-world protective effect of mumps-containing vaccines among children under 15 years old in Taizhou: A 1:2 matched case-control study",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359417",
+        "summary": "by Huaxian Liu, Zhongkui Zhu, Yuanbao Liu, Jintao Wang, Yunke Qian, Yang Yu, Lu Shen, Yan Xie, Wanqin Tang Background This study aimed to evaluate the real-world protective effectiveness of the mumps-containing vaccine (MuCV) among children under 15 years of age in Taizhou City, and to analyze the impact of various vaccination-related factors on vaccine effectiveness (VE), so as to provide localized epidemiological evidence for optimizing mumps immunization strategies in children. Methods A 1:2 matched case-control study was conducted, enrolling 1,405 clinically or laboratory-confirmed mumps c",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Resident-reported evaluation of Party-Mass Service Centers in China: A cross-sectional analysis of participation and governance context",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359412",
+        "summary": "by Haibo Yao, Qirui Zhang, Huaizhi Xu, LiFa Hu Party-Mass Service Centers (PMSCs) combine grassroots service delivery, participation, and Party-led community governance, yet little is known about how residents evaluate these institutions. Using a mixed-mode nonprobability survey of 2,688 residents linked to 140 PMSCs in Hanjiang District, Yangzhou, this study conceptualizes resident evaluation as a reported, reference-dependent judgment rather than a direct measure of institutional performance. Evaluation was strongly ceiling-concentrated (M = 4.747, median = 5.000; 63.3% strict top box). Cent",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Protocol for a systematic literature review on risk and protective factors for non-suicidal self-injurious behavior among adolescents in Iran",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359411",
+        "summary": "by Bita Erfanifar, Maud Modders, Karlijn Massar Background Self-harm, including non-suicidal self-injury (NSSI), represents a major public health concern among adolescents. Although numerous risk and protective factors have been identified in the literature, their utility for assessment and management remains limited due to their large number and the variability in the strength of their associations. In Iran, in particular, there is a notable lack of synthesis, related to adolescent NSSI, especially regarding protective factors. To address this gap, this protocol outlines an ongoing systematic",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "secondary",
+        "region": "global"
+      },
+      {
+        "title": "A prototype-aligned multi-scale attention network for few-shot industrial surface defect detection",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359400",
+        "summary": "by Rubing Huang, Lianyi Zhao Few-shot industrial surface defect detection remains challenging because annotated defect images are scarce, defect scales vary considerably, and textured backgrounds can cause false responses. This study proposes a Prototype-Aligned Multi-Scale Attention Network (PA-MSAN) that integrates multi-receptive-field feature extraction, spatial-channel attention, and region of interest (RoI)-level prototype matching within a two-stage detector. Experiments are conducted on NEU-DET under 1-shot, 3-shot, and 5-shot episode settings, with 5-shot cross-domain evaluation on GC",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "A study protocol evaluating the effectiveness of the older adult’s digital health literacy (ODDHeaL) intervention",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359396",
+        "summary": "by Nor Hazimah Rosle, Halimatus Sakdiah Minhat, Lim Poh Ying, Siti Aisah Mokhtar Digital health literacy (DHL) is recognised as a vital determinant of healthy ageing, directly influencing the ability of older adults to navigate an increasingly technology-driven healthcare landscape. Despite increasing internet penetration, overall DHL among the elderly remains significantly low. Guided by the social cognitive theory (SCT), the ODDHeaL intervention module aims to improve the DHL of the community-dwelling older adults. A single-blinded, two-arm cluster randomised controlled trial was conducted t",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "fln",
+        "region": "global"
+      },
+      {
+        "title": "Correction: Cranial Osteology of <i>Fona herzogae</i> (Dinosauria: Thescelosaurinae) from the Mussentuchit Member of the Cedar Mountain Formation",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359389",
+        "summary": "by The PLOS One Staff",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "HADD: A hierarchy-aware disentangled diffusion framework with spatio-temporal denoising for 3D human pose estimation",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359321",
+        "summary": "by Jinze Jiang, Zhongheng Jian, Hualing Zheng, Minsi Liang, Yuxing Shi, Liming Zhang Monocular 3D Human Pose Estimation (3D HPE) is a core task in computer vision, which provides critical technical support for applications including VR/AR, immersive human-computer interaction, digital human animation, as well as sports motion capture, athletic technique diagnosis, physical fitness assessment and sports rehabilitation training. However, existing methods still face three key limitations: diffusion-based methods lack explicit human anatomical prior constraints in the diffusion process; disentangl",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Classification of pre-metabolic syndrome and metabolic syndrome using machine learning and routine clinical variables in Thai adults",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359283",
+        "summary": "by Metha Yaikwawong, Khanittha Kamdee, Somlak Chuengsamarn Background Metabolic syndrome (MetS) and pre-metabolic syndrome (pre-MetS) are increasingly recognized as important stages of metabolic dysfunction in Asian populations. Conventional diagnostic approaches rely on fixed threshold criteria, whereas metabolic dysfunction occurs along a continuous spectrum. Machine learning (ML) can integrate multidimensional clinical data and model nonlinear relationships among clinical variables, potentially providing complementary information for distinguishing metabolic states. This study evaluated ten",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Effectiveness of elastic therapeutic taping in pain management after median sternotomy: A randomized controlled trial",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359282",
+        "summary": "by Alp Özel, Umut Ata Uğraş, Muhammet Fatih Uysal, Erhan Renan Uçaroğlu To evaluate the effectiveness of elastic therapeutic taping on postoperative pain, functional mobility, sleep quality, analgesic consumption, and length of hospital stay in patients undergoing coronary artery bypass grafting (CABG) via median sternotomy. In this prospective, randomized, double-blind, placebo- and sham-controlled trial, 195 patients undergoing elective CABG were randomly assigned to elastic therapeutic taping (n = 65), placebo taping without tension (n = 65), or sham taping to a non-related region (n = 65).",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Bornological stabilization families and oscillation dynamics of closed-set sequences",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359280",
+        "summary": "by Zhi-Peng Lin, Mehmet Gürdal, Ömer Kişi Convergence of moving closed sets is usually studied relative to a family of test regions fixed in advance. This may conceal the regions on which a given sequence actually stabilizes. We introduce a sequence-dependent construction in a metric space. For each test set, we take the infimum over all tails of the supremum of the symmetric localized excess between pairs of tail members. The test sets for which this quantity is zero form the stabilization family. We prove that this family is hereditary and closed under finite unions, and hence is a bornology",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Characterisation of microbial metabolite profiles across the gastrointestinal tract of horses fed on pasture, hay or oat-supplemented rations",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359277",
+        "summary": "by Milena Marie Santo, Martin Bachmann, Gerald Fritz Schusser, Monika Wensch-Dorendorf, Caroline Pisch, Mandy Bochnia, Liane Hüther, Karin Heinichen, Annette Zeyner Dietary composition substantially influences the intensity and site of microbial metabolite production in the gastrointestinal tract. These metabolites have numerous beneficial effects on equine health, but may also be involved in the development of gastrointestinal disorders. It remains unclear whether different feeding strategies, including starch supplementation, can alter microbial metabolite profiles along the gastrointestinal",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Stabilization of cervical stiffness associated with cervical pessary placement in women at risk for preterm birth",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359271",
+        "summary": "by Ioannis Kyvernitakis, Philien Lauer, Laura Bernardi, Sabrina Badir, Franz Bahlmann, Holger Maul, Maciej Osinski Purpose Shortening of the cervix is a predictor of spontaneous preterm birth (PTB). It is assumed that a cervical pessary reduces mechanical stress on the internal os and consequently decreases the risk of premature delivery. The primary aim of this study was to compare longitudinal changes in cervical stiffness between women with cervical shortening (a cervical length ≤ 25 mm according to the ISUOG guidelines) treated with a cervical pessary and healthy controls. Methods A total ",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Implementing a climate-resilient and inclusive WASH guidance in Indonesia: A mixed-methods case study",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359266",
+        "summary": "by Silvia Landa, Fahrunnisa, Sarah Lebu, Novika Noerdiyanti, Musa Manga Climate change increasingly disrupts water, sanitation, and hygiene (WASH) services, disproportionately affecting women, children, people with disabilities, and groups with limited adaptive resources. Evidence remains limited on how WASH programs integrate climate resilience, equity, and social inclusion and on the conditions that enable benefits to reach households. Researchers examined how Climate Change Response for Inclusive WASH (CCRIW) guidance was implemented and adapted within routine programming in Indonesia, how ",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Editorial Note: Significant increase in eco-efficiency of China’s grain production from 2000 to 2022: Trend changes, typological evolution, and driving factors",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359242",
+        "summary": "by The PLOS One Editors",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Characterization and risk assessment of ambient VOCs in Qingyang city, China",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359213",
+        "summary": "by Weihong Wang, Leping He, Yongqiang Wei, Fei Dou, Li Ma, Yue Zhang, Yuwei Tie Introduction Atmospheric volatile organic compounds (VOCs) are critical pollutants that significantly affect urban air quality and drive photochemical reaction processes. Industrial cities, especially those in western China, often face unique VOC pollution characteristics due to regional industrial structures and geographical conditions. Objective This study aimed to characterize VOC composition, concentrations, photochemical reactivity, sources, and health risks in a western Chinese industrial city. Methods Gaseou",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Food consumption patterns and nutrient adequacy across lifecycle stages in Bangladesh",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359205",
+        "summary": "by Md. Hafizul Islam, Nazma Shaheen, Masum Ali, Abira Nowar, Saiful Islam, Syed Shahadat Hossain, Md. Ruhul Amin Objective The study aimed to estimate energy, macro, and micronutrient intakes and to compute the probability of adequacy (PA) of 11 selected micronutrient intakes by age, sex, and vulnerabilities. Methods This study analyzed dietary data from two nationally representative surveys in Bangladesh: the BIHS 2015 (N = 13,086; rural only) and the NSB 2017–2018 (N = 3,116; rural and urban, all divisions). Participants included individuals of all ages and both sexes. Primary outcomes were ",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Editorial Note: C4b Binding Protein Binds to CD154 Preventing CD40 Mediated Cholangiocyte Apoptosis: A Novel Link between Complement and Epithelial Cell Survival",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359124",
+        "summary": "by The PLOS One Editors",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Design and implementation of a Wireless Power Transfer with double-sided LCC compensation for a farming robot",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359107",
+        "summary": "by Aryadharma Sudhartio, Marojahan Tampubolon, Gervasius Geovan, M. B. Nugraha, Ahmad Syahril Muharom Farming robots are used nowadays to increase farming efficiency and production. In this paper, the Wireless Power Transfer (WPT) is proposed to be used as the enabler technology to support the autonomous characteristics of the robot. A low input voltage supplied from a solar panel is assumed as the source for the WPT system in this work. The mathematical modeling, design, and hardware implementation are discussed in this paper. The experimental results of WPT with double-sided LCC compensation",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Ability of the triglyceride–glucose index and C-reactive protein-to-albumin ratio to predict severity of acute pancreatitis and 28-day mortality",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359089",
+        "summary": "by Qiuhui Tian, Yinyin Zhang, Xiaolin Zhu, Ting Luo, Qiumei Cao, Yu Liu Background Severe acute pancreatitis (SAP) is characterized by rapid development, complex clinical changes, and a high mortality rate. Early identification of patients with acute pancreatitis that has the potential to become severe is important for optimizing clinical outcomes. However, at present, there is no effective prediction or evaluation tool. This study aimed to determine the ability of the triglyceride–glucose (TyG) index and C-reactive protein-to-albumin ratio (CAR) to predict the risk of progression to SAP and 2",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
+        "title": "Development of mechanically optimized biomimetic hybrid scaffold–stem cell constructs for functional tendon regeneration and restoration of mechanical integrity",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359084",
+        "summary": "by Alani Mohanad Khalid Ahmed Tendon ruptures heal poorly due to hypocellularity, disorganized extracellular matrix (ECM), and inadequate mechanical loading. Current scaffold-stem cell strategies lack integration of dynamic mechanical cues and sustained growth factor delivery. The objective of this study is to engineer a mechanically tuned, bioactive hybrid scaffold system that integrates tendon-derived stem cells (TDSCs) and mesenchymal stem cells (MSCs), controlled growth factor release, and progressive mechanical stimulation to achieve functional tendon regeneration with enhanced structural",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-09-28T14:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
+      {
         "title": "South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom",
         "url": "https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
         "summary": "Samsung and SK Hynix dominate the high-bandwidth memory market. Now they are competing to become indispensable to Nvidia, OpenAI, and other U.S. AI companies.",
@@ -2039,276 +2318,6 @@
         "url": "https://arxiv.org/abs/2609.30427",
         "summary": "arXiv:2609.30427v1 Announce Type: cross Abstract: Disinformation research has produced increasingly accurate automated fake-news detectors, but many systems remain difficult to interpret and are weakly connected to established theories of persuasion, credibility, and human judgment. In this paper, we develop a theory-informed computational framework that translates cross-disciplinary theories of fake news into measurable features for automated detection and explanation through statistical techni",
         "source": "arXiv cs.CY (Computers & Society)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Epstein Files Engine: Agentic Search for Investigative Journalism",
-        "url": "https://arxiv.org/abs/2609.30611",
-        "summary": "arXiv:2609.30611v1 Announce Type: cross Abstract: On Jan. 30, 2026, the U.S. Department of Justice released a mixed-media collection concerning Jeffrey Epstein, including about three million pages of PDFs. We describe the Epstein Files Engine, an A.I. agent The New York Times deployed to investigate the files. The Engine translated reporter questions into Google BigQuery SQL queries across three corpora: Epstein-related releases, the Times's archive and external, Epstein-related news headlines. ",
-        "source": "arXiv cs.CY (Computers & Society)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Who Belongs Together? Topical and Social Structure in Bluesky Starter Packs",
-        "url": "https://arxiv.org/abs/2609.31297",
-        "summary": "arXiv:2609.31297v1 Announce Type: cross Abstract: Bluesky starter packs are human curated collections of accounts and feeds aimed at helping users discover new communities, especially during onboarding. Prior research has examined their effects on platform growth and account visibility. However, whether these packs capture meaningful topical and social structure remains unanswered. We study 2718 active starter packs containing approximately 144K accounts, combining pack metadata, follow graphs, ",
-        "source": "arXiv cs.CY (Computers & Society)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Verifiable Randomness for Blockchain-Based Lottery Systems",
-        "url": "https://arxiv.org/abs/2609.31485",
-        "summary": "arXiv:2609.31485v1 Announce Type: cross Abstract: As lotteries and other high-stakes decentralized applications increasingly depend on unpredictable randomness for their operations, the lack of a secure and transparent on-chain random number generator that is verifiable by all participants remains a critical open problem. Various approaches to blockchain-based random number generation have emerged over the years, each with their own strengths and limitations, and have consistently been supersede",
-        "source": "arXiv cs.CY (Computers & Society)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Peer Review as Structured Commentary: Immutable Identity, Public Dialogue, and Reproducible Scholarship",
-        "url": "https://arxiv.org/abs/2506.22497",
-        "summary": "arXiv:2506.22497v2 Announce Type: replace Abstract: This paper reconceptualises peer review as structured public commentary. Traditional academic validation is hindered by anonymity, latency, and gatekeeping. We propose a transparent, identity-linked, and reproducible system of scholarly evaluation anchored in open commentary. Leveraging blockchain for immutable audit trails and AI for iterative synthesis, we design a framework that incentivises intellectual contribution, captures epistemic evol",
-        "source": "arXiv cs.CY (Computers & Society)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "opportunities",
-        "region": "global"
-      },
-      {
-        "title": "Initial results of the Digital Consciousness Model",
-        "url": "https://arxiv.org/abs/2601.17060",
-        "summary": "arXiv:2601.17060v3 Announce Type: replace Abstract: Artificially intelligent systems have become remarkably sophisticated. They hold conversations, write essays, and seem to understand context in ways that surprise even their creators. This raises a crucial question: Are we creating systems that are conscious? The Digital Consciousness Model (DCM) is a first attempt to assess the evidence for consciousness in AI systems in a systematic, probabilistic way. It provides a shared framework for compa",
-        "source": "arXiv cs.CY (Computers & Society)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Efficient Safety Benchmarking via Item Response Theory",
-        "url": "https://arxiv.org/abs/2606.20626",
-        "summary": "arXiv:2606.20626v2 Announce Type: replace Abstract: Safety benchmarks for language models are typically evaluated using static paradigms that treat all items as equally informative for all models, an assumption that is particularly problematic for adversarial, highly heterogeneous safety items. Applied in full to modern benchmark suites, current evaluation procedures would require on the order of $10^5$ responses, most of which provide little ranking signal. We analyze six widely used safety ben",
-        "source": "arXiv cs.CY (Computers & Society)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory",
-        "url": "https://arxiv.org/abs/2602.12316",
-        "summary": "arXiv:2602.12316v3 Announce Type: replace-cross Abstract: Frontier AI systems are increasingly capable and deployed in high-stakes multi-agent environments. However, existing AI safety benchmarks largely evaluate single agents, leaving multi-agent risks such as coordination failure and conflict poorly understood. We introduce GT-HarmBench, a benchmark of 1,535 high-stakes scenarios spanning game-theoretic structures such as the Prisoner's Dilemma, Stag Hunt and Chicken. Scenarios are drawn from ",
-        "source": "arXiv cs.CY (Computers & Society)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Crisis-induced differences in attention towards Ukraine in Twitter 2008-2023",
-        "url": "https://arxiv.org/abs/2603.17899",
-        "summary": "arXiv:2603.17899v3 Announce Type: replace-cross Abstract: Aggression against Ukraine has drawn widespread international attention, particularly in the wake of the two Russian invasions into Ukrainian territory in 2014 and 2022. Although previous studies have examined social-media dynamics around these events, a comparative longitudinal data-driven view across languages is still missing. This article fills this gap by mapping added attention to \"Ukraine\" on Twitter in 28 languages from 2008 to 20",
-        "source": "arXiv cs.CY (Computers & Society)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "The Shrinking Lifespan of LLMs in Science",
-        "url": "https://arxiv.org/abs/2604.07530",
-        "summary": "arXiv:2604.07530v3 Announce Type: replace-cross Abstract: Scaling laws describe how language model capabilities grow with compute and data, but say nothing about how long a model matters once released. We introduce time-to-peak and lifespan as measures of model obsolescence and use them to characterize the scientific adoption trajectories of 62 LLMs across more than 108k citing papers (2019-2025), separating active adoption from background citation to recover per-model trajectories that citation",
-        "source": "arXiv cs.CY (Computers & Society)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Small Is Enough: Per-User Style Rewriting of AI-Edited Text via LoRA Adapters",
-        "url": "https://arxiv.org/abs/2607.29238",
-        "summary": "arXiv:2607.29238v2 Announce Type: replace-cross Abstract: InMyStyle is a privacy-first, single-user system that adapts small language models to rewrite AI-edited text towards an individual user's writing style without an instruction prompt at inference. Given a user's documents, it uses multiple local helper LLMs to construct paired training examples and fine-tunes LoRA adapters on Qwen2.5 models ranging from 0.5B to 7B parameters. Length-aware generation budgets and automatic chunking support i",
-        "source": "arXiv cs.CY (Computers & Society)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "One Capability or Many? Structural and Predictive Tests of Benchmark Validity Disagree About Economic Benchmarks for Frontier AI",
-        "url": "https://arxiv.org/abs/2608.29420",
-        "summary": "arXiv:2608.29420v2 Announce Type: replace-cross Abstract: Frontier-model leaderboards now rank systems on economic benchmarks, and those rankings inform what organisations buy and what regulators scrutinise. Whether such benchmarks measure a capability distinct from general test-taking is a question of construct validity that a structural test and a predictive test can answer in opposite ways. We show that they do on a hash-pinned snapshot of a frontier leaderboard with 421 model configurations ",
-        "source": "arXiv cs.CY (Computers & Society)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "A Mechanistic Study of AI-Text Detection Neurons in Frozen BERT: Sparse Probing and Activation Patching on RAID",
-        "url": "https://arxiv.org/abs/2609.30287",
-        "summary": "arXiv:2609.30287v1 Announce Type: new Abstract: AI-generated text detectors achieve high accuracy on standard benchmarks, yet the internal representations that drive these predictions remain poorly understood. We study which neurons in a frozen BERT-base-uncased encoder support AI-text detection, using the RAID benchmark across six generators spanning pure-base and instruction-tuned models. We apply the L1-to-L2 sparse-probing protocol of Gurnee et al. (2023) to all 9,216 CLS hidden-state dimens",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Manifold Projection and Iterative Autoencoder Refinement for Masked Language Modeling",
-        "url": "https://arxiv.org/abs/2609.30288",
-        "summary": "arXiv:2609.30288v1 Announce Type: new Abstract: In Transformer-based masked language models, attention is the primary mechanism for context mixing, but there are other ways to mix data across tokens. Recent attention-free mixers replace attention with fixed or hypernetwork-generated MLPs, alternating their dynamic, content-dependent weighting for computational simplicity. We build an alternative that gets the same property from a low-rank bottleneck autoencoder. We replace attention with a stack",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Not All Memories Are Equal: Hierarchical Collaborative Memory for Validity-Aware Retrieval in LLM Agents",
-        "url": "https://arxiv.org/abs/2609.30289",
-        "summary": "arXiv:2609.30289v1 Announce Type: new Abstract: In team collaboration scenarios, memory is heterogeneous and continually evolving. Team memories capture collective decisions, protocols, and current consensus, while individual memories preserve member-specific observations, execution traces, and intermediate progress. Existing memory-augmented systems typically retrieve from all stored memories as a flat pool, ranking them by semantic relevance, importance, or recency without modeling hierarchica",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Auditing and Repairing LLM-as-Judge Failures in a Production Text-to-SQL Pipeline",
-        "url": "https://arxiv.org/abs/2609.30290",
-        "summary": "arXiv:2609.30290v1 Announce Type: new Abstract: Production text-to-SQL pipelines often end with an LLM-as-judge whose agreement with human annotators has never actually been measured. When we checked ours, the deployed gpt-4o-mini judge agreed with two-author gold at only Cohen's kappa = 0.04 on a disagreement-enriched set and 0.42 on a uniform-random spot-check, over-flagging 77.1% of the human-FAITHFUL cases in the enriched set. Most of its over-flags trace back to a single mechanism we call G",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "A Survey on Fake Review Detection: From Pre-trained Language Models to Large Language Models",
-        "url": "https://arxiv.org/abs/2609.30292",
-        "summary": "arXiv:2609.30292v1 Announce Type: new Abstract: Online reviews shape consumer decisions, platform governance, and corporate reputation.Fake reviews compromise this information channel by injecting deceptive evidence into rating systems, recommendation pipelines, and public trust mechanisms.The rise of large language models, or LLMs, has changed the problem in two directions.LLMs can generate fluent and context-aware deceptive reviews, while pre-trained language models, or PLMs, and LLMs also pro",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Cartograph: Federated Tool Discovery with Operator-Attested Retrieval for AI Agents",
-        "url": "https://arxiv.org/abs/2609.30293",
-        "summary": "arXiv:2609.30293v1 Announce Type: new Abstract: The Model Context Protocol (MCP) enables AI agents to discover and call tools, but loading every definition becomes expensive as connected catalogs grow. We present Cartograph, a federated MCP proxy that changes agent-visible tool discovery from $O(n)$ catalog traversal to $O(k)$ progressive disclosure. Cartograph combines three mechanisms: (1) operator-attested capability cards, Ed25519-signed descriptions generated under the deploying operator's ",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "SlideLab: Audience-Centered Scientific Slide Generation and Evaluation",
-        "url": "https://arxiv.org/abs/2609.30294",
-        "summary": "arXiv:2609.30294v1 Announce Type: new Abstract: Scientific presentations are more than summaries of research papers. They need to present the work in a coherent sequence, explain the main ideas clearly, and help the audience follow the presentation. We present SlideLab, a training-free multi-agent framework for generating scientific presentations from research papers. SlideLab first plans the presentation narrative, then builds and iteratively refines a shared slide deck using agents for content",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "SignTrace: Describe a Sign, Find the Word",
-        "url": "https://arxiv.org/abs/2609.30295",
-        "summary": "arXiv:2609.30295v1 Announce Type: new Abstract: Identifying an unfamiliar sign is difficult when a learner remembers its movement but does not know its meaning or formal feature codes. SignTrace addresses this longstanding reverse-lookup problem through natural-language access to a Chinese sign-language dictionary. The system integrates LLM-based dictionary enrichment, action extraction, dictionary-style rewriting, seven-channel retrieval, and candidate reranking over 6,699 entries. It has been ",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Bootstrapping Conversational Recommendation Agents At Spotify: Synthetic Data Generation and Self-Improvement Loops",
-        "url": "https://arxiv.org/abs/2609.30297",
-        "summary": "arXiv:2609.30297v1 Announce Type: new Abstract: Conversational recommendation agents are a new paradigm for content discovery, enabling users to express complex intents through natural language (e.g., \"recommend Italian indie artists I haven't heard before\"). A central challenge in building such agents is optimizing agent planning -- deciding how to select, sequence, and invoke tools -- particularly in cold-start settings where real user interactions are not yet available. We introduce a pipelin",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "A Benchmark Framework for Screening Automation in Systematic Reviews",
-        "url": "https://arxiv.org/abs/2609.30298",
-        "summary": "arXiv:2609.30298v1 Announce Type: new Abstract: Systematic reviews (SR) are essential for evidence-based research, but their screening phase is highly time-consuming and labor-intensive. Large language models (LLMs) offer a promising opportunity to reduce this workload by assisting with article relevance classification. However, existing evaluation approaches often rely on traditional metrics that may be misleading for highly imbalanced SR screening datasets.This paper presents a benchmark datas",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "A Unified Account of Concepts and Chunks",
-        "url": "https://arxiv.org/abs/2609.30414",
-        "summary": "arXiv:2609.30414v1 Announce Type: new Abstract: Cognitive psychology has studied how people encode, use, and learn concepts that describe categories, and how they represent, recognize, and acquire chunks for familiar patterns of elements. The literatures on these two topics are nearly disjoint, which poses a challenge for unified theories of cognition. In this paper, we review Cobweb, a computational account of categorization and concept formation, and propose an extended theory that incorporate",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "All In Good Time: Causality-Aware Framework for LLM-Based Simultaneous Speech-to-Speech Translation",
-        "url": "https://arxiv.org/abs/2609.30416",
-        "summary": "arXiv:2609.30416v1 Announce Type: new Abstract: Large Language Models (LLMs) have shown strong performance in low-resource offline translation; however, extending them to simultaneous speech-to-speech translation (Simul-S2ST) remains challenging due to the scarcity of causally aligned training data with high cross-lingual speaker fidelity. In addition, existing approaches rely on fixed translation policy or confidence heuristics, leading to suboptimal quality and higher latency. We propose a cau",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Inference-Time Target Speaker Unlearning in LLM-Based Automatic Speech Recognition",
-        "url": "https://arxiv.org/abs/2609.30439",
-        "summary": "arXiv:2609.30439v1 Announce Type: new Abstract: We introduce target-speaker unlearning ASR (TSU-ASR) task in a fully end-to-end framework for multi-speaker ASR and diarization. Given a multi-speaker utterance and a set of opt-out speakers who do not wish to have their speech transcribed, the task requires an ASR system to transcribe all speakers except the opt-out ones, while still indicating when those speakers are active. As a first step towards tackling this task, we introduce a novel, light-",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Where Does Retrieval-Based Open-Ended Evaluation Fail? Automatic Taxonomy Induction from Long-Form Medical Answer Factuality Verification",
-        "url": "https://arxiv.org/abs/2609.30467",
-        "summary": "arXiv:2609.30467v1 Announce Type: new Abstract: Retrieval-based factuality evaluation, where LLM-generated claims are verified against evidence from authoritative medical corpora, has become the dominant paradigm for scalable hallucination detection in high-stakes clinical settings. Despite the urgency of reliable and transparent medical fact verification, most systems measure performance with aggregate metrics like F1, which obscure where and why failures occur. Existing RAG diagnostics require",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "CARGO: Context-Aware Retrieval-Gated Evaluation of Agentic AI in Production",
-        "url": "https://arxiv.org/abs/2609.30471",
-        "summary": "arXiv:2609.30471v1 Announce Type: new Abstract: Reference-based LLM-as-a-judge evaluation assumes the reference answer is the target. In deployed agentic systems that operate over dynamic entities (support cases, assets, accounts), the closest available reference typically applies the correct procedure to a different entity, so a literal judge penalizes different identifiers, dates, and statuses as errors or hallucinations. We name this failure mode reference-instance divergence (RID). We propos",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Breaking Homogeneity: Diversifying Persona Sets for Creative LLM Outputs",
-        "url": "https://arxiv.org/abs/2609.30492",
-        "summary": "arXiv:2609.30492v1 Announce Type: new Abstract: Language models often produce homogeneous responses to open-ended tasks; such homogeneity can spawn groupthink-the convergence of ideas toward a singular and potentially suboptimal decision. We formulate persona diversification as a set-level conditioning problem and study two orthogonal design choices: selecting versus generating personas, and space-filling versus frontier-seeking diversity. We instantiate this design space with four methods spann",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Inquesto Score: A reliability Protocol For Voice Agents",
-        "url": "https://arxiv.org/abs/2609.30514",
-        "summary": "arXiv:2609.30514v1 Announce Type: new Abstract: Voice agents are increasingly deployed in workflows where failed interactions can affect transactions, access, and other consequential outcomes, creating a need for reproducible and interpretable evaluation. We introduce Inquesto Score (IS), a protocol for measuring voice-agent reliability as the percentage of calls in a fixed, versioned evaluation population that achieve the caller's goal without a functional failure or worse. Rather than combinin",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Feeding BabyLMs Macaroni: Code-Switching Curricula Cause Cross-Lingual Convergence",
-        "url": "https://arxiv.org/abs/2609.30535",
-        "summary": "arXiv:2609.30535v1 Announce Type: new Abstract: Children in multilingual communities often code-switch, using multiple languages in a single utterance. Can we induce cross-lingual alignment in language models by training on code-switched text? We pretrain small decoder-only transformers on two 100M-word multilingual corpora: a base corpus formed by mixing the English, Dutch, and Chinese BabyBabelLM datasets, and a corpus generated from it by inserting word- and sentence-level code-switching usin",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "REALMS: An AI-Assistant Conversational System for Real-Time Exact Audience Sizing over High-Dimensional Nested Profiles",
-        "url": "https://arxiv.org/abs/2609.30547",
-        "summary": "arXiv:2609.30547v1 Announce Type: new Abstract: Audience sizing is a critical component of digital marketing. It enables precise resource allocation, campaign planning, and performance optimization. Traditional approaches using skeleton audiences, sampling, or predictive modeling suffer from significant delays, estimation errors, and poor scalability over high-dimensional profile data. We present REALMS (Real-time Exact Audience sizing via LLM-based Multi-attribute Search), a conversational syst",
-        "source": "arXiv cs.CL (Computation & Language)",
         "published": "2026-09-28T04:00:00+00:00",
         "stream": "research",
         "region": "global"
@@ -2739,15 +2748,6 @@
         "published": "2026-08-18T15:04:50+00:00",
         "stream": "research",
         "region": "east_africa"
-      },
-      {
-        "title": "Early childhood is a great time to learn about clean energy: this game aims to make it fun",
-        "url": "https://theconversation.com/early-childhood-is-a-great-time-to-learn-about-clean-energy-this-game-aims-to-make-it-fun-283817",
-        "summary": "Early childhood is an important stage where children develop curiosity, values and problem-solving skills.",
-        "source": "The Conversation Africa — Education",
-        "published": "2026-07-30T14:45:30+00:00",
-        "stream": "ece",
-        "region": "east_africa"
       }
     ],
     "west_africa": [],
@@ -2924,15 +2924,6 @@
         "source": "CIPPEC — Education (Argentina)",
         "published": "2026-08-26T19:53:13+00:00",
         "stream": "research",
-        "region": "latin_america"
-      },
-      {
-        "title": "CIPPEC impulsa un proyecto para fortalecer el clima de negocios en cuatro ciudades argentinas",
-        "url": "https://www.cippec.org/cippec-impulsa-un-proyecto-para-fortalecer-el-clima-de-negocios-en-cuatro-ciudades-argentinas/",
-        "summary": "CIPPEC, en conjunto con el Center for International Private Enterprise (CIPE), está llevando adelante un proyecto orientado a analizar y fortalecer la eficiencia regulatoria subnacional en cuatro ciudades argentinas (Córdoba, Rosario, Salta y Tandil), en pos del desarrollo. La iniciativa forma parte de un programa regional que involucra también a las organizaciones Fundación Milenio (Bolivia), [&#8230;] La entrada CIPPEC impulsa un proyecto para fortalecer el clima de negocios en cuatro ciudades argentinas se publicó primero en CIPPEC .",
-        "source": "CIPPEC — Education (Argentina)",
-        "published": "2026-07-30T15:49:09+00:00",
-        "stream": "ece",
         "region": "latin_america"
       }
     ],
