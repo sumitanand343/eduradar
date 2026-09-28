@@ -1,16 +1,17 @@
 """
-fetch.py — EduRadar
-Reads sources.yaml, fetches RSS/Atom feeds, classifies stories
-into streams using keyword rules, deduplicates, and writes:
-  - data/stories.json   (consumed by the HTML template)
-  - data/last_run.txt   (timestamp shown in the footer)
+fetch_v2.py — EduRadar
+Reads sources_v2.yaml, fetches RSS/Atom feeds, classifies stories
+into 12 streams and 11 regions, deduplicates, and writes:
+  - data/stories.json
+  - data/last_run.txt
 
-Run:  python fetch.py
+Run:  python fetch_v2.py
 Deps: pip install requests feedparser pyyaml
 """
 
 import json
 import os
+import re
 import sqlite3
 import time
 import urllib.robotparser
@@ -29,62 +30,119 @@ DATA_DIR   = BASE_DIR / "data"
 DB_PATH    = DATA_DIR / "stories.db"
 JSON_PATH  = DATA_DIR / "stories.json"
 LAST_RUN   = DATA_DIR / "last_run.txt"
-SOURCES    = BASE_DIR / "sources.yaml"
-MAX_STORIES_PER_STREAM = 60   # kept in the JSON
-MAX_AGE_DAYS = 60             # older stories are dropped
-USER_AGENT   = "EduRadar/1.0 (+https://github.com/sumitanand343/eduradar)"
+SOURCES    = BASE_DIR / "sources_v2.yaml"
+MAX_STORIES_PER_STREAM = 80
+MAX_AGE_DAYS = 60
+USER_AGENT   = "EduRadar/2.0 (+https://github.com/sumitanand343/eduradar)"
 
 # ── Streams ───────────────────────────────────────────────────────────────────
 STREAMS = {
-    "ai_education":  "AI in Education",
-    "labor":         "Skills & Labor Market",
-    "tvet":          "TVET & Workforce",
-    "policy":        "Policy",
-    "research":      "Research & Evidence",
-    "opportunities": "Opportunities",
+    "fln":      "Foundational Learning",
+    "ece":      "Early Childhood",
+    "k12":      "K-12 Education",
+    "secondary":"Secondary Education",
+    "higher":   "Higher Education",
+    "tvet":     "TVET & Vocational",
+    "labor":    "Skills & Labor Market",
+    "teacher":  "Teacher Development",
+    "edtech":   "EdTech & AI Tools",
+    "policy":   "Policy & Governance",
+    "research": "Research & Evidence",
+    "funding":  "Funding & Opportunities",
 }
 
-# Keyword rules — order matters; first match wins
+# ── Regions ───────────────────────────────────────────────────────────────────
+REGIONS = {
+    "global":            "Global",
+    "south_asia":        "South Asia",
+    "east_africa":       "East Africa",
+    "west_africa":       "West Africa",
+    "mena":              "Middle East & North Africa",
+    "southeast_asia":    "Southeast Asia",
+    "latin_america":     "Latin America",
+    "east_asia":         "East Asia",
+    "europe":            "Europe",
+    "north_america":     "North America",
+    "australia_pacific": "Australia & Pacific",
+}
+
+# ── Keyword rules — first match wins ─────────────────────────────────────────
 KEYWORD_RULES: list[tuple[str, list[str]]] = [
-    ("opportunities", [
+    ("funding", [
         "grant", "call for proposals", "rfp", "rfq", "vacancy",
-        "job opening", "fellowship", "scholarship", "tender",
+        "fellowship", "scholarship", "tender", "funding opportunity",
+        "job opening", "apply now", "applications open",
     ]),
     ("research", [
         "randomized", "rct", "evaluation", "working paper", "evidence",
         "impact study", "meta-analysis", "systematic review", "preprint",
-        "arxiv", "journal", "dissertation", "replication",
+        "arxiv", "journal", "dissertation", "replication", "endline",
+        "baseline study", "learning assessment", "egra", "egma",
+    ]),
+    ("fln", [
+        "foundational literacy", "foundational numeracy", "fln",
+        "early grade reading", "early grade math", "egra", "egma",
+        "teaching at the right level", "tarl", "numeracy", "literacy",
+        "reading skills", "basic literacy", "learning outcomes",
+        "pratham", "room to read", "uwezo",
+    ]),
+    ("ece", [
+        "early childhood", "pre-primary", "preschool", "kindergarten",
+        "ece", "ecd", "early learning", "nursery", "playgroup",
+        "child development", "early years",
     ]),
     ("tvet", [
         "tvet", "vocational", "apprenticeship", "technical education",
-        "workforce training", "upskilling", "reskilling", "national qualifications",
-        "skills framework", "competency-based", "technical and vocational",
-        "community college", "polytechnic",
+        "workforce training", "skills framework", "competency-based",
+        "technical and vocational", "community college", "polytechnic",
+        "cedefop", "etf", "ncver", "trade training",
     ]),
     ("labor", [
         "labor market", "labour market", "future of work", "skills demand",
-        "job displacement", "automation", "workforce", "employment",
-        "unemployment", "wage", "human capital", "skills gap",
-        "linkedin economic graph", "lightcast", "burning glass",
+        "job displacement", "automation", "employment", "unemployment",
+        "wage", "human capital", "skills gap", "linkedin economic graph",
+        "lightcast", "burning glass", "workforce development",
+    ]),
+    ("teacher", [
+        "teacher training", "teacher education", "professional development",
+        "pedagogy", "teaching quality", "teacher workforce",
+        "in-service training", "pre-service", "teacher support",
+        "instructional coaching", "classroom practice",
+    ]),
+    ("edtech", [
+        "edtech", "artificial intelligence", "machine learning",
+        "large language model", "llm", "chatgpt", "generative ai",
+        "personalized learning", "adaptive learning", "learning analytics",
+        "khan academy", "duolingo", "digital learning", "e-learning",
+        "elearning", "online learning", "ai in education", "ed-tech",
+        "learning platform", "learning management", "lms",
+    ]),
+    ("secondary", [
+        "secondary school", "secondary education", "high school",
+        "upper secondary", "lower secondary", "grade 9", "grade 10",
+        "grade 11", "grade 12", "a-level", "gcse", "baccalaureate",
+        "adolescent", "teenager",
+    ]),
+    ("higher", [
+        "university", "higher education", "college", "undergraduate",
+        "postgraduate", "phd", "master", "academic", "faculty",
+        "campus", "degree", "enrollment", "tuition",
+    ]),
+    ("k12", [
+        "primary school", "elementary school", "k-12", "k12",
+        "basic education", "primary education", "school enrollment",
+        "out of school", "dropout", "attendance", "school feeding",
     ]),
     ("policy", [
         "policy", "strategy", "regulation", "legislation", "ministry",
-        "government", "reform", "national plan", "framework",
-        "curriculum", "accreditation", "funding",
-    ]),
-    ("ai_education", [
-        "ai in education", "edtech", "artificial intelligence",
-        "machine learning", "large language model", "llm", "chatgpt",
-        "generative ai", "personalized learning", "adaptive learning",
-        "learning analytics", "khan academy", "duolingo", "classroom",
-        "teacher", "student", "school", "university", "higher education",
-        "digital learning", "e-learning", "elearning", "online learning",
+        "government", "reform", "national plan", "curriculum",
+        "accreditation", "education system", "governance",
     ]),
 ]
 
 
-# ── Robots.txt cache ──────────────────────────────────────────────────────────
-_robots_cache: dict[str, urllib.robotparser.RobotFileParser] = {}
+# ── Robots.txt ────────────────────────────────────────────────────────────────
+_robots_cache: dict = {}
 
 def can_fetch(url: str) -> bool:
     parsed = urlparse(url)
@@ -94,15 +152,11 @@ def can_fetch(url: str) -> bool:
         rp.set_url(f"{base}/robots.txt")
         try:
             rp.read()
+            _robots_cache[base] = rp
         except Exception:
-            # If robots.txt is unreachable, assume allowed
             _robots_cache[base] = None
-            return True
-        _robots_cache[base] = rp
     rp = _robots_cache[base]
-    if rp is None:
-        return True
-    return rp.can_fetch(USER_AGENT, url)
+    return True if rp is None else rp.can_fetch(USER_AGENT, url)
 
 
 # ── Database ──────────────────────────────────────────────────────────────────
@@ -115,10 +169,16 @@ def init_db(conn: sqlite3.Connection) -> None:
             summary     TEXT,
             source      TEXT,
             stream      TEXT,
+            region      TEXT,
             published   TEXT,
             fetched_at  TEXT
         )
     """)
+    # Add region column if upgrading from v1
+    try:
+        conn.execute("ALTER TABLE stories ADD COLUMN region TEXT DEFAULT 'global'")
+    except Exception:
+        pass
     conn.commit()
 
 
@@ -127,15 +187,15 @@ def story_id(url: str) -> str:
 
 
 def upsert_story(conn: sqlite3.Connection, story: dict) -> bool:
-    """Returns True if this was a new story."""
     existing = conn.execute(
         "SELECT id FROM stories WHERE id = ?", (story["id"],)
     ).fetchone()
     if existing:
         return False
     conn.execute(
-        """INSERT INTO stories (id, title, url, summary, source, stream, published, fetched_at)
-           VALUES (:id, :title, :url, :summary, :source, :stream, :published, :fetched_at)""",
+        """INSERT INTO stories
+           (id, title, url, summary, source, stream, region, published, fetched_at)
+           VALUES (:id, :title, :url, :summary, :source, :stream, :region, :published, :fetched_at)""",
         story,
     )
     conn.commit()
@@ -155,13 +215,11 @@ def classify(title: str, summary: str, hint: str) -> str:
     for stream, keywords in KEYWORD_RULES:
         if any(kw in text for kw in keywords):
             return stream
-    # Fall back to the source hint if keywords miss
-    return hint if hint in STREAMS else "ai_education"
+    return hint if hint in STREAMS else "policy"
 
 
 # ── Fetch ─────────────────────────────────────────────────────────────────────
 def parse_date(entry) -> str:
-    """Return an ISO-8601 UTC string from a feedparser entry."""
     for attr in ("published_parsed", "updated_parsed", "created_parsed"):
         val = getattr(entry, attr, None)
         if val:
@@ -174,9 +232,10 @@ def parse_date(entry) -> str:
 
 
 def fetch_feed(source: dict) -> list[dict]:
-    url  = source["url"]
-    hint = source.get("hint", "ai_education")
-    name = source["name"]
+    url    = source["url"]
+    hint   = source.get("hint", "policy")
+    region = source.get("region", "global")
+    name   = source["name"]
 
     if not can_fetch(url):
         print(f"  [robots] blocked: {url}")
@@ -190,37 +249,34 @@ def fetch_feed(source: dict) -> list[dict]:
         )
         resp.raise_for_status()
     except Exception as exc:
-        print(f"  [fetch error] {name}: {exc}")
+        print(f"  [error] {name}: {exc}")
         return []
 
     feed    = feedparser.parse(resp.text)
-    stories = []
     now_iso = datetime.now(timezone.utc).isoformat()
+    stories = []
 
     for entry in feed.entries:
         link    = getattr(entry, "link", None)
         title   = getattr(entry, "title", "")
         summary = getattr(entry, "summary", "") or getattr(entry, "description", "")
-        # Strip basic HTML tags from summary
-        import re
         summary = re.sub(r"<[^>]+>", " ", summary).strip()
-        summary = " ".join(summary.split())[:500]  # cap at 500 chars
+        summary = " ".join(summary.split())[:600]
 
         if not link or not title:
             continue
 
-        sid     = story_id(link)
-        stream  = classify(title, summary, hint)
-        pub     = parse_date(entry)
+        stream = classify(title, summary, hint)
 
         stories.append({
-            "id":         sid,
+            "id":         story_id(link),
             "title":      title.strip(),
             "url":        link,
             "summary":    summary,
             "source":     name,
             "stream":     stream,
-            "published":  pub,
+            "region":     region,
+            "published":  parse_date(entry),
             "fetched_at": now_iso,
         })
 
@@ -233,24 +289,39 @@ def build_json(conn: sqlite3.Connection) -> None:
     cutoff = datetime.now(timezone.utc).timestamp() - MAX_AGE_DAYS * 86400
     cutoff_str = datetime.fromtimestamp(cutoff, tz=timezone.utc).isoformat()
 
-    result = {}
+    result = {"streams": {}, "regions": {}}
+
+    # By stream
     for stream_key in STREAMS:
         rows = conn.execute(
-            """SELECT title, url, summary, source, published
+            """SELECT title, url, summary, source, published, region
                FROM stories
                WHERE stream = ? AND published > ?
                ORDER BY published DESC
                LIMIT ?""",
             (stream_key, cutoff_str, MAX_STORIES_PER_STREAM),
         ).fetchall()
-        result[stream_key] = [
-            {
-                "title":     r[0],
-                "url":       r[1],
-                "summary":   r[2],
-                "source":    r[3],
-                "published": r[4],
-            }
+        result["streams"][stream_key] = [
+            {"title": r[0], "url": r[1], "summary": r[2],
+             "source": r[3], "published": r[4], "region": r[5],
+             "stream": stream_key}
+            for r in rows
+        ]
+
+    # By region (top 40 per region, any stream)
+    for region_key in REGIONS:
+        rows = conn.execute(
+            """SELECT title, url, summary, source, published, stream
+               FROM stories
+               WHERE region = ? AND published > ?
+               ORDER BY published DESC
+               LIMIT 40""",
+            (region_key, cutoff_str),
+        ).fetchall()
+        result["regions"][region_key] = [
+            {"title": r[0], "url": r[1], "summary": r[2],
+             "source": r[3], "published": r[4], "stream": r[5],
+             "region": region_key}
             for r in rows
         ]
 
@@ -265,9 +336,7 @@ def build_json(conn: sqlite3.Connection) -> None:
 # ── Main ──────────────────────────────────────────────────────────────────────
 def main() -> None:
     DATA_DIR.mkdir(exist_ok=True)
-
     sources_raw = yaml.safe_load(SOURCES.read_text())["sources"]
-
     conn = sqlite3.connect(DB_PATH)
     init_db(conn)
 
@@ -278,12 +347,11 @@ def main() -> None:
         for s in stories:
             if upsert_story(conn, s):
                 new_count += 1
-        time.sleep(1)  # polite pause between requests
+        time.sleep(1)
 
     prune_old(conn)
     build_json(conn)
     conn.close()
-
     print(f"\nDone. {new_count} new stories added.")
 
 
