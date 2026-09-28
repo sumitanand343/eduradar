@@ -1,5 +1,5 @@
 """
-fetch_v2.py — EduRadar
+fetch.py — EduRadar
 Reads sources_v2.yaml, fetches RSS/Atom feeds, classifies stories
 into 12 streams and 11 regions, deduplicates, and writes:
   - data/stories.json
@@ -30,10 +30,10 @@ DATA_DIR   = BASE_DIR / "data"
 DB_PATH    = DATA_DIR / "stories.db"
 JSON_PATH  = DATA_DIR / "stories.json"
 LAST_RUN   = DATA_DIR / "last_run.txt"
-SOURCES    = BASE_DIR / "sources_v2.yaml"
+SOURCES    = BASE_DIR / "sources.yaml"
 MAX_STORIES_PER_STREAM = 80
 MAX_AGE_DAYS = 60
-USER_AGENT   = "EduRadar/2.0 (+https://github.com/sumitanand343/eduradar)"
+USER_AGENT   = "EduRadar/1.0 (+https://github.com/sumitanand343/eduradar)"
 
 # ── Streams ───────────────────────────────────────────────────────────────────
 STREAMS = {
