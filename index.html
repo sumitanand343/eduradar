@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EduRadar</title>
+  <style>
+    /* ── Reset & base ─────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #f5f6fa;
+      --surface:   #ffffff;
+      --border:    #e2e5ed;
+      --text:      #1a1d27;
+      --muted:     #6b7280;
+      --accent:    #2563eb;
+      --tag-ai:    #dbeafe;
+      --tag-labor: #d1fae5;
+      --tag-tvet:  #fef3c7;
+      --tag-policy:#ede9fe;
+      --tag-res:   #fce7f3;
+      --tag-opp:   #ffedd5;
+      --radius:    10px;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* ── Header ──────────────────────────────────────────────── */
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 20px 28px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .logo {
+      font-size: 1.45rem;
+      font-weight: 700;
+      color: var(--accent);
+      white-space: nowrap;
+    }
+    .logo span { color: var(--text); font-weight: 400; }
+
+    .tagline {
+      color: var(--muted);
+      font-size: 0.9rem;
+      flex: 1;
+    }
+
+    #last-run {
+      font-size: 0.8rem;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+
+    /* ── Search & nav ─────────────────────────────────────────── */
+    .controls {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 12px 28px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    #search {
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 7px 12px;
+      font-size: 0.9rem;
+      width: 220px;
+      outline: none;
+    }
+    #search:focus { border-color: var(--accent); }
+
+    nav { display: flex; gap: 6px; flex-wrap: wrap; }
+
+    .tab {
+      padding: 6px 14px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      background: transparent;
+      font-size: 0.85rem;
+      cursor: pointer;
+      color: var(--muted);
+      transition: all .15s;
+    }
+    .tab:hover  { border-color: var(--accent); color: var(--accent); }
+    .tab.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+    /* ── Main layout ──────────────────────────────────────────── */
+    main { padding: 24px 28px; max-width: 1400px; margin: 0 auto; }
+
+    .stream-section { margin-bottom: 40px; }
+
+    .stream-header {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+
+    .stream-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+    }
+
+    .stream-count {
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    /* ── Card grid ────────────────────────────────────────────── */
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 16px;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      transition: box-shadow .15s;
+    }
+    .card:hover { box-shadow: 0 4px 12px rgba(0,0,0,.08); }
+
+    .card-source {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .04em;
+    }
+
+    .card-title {
+      font-size: 0.95rem;
+      font-weight: 600;
+      line-height: 1.35;
+    }
+    .card-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .card-title a:hover { color: var(--accent); }
+
+    .card-summary {
+      font-size: 0.82rem;
+      color: var(--muted);
+      line-height: 1.55;
+      flex: 1;
+      /* clamp to 4 lines */
+      display: -webkit-box;
+      -webkit-line-clamp: 4;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .card-date {
+      font-size: 0.75rem;
+      color: var(--muted);
+    }
+
+    .badge {
+      font-size: 0.7rem;
+      padding: 2px 8px;
+      border-radius: 10px;
+      font-weight: 600;
+    }
+    .badge-ai_education  { background: var(--tag-ai);    color: #1d4ed8; }
+    .badge-labor         { background: var(--tag-labor); color: #065f46; }
+    .badge-tvet          { background: var(--tag-tvet);  color: #92400e; }
+    .badge-policy        { background: var(--tag-policy);color: #5b21b6; }
+    .badge-research      { background: var(--tag-res);   color: #9d174d; }
+    .badge-opportunities { background: var(--tag-opp);   color: #9a3412; }
+
+    /* ── Empty & loading ──────────────────────────────────────── */
+    .empty { color: var(--muted); font-size: 0.9rem; padding: 12px 0; }
+
+    /* ── Footer ───────────────────────────────────────────────── */
+    footer {
+      text-align: center;
+      padding: 28px;
+      font-size: 0.8rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+      margin-top: 24px;
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="logo">Edu<span>Radar</span></div>
+  <div class="tagline">Live radar — AI in education, skills, labor markets &amp; TVET</div>
+  <div id="last-run">Loading…</div>
+</header>
+
+<div class="controls">
+  <input id="search" type="search" placeholder="Search stories…" />
+  <nav id="tabs">
+    <button class="tab active" data-stream="all">All</button>
+    <button class="tab" data-stream="ai_education">AI in Education</button>
+    <button class="tab" data-stream="labor">Skills &amp; Labor</button>
+    <button class="tab" data-stream="tvet">TVET &amp; Workforce</button>
+    <button class="tab" data-stream="policy">Policy</button>
+    <button class="tab" data-stream="research">Research</button>
+    <button class="tab" data-stream="opportunities">Opportunities</button>
+  </nav>
+</div>
+
+<main id="main"></main>
+
+<footer>
+  Stories linked to original sources · Summaries are publishers' own text ·
+  Robots.txt respected on every fetch ·
+  <a href="https://github.com/sumitanand343/eduradar">GitHub</a>
+</footer>
+
+<script>
+// ── Helpers ───────────────────────────────────────────────────────────────────
+const STREAM_LABELS = {
+  ai_education:  "AI in Education",
+  labor:         "Skills & Labor Market",
+  tvet:          "TVET & Workforce",
+  policy:        "Policy",
+  research:      "Research & Evidence",
+  opportunities: "Opportunities",
+};
+
+function relativeTime(isoStr) {
+  const diff = (Date.now() - new Date(isoStr)) / 1000;
+  if (diff < 3600)   return `${Math.round(diff/60)}m ago`;
+  if (diff < 86400)  return `${Math.round(diff/3600)}h ago`;
+  if (diff < 604800) return `${Math.round(diff/86400)}d ago`;
+  return new Date(isoStr).toLocaleDateString();
+}
+
+function escapeHtml(str) {
+  return (str || "").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+
+function makeCard(story, streamKey) {
+  return `
+    <article class="card">
+      <div class="card-source">${escapeHtml(story.source)}</div>
+      <div class="card-title">
+        <a href="${escapeHtml(story.url)}" target="_blank" rel="noopener noreferrer">
+          ${escapeHtml(story.title)}
+        </a>
+      </div>
+      ${story.summary ? `<div class="card-summary">${escapeHtml(story.summary)}</div>` : ""}
+      <div class="card-meta">
+        <span class="card-date">${relativeTime(story.published)}</span>
+        <span class="badge badge-${streamKey}">${STREAM_LABELS[streamKey]}</span>
+      </div>
+    </article>`;
+}
+
+// ── State ─────────────────────────────────────────────────────────────────────
+let allData    = {};
+let activeTab  = "all";
+let searchTerm = "";
+
+// ── Render ────────────────────────────────────────────────────────────────────
+function render() {
+  const main = document.getElementById("main");
+  const term = searchTerm.toLowerCase();
+
+  const streamsToShow = activeTab === "all"
+    ? Object.keys(STREAM_LABELS)
+    : [activeTab];
+
+  let html = "";
+
+  for (const key of streamsToShow) {
+    let stories = (allData[key] || []);
+
+    if (term) {
+      stories = stories.filter(s =>
+        (s.title   || "").toLowerCase().includes(term) ||
+        (s.summary || "").toLowerCase().includes(term) ||
+        (s.source  || "").toLowerCase().includes(term)
+      );
+    }
+
+    if (activeTab !== "all" || stories.length > 0) {
+      html += `
+        <section class="stream-section" data-stream="${key}">
+          <div class="stream-header">
+            <h2 class="stream-title">${STREAM_LABELS[key]}</h2>
+            <span class="stream-count">${stories.length} stories</span>
+          </div>
+          <div class="card-grid">
+            ${stories.length
+              ? stories.map(s => makeCard(s, key)).join("")
+              : `<p class="empty">No stories found.</p>`}
+          </div>
+        </section>`;
+    }
+  }
+
+  main.innerHTML = html || `<p class="empty" style="padding:24px">No results for "${escapeHtml(searchTerm)}".</p>`;
+}
+
+// ── Load data ─────────────────────────────────────────────────────────────────
+async function loadData() {
+  try {
+    const [storiesRes, lastRunRes] = await Promise.all([
+      fetch("data/stories.json?t=" + Date.now()),
+      fetch("data/last_run.txt?t=" + Date.now()),
+    ]);
+    allData = await storiesRes.json();
+    document.getElementById("last-run").textContent =
+      "Updated " + (await lastRunRes.text()).trim();
+  } catch (e) {
+    document.getElementById("last-run").textContent = "Could not load data";
+    console.error(e);
+  }
+  render();
+}
+
+// ── Events ────────────────────────────────────────────────────────────────────
+document.getElementById("tabs").addEventListener("click", e => {
+  const btn = e.target.closest(".tab");
+  if (!btn) return;
+  document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+  btn.classList.add("active");
+  activeTab = btn.dataset.stream;
+  render();
+});
+
+let searchTimer;
+document.getElementById("search").addEventListener("input", e => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    searchTerm = e.target.value.trim();
+    render();
+  }, 250);
+});
+
+// Auto-refresh every 10 minutes
+loadData();
+setInterval(loadData, 10 * 60 * 1000);
+</script>
+</body>
+</html>
