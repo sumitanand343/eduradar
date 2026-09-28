@@ -1,0 +1,280 @@
+# ---------------------------------------------------------------
+# Sources for EduSkills AI Pulse
+# Each entry: name, url, type (rss | atom | json_api), stream hint
+# Stream hints are a first-pass signal; the keyword classifier
+# in fetch.py makes the final call.
+# ---------------------------------------------------------------
+
+sources:
+
+  # ── MULTILATERALS ──────────────────────────────────────────────
+  - name: World Bank Education Blog
+    url: https://blogs.worldbank.org/education/feed
+    type: rss
+    hint: policy
+
+  - name: World Bank Jobs & Development Blog
+    url: https://blogs.worldbank.org/jobs/feed
+    type: rss
+    hint: labor
+
+  - name: World Bank Digital Development Blog
+    url: https://blogs.worldbank.org/digital-development/feed
+    type: rss
+    hint: policy
+
+  - name: World Bank Open Knowledge (Education)
+    url: https://openknowledge.worldbank.org/feed?subject=Education
+    type: rss
+    hint: research
+
+  - name: UNESCO Education News
+    url: https://www.unesco.org/en/rss/education
+    type: rss
+    hint: policy
+
+  - name: UNESCO IIEP
+    url: https://www.iiep.unesco.org/en/rss.xml
+    type: rss
+    hint: research
+
+  - name: OECD Education & Skills Today
+    url: https://oecdedutoday.com/feed/
+    type: rss
+    hint: policy
+
+  - name: OECD iLibrary (Education)
+    url: https://www.oecd-ilibrary.org/rss/education
+    type: rss
+    hint: research
+
+  - name: ILO News
+    url: https://www.ilo.org/rss/english/news.xml
+    type: rss
+    hint: labor
+
+  - name: ILO SKILLS (Skills & Employability)
+    url: https://www.ilo.org/rss/english/skills.xml
+    type: rss
+    hint: tvet
+
+  - name: ADB Education
+    url: https://www.adb.org/rss/sector/education
+    type: rss
+    hint: policy
+
+  - name: UNICEF Education
+    url: https://www.unicef.org/feeds/education
+    type: rss
+    hint: policy
+
+  - name: Cedefop News
+    url: https://www.cedefop.europa.eu/en/rss/news
+    type: rss
+    hint: tvet
+
+  - name: ETF (European Training Foundation)
+    url: https://www.etf.europa.eu/en/rss.xml
+    type: rss
+    hint: tvet
+
+  - name: GPE (Global Partnership for Education)
+    url: https://www.globalpartnership.org/rss.xml
+    type: rss
+    hint: policy
+
+  # ── EDUCATION PRESS ────────────────────────────────────────────
+  - name: EdSurge
+    url: https://www.edsurge.com/news.rss
+    type: rss
+    hint: ai_education
+
+  - name: The 74
+    url: https://www.the74million.org/feed/
+    type: rss
+    hint: ai_education
+
+  - name: Chalkbeat
+    url: https://www.chalkbeat.org/rss/feed.xml
+    type: rss
+    hint: ai_education
+
+  - name: Hechinger Report
+    url: https://hechingerreport.org/feed/
+    type: rss
+    hint: ai_education
+
+  - name: Education Week
+    url: https://www.edweek.org/feeds/rss.xml
+    type: rss
+    hint: ai_education
+
+  - name: Times Higher Education
+    url: https://www.timeshighereducation.com/rss.xml
+    type: rss
+    hint: ai_education
+
+  - name: Inside Higher Ed
+    url: https://www.insidehighered.com/rss/
+    type: rss
+    hint: ai_education
+
+  - name: University World News
+    url: https://www.universityworldnews.com/rss.php
+    type: rss
+    hint: ai_education
+
+  - name: The PIE News
+    url: https://thepienews.com/feed/
+    type: rss
+    hint: ai_education
+
+  - name: EdTech Magazine
+    url: https://edtechmagazine.com/higher/rss.xml
+    type: rss
+    hint: ai_education
+
+  - name: HolonIQ
+    url: https://www.holoniq.com/feed/
+    type: rss
+    hint: ai_education
+
+  - name: Getting Smart
+    url: https://www.gettingsmart.com/feed/
+    type: rss
+    hint: ai_education
+
+  - name: eLearning Industry
+    url: https://elearningindustry.com/feed
+    type: rss
+    hint: ai_education
+
+  # ── RESEARCH ───────────────────────────────────────────────────
+  - name: arXiv cs.CY (Computers & Society)
+    url: https://arxiv.org/rss/cs.CY
+    type: rss
+    hint: research
+
+  - name: arXiv cs.CL (Computation & Language)
+    url: https://arxiv.org/rss/cs.CL
+    type: rss
+    hint: research
+
+  - name: Education Endowment Foundation
+    url: https://educationendowmentfoundation.org.uk/rss/news
+    type: rss
+    hint: research
+
+  - name: J-PAL News
+    url: https://www.povertyactionlab.org/rss.xml
+    type: rss
+    hint: research
+
+  - name: RAND Education & Labor
+    url: https://www.rand.org/topics/education-and-labor.xml
+    type: rss
+    hint: research
+
+  - name: Brookings Education
+    url: https://www.brookings.edu/topics/education/feed/
+    type: rss
+    hint: research
+
+  - name: CGD (Center for Global Development)
+    url: https://www.cgdev.org/blog/feed
+    type: rss
+    hint: research
+
+  - name: RISE Programme
+    url: https://riseprogramme.org/feed
+    type: rss
+    hint: research
+
+  - name: NBER (Education program)
+    url: https://www.nber.org/rss/new_working_papers.xml
+    type: rss
+    hint: research
+
+  # ── LABOR MARKET & SKILLS ──────────────────────────────────────
+  - name: WEF Education & Skills
+    url: https://www.weforum.org/rss/education-and-skills
+    type: rss
+    hint: labor
+
+  - name: WEF Future of Jobs
+    url: https://www.weforum.org/rss/future-of-jobs
+    type: rss
+    hint: labor
+
+  - name: McKinsey Global Institute
+    url: https://www.mckinsey.com/mgi/rss
+    type: rss
+    hint: labor
+
+  - name: Brookings Future of Work
+    url: https://www.brookings.edu/topics/future-of-work/feed/
+    type: rss
+    hint: labor
+
+  - name: Lightcast Blog
+    url: https://lightcast.io/resources/blog/feed
+    type: rss
+    hint: labor
+
+  - name: Burning Glass Institute
+    url: https://www.burningglassinstitute.org/feed
+    type: rss
+    hint: labor
+
+  # ── TVET & WORKFORCE ───────────────────────────────────────────
+  - name: TVET Worldwide (UNEVOC)
+    url: https://unevoc.unesco.org/home/UNEVOC+TV+and+News/rss
+    type: rss
+    hint: tvet
+
+  - name: City & Guilds Research
+    url: https://www.cityandguilds.com/news/rss
+    type: rss
+    hint: tvet
+
+  - name: NCVER (Australia TVET research)
+    url: https://www.ncver.edu.au/rss/research-and-statistics.xml
+    type: rss
+    hint: tvet
+
+  # ── REGIONAL / GLOBAL DEV ──────────────────────────────────────
+  - name: Devex Education
+    url: https://www.devex.com/news/rss.xml?tag=education
+    type: rss
+    hint: policy
+
+  - name: Rest of World
+    url: https://restofworld.org/feed/
+    type: rss
+    hint: ai_education
+
+  - name: African Arguments (Education)
+    url: https://africanarguments.org/category/development/feed/
+    type: rss
+    hint: policy
+
+  - name: Dawn (Pakistan, Education)
+    url: https://www.dawn.com/feeds/education
+    type: rss
+    hint: policy
+
+  # ── OPPORTUNITIES ──────────────────────────────────────────────
+  - name: Devex Jobs (Education & Skills)
+    url: https://www.devex.com/jobs/rss?q=education+skills
+    type: rss
+    hint: opportunities
+
+  - name: ReliefWeb Jobs (Education)
+    url: https://reliefweb.int/jobs/feed?source=rss&f[0]=field_job_type%3A255&f[1]=field_career_categories%3A6861
+    type: rss
+    hint: opportunities
+
+  - name: USAID EdTech
+    url: https://edtechhub.org/feed/
+    type: rss
+    hint: policy
