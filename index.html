@@ -3,127 +3,213 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>EduRadar</title>
+  <title>EduRadar — Live Intelligence on Education, Skills & AI</title>
   <style>
-    /* ── Reset & base ─────────────────────────────────────────── */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --bg:        #f5f6fa;
+      --bg:        #f0f2f7;
       --surface:   #ffffff;
-      --border:    #e2e5ed;
-      --text:      #1a1d27;
+      --border:    #e1e5ef;
+      --text:      #111827;
       --muted:     #6b7280;
-      --accent:    #2563eb;
-      --tag-ai:    #dbeafe;
-      --tag-labor: #d1fae5;
-      --tag-tvet:  #fef3c7;
-      --tag-policy:#ede9fe;
-      --tag-res:   #fce7f3;
-      --tag-opp:   #ffedd5;
+      --accent:    #1d4ed8;
+      --accent-lt: #eff6ff;
+      --sidebar-w: 240px;
       --radius:    10px;
+      --font:      -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+
+      /* Stream badge colors */
+      --c-fln:       #fef3c7; --ct-fln:       #92400e;
+      --c-ece:       #d1fae5; --ct-ece:       #065f46;
+      --c-k12:       #dbeafe; --ct-k12:       #1e40af;
+      --c-secondary: #ede9fe; --ct-secondary: #5b21b6;
+      --c-higher:    #fce7f3; --ct-higher:    #9d174d;
+      --c-tvet:      #ffedd5; --ct-tvet:      #9a3412;
+      --c-labor:     #d1fae5; --ct-labor:     #064e3b;
+      --c-teacher:   #e0f2fe; --ct-teacher:   #075985;
+      --c-edtech:    #f3e8ff; --ct-edtech:    #6b21a8;
+      --c-policy:    #fef9c3; --ct-policy:    #713f12;
+      --c-research:  #fee2e2; --ct-research:  #991b1b;
+      --c-funding:   #dcfce7; --ct-funding:   #166534;
     }
 
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-family: var(--font);
       background: var(--bg);
       color: var(--text);
+      display: flex;
+      flex-direction: column;
       min-height: 100vh;
     }
 
-    /* ── Header ──────────────────────────────────────────────── */
-    header {
-      background: var(--surface);
-      border-bottom: 1px solid var(--border);
-      padding: 20px 28px;
+    /* ── Top bar ── */
+    .topbar {
+      background: var(--accent);
+      color: #fff;
       display: flex;
       align-items: center;
-      gap: 16px;
-      flex-wrap: wrap;
+      gap: 20px;
+      padding: 0 24px;
+      height: 56px;
+      flex-shrink: 0;
+      position: sticky;
+      top: 0;
+      z-index: 100;
     }
 
-    .logo {
-      font-size: 1.45rem;
-      font-weight: 700;
-      color: var(--accent);
+    .brand {
+      font-size: 1.25rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
       white-space: nowrap;
     }
-    .logo span { color: var(--text); font-weight: 400; }
+    .brand span { opacity: 0.7; font-weight: 400; }
 
-    .tagline {
-      color: var(--muted);
-      font-size: 0.9rem;
+    .topbar-search {
       flex: 1;
+      max-width: 400px;
     }
-
-    #last-run {
-      font-size: 0.8rem;
-      color: var(--muted);
-      white-space: nowrap;
-    }
-
-    /* ── Search & nav ─────────────────────────────────────────── */
-    .controls {
-      background: var(--surface);
-      border-bottom: 1px solid var(--border);
-      padding: 12px 28px;
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      flex-wrap: wrap;
-    }
-
-    #search {
-      border: 1px solid var(--border);
-      border-radius: 8px;
+    .topbar-search input {
+      width: 100%;
+      border: none;
+      border-radius: 6px;
       padding: 7px 12px;
-      font-size: 0.9rem;
-      width: 220px;
+      font-size: 0.88rem;
+      background: rgba(255,255,255,0.15);
+      color: #fff;
       outline: none;
     }
-    #search:focus { border-color: var(--accent); }
+    .topbar-search input::placeholder { color: rgba(255,255,255,0.6); }
+    .topbar-search input:focus { background: rgba(255,255,255,0.25); }
 
-    nav { display: flex; gap: 6px; flex-wrap: wrap; }
-
-    .tab {
-      padding: 6px 14px;
-      border-radius: 20px;
-      border: 1px solid var(--border);
-      background: transparent;
-      font-size: 0.85rem;
-      cursor: pointer;
-      color: var(--muted);
-      transition: all .15s;
+    .topbar-meta {
+      margin-left: auto;
+      font-size: 0.78rem;
+      opacity: 0.7;
+      white-space: nowrap;
     }
-    .tab:hover  { border-color: var(--accent); color: var(--accent); }
-    .tab.active { background: var(--accent); border-color: var(--accent); color: #fff; }
 
-    /* ── Main layout ──────────────────────────────────────────── */
-    main { padding: 24px 28px; max-width: 1400px; margin: 0 auto; }
-
-    .stream-section { margin-bottom: 40px; }
-
-    .stream-header {
+    /* ── Layout ── */
+    .layout {
       display: flex;
-      align-items: baseline;
-      gap: 10px;
-      margin-bottom: 16px;
+      flex: 1;
+      overflow: hidden;
     }
 
-    .stream-title {
-      font-size: 1.1rem;
+    /* ── Sidebar ── */
+    .sidebar {
+      width: var(--sidebar-w);
+      background: var(--surface);
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      overflow-y: auto;
+      flex-shrink: 0;
+      position: sticky;
+      top: 56px;
+      height: calc(100vh - 56px);
+    }
+
+    .sidebar-section { padding: 16px 0 8px; }
+    .sidebar-label {
+      font-size: 0.68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: var(--muted);
+      padding: 0 16px 8px;
+    }
+
+    .nav-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 16px;
+      font-size: 0.875rem;
+      color: var(--muted);
+      cursor: pointer;
+      border-left: 3px solid transparent;
+      transition: all .12s;
+      user-select: none;
+    }
+    .nav-item:hover { background: var(--bg); color: var(--text); }
+    .nav-item.active {
+      background: var(--accent-lt);
+      color: var(--accent);
+      border-left-color: var(--accent);
       font-weight: 600;
     }
-
-    .stream-count {
-      font-size: 0.8rem;
+    .nav-dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .nav-count {
+      margin-left: auto;
+      font-size: 0.72rem;
+      background: var(--bg);
+      padding: 1px 6px;
+      border-radius: 10px;
       color: var(--muted);
     }
+    .nav-item.active .nav-count {
+      background: var(--accent);
+      color: #fff;
+    }
 
-    /* ── Card grid ────────────────────────────────────────────── */
+    /* stream dot colors */
+    .dot-fln       { background: var(--ct-fln); }
+    .dot-ece       { background: var(--ct-ece); }
+    .dot-k12       { background: var(--ct-k12); }
+    .dot-secondary { background: var(--ct-secondary); }
+    .dot-higher    { background: var(--ct-higher); }
+    .dot-tvet      { background: var(--ct-tvet); }
+    .dot-labor     { background: var(--ct-labor); }
+    .dot-teacher   { background: var(--ct-teacher); }
+    .dot-edtech    { background: var(--ct-edtech); }
+    .dot-policy    { background: var(--ct-policy); }
+    .dot-research  { background: var(--ct-research); }
+    .dot-funding   { background: var(--ct-funding); }
+    .dot-region    { background: #94a3b8; }
+
+    /* Region select */
+    .region-select-wrap {
+      padding: 8px 16px 16px;
+    }
+    .region-select-wrap select {
+      width: 100%;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 7px 10px;
+      font-size: 0.82rem;
+      color: var(--text);
+      background: var(--bg);
+      cursor: pointer;
+      outline: none;
+    }
+    .region-select-wrap select:focus { border-color: var(--accent); }
+
+    /* ── Main content ── */
+    .content {
+      flex: 1;
+      overflow-y: auto;
+      padding: 24px;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: baseline;
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+    .section-title { font-size: 1.2rem; font-weight: 700; }
+    .section-sub   { font-size: 0.85rem; color: var(--muted); }
+
+    /* ── Card grid ── */
     .card-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
       gap: 16px;
     }
 
@@ -131,125 +217,273 @@
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      padding: 16px;
+      padding: 18px;
       display: flex;
       flex-direction: column;
-      gap: 8px;
-      transition: box-shadow .15s;
+      gap: 10px;
+      transition: box-shadow .15s, transform .15s;
     }
-    .card:hover { box-shadow: 0 4px 12px rgba(0,0,0,.08); }
+    .card:hover {
+      box-shadow: 0 6px 20px rgba(0,0,0,.08);
+      transform: translateY(-1px);
+    }
 
-    .card-source {
-      font-size: 0.75rem;
-      font-weight: 600;
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: .04em;
+    .card-top {
+      display: flex;
+      align-items: center;
+      gap: 8px;
     }
+    .card-source {
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .05em;
+      color: var(--muted);
+      flex: 1;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .badge {
+      font-size: 0.68rem;
+      padding: 2px 8px;
+      border-radius: 10px;
+      font-weight: 700;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .badge-fln       { background: var(--c-fln);       color: var(--ct-fln); }
+    .badge-ece       { background: var(--c-ece);       color: var(--ct-ece); }
+    .badge-k12       { background: var(--c-k12);       color: var(--ct-k12); }
+    .badge-secondary { background: var(--c-secondary); color: var(--ct-secondary); }
+    .badge-higher    { background: var(--c-higher);    color: var(--ct-higher); }
+    .badge-tvet      { background: var(--c-tvet);      color: var(--ct-tvet); }
+    .badge-labor     { background: var(--c-labor);     color: var(--ct-labor); }
+    .badge-teacher   { background: var(--c-teacher);   color: var(--ct-teacher); }
+    .badge-edtech    { background: var(--c-edtech);    color: var(--ct-edtech); }
+    .badge-policy    { background: var(--c-policy);    color: var(--ct-policy); }
+    .badge-research  { background: var(--c-research);  color: var(--ct-research); }
+    .badge-funding   { background: var(--c-funding);   color: var(--ct-funding); }
 
     .card-title {
       font-size: 0.95rem;
       font-weight: 600;
-      line-height: 1.35;
+      line-height: 1.4;
     }
-    .card-title a {
-      color: var(--text);
-      text-decoration: none;
-    }
+    .card-title a { color: var(--text); text-decoration: none; }
     .card-title a:hover { color: var(--accent); }
 
     .card-summary {
       font-size: 0.82rem;
       color: var(--muted);
-      line-height: 1.55;
+      line-height: 1.6;
       flex: 1;
-      /* clamp to 4 lines */
       display: -webkit-box;
-      -webkit-line-clamp: 4;
+      -webkit-line-clamp: 3;
       -webkit-box-orient: vertical;
       overflow: hidden;
     }
 
-    .card-meta {
+    .card-footer {
       display: flex;
       align-items: center;
       gap: 8px;
-      flex-wrap: wrap;
-    }
-
-    .card-date {
       font-size: 0.75rem;
       color: var(--muted);
+      border-top: 1px solid var(--border);
+      padding-top: 10px;
     }
-
-    .badge {
-      font-size: 0.7rem;
-      padding: 2px 8px;
-      border-radius: 10px;
+    .card-date { flex: 1; }
+    .region-tag {
+      background: var(--bg);
+      padding: 2px 7px;
+      border-radius: 8px;
+      font-size: 0.68rem;
       font-weight: 600;
     }
-    .badge-ai_education  { background: var(--tag-ai);    color: #1d4ed8; }
-    .badge-labor         { background: var(--tag-labor); color: #065f46; }
-    .badge-tvet          { background: var(--tag-tvet);  color: #92400e; }
-    .badge-policy        { background: var(--tag-policy);color: #5b21b6; }
-    .badge-research      { background: var(--tag-res);   color: #9d174d; }
-    .badge-opportunities { background: var(--tag-opp);   color: #9a3412; }
 
-    /* ── Empty & loading ──────────────────────────────────────── */
-    .empty { color: var(--muted); font-size: 0.9rem; padding: 12px 0; }
-
-    /* ── Footer ───────────────────────────────────────────────── */
-    footer {
-      text-align: center;
-      padding: 28px;
-      font-size: 0.8rem;
+    /* ── Empty / loading ── */
+    .empty {
       color: var(--muted);
-      border-top: 1px solid var(--border);
-      margin-top: 24px;
+      font-size: 0.9rem;
+      padding: 40px 0;
+      text-align: center;
+      grid-column: 1 / -1;
     }
-    footer a { color: var(--accent); text-decoration: none; }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      margin-bottom: 24px;
+    }
+    .stat-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px 20px;
+      flex: 1;
+      min-width: 120px;
+      text-align: center;
+    }
+    .stat-num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat-lbl { font-size: 0.75rem; color: var(--muted); margin-top: 2px; }
+
+    /* ── Responsive ── */
+    @media (max-width: 768px) {
+      .sidebar { display: none; }
+      .content { padding: 16px; }
+      .card-grid { grid-template-columns: 1fr; }
+    }
   </style>
 </head>
 <body>
 
-<header>
-  <div class="logo">Edu<span>Radar</span></div>
-  <div class="tagline">Live radar — AI in education, skills, labor markets &amp; TVET</div>
-  <div id="last-run">Loading…</div>
-</header>
-
-<div class="controls">
-  <input id="search" type="search" placeholder="Search stories…" />
-  <nav id="tabs">
-    <button class="tab active" data-stream="all">All</button>
-    <button class="tab" data-stream="ai_education">AI in Education</button>
-    <button class="tab" data-stream="labor">Skills &amp; Labor</button>
-    <button class="tab" data-stream="tvet">TVET &amp; Workforce</button>
-    <button class="tab" data-stream="policy">Policy</button>
-    <button class="tab" data-stream="research">Research</button>
-    <button class="tab" data-stream="opportunities">Opportunities</button>
-  </nav>
+<!-- Top bar -->
+<div class="topbar">
+  <div class="brand">Edu<span>Radar</span></div>
+  <div class="topbar-search">
+    <input id="search" type="search" placeholder="Search across all streams…" />
+  </div>
+  <div class="topbar-meta" id="last-run">Loading…</div>
 </div>
 
-<main id="main"></main>
+<div class="layout">
 
-<footer>
-  Stories linked to original sources · Summaries are publishers' own text ·
-  Robots.txt respected on every fetch ·
-  <a href="https://github.com/sumitanand343/eduradar">GitHub</a>
-</footer>
+  <!-- Sidebar -->
+  <aside class="sidebar">
+
+    <div class="sidebar-section">
+      <div class="sidebar-label">View</div>
+      <div class="nav-item active" data-view="all" data-key="all">
+        <span class="nav-dot" style="background:#94a3b8"></span>
+        All Stories
+        <span class="nav-count" id="count-all">—</span>
+      </div>
+    </div>
+
+    <div class="sidebar-section">
+      <div class="sidebar-label">By Topic</div>
+      <div class="nav-item" data-view="stream" data-key="fln">
+        <span class="nav-dot dot-fln"></span>Foundational Learning
+        <span class="nav-count" id="count-fln">—</span>
+      </div>
+      <div class="nav-item" data-view="stream" data-key="ece">
+        <span class="nav-dot dot-ece"></span>Early Childhood
+        <span class="nav-count" id="count-ece">—</span>
+      </div>
+      <div class="nav-item" data-view="stream" data-key="k12">
+        <span class="nav-dot dot-k12"></span>K-12 Education
+        <span class="nav-count" id="count-k12">—</span>
+      </div>
+      <div class="nav-item" data-view="stream" data-key="secondary">
+        <span class="nav-dot dot-secondary"></span>Secondary Education
+        <span class="nav-count" id="count-secondary">—</span>
+      </div>
+      <div class="nav-item" data-view="stream" data-key="higher">
+        <span class="nav-dot dot-higher"></span>Higher Education
+        <span class="nav-count" id="count-higher">—</span>
+      </div>
+      <div class="nav-item" data-view="stream" data-key="tvet">
+        <span class="nav-dot dot-tvet"></span>TVET & Vocational
+        <span class="nav-count" id="count-tvet">—</span>
+      </div>
+      <div class="nav-item" data-view="stream" data-key="labor">
+        <span class="nav-dot dot-labor"></span>Skills & Labor Market
+        <span class="nav-count" id="count-labor">—</span>
+      </div>
+      <div class="nav-item" data-view="stream" data-key="teacher">
+        <span class="nav-dot dot-teacher"></span>Teacher Development
+        <span class="nav-count" id="count-teacher">—</span>
+      </div>
+      <div class="nav-item" data-view="stream" data-key="edtech">
+        <span class="nav-dot dot-edtech"></span>EdTech & AI Tools
+        <span class="nav-count" id="count-edtech">—</span>
+      </div>
+      <div class="nav-item" data-view="stream" data-key="policy">
+        <span class="nav-dot dot-policy"></span>Policy & Governance
+        <span class="nav-count" id="count-policy">—</span>
+      </div>
+      <div class="nav-item" data-view="stream" data-key="research">
+        <span class="nav-dot dot-research"></span>Research & Evidence
+        <span class="nav-count" id="count-research">—</span>
+      </div>
+      <div class="nav-item" data-view="stream" data-key="funding">
+        <span class="nav-dot dot-funding"></span>Funding & Opportunities
+        <span class="nav-count" id="count-funding">—</span>
+      </div>
+    </div>
+
+    <div class="sidebar-section">
+      <div class="sidebar-label">By Region</div>
+      <div class="region-select-wrap">
+        <select id="region-select">
+          <option value="all">All Regions</option>
+          <option value="global">Global</option>
+          <option value="south_asia">South Asia</option>
+          <option value="east_africa">East Africa</option>
+          <option value="west_africa">West Africa</option>
+          <option value="mena">Middle East & North Africa</option>
+          <option value="southeast_asia">Southeast Asia</option>
+          <option value="latin_america">Latin America</option>
+          <option value="east_asia">East Asia</option>
+          <option value="europe">Europe</option>
+          <option value="north_america">North America</option>
+          <option value="australia_pacific">Australia & Pacific</option>
+        </select>
+      </div>
+    </div>
+
+  </aside>
+
+  <!-- Main content -->
+  <main class="content" id="content">
+    <div class="empty">Loading stories…</div>
+  </main>
+
+</div>
 
 <script>
-// ── Helpers ───────────────────────────────────────────────────────────────────
+// ── Config ────────────────────────────────────────────────────────────────────
 const STREAM_LABELS = {
-  ai_education:  "AI in Education",
-  labor:         "Skills & Labor Market",
-  tvet:          "TVET & Workforce",
-  policy:        "Policy",
-  research:      "Research & Evidence",
-  opportunities: "Opportunities",
+  fln:       "Foundational Learning",
+  ece:       "Early Childhood",
+  k12:       "K-12 Education",
+  secondary: "Secondary Education",
+  higher:    "Higher Education",
+  tvet:      "TVET & Vocational",
+  labor:     "Skills & Labor Market",
+  teacher:   "Teacher Development",
+  edtech:    "EdTech & AI Tools",
+  policy:    "Policy & Governance",
+  research:  "Research & Evidence",
+  funding:   "Funding & Opportunities",
 };
 
+const REGION_LABELS = {
+  global:            "Global",
+  south_asia:        "South Asia",
+  east_africa:       "East Africa",
+  west_africa:       "West Africa",
+  mena:              "MENA",
+  southeast_asia:    "SE Asia",
+  latin_america:     "Latin America",
+  east_asia:         "East Asia",
+  europe:            "Europe",
+  north_america:     "N. America",
+  australia_pacific: "Aus & Pacific",
+};
+
+// ── State ─────────────────────────────────────────────────────────────────────
+let allData    = { streams: {}, regions: {} };
+let activeView = "all";
+let activeKey  = "all";
+let activeRegion = "all";
+let searchTerm = "";
+
+// ── Helpers ───────────────────────────────────────────────────────────────────
 function relativeTime(isoStr) {
   const diff = (Date.now() - new Date(isoStr)) / 1000;
   if (diff < 3600)   return `${Math.round(diff/60)}m ago`;
@@ -258,71 +492,110 @@ function relativeTime(isoStr) {
   return new Date(isoStr).toLocaleDateString();
 }
 
-function escapeHtml(str) {
-  return (str || "").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+function esc(str) {
+  return (str||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
 }
 
-function makeCard(story, streamKey) {
+function makeCard(story) {
+  const stream = story.stream || "policy";
+  const region = story.region || "global";
   return `
     <article class="card">
-      <div class="card-source">${escapeHtml(story.source)}</div>
-      <div class="card-title">
-        <a href="${escapeHtml(story.url)}" target="_blank" rel="noopener noreferrer">
-          ${escapeHtml(story.title)}
-        </a>
+      <div class="card-top">
+        <div class="card-source">${esc(story.source)}</div>
+        <span class="badge badge-${stream}">${STREAM_LABELS[stream] || stream}</span>
       </div>
-      ${story.summary ? `<div class="card-summary">${escapeHtml(story.summary)}</div>` : ""}
-      <div class="card-meta">
+      <div class="card-title">
+        <a href="${esc(story.url)}" target="_blank" rel="noopener noreferrer">${esc(story.title)}</a>
+      </div>
+      ${story.summary ? `<div class="card-summary">${esc(story.summary)}</div>` : ""}
+      <div class="card-footer">
         <span class="card-date">${relativeTime(story.published)}</span>
-        <span class="badge badge-${streamKey}">${STREAM_LABELS[streamKey]}</span>
+        <span class="region-tag">${REGION_LABELS[region] || region}</span>
       </div>
     </article>`;
 }
 
-// ── State ─────────────────────────────────────────────────────────────────────
-let allData    = {};
-let activeTab  = "all";
-let searchTerm = "";
+// ── Filter stories ────────────────────────────────────────────────────────────
+function getStories() {
+  let stories = [];
+
+  if (activeView === "all") {
+    Object.values(allData.streams).forEach(arr => stories.push(...arr));
+  } else if (activeView === "stream") {
+    stories = allData.streams[activeKey] || [];
+  }
+
+  // Region filter
+  if (activeRegion !== "all") {
+    stories = stories.filter(s => s.region === activeRegion);
+  }
+
+  // Search filter
+  if (searchTerm) {
+    const t = searchTerm.toLowerCase();
+    stories = stories.filter(s =>
+      (s.title||"").toLowerCase().includes(t) ||
+      (s.summary||"").toLowerCase().includes(t) ||
+      (s.source||"").toLowerCase().includes(t)
+    );
+  }
+
+  // Sort newest first
+  stories.sort((a, b) => new Date(b.published) - new Date(a.published));
+  return stories;
+}
 
 // ── Render ────────────────────────────────────────────────────────────────────
 function render() {
-  const main = document.getElementById("main");
-  const term = searchTerm.toLowerCase();
+  const content = document.getElementById("content");
+  const stories = getStories();
 
-  const streamsToShow = activeTab === "all"
-    ? Object.keys(STREAM_LABELS)
-    : [activeTab];
+  // Title
+  let title = "All Stories";
+  let sub   = "";
+  if (activeView === "stream") title = STREAM_LABELS[activeKey] || activeKey;
+  if (activeRegion !== "all")  sub   = ` · ${REGION_LABELS[activeRegion] || activeRegion}`;
+  if (searchTerm)              sub  += ` · searching "${searchTerm}"`;
 
-  let html = "";
-
-  for (const key of streamsToShow) {
-    let stories = (allData[key] || []);
-
-    if (term) {
-      stories = stories.filter(s =>
-        (s.title   || "").toLowerCase().includes(term) ||
-        (s.summary || "").toLowerCase().includes(term) ||
-        (s.source  || "").toLowerCase().includes(term)
-      );
-    }
-
-    if (activeTab !== "all" || stories.length > 0) {
-      html += `
-        <section class="stream-section" data-stream="${key}">
-          <div class="stream-header">
-            <h2 class="stream-title">${STREAM_LABELS[key]}</h2>
-            <span class="stream-count">${stories.length} stories</span>
-          </div>
-          <div class="card-grid">
-            ${stories.length
-              ? stories.map(s => makeCard(s, key)).join("")
-              : `<p class="empty">No stories found.</p>`}
-          </div>
-        </section>`;
-    }
+  // Stats bar (only on All view without filters)
+  let statsHtml = "";
+  if (activeView === "all" && activeRegion === "all" && !searchTerm) {
+    const total = Object.values(allData.streams).reduce((a, b) => a + b.length, 0);
+    const sources = new Set();
+    Object.values(allData.streams).forEach(arr => arr.forEach(s => sources.add(s.source)));
+    statsHtml = `
+      <div class="stats-bar">
+        <div class="stat-card"><div class="stat-num">${total}</div><div class="stat-lbl">Total Stories</div></div>
+        <div class="stat-card"><div class="stat-num">${sources.size}</div><div class="stat-lbl">Sources</div></div>
+        <div class="stat-card"><div class="stat-num">${Object.keys(STREAM_LABELS).length}</div><div class="stat-lbl">Topics</div></div>
+        <div class="stat-card"><div class="stat-num">6h</div><div class="stat-lbl">Update Cycle</div></div>
+      </div>`;
   }
 
-  main.innerHTML = html || `<p class="empty" style="padding:24px">No results for "${escapeHtml(searchTerm)}".</p>`;
+  const cardsHtml = stories.length
+    ? stories.map(makeCard).join("")
+    : `<div class="empty">No stories found. Try a different filter or check back after the next update.</div>`;
+
+  content.innerHTML = `
+    <div class="section-header">
+      <h1 class="section-title">${esc(title)}</h1>
+      <span class="section-sub">${stories.length} stories${esc(sub)}</span>
+    </div>
+    ${statsHtml}
+    <div class="card-grid">${cardsHtml}</div>`;
+}
+
+// ── Update sidebar counts ─────────────────────────────────────────────────────
+function updateCounts() {
+  let total = 0;
+  Object.entries(allData.streams).forEach(([key, arr]) => {
+    const el = document.getElementById(`count-${key}`);
+    if (el) el.textContent = arr.length;
+    total += arr.length;
+  });
+  const el = document.getElementById("count-all");
+  if (el) el.textContent = total;
 }
 
 // ── Load data ─────────────────────────────────────────────────────────────────
@@ -333,22 +606,31 @@ async function loadData() {
       fetch("data/last_run.txt?t=" + Date.now()),
     ]);
     allData = await storiesRes.json();
+    // Back-compat: if old format (no .streams key)
+    if (!allData.streams) allData = { streams: allData, regions: {} };
     document.getElementById("last-run").textContent =
       "Updated " + (await lastRunRes.text()).trim();
   } catch (e) {
     document.getElementById("last-run").textContent = "Could not load data";
     console.error(e);
   }
+  updateCounts();
   render();
 }
 
 // ── Events ────────────────────────────────────────────────────────────────────
-document.getElementById("tabs").addEventListener("click", e => {
-  const btn = e.target.closest(".tab");
-  if (!btn) return;
-  document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
-  btn.classList.add("active");
-  activeTab = btn.dataset.stream;
+document.querySelector(".sidebar").addEventListener("click", e => {
+  const item = e.target.closest(".nav-item");
+  if (!item) return;
+  document.querySelectorAll(".nav-item").forEach(i => i.classList.remove("active"));
+  item.classList.add("active");
+  activeView = item.dataset.view;
+  activeKey  = item.dataset.key;
+  render();
+});
+
+document.getElementById("region-select").addEventListener("change", e => {
+  activeRegion = e.target.value;
   render();
 });
 
