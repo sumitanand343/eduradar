@@ -157,6 +157,24 @@
     ],
     "ece": [
       {
+        "title": "From kindergarten to disciplinary school: Texas sends kids as young as 6 to harsh alternative campuses",
+        "url": "https://hechingerreport.org/texas-sends-kids-to-harsh-daep-alternative-campuses/",
+        "summary": "The most notable thing about Melissa’s son’s 6th birthday should have been the vacation the family took. Instead, it was the letter waiting for them when they returned home.&#160; Her child was assigned to the disciplinary campus in their school district in McKinney, Texas, for 30 days, the April 2024 letter told them, over allegations [&#8230;] The post From kindergarten to disciplinary school: Texas sends kids as young as 6 to harsh alternative campuses appeared first on The Hechinger Report .",
+        "source": "Hechinger Report",
+        "published": "2026-09-29T05:00:00+00:00",
+        "region": "north_america",
+        "stream": "ece"
+      },
+      {
+        "title": "STUDENT VOICE: Higher education was never built for nontraditional students like me. Here’s why it can and should be",
+        "url": "https://hechingerreport.org/student-voice-higher-education-nontraditional-students/",
+        "summary": "When I graduated from college in December 2025, I crossed a stage I once worried I would never see. In the months since, I have spent a lot of time thinking about how many students start but never finish. Just six in 10 students earn a degree within six years. While that number is bad [&#8230;] The post STUDENT VOICE: Higher education was never built for nontraditional students like me. Here’s why it can and should be appeared first on The Hechinger Report .",
+        "source": "Hechinger Report",
+        "published": "2026-09-29T05:00:00+00:00",
+        "region": "north_america",
+        "stream": "ece"
+      },
+      {
         "title": "MP issues 851 compassionate appointment orders for dependants of deceased school staff",
         "url": "https://education.economictimes.indiatimes.com/news/government-policies/mp-issues-851-compassionate-appointment-orders-for-dependants-of-deceased-school-staff/134537335",
         "summary": "The government has also launched employee welfare camps where teachers and employees can submit their grievances online, with the aim of ensuring faster disposal of their pending issues.",
@@ -315,6 +333,24 @@
       }
     ],
     "higher": [
+      {
+        "title": "PhD training should encourage ethical dissent",
+        "url": "https://www.nature.com/articles/d41586-026-03053-8",
+        "summary": "",
+        "source": "Nature — Education Articles",
+        "published": "2026-09-29T00:00:00+00:00",
+        "region": "global",
+        "stream": "higher"
+      },
+      {
+        "title": "Profiling university foreign language students in Singapore: motivations and perceptions of Spanish learners",
+        "url": "https://www.nature.com/articles/s41599-026-09147-y",
+        "summary": "",
+        "source": "Nature — Education Articles",
+        "published": "2026-09-29T00:00:00+00:00",
+        "region": "global",
+        "stream": "higher"
+      },
       {
         "title": "Odisha introduces first-ever framework for HoD nominations, fixes two-year tenure",
         "url": "https://education.economictimes.indiatimes.com/news/government-policies/odisha-introduces-first-ever-framework-for-hod-nominations-fixes-two-year-tenure/134532640",
@@ -497,6 +533,15 @@
       }
     ],
     "tvet": [
+      {
+        "title": "The next step for European VET: turning AI competence into teacher practice",
+        "url": "https://efvet.org/the-next-step-for-european-vet-turning-ai-competence-into-teacher-practice/",
+        "summary": "Europe is not starting from zero. We already have strong foundations for digital competence, VET development and responsible technology. But as AI rapidly transforms both education and the workplace, a new challenge is becoming increasingly urgent: How do we turn these foundations into practical AI competence for VET teachers and trainers? Knowing how to use [&#8230;] The post The next step for European VET: turning AI competence into teacher practice appeared first on EfVET .",
+        "source": "EfVET — European Forum of Technical & Vocational Education",
+        "published": "2026-09-29T08:02:30+00:00",
+        "region": "europe",
+        "stream": "tvet"
+      },
       {
         "title": "TPE-optimized XGBoost model for fine–grained prediction of tertiary vocational college students’ employment destinations",
         "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359421",
@@ -693,6 +738,24 @@
     ],
     "edtech": [
       {
+        "title": "The open-source AI platforms vying to become China’s Hugging Face",
+        "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "summary": "AI model platforms ModelScope and MoArk are competing to serve Chinese-speaking developers behind the Great Firewall.",
+        "source": "Rest of World",
+        "published": "2026-09-29T10:00:00+00:00",
+        "region": "global",
+        "stream": "edtech"
+      },
+      {
+        "title": "High costs, dwindling enrollment: What happened to one school district after a state takeover",
+        "url": "https://hechingerreport.org/houston-isd-state-takeover-high-costs-enrollment/",
+        "summary": "This story was produced by The Texas Tribune and republished with permission.&#160; HOUSTON —&#160; Fonville Middle School hired learning coaches to help students falling behind in the classroom. It bought new state-of-the-art technology, such as webcams and smart boards. The school days are longer. All that aggressive change earned the north Houston school its first [&#8230;] The post High costs, dwindling enrollment: What happened to one school district after a state takeover appeared first on The Hechinger Report .",
+        "source": "Hechinger Report",
+        "published": "2026-09-29T09:00:00+00:00",
+        "region": "north_america",
+        "stream": "edtech"
+      },
+      {
         "title": "The readability and quality paradox: Comparing ChatGPT, Gemini, and Perplexity outputs on pediatric chest pain queries",
         "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359170",
         "summary": "by Hikmet Kıztanır, Ebru Çetin Özbek Pediatric chest pain represents a frequently encountered symptom in emergency departments and outpatient clinics throughout childhood, often generating substantial parental anxiety. This study aims to comparatively analyze the readability, information quality, and scientific reliability of textual contents generated by the artificial intelligence (AI) chatbots ChatGPT, Gemini, and Perplexity regarding pediatric chest pain, utilizing multidimensional analytical indices. Out of the top 25 queries with the highest global search volume on Google Trends, 17 uniq",
@@ -748,6 +811,42 @@
       }
     ],
     "policy": [
+      {
+        "title": "Telangana minister Vivek Venkataswamy highlights govt&#039;s education initiatives",
+        "url": "https://education.economictimes.indiatimes.com/news/government-policies/telangana-minister-vivek-venkataswamy-highlights-govts-education-initiatives/134555530",
+        "summary": "The Telangana government has expanded its focus on nutrition alongside school education. In September, the state government said it was providing breakfast and milk to students in government schools and had expanded the midday meal programme up to Class 12. The government has also announced an allocation of Rs 927 crore for breakfast and milk for students.",
+        "source": "Economic Times — Education (India)",
+        "published": "2026-09-29T04:22:56+00:00",
+        "region": "south_asia",
+        "stream": "policy"
+      },
+      {
+        "title": "Soldiers help clear baggage backlog at airport",
+        "url": "https://www.bangkokpost.com/learning/easy/3328098/soldiers-help-clear-baggage-backlog-at-airport",
+        "summary": "Soldiers were deployed to speed up the handling of a backlog of luggage at Suvarnabhumi airport in Samut Prakan province on Monday after city-wide flooding prevented many ground staff reporting for work, causing hours-long flight delays over the weekend.",
+        "source": "Bangkok Post — Learning (Thailand)",
+        "published": "2026-09-29T01:09:00+00:00",
+        "region": "southeast_asia",
+        "stream": "policy"
+      },
+      {
+        "title": "Jet ski 'drifter' surfing Bangkok flood arrested, fined",
+        "url": "https://www.bangkokpost.com/learning/easy/3328095/jet-ski-drifter-surfing-bangkok-flood-arrested-fined",
+        "summary": "A man who rode a jet ski through Bangkok floodwaters, deliberately making waves along submerged Phetchaburi Road on Sunday evening, was later arrested and charged with causing a public nuisance.&nbsp;",
+        "source": "Bangkok Post — Learning (Thailand)",
+        "published": "2026-09-29T00:59:00+00:00",
+        "region": "southeast_asia",
+        "stream": "policy"
+      },
+      {
+        "title": "700,000 suffering under Bangkok floods",
+        "url": "https://www.bangkokpost.com/learning/easy/3328094/700000-suffering-under-bangkok-floods",
+        "summary": "Severe flooding in Bangkok was affecting about 329,000 families, about 700,000 people, the Bangkok Metropolitan Administration said on Monday.",
+        "source": "Bangkok Post — Learning (Thailand)",
+        "published": "2026-09-29T00:50:00+00:00",
+        "region": "southeast_asia",
+        "stream": "policy"
+      },
       {
         "title": "Correction: Research on the resource and governance effects of state-owned equity participation: Based on the analysis of the green transformation process and path of private enterprises",
         "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359539",
@@ -1155,6 +1254,24 @@
       }
     ],
     "research": [
+      {
+        "title": "Shanghai and the complexities of China’s rise",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/shanghai-and-the-complexities-of-chinas-rise/",
+        "summary": "More than 40 years after his first visit to China, Professor Robert Wade returns to find in Shanghai a city that appears to have moved from the developing world into the technological future. Its prosperity, manufacturing depth and technological ambition reveal the results of decades of strategic economic development, but its low fertility, property downturn &#8230; Continued The post Shanghai and the complexities of China’s rise first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T08:39:19+00:00",
+        "region": "europe",
+        "stream": "research"
+      },
+      {
+        "title": "AI amplifies experts, not expertise",
+        "url": "https://www.nature.com/articles/s41562-026-02604-3",
+        "summary": "",
+        "source": "Nature — Education Articles",
+        "published": "2026-09-29T00:00:00+00:00",
+        "region": "global",
+        "stream": "research"
+      },
       {
         "title": "Non-ablative dermal remodeling lasers in acquired dermal macular hyperpigmentation: A scoping review",
         "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359552",
@@ -1856,27 +1973,18 @@
         "published": "2026-09-28T04:00:00+00:00",
         "region": "global",
         "stream": "research"
-      },
-      {
-        "title": "From annotation to reasoning: Culture in language models",
-        "url": "https://arxiv.org/abs/2609.30897",
-        "summary": "arXiv:2609.30897v1 Announce Type: new Abstract: How should we evaluate language models when more than one interpretation can be right? Cultural benchmarks often test factual knowledge, agreement with survey responses, or recognition of a predefined meaning. These tasks leave open whether a model can explain how a cultural reference works in a particular text, support a reading with evidence, or revise it after criticism. This is a question of interpretive depth, complementary to the breadth of c",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
-      },
-      {
-        "title": "ToolSearcher: Optimizing Tool Selection at Scale via Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2609.30906",
-        "summary": "arXiv:2609.30906v1 Announce Type: new Abstract: Large language models (LLMs) excel at natural language processing but struggle to interact with external environments. Tool learning provides a promising way to extend LLMs into actionable agents, where tool selection is a critical prerequisite for successful tool use. Existing work often assumes a small or predefined set of tools, leaving large-scale tool selection underexplored. Real-world repositories contain a vast and diverse array of tools, m",
-        "source": "arXiv cs.CL (Computation & Language)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "region": "global",
-        "stream": "research"
       }
     ],
     "funding": [
+      {
+        "title": "New issue of Common Knowledge explores the power of entrepreneurship",
+        "url": "https://cscuk.fcdo.gov.uk/new-issue-of-common-knowledge-explores-the-power-of-entrepreneurship/",
+        "summary": "We are delighted to launch the latest issue of Common Knowledge magazine which shines a spotlight on entrepreneurship and the role of innovation, leadership, and enterprise in driving sustainable development across the Commonwealth. The new issue brings together inspiring articles and expert insights from Commonwealth Scholars and Fellows who are leading businesses, creating jobs, and [&#8230;] The post New issue of Common Knowledge explores the power of entrepreneurship appeared first on Commonwealth Scholarship Commission in the UK .",
+        "source": "Commonwealth Scholarships",
+        "published": "2026-09-29T09:49:24+00:00",
+        "region": "global",
+        "stream": "funding"
+      },
       {
         "title": "Introducing the winners of the 2026 Alumni Community Engagement Fund",
         "url": "https://cscuk.fcdo.gov.uk/introducing-the-winners-of-the-2026-alumni-community-engagement-fund/",
@@ -1962,6 +2070,51 @@
   },
   "regions": {
     "global": [
+      {
+        "title": "The open-source AI platforms vying to become China’s Hugging Face",
+        "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "summary": "AI model platforms ModelScope and MoArk are competing to serve Chinese-speaking developers behind the Great Firewall.",
+        "source": "Rest of World",
+        "published": "2026-09-29T10:00:00+00:00",
+        "stream": "edtech",
+        "region": "global"
+      },
+      {
+        "title": "New issue of Common Knowledge explores the power of entrepreneurship",
+        "url": "https://cscuk.fcdo.gov.uk/new-issue-of-common-knowledge-explores-the-power-of-entrepreneurship/",
+        "summary": "We are delighted to launch the latest issue of Common Knowledge magazine which shines a spotlight on entrepreneurship and the role of innovation, leadership, and enterprise in driving sustainable development across the Commonwealth. The new issue brings together inspiring articles and expert insights from Commonwealth Scholars and Fellows who are leading businesses, creating jobs, and [&#8230;] The post New issue of Common Knowledge explores the power of entrepreneurship appeared first on Commonwealth Scholarship Commission in the UK .",
+        "source": "Commonwealth Scholarships",
+        "published": "2026-09-29T09:49:24+00:00",
+        "stream": "funding",
+        "region": "global"
+      },
+      {
+        "title": "PhD training should encourage ethical dissent",
+        "url": "https://www.nature.com/articles/d41586-026-03053-8",
+        "summary": "",
+        "source": "Nature — Education Articles",
+        "published": "2026-09-29T00:00:00+00:00",
+        "stream": "higher",
+        "region": "global"
+      },
+      {
+        "title": "Profiling university foreign language students in Singapore: motivations and perceptions of Spanish learners",
+        "url": "https://www.nature.com/articles/s41599-026-09147-y",
+        "summary": "",
+        "source": "Nature — Education Articles",
+        "published": "2026-09-29T00:00:00+00:00",
+        "stream": "higher",
+        "region": "global"
+      },
+      {
+        "title": "AI amplifies experts, not expertise",
+        "url": "https://www.nature.com/articles/s41562-026-02604-3",
+        "summary": "",
+        "source": "Nature — Education Articles",
+        "published": "2026-09-29T00:00:00+00:00",
+        "stream": "research",
+        "region": "global"
+      },
       {
         "title": "Non-ablative dermal remodeling lasers in acquired dermal macular hyperpigmentation: A scoping review",
         "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359552",
@@ -2276,54 +2429,18 @@
         "published": "2026-09-28T04:00:00+00:00",
         "stream": "research",
         "region": "global"
-      },
-      {
-        "title": "How can AI accelerate the green transition?",
-        "url": "https://arxiv.org/abs/2609.31188",
-        "summary": "arXiv:2609.31188v1 Announce Type: new Abstract: In his essay The Gift, published in 1925, the sociologist Marcel Mauss emphasised the 'total' scope of the phenomenon of gift-and counter-gift-giving, noting that it 'expresses, simultaneously and all at once, all manner of institutions: religious, legal and moral (...)\\,; economic (...)\\,; not to mention the aesthetic phenomena to which these facts give rise (...).'' The emergence of artificial intelligence (AI), which is suddenly and profoundly d",
-        "source": "arXiv cs.CY (Computers & Society)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Research with AI Agents: How Agentic Systems Are Changing Scientific Work",
-        "url": "https://arxiv.org/abs/2609.31219",
-        "summary": "arXiv:2609.31219v1 Announce Type: new Abstract: Background. Agentic AI systems independently decompose tasks such as literature search, data analysis, and programming into subtasks, search the web, access databases, and execute code. This allows them to perform digital research tasks at high speed. Objectives. Under what conditions does the use of agentic systems produce reliable efficiency gains, and which tasks remain with researchers? Materials and methods. Summary of current studies on liter",
-        "source": "arXiv cs.CY (Computers & Society)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Agentic Economies for Autonomous Scientific Discovery",
-        "url": "https://arxiv.org/abs/2609.31562",
-        "summary": "arXiv:2609.31562v1 Announce Type: new Abstract: Recent advances in agentic Artificial Intelligence (AI) systems have marked a shift in AI for Science: moving away from the use of individual AI systems for narrow task execution, toward multi-agent systems capable of orchestrating complex, end-to-end research workflows and performing (semi-)autonomous scientific discovery. The development of multi-agent AI-for-science systems has primarily focused on improving the cognitive capabilities of AI syst",
-        "source": "arXiv cs.CY (Computers & Society)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Multidimensional Political Attitudes and Polarization Across 141 Countries",
-        "url": "https://arxiv.org/abs/2609.30320",
-        "summary": "arXiv:2609.30320v1 Announce Type: cross Abstract: Societies worldwide are described as increasingly polarized, yet issue polarization -- how divided a society is over political positions -- has been measured almost entirely on a single left-right axis developed in Western democracies. Whether that axis describes political division elsewhere is largely untested, because no survey measures political attitudes on multiple dimensions across many countries. Here, we harmonize 1,299 items from nine cr",
-        "source": "arXiv cs.CY (Computers & Society)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
-      },
-      {
-        "title": "Fake News Theories: Harnessing Disciplinary Insights for Computational Modeling, Detection, and Explanation",
-        "url": "https://arxiv.org/abs/2609.30427",
-        "summary": "arXiv:2609.30427v1 Announce Type: cross Abstract: Disinformation research has produced increasingly accurate automated fake-news detectors, but many systems remain difficult to interpret and are weakly connected to established theories of persuasion, credibility, and human judgment. In this paper, we develop a theory-informed computational framework that translates cross-disciplinary theories of fake news into measurable features for automated detection and explanation through statistical techni",
-        "source": "arXiv cs.CY (Computers & Society)",
-        "published": "2026-09-28T04:00:00+00:00",
-        "stream": "research",
-        "region": "global"
       }
     ],
     "south_asia": [
+      {
+        "title": "Telangana minister Vivek Venkataswamy highlights govt&#039;s education initiatives",
+        "url": "https://education.economictimes.indiatimes.com/news/government-policies/telangana-minister-vivek-venkataswamy-highlights-govts-education-initiatives/134555530",
+        "summary": "The Telangana government has expanded its focus on nutrition alongside school education. In September, the state government said it was providing breakfast and milk to students in government schools and had expanded the midday meal programme up to Class 12. The government has also announced an allocation of Rs 927 crore for breakfast and milk for students.",
+        "source": "Economic Times — Education (India)",
+        "published": "2026-09-29T04:22:56+00:00",
+        "stream": "policy",
+        "region": "south_asia"
+      },
       {
         "title": "MP issues 851 compassionate appointment orders for dependants of deceased school staff",
         "url": "https://education.economictimes.indiatimes.com/news/government-policies/mp-issues-851-compassionate-appointment-orders-for-dependants-of-deceased-school-staff/134537335",
@@ -2754,6 +2871,33 @@
     "mena": [],
     "southeast_asia": [
       {
+        "title": "Soldiers help clear baggage backlog at airport",
+        "url": "https://www.bangkokpost.com/learning/easy/3328098/soldiers-help-clear-baggage-backlog-at-airport",
+        "summary": "Soldiers were deployed to speed up the handling of a backlog of luggage at Suvarnabhumi airport in Samut Prakan province on Monday after city-wide flooding prevented many ground staff reporting for work, causing hours-long flight delays over the weekend.",
+        "source": "Bangkok Post — Learning (Thailand)",
+        "published": "2026-09-29T01:09:00+00:00",
+        "stream": "policy",
+        "region": "southeast_asia"
+      },
+      {
+        "title": "Jet ski 'drifter' surfing Bangkok flood arrested, fined",
+        "url": "https://www.bangkokpost.com/learning/easy/3328095/jet-ski-drifter-surfing-bangkok-flood-arrested-fined",
+        "summary": "A man who rode a jet ski through Bangkok floodwaters, deliberately making waves along submerged Phetchaburi Road on Sunday evening, was later arrested and charged with causing a public nuisance.&nbsp;",
+        "source": "Bangkok Post — Learning (Thailand)",
+        "published": "2026-09-29T00:59:00+00:00",
+        "stream": "policy",
+        "region": "southeast_asia"
+      },
+      {
+        "title": "700,000 suffering under Bangkok floods",
+        "url": "https://www.bangkokpost.com/learning/easy/3328094/700000-suffering-under-bangkok-floods",
+        "summary": "Severe flooding in Bangkok was affecting about 329,000 families, about 700,000 people, the Bangkok Metropolitan Administration said on Monday.",
+        "source": "Bangkok Post — Learning (Thailand)",
+        "published": "2026-09-29T00:50:00+00:00",
+        "stream": "policy",
+        "region": "southeast_asia"
+      },
+      {
         "title": "Flood disaster zones in Nonthaburi, more rain forecast",
         "url": "https://www.bangkokpost.com/learning/easy/3327418/flood-disaster-zones-in-nonthaburi-more-rain-forecast",
         "summary": "Nonthaburi declared Muang and Pak Kret districts flood disaster zones on Sunday after days of rain and rising river levels sent water pouring through residents' homes.",
@@ -2929,6 +3073,24 @@
     ],
     "east_asia": [],
     "europe": [
+      {
+        "title": "Shanghai and the complexities of China’s rise",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/shanghai-and-the-complexities-of-chinas-rise/",
+        "summary": "More than 40 years after his first visit to China, Professor Robert Wade returns to find in Shanghai a city that appears to have moved from the developing world into the technological future. Its prosperity, manufacturing depth and technological ambition reveal the results of decades of strategic economic development, but its low fertility, property downturn &#8230; Continued The post Shanghai and the complexities of China’s rise first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T08:39:19+00:00",
+        "stream": "research",
+        "region": "europe"
+      },
+      {
+        "title": "The next step for European VET: turning AI competence into teacher practice",
+        "url": "https://efvet.org/the-next-step-for-european-vet-turning-ai-competence-into-teacher-practice/",
+        "summary": "Europe is not starting from zero. We already have strong foundations for digital competence, VET development and responsible technology. But as AI rapidly transforms both education and the workplace, a new challenge is becoming increasingly urgent: How do we turn these foundations into practical AI competence for VET teachers and trainers? Knowing how to use [&#8230;] The post The next step for European VET: turning AI competence into teacher practice appeared first on EfVET .",
+        "source": "EfVET — European Forum of Technical & Vocational Education",
+        "published": "2026-09-29T08:02:30+00:00",
+        "stream": "tvet",
+        "region": "europe"
+      },
       {
         "title": "Basque VET Centres Scale Immersive Learning Across the Network",
         "url": "https://efvet.org/basque-vet-centres-scale-immersive-learning-across-the-network/",
@@ -3218,7 +3380,35 @@
         "region": "europe"
       }
     ],
-    "north_america": [],
+    "north_america": [
+      {
+        "title": "High costs, dwindling enrollment: What happened to one school district after a state takeover",
+        "url": "https://hechingerreport.org/houston-isd-state-takeover-high-costs-enrollment/",
+        "summary": "This story was produced by The Texas Tribune and republished with permission.&#160; HOUSTON —&#160; Fonville Middle School hired learning coaches to help students falling behind in the classroom. It bought new state-of-the-art technology, such as webcams and smart boards. The school days are longer. All that aggressive change earned the north Houston school its first [&#8230;] The post High costs, dwindling enrollment: What happened to one school district after a state takeover appeared first on The Hechinger Report .",
+        "source": "Hechinger Report",
+        "published": "2026-09-29T09:00:00+00:00",
+        "stream": "edtech",
+        "region": "north_america"
+      },
+      {
+        "title": "From kindergarten to disciplinary school: Texas sends kids as young as 6 to harsh alternative campuses",
+        "url": "https://hechingerreport.org/texas-sends-kids-to-harsh-daep-alternative-campuses/",
+        "summary": "The most notable thing about Melissa’s son’s 6th birthday should have been the vacation the family took. Instead, it was the letter waiting for them when they returned home.&#160; Her child was assigned to the disciplinary campus in their school district in McKinney, Texas, for 30 days, the April 2024 letter told them, over allegations [&#8230;] The post From kindergarten to disciplinary school: Texas sends kids as young as 6 to harsh alternative campuses appeared first on The Hechinger Report .",
+        "source": "Hechinger Report",
+        "published": "2026-09-29T05:00:00+00:00",
+        "stream": "ece",
+        "region": "north_america"
+      },
+      {
+        "title": "STUDENT VOICE: Higher education was never built for nontraditional students like me. Here’s why it can and should be",
+        "url": "https://hechingerreport.org/student-voice-higher-education-nontraditional-students/",
+        "summary": "When I graduated from college in December 2025, I crossed a stage I once worried I would never see. In the months since, I have spent a lot of time thinking about how many students start but never finish. Just six in 10 students earn a degree within six years. While that number is bad [&#8230;] The post STUDENT VOICE: Higher education was never built for nontraditional students like me. Here’s why it can and should be appeared first on The Hechinger Report .",
+        "source": "Hechinger Report",
+        "published": "2026-09-29T05:00:00+00:00",
+        "stream": "ece",
+        "region": "north_america"
+      }
+    ],
     "australia_pacific": []
   }
 }
