@@ -1,17 +1,8 @@
 # ================================================================
-# EduRadar — Master Sources List (Comprehensive Edition)
-# ================================================================
-# Fields:
-#   name   : display label
-#   url    : RSS / Atom feed URL
-#   type   : rss (all use standard RSS/Atom)
-#   hint   : fallback stream if keyword rules don't match
-#            (fln | ece | k12 | secondary | higher | tvet |
-#             labor | teacher | edtech | policy | research | funding)
-#   region : geographic tag
-#            (global | south_asia | east_africa | west_africa |
-#             mena | southeast_asia | latin_america | east_asia |
-#             europe | north_america | australia_pacific)
+# EduRadar — sources.yaml (Comprehensive Global Edition)
+# Focus: AI in Education, Skills, Workforce, TVET
+# Coverage: Global with deep Global South, Europe, Asia, Africa,
+#           Latin America, major media, academic journals
 # ================================================================
 
 sources:
@@ -21,40 +12,46 @@ sources:
   # ════════════════════════════════════════════════════════════════
 
   - name: World Bank — Education Blog
-    url: https://blogs.worldbank.org/education/feed
+    url: https://blogs.worldbank.org/en/topic/education/feed
     type: rss
     hint: policy
     region: global
 
   - name: World Bank — Jobs & Development Blog
-    url: https://blogs.worldbank.org/jobs/feed
+    url: https://blogs.worldbank.org/en/topic/jobs/feed
     type: rss
     hint: labor
     region: global
 
   - name: World Bank — Digital Development Blog
-    url: https://blogs.worldbank.org/digital-development/feed
+    url: https://blogs.worldbank.org/en/topic/digital-development/feed
     type: rss
     hint: edtech
     region: global
 
-  - name: World Bank — End Poverty in South Asia Blog
-    url: https://blogs.worldbank.org/endpovertyinsouthasia/feed
+  - name: World Bank — South Asia Blog
+    url: https://blogs.worldbank.org/en/topic/south-asia/feed
     type: rss
     hint: policy
     region: south_asia
 
-  - name: World Bank — Africa Can End Poverty Blog
-    url: https://blogs.worldbank.org/africacan/feed
+  - name: World Bank — Africa Blog
+    url: https://blogs.worldbank.org/en/topic/africa/feed
     type: rss
     hint: policy
     region: east_africa
 
-  - name: World Bank — Arab Voices Blog
-    url: https://blogs.worldbank.org/arabvoices/feed
+  - name: World Bank — MENA Blog
+    url: https://blogs.worldbank.org/en/topic/mena/feed
     type: rss
     hint: policy
     region: mena
+
+  - name: World Bank — Latin America Blog
+    url: https://blogs.worldbank.org/en/topic/latin-america/feed
+    type: rss
+    hint: policy
+    region: latin_america
 
   - name: World Bank — Open Knowledge (Education)
     url: https://openknowledge.worldbank.org/feed?subject=Education
@@ -62,32 +59,14 @@ sources:
     hint: research
     region: global
 
-  - name: World Bank — Human Capital Project Blog
-    url: https://blogs.worldbank.org/education/tag/human-capital/feed
-    type: rss
-    hint: policy
-    region: global
-
   # ════════════════════════════════════════════════════════════════
   # 2. UNITED NATIONS SYSTEM
   # ════════════════════════════════════════════════════════════════
-
-  - name: UNESCO — Education News
-    url: https://www.unesco.org/en/rss/education
-    type: rss
-    hint: policy
-    region: global
 
   - name: UNESCO — World Education Blog (GEM Report)
     url: https://world-education-blog.org/feed/
     type: rss
     hint: research
-    region: global
-
-  - name: UNESCO — IIEP (Education Planning)
-    url: https://www.iiep.unesco.org/en/rss.xml
-    type: rss
-    hint: policy
     region: global
 
   - name: UNESCO — UNEVOC (TVET)
@@ -102,38 +81,38 @@ sources:
     hint: teacher
     region: global
 
-  - name: UNICEF — Education
-    url: https://www.unicef.org/feeds/education
+  - name: UNESCO — IESALC (Higher Ed Latin America)
+    url: https://www.iesalc.unesco.org/en/feed/
     type: rss
-    hint: policy
-    region: global
+    hint: higher
+    region: latin_america
 
-  - name: UNICEF — Press Releases
-    url: https://www.unicef.org/press-releases/feed
-    type: rss
-    hint: policy
-    region: global
-
-  - name: ILO — News
-    url: https://www.ilo.org/rss/english/news.xml
+  - name: ILO — World of Work News
+    url: https://www.ilo.org/rss/en/news.xml
     type: rss
     hint: labor
     region: global
 
-  - name: ILO — Skills & Employability
-    url: https://www.ilo.org/rss/english/skills.xml
+  - name: ILO — Future of Work
+    url: https://www.ilo.org/rss/en/future-of-work.xml
     type: rss
-    hint: tvet
+    hint: labor
     region: global
 
-  - name: UNDP — Human Development Blog
+  - name: UNICEF — Education
+    url: https://www.unicef.org/press-releases/rss
+    type: rss
+    hint: policy
+    region: global
+
+  - name: UNDP — Human Development
     url: https://hdr.undp.org/feed
     type: rss
     hint: research
     region: global
 
-  - name: UN Women — Education & Skills
-    url: https://www.unwomen.org/en/rss-feeds/news
+  - name: UN Women — News
+    url: https://www.unwomen.org/en/news/stories/rss
     type: rss
     hint: policy
     region: global
@@ -142,11 +121,35 @@ sources:
   # 3. BILATERAL DONORS
   # ════════════════════════════════════════════════════════════════
 
-  - name: USAID — Education News
-    url: https://www.usaid.gov/rss/news-information/press-releases
+  - name: FCDO (UK) — Education & Development
+    url: https://www.gov.uk/search/news-and-communications.atom?keywords=education&organisations[]=foreign-commonwealth-development-office
     type: rss
     hint: policy
     region: global
+
+  - name: JICA (Japan) — Research Institute
+    url: https://www.jica.go.jp/english/jica_ri/news/rss/index.xml
+    type: rss
+    hint: research
+    region: global
+
+  - name: JICA (Japan) — Press Releases
+    url: https://www.jica.go.jp/english/news/press/rss/index.xml
+    type: rss
+    hint: policy
+    region: global
+
+  - name: KOICA (South Korea) — News
+    url: https://www.koica.go.kr/sites/koica_en/rss/news.do
+    type: rss
+    hint: policy
+    region: global
+
+  - name: Norad (Norway) — Aid Results
+    url: https://www.norad.no/en/front/rss/
+    type: rss
+    hint: policy
+    region: europe
 
   - name: USAID — Learning Lab
     url: https://usaidlearninglab.org/feed
@@ -154,99 +157,39 @@ sources:
     hint: research
     region: global
 
-  - name: FCDO (UK) — Education & Skills
-    url: https://www.gov.uk/search/news-and-communications.atom?keywords=education&organisations[]=foreign-commonwealth-development-office
-    type: rss
-    hint: policy
-    region: global
-
-  - name: GIZ (Germany) — Education News
-    url: https://www.giz.de/en/rss/newsrss.xml
-    type: rss
-    hint: policy
-    region: global
-
-  - name: AFD (France) — Education
-    url: https://www.afd.fr/en/rss/education
-    type: rss
-    hint: policy
-    region: global
-
-  - name: JICA (Japan) — Education
-    url: https://www.jica.go.jp/english/news/rss/index.xml
-    type: rss
-    hint: policy
-    region: global
-
-  - name: KOICA (South Korea) — Education
-    url: https://www.koica.go.kr/sites/koica_en/rss/news.do
-    type: rss
-    hint: policy
-    region: global
-
-  - name: Sida (Sweden) — Development News
-    url: https://www.sida.se/en/rss.xml
-    type: rss
-    hint: policy
-    region: global
-
-  - name: Global Affairs Canada — Education
-    url: https://www.international.gc.ca/world-monde/funding-financement/rss/education-rss.aspx
-    type: rss
-    hint: policy
-    region: global
-
-  - name: Australian DFAT — Education
-    url: https://www.dfat.gov.au/rss/development.xml
+  - name: Australian DFAT — Development
+    url: https://www.dfat.gov.au/rss/dfat-news.xml
     type: rss
     hint: policy
     region: australia_pacific
 
   # ════════════════════════════════════════════════════════════════
-  # 4. MULTILATERAL DEVELOPMENT BANKS & REGIONAL BODIES
+  # 4. MULTILATERAL DEVELOPMENT BANKS
   # ════════════════════════════════════════════════════════════════
 
-  - name: ADB — Education Sector
-    url: https://www.adb.org/rss/sector/education
-    type: rss
-    hint: policy
-    region: global
-
-  - name: ADB — Blog
-    url: https://blogs.adb.org/feed
+  - name: ADB — Education Blog
+    url: https://blogs.adb.org/category/education/feed
     type: rss
     hint: policy
     region: southeast_asia
 
-  - name: IDB — Education Blog (English)
+  - name: IDB — Education Blog
     url: https://blogs.iadb.org/educacion/en/feed/
     type: rss
     hint: policy
     region: latin_america
 
-  - name: AfDB — Blog
-    url: https://blogs.afdb.org/feed
-    type: rss
-    hint: policy
-    region: east_africa
-
   - name: GPE — Global Partnership for Education
-    url: https://www.globalpartnership.org/rss.xml
+    url: https://www.globalpartnership.org/content/news/rss.xml
     type: rss
     hint: funding
     region: global
 
-  - name: Education Commission (International)
+  - name: Education Commission
     url: https://educationcommission.org/feed/
     type: rss
     hint: policy
     region: global
-
-  - name: Cedefop — European TVET Centre
-    url: https://www.cedefop.europa.eu/en/rss/news
-    type: rss
-    hint: tvet
-    region: europe
 
   - name: ETF — European Training Foundation
     url: https://www.etf.europa.eu/en/rss.xml
@@ -254,26 +197,118 @@ sources:
     hint: tvet
     region: europe
 
-  - name: EURACTIV — Education
-    url: https://www.euractiv.com/section/education/feed/
+  # ════════════════════════════════════════════════════════════════
+  # 5. WORLD ECONOMIC FORUM
+  # ════════════════════════════════════════════════════════════════
+
+  - name: WEF — Education & Skills Stories
+    url: https://www.weforum.org/agenda/education/rss/
     type: rss
-    hint: policy
-    region: europe
+    hint: labor
+    region: global
 
-  # ════════════════════════════════════════════════════════════════
-  # 5. MAJOR PRIVATE FOUNDATIONS
-  # ════════════════════════════════════════════════════════════════
+  - name: WEF — Future of Jobs & Work
+    url: https://www.weforum.org/agenda/jobs-and-the-future-of-work/rss/
+    type: rss
+    hint: labor
+    region: global
 
-  - name: Gates Foundation — Education
-    url: https://www.gatesfoundation.org/ideas/rss?category=education
+  - name: WEF — Technology & Innovation
+    url: https://www.weforum.org/agenda/emerging-technologies/rss/
+    type: rss
+    hint: edtech
+    region: global
+
+  - name: WEF — Global Risks & Geopolitics
+    url: https://www.weforum.org/agenda/economy-and-growth/rss/
     type: rss
     hint: policy
     region: global
 
-  - name: Gates Notes — Education
-    url: https://www.gatesnotes.com/rss/education
+  # ════════════════════════════════════════════════════════════════
+  # 6. MAJOR GLOBAL MEDIA HOUSES (education-gated in fetch.py)
+  # ════════════════════════════════════════════════════════════════
+
+  - name: BBC — Education
+    url: https://feeds.bbci.co.uk/news/education/rss.xml
+    type: rss
+    hint: policy
+    region: global
+
+  - name: BBC — Business & Work
+    url: https://feeds.bbci.co.uk/news/business/rss.xml
+    type: rss
+    hint: labor
+    region: global
+
+  - name: The Guardian — Education
+    url: https://www.theguardian.com/education/rss
+    type: rss
+    hint: policy
+    region: global
+
+  - name: The Guardian — Technology
+    url: https://www.theguardian.com/technology/rss
     type: rss
     hint: edtech
+    region: global
+
+  - name: New York Times — Education
+    url: https://rss.nytimes.com/services/xml/rss/nyt/Education.xml
+    type: rss
+    hint: policy
+    region: north_america
+
+  - name: New York Times — Technology
+    url: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+    type: rss
+    hint: edtech
+    region: north_america
+
+  - name: Financial Times — Education
+    url: https://www.ft.com/education?format=rss
+    type: rss
+    hint: higher
+    region: global
+
+  - name: The Economist — Education
+    url: https://www.economist.com/education/rss.xml
+    type: rss
+    hint: policy
+    region: global
+
+  - name: The Independent — Education
+    url: https://www.independent.co.uk/news/education/rss
+    type: rss
+    hint: policy
+    region: europe
+
+  - name: Al Jazeera — News (education-gated)
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    type: rss
+    hint: policy
+    region: global
+
+  - name: SciDev.Net — Education & Skills
+    url: https://www.scidev.net/global/rss/
+    type: rss
+    hint: research
+    region: global
+
+  - name: Global Schools Forum — News
+    url: https://www.globalschoolsforum.org/feed/
+    type: rss
+    hint: policy
+    region: global
+
+  # ════════════════════════════════════════════════════════════════
+  # 7. MAJOR FOUNDATIONS
+  # ════════════════════════════════════════════════════════════════
+
+  - name: Gates Foundation — Education
+    url: https://www.gatesfoundation.org/ideas/articles/rss?category=education
+    type: rss
+    hint: policy
     region: global
 
   - name: Hewlett Foundation — Education
@@ -282,32 +317,20 @@ sources:
     hint: research
     region: global
 
-  - name: Lumina Foundation — News & Views
-    url: https://www.luminafoundation.org/feeds/rss/
+  - name: Lumina Foundation — News
+    url: https://www.luminafoundation.org/news-and-views/feed/
     type: rss
     hint: higher
     region: north_america
 
-  - name: Mastercard Foundation — News
-    url: https://mastercardfdn.org/feed/
+  - name: Mastercard Foundation — Blog
+    url: https://mastercardfdn.org/blog/feed/
     type: rss
     hint: funding
     region: east_africa
 
-  - name: Open Society Foundations — Education
-    url: https://www.opensocietyfoundations.org/newsroom/rss
-    type: rss
-    hint: policy
-    region: global
-
-  - name: MacArthur Foundation — Education
-    url: https://www.macfound.org/press/rss/?category=education
-    type: rss
-    hint: funding
-    region: global
-
-  - name: Aga Khan Foundation — Education
-    url: https://www.akdn.org/rss/education
+  - name: Open Society Foundations — News
+    url: https://www.opensocietyfoundations.org/feeds/latest
     type: rss
     hint: policy
     region: global
@@ -324,12 +347,18 @@ sources:
     hint: ece
     region: global
 
+  - name: Aga Khan Foundation — News
+    url: https://www.akdn.org/press-release/rss
+    type: rss
+    hint: policy
+    region: south_asia
+
   # ════════════════════════════════════════════════════════════════
-  # 6. LEADING NGOS & IMPLEMENTERS
+  # 8. LEADING NGOs & IMPLEMENTERS
   # ════════════════════════════════════════════════════════════════
 
   - name: Room to Read — Blog
-    url: https://www.roomtoread.org/the-latest/blog/rss/
+    url: https://www.roomtoread.org/blog/feed/
     type: rss
     hint: fln
     region: global
@@ -340,28 +369,10 @@ sources:
     hint: fln
     region: south_asia
 
-  - name: Save the Children — Education
-    url: https://www.savethechildren.org/us/about-us/media-and-news/rss
+  - name: Plan International — News
+    url: https://plan-international.org/feed/
     type: rss
     hint: policy
-    region: global
-
-  - name: Plan International — Education
-    url: https://plan-international.org/feed/?category=education
-    type: rss
-    hint: policy
-    region: global
-
-  - name: Oxfam — Education Blog
-    url: https://oxfamblogs.org/fp2p/feed/
-    type: rss
-    hint: policy
-    region: global
-
-  - name: Education International — News
-    url: https://www.ei-ie.org/en/rss/news
-    type: rss
-    hint: teacher
     region: global
 
   - name: Results for Development (R4D)
@@ -370,126 +381,216 @@ sources:
     hint: research
     region: global
 
-  - name: RTI International — Education
-    url: https://www.rti.org/rss/focus-area/international-education
-    type: rss
-    hint: research
-    region: global
-
-  - name: FHI 360 — Education
-    url: https://www.fhi360.org/rss/education
-    type: rss
-    hint: policy
-    region: global
-
   - name: EdTech Hub
     url: https://edtechhub.org/feed/
     type: rss
     hint: edtech
     region: global
 
-  - name: T4 Education
+  - name: T4 Education — Teacher News
     url: https://t4.education/feed/
     type: rss
-    hint: policy
+    hint: teacher
     region: global
 
-  - name: Camfed — Blog
+  - name: FAWE — African Women Educationalists
+    url: https://fawe.org/feed/
+    type: rss
+    hint: policy
+    region: east_africa
+
+  - name: CAMFED — Girls Education
     url: https://camfed.org/feed/
     type: rss
     hint: policy
     region: east_africa
 
-  - name: TaRL Africa (Teaching at Right Level)
-    url: https://www.tarlkenya.org/feed/
+  - name: UKFIET — International Education
+    url: https://www.ukfiet.org/feed/
     type: rss
-    hint: fln
-    region: east_africa
+    hint: research
+    region: global
 
-  - name: Uwezo East Africa
-    url: https://www.uwezo.net/feed/
+  - name: Young Lives — Research
+    url: https://www.younglives.org.uk/news/rss
     type: rss
-    hint: fln
-    region: east_africa
+    hint: research
+    region: global
 
-  - name: HakiElimu — Tanzania
-    url: https://www.hakielimu.org/feed/
+  - name: Development Pathways — Blog
+    url: https://www.developmentpathways.co.uk/feed/
+    type: rss
+    hint: research
+    region: global
+
+  - name: Oxfam Policy & Practice — Blog
+    url: https://policy-practice.oxfam.org/feed/
+    type: rss
+    hint: policy
+    region: global
+
+  - name: Save the Children — International
+    url: https://www.savethechildren.net/news/rss
+    type: rss
+    hint: policy
+    region: global
+
+  # ════════════════════════════════════════════════════════════════
+  # 9. THINK TANKS & RESEARCH INSTITUTES
+  # ════════════════════════════════════════════════════════════════
+
+  - name: Brookings — Education Blog
+    url: https://www.brookings.edu/blog/brown-center-chalkboard/feed/
+    type: rss
+    hint: research
+    region: global
+
+  - name: Brookings — Education Plus Development
+    url: https://www.brookings.edu/blog/education-plus-development/feed/
+    type: rss
+    hint: research
+    region: global
+
+  - name: Brookings — Future of Work
+    url: https://www.brookings.edu/blog/the-avenue/feed/
+    type: rss
+    hint: labor
+    region: global
+
+  - name: Brookings — Africa in Focus
+    url: https://www.brookings.edu/blog/africa-in-focus/feed/
     type: rss
     hint: policy
     region: east_africa
 
-  - name: Aga Khan University — News
-    url: https://www.aku.edu/news/rss
-    type: rss
-    hint: higher
-    region: south_asia
-
-  # ════════════════════════════════════════════════════════════════
-  # 7. UNIVERSITY RESEARCH CENTRES
-  # ════════════════════════════════════════════════════════════════
-
-  # — Stanford —
-  - name: Stanford GSE — EdCorner Blog
-    url: https://ed.stanford.edu/news/feed
+  - name: RAND — Education Research
+    url: https://www.rand.org/pubs/rss/education.xml
     type: rss
     hint: research
-    region: north_america
+    region: global
 
-  - name: Stanford CEPA — Center for Education Policy Analysis
-    url: https://cepa.stanford.edu/news/feed
+  - name: J-PAL — Poverty Action Lab
+    url: https://www.povertyactionlab.org/feed/blog
     type: rss
     hint: research
-    region: north_america
+    region: global
 
-  - name: Stanford Accelerator for Learning
-    url: https://acceleratelearning.stanford.edu/feed/
-    type: rss
-    hint: edtech
-    region: north_america
-
-  # — Harvard —
-  - name: Harvard GSE — Usable Knowledge
-    url: https://www.gse.harvard.edu/ideas/usable-knowledge/feed
+  - name: RISE Programme
+    url: https://riseprogramme.org/blog/feed
     type: rss
     hint: research
-    region: north_america
+    region: global
 
-  - name: Harvard CEPR — Research Matters
-    url: https://cepr.harvard.edu/feed
-    type: rss
-    hint: research
-    region: north_america
-
-  - name: Harvard Center on the Developing Child
-    url: https://developingchild.harvard.edu/feed/
-    type: rss
-    hint: ece
-    region: north_america
-
-  # — MIT —
-  - name: MIT J-WEL (Jameel World Education Lab)
-    url: https://jwel.mit.edu/feed
-    type: rss
-    hint: edtech
-    region: north_america
-
-  - name: MIT Open Learning — Blog
-    url: https://openlearning.mit.edu/news-and-events/news/feed
-    type: rss
-    hint: edtech
-    region: north_america
-
-  # — Oxford —
-  - name: Oxford Education — Research Blog
-    url: https://www.education.ox.ac.uk/feed/
+  - name: Education Endowment Foundation
+    url: https://educationendowmentfoundation.org.uk/news/feed
     type: rss
     hint: research
     region: europe
 
-  - name: Oxford SKOPE — Skills & Knowledge
-    url: https://www.skope.ox.ac.uk/feed/
+  - name: Learning Policy Institute
+    url: https://learningpolicyinstitute.org/news/feed
+    type: rss
+    hint: policy
+    region: north_america
+
+  - name: CGD — Center for Global Development
+    url: https://www.cgdev.org/rss.xml
+    type: rss
+    hint: research
+    region: global
+
+  - name: ODI — Overseas Development Institute
+    url: https://odi.org/en/latest/rss.xml
+    type: rss
+    hint: research
+    region: global
+
+  - name: NBER — Working Papers
+    url: https://www.nber.org/rss/new_working_papers.xml
+    type: rss
+    hint: research
+    region: global
+
+  - name: McKinsey — Education Insights
+    url: https://www.mckinsey.com/industries/education/our-insights/rss
     type: rss
     hint: labor
+    region: global
+
+  - name: McKinsey Global Institute
+    url: https://www.mckinsey.com/mgi/overview/rss
+    type: rss
+    hint: labor
+    region: global
+
+  - name: The Conversation — Education
+    url: https://theconversation.com/education/feed
+    type: rss
+    hint: research
+    region: global
+
+  - name: NORRAG — Education & Development
+    url: https://www.norrag.org/feed/
+    type: rss
+    hint: research
+    region: europe
+
+  - name: CIPPEC — Education (Argentina)
+    url: https://www.cippec.org/feed/?cat=educacion
+    type: rss
+    hint: research
+    region: latin_america
+
+  - name: SUMMA — Education Research Latin America
+    url: https://www.summaedu.org/en/feed/
+    type: rss
+    hint: research
+    region: latin_america
+
+  - name: Argentinos por la Educación
+    url: https://argentinosporlaeducacion.org/feed/
+    type: rss
+    hint: research
+    region: latin_america
+
+  # ════════════════════════════════════════════════════════════════
+  # 10. UNIVERSITY RESEARCH CENTRES
+  # ════════════════════════════════════════════════════════════════
+
+  - name: Stanford GSE — News
+    url: https://ed.stanford.edu/news/rss.xml
+    type: rss
+    hint: research
+    region: north_america
+
+  - name: Stanford HAI — Human-Centered AI
+    url: https://hai.stanford.edu/news/feed
+    type: rss
+    hint: edtech
+    region: north_america
+
+  - name: Harvard GSE — News
+    url: https://www.gse.harvard.edu/news/rss
+    type: rss
+    hint: research
+    region: north_america
+
+  - name: Harvard Center on Developing Child
+    url: https://developingchild.harvard.edu/news/rss/
+    type: rss
+    hint: ece
+    region: north_america
+
+  - name: MIT Open Learning — Blog
+    url: https://openlearning.mit.edu/rss.xml
+    type: rss
+    hint: edtech
+    region: north_america
+
+  - name: Oxford Education — Research
+    url: https://www.education.ox.ac.uk/news/feed/
+    type: rss
+    hint: research
     region: europe
 
   - name: Oxford Policy Management — Blog
@@ -498,212 +599,114 @@ sources:
     hint: policy
     region: global
 
-  # — Cambridge —
-  - name: Cambridge Faculty of Education — Blog
-    url: https://www.educ.cam.ac.uk/feed/
+  - name: UCL Institute of Education — News
+    url: https://www.ucl.ac.uk/ioe/news/rss
     type: rss
     hint: research
     region: europe
 
-  - name: Cambridge REAL Centre (Equitable Access)
-    url: https://www.educ.cam.ac.uk/centres/real/feed/
-    type: rss
-    hint: research
-    region: europe
-
-  # — UCL —
-  - name: UCL Institute of Education — Blog
-    url: https://www.ucl.ac.uk/ioe/feed
-    type: rss
-    hint: research
-    region: europe
-
-  # — LSE —
   - name: LSE International Development Blog
     url: https://blogs.lse.ac.uk/internationaldevelopment/feed/
     type: rss
     hint: research
     region: europe
 
-  - name: LSE Education Blog
-    url: https://blogs.lse.ac.uk/education/feed/
-    type: rss
-    hint: research
-    region: europe
-
-  # — Other leading universities —
-  - name: Teachers College Columbia — News
-    url: https://www.tc.columbia.edu/news/rss.xml
-    type: rss
-    hint: research
-    region: north_america
-
-  - name: Vanderbilt Peabody — Education News
-    url: https://peabody.vanderbilt.edu/research/news/feed/
-    type: rss
-    hint: research
-    region: north_america
-
-  - name: University of Toronto OISE — Blog
-    url: https://www.oise.utoronto.ca/oise/News_and_Events/feed.html
-    type: rss
-    hint: research
-    region: north_america
-
-  - name: University of Melbourne — Education Research
-    url: https://pursuit.unimelb.edu.au/education/rss
-    type: rss
-    hint: research
-    region: australia_pacific
-
-  - name: ACER — Education Research
-    url: https://www.acer.org/au/discover/rss
-    type: rss
-    hint: research
-    region: australia_pacific
-
-  # ════════════════════════════════════════════════════════════════
-  # 8. THINK TANKS & RESEARCH INSTITUTES
-  # ════════════════════════════════════════════════════════════════
-
-  - name: Brookings — Education
-    url: https://www.brookings.edu/topics/education/feed/
-    type: rss
-    hint: research
-    region: global
-
-  - name: Brookings — Future of Work
-    url: https://www.brookings.edu/topics/future-of-work/feed/
-    type: rss
-    hint: labor
-    region: global
-
-  - name: RAND — Education & Labor
-    url: https://www.rand.org/topics/education-and-labor.xml
-    type: rss
-    hint: research
-    region: global
-
-  - name: J-PAL — Poverty Action Lab
-    url: https://www.povertyactionlab.org/rss.xml
-    type: rss
-    hint: research
-    region: global
-
-  - name: RISE Programme
-    url: https://riseprogramme.org/feed
-    type: rss
-    hint: research
-    region: global
-
-  - name: Education Endowment Foundation (EEF)
-    url: https://educationendowmentfoundation.org.uk/rss/news
-    type: rss
-    hint: research
-    region: europe
-
-  - name: Education Policy Institute (EPI)
-    url: https://epi.org.uk/feed/
+  - name: LSE South Asia Blog
+    url: https://blogs.lse.ac.uk/southasia/feed/
     type: rss
     hint: policy
-    region: europe
+    region: south_asia
 
-  - name: Learning Policy Institute
-    url: https://learningpolicyinstitute.org/feed
+  - name: LSE Latin America Blog
+    url: https://blogs.lse.ac.uk/latamcaribbean/feed/
     type: rss
     hint: policy
-    region: north_america
-
-  - name: CGD — Center for Global Development
-    url: https://www.cgdev.org/blog/feed
-    type: rss
-    hint: research
-    region: global
-
-  - name: ODI — Overseas Development Institute
-    url: https://odi.org/en/rss/publications/
-    type: rss
-    hint: research
-    region: global
-
-  - name: NBER — Working Papers (Education & Labor)
-    url: https://www.nber.org/rss/new_working_papers.xml
-    type: rss
-    hint: research
-    region: global
-
-  - name: Brookings Center for Universal Education
-    url: https://www.brookings.edu/center/center-for-universal-education/feed/
-    type: rss
-    hint: policy
-    region: global
-
-  - name: WEF — Education & Skills
-    url: https://www.weforum.org/rss/education-and-skills
-    type: rss
-    hint: labor
-    region: global
-
-  - name: WEF — Future of Jobs
-    url: https://www.weforum.org/rss/future-of-jobs
-    type: rss
-    hint: labor
-    region: global
-
-  - name: McKinsey Global Institute
-    url: https://www.mckinsey.com/mgi/rss
-    type: rss
-    hint: labor
-    region: global
-
-  - name: Population Council — Education Research
-    url: https://www.popcouncil.org/rss/research/education
-    type: rss
-    hint: research
-    region: global
-
-  - name: CIPPEC — Education (Argentina)
-    url: https://www.cippec.org/feed/?cat=educacion
-    type: rss
-    hint: research
     region: latin_america
 
-  - name: The Conversation — Education
-    url: https://theconversation.com/education/articles.atom
+  - name: Teachers College Columbia — News
+    url: https://www.tc.columbia.edu/news/rss/
     type: rss
     hint: research
-    region: global
+    region: north_america
 
-  # ════════════════════════════════════════════════════════════════
-  # 9. LABOR MARKET & SKILLS INTELLIGENCE
-  # ════════════════════════════════════════════════════════════════
-
-  - name: Lightcast — Blog
-    url: https://lightcast.io/resources/blog/feed
+  - name: ACER — Education Research (Australia)
+    url: https://www.acer.org/au/about/media/feed
     type: rss
-    hint: labor
-    region: global
-
-  - name: Burning Glass Institute
-    url: https://www.burningglassinstitute.org/feed
-    type: rss
-    hint: labor
-    region: global
-
-  - name: NCVER — Australia TVET Research
-    url: https://www.ncver.edu.au/rss/research-and-statistics.xml
-    type: rss
-    hint: tvet
+    hint: research
     region: australia_pacific
 
-  - name: City & Guilds — Research
-    url: https://www.cityandguilds.com/news/rss
+  - name: Education South Asia (Oxford/UCL)
+    url: https://educationsouthasia.com/feed/
+    type: rss
+    hint: research
+    region: south_asia
+
+  # ════════════════════════════════════════════════════════════════
+  # 11. EUROPEAN TVET & NORDIC
+  # ════════════════════════════════════════════════════════════════
+
+  - name: Cedefop — News
+    url: https://www.cedefop.europa.eu/en/rss/news
     type: rss
     hint: tvet
     region: europe
 
+  - name: Cedefop — Skills & Labour Market
+    url: https://www.cedefop.europa.eu/en/rss/skills-and-labour-market
+    type: rss
+    hint: labor
+    region: europe
+
+  - name: Cedefop — Publications
+    url: https://www.cedefop.europa.eu/en/rss/publications
+    type: rss
+    hint: research
+    region: europe
+
+  - name: BIBB — VET Repository (Germany)
+    url: https://www.vet-repository.info/feeds/recent.rss
+    type: rss
+    hint: tvet
+    region: europe
+
+  - name: Nordic Journal of Vocational Education & Training
+    url: https://njvet.ep.liu.se/index.php/njvet/gateway/plugin/WebFeedGatewayPlugin/rss2
+    type: rss
+    hint: tvet
+    region: europe
+
+  - name: EfVET — European Forum of Technical & Vocational Education
+    url: https://efvet.org/feed/
+    type: rss
+    hint: tvet
+    region: europe
+
+  - name: Nordic Council of Ministers — Education
+    url: https://www.norden.org/en/rss/education
+    type: rss
+    hint: policy
+    region: europe
+
+  - name: Schools Week (UK)
+    url: https://schoolsweek.co.uk/feed/
+    type: rss
+    hint: policy
+    region: europe
+
+  - name: TES — Times Educational Supplement
+    url: https://www.tes.com/news/rss
+    type: rss
+    hint: k12
+    region: europe
+
+  - name: EURACTIV — Education
+    url: https://www.euractiv.com/section/education/feed/
+    type: rss
+    hint: policy
+    region: europe
+
   # ════════════════════════════════════════════════════════════════
-  # 10. ACADEMIC JOURNALS & PREPRINTS
+  # 12. ACADEMIC JOURNALS
   # ════════════════════════════════════════════════════════════════
 
   - name: arXiv — cs.CY (Computers & Society)
@@ -712,20 +715,8 @@ sources:
     hint: research
     region: global
 
-  - name: arXiv — cs.CL (Computation & Language)
-    url: https://arxiv.org/rss/cs.CL
-    type: rss
-    hint: research
-    region: global
-
-  - name: Nature — Education Articles
+  - name: Nature — Education
     url: https://www.nature.com/subjects/education.rss
-    type: rss
-    hint: research
-    region: global
-
-  - name: Science — Education
-    url: https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science
     type: rss
     hint: research
     region: global
@@ -736,30 +727,72 @@ sources:
     hint: research
     region: global
 
-  - name: Comparative Education Review
-    url: https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=cer
+  - name: Computers & Education (Elsevier)
+    url: https://rss.sciencedirect.com/publication/science/03601315
+    type: rss
+    hint: edtech
+    region: global
+
+  - name: Computers & Education — AI (Elsevier)
+    url: https://rss.sciencedirect.com/publication/science/27663264
+    type: rss
+    hint: edtech
+    region: global
+
+  - name: International Journal of AI in Education (Springer)
+    url: https://link.springer.com/search.rss?search-within=Journal&facet-journal-id=40593
+    type: rss
+    hint: edtech
+    region: global
+
+  - name: British Journal of Educational Technology (Wiley)
+    url: https://onlinelibrary.wiley.com/feed/14678535/most-recent
+    type: rss
+    hint: edtech
+    region: global
+
+  - name: Journal of Education Policy (Taylor & Francis)
+    url: https://www.tandfonline.com/feed/rss/tedp20
+    type: rss
+    hint: policy
+    region: global
+
+  - name: Compare — International Education (Taylor & Francis)
+    url: https://www.tandfonline.com/feed/rss/ccom20
     type: rss
     hint: research
     region: global
 
-  - name: International Journal of Educational Development
+  - name: International Journal of Educational Development (Elsevier)
     url: https://rss.sciencedirect.com/publication/science/07380593
     type: rss
     hint: research
     region: global
 
+  - name: Learning and Instruction (Elsevier)
+    url: https://rss.sciencedirect.com/publication/science/09594752
+    type: rss
+    hint: research
+    region: global
+
+  - name: African Journals Online (AJOL) — Education
+    url: https://www.ajol.info/index.php/ajol/gateway/plugin/WebFeedGatewayPlugin/rss2?subjectClass=Education
+    type: rss
+    hint: research
+    region: east_africa
+
   - name: SSRN — Education Working Papers
-    url: https://www.ssrn.com/rn/rss/abstractsbysubject.cfm?subjectid=76
+    url: https://papers.ssrn.com/rss/hfen_jeljrnl.xml?jel=I2
     type: rss
     hint: research
     region: global
 
   # ════════════════════════════════════════════════════════════════
-  # 11. EDUCATION PRESS — GLOBAL
+  # 13. EDUCATION PRESS — GLOBAL
   # ════════════════════════════════════════════════════════════════
 
   - name: Times Higher Education
-    url: https://www.timeshighereducation.com/rss.xml
+    url: https://www.timeshighereducation.com/news/rss.xml
     type: rss
     hint: higher
     region: europe
@@ -777,19 +810,19 @@ sources:
     region: global
 
   - name: Inside Higher Ed
-    url: https://www.insidehighered.com/rss/
+    url: https://www.insidehighered.com/rss.xml
     type: rss
     hint: higher
     region: north_america
 
   - name: Chronicle of Higher Education
-    url: https://www.chronicle.com/section/news/rss
+    url: https://www.chronicle.com/rss/all
     type: rss
     hint: higher
     region: north_america
 
   - name: EdSurge
-    url: https://www.edsurge.com/news.rss
+    url: https://www.edsurge.com/feed
     type: rss
     hint: edtech
     region: north_america
@@ -801,7 +834,7 @@ sources:
     region: north_america
 
   - name: Chalkbeat
-    url: https://www.chalkbeat.org/rss/feed.xml
+    url: https://www.chalkbeat.org/feed
     type: rss
     hint: k12
     region: north_america
@@ -813,15 +846,9 @@ sources:
     region: north_america
 
   - name: Education Week
-    url: https://www.edweek.org/feeds/rss.xml
+    url: https://www.edweek.org/feed
     type: rss
     hint: k12
-    region: north_america
-
-  - name: eSchool News
-    url: https://www.eschoolnews.com/category/top-news/feed/
-    type: rss
-    hint: edtech
     region: north_america
 
   - name: MindShift (KQED)
@@ -836,8 +863,8 @@ sources:
     hint: edtech
     region: north_america
 
-  - name: HolonIQ
-    url: https://www.holoniq.com/feed/
+  - name: HolonIQ — Education Intelligence
+    url: https://www.holoniq.com/notes/feed
     type: rss
     hint: edtech
     region: global
@@ -848,17 +875,11 @@ sources:
     hint: edtech
     region: global
 
-  - name: TES — Times Educational Supplement
-    url: https://www.tes.com/news/rss
+  - name: eSchool News
+    url: https://www.eschoolnews.com/feed/
     type: rss
-    hint: k12
-    region: europe
-
-  - name: Schools Week (UK)
-    url: https://schoolsweek.co.uk/feed/
-    type: rss
-    hint: policy
-    region: europe
+    hint: edtech
+    region: north_america
 
   - name: Devex — Education
     url: https://www.devex.com/news/rss.xml?tag=education
@@ -878,8 +899,124 @@ sources:
     hint: research
     region: global
 
+  - name: EdNews Africa
+    url: https://ednews.africa/feed/
+    type: rss
+    hint: higher
+    region: east_africa
+
   # ════════════════════════════════════════════════════════════════
-  # 12. REGIONAL SOURCES — SOUTH ASIA
+  # 14. LABOR MARKET & SKILLS INTELLIGENCE
+  # ════════════════════════════════════════════════════════════════
+
+  - name: Lightcast — Blog
+    url: https://lightcast.io/blog/feed
+    type: rss
+    hint: labor
+    region: global
+
+  - name: Burning Glass Institute — Research
+    url: https://www.burningglassinstitute.org/research/feed
+    type: rss
+    hint: labor
+    region: global
+
+  - name: NCVER — Australia TVET Research
+    url: https://www.ncver.edu.au/research-and-statistics/rss
+    type: rss
+    hint: tvet
+    region: australia_pacific
+
+  - name: City & Guilds — Research
+    url: https://www.cityandguilds.com/news/rss
+    type: rss
+    hint: tvet
+    region: europe
+
+  # ════════════════════════════════════════════════════════════════
+  # 15. AI LABS (education-gated in fetch.py)
+  # ════════════════════════════════════════════════════════════════
+
+  - name: Google — The Keyword Blog
+    url: https://blog.google/rss/
+    type: rss
+    hint: edtech
+    region: global
+
+  - name: Google for Education — Blog
+    url: https://blog.google/outreach-initiatives/education/rss/
+    type: rss
+    hint: edtech
+    region: global
+
+  - name: Google DeepMind — Blog
+    url: https://deepmind.google/blog/rss.xml
+    type: rss
+    hint: research
+    region: global
+
+  - name: OpenAI — News & Research
+    url: https://openai.com/news/rss/
+    type: rss
+    hint: edtech
+    region: global
+
+  - name: Anthropic — News & Research
+    url: https://www.anthropic.com/rss.xml
+    type: rss
+    hint: research
+    region: global
+
+  - name: Microsoft Education — Blog
+    url: https://educationblog.microsoft.com/feed
+    type: rss
+    hint: edtech
+    region: global
+
+  - name: Khan Academy — Blog
+    url: https://blog.khanacademy.org/feed/
+    type: rss
+    hint: edtech
+    region: global
+
+  - name: Duolingo — Blog
+    url: https://blog.duolingo.com/rss/
+    type: rss
+    hint: edtech
+    region: global
+
+  - name: MIT Technology Review — AI
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+    type: rss
+    hint: edtech
+    region: global
+
+  - name: Stanford HAI — Human-Centered AI
+    url: https://hai.stanford.edu/news/feed
+    type: rss
+    hint: edtech
+    region: north_america
+
+  - name: Allen Institute for AI (AI2)
+    url: https://allenai.org/blog/feed
+    type: rss
+    hint: research
+    region: north_america
+
+  - name: Partnership on AI — Blog
+    url: https://partnershiponai.org/feed/
+    type: rss
+    hint: policy
+    region: global
+
+  - name: AI Now Institute
+    url: https://ainowinstitute.org/feed
+    type: rss
+    hint: policy
+    region: global
+
+  # ════════════════════════════════════════════════════════════════
+  # 16. REGIONAL — SOUTH ASIA
   # ════════════════════════════════════════════════════════════════
 
   - name: The Hindu — Education
@@ -901,7 +1038,7 @@ sources:
     region: south_asia
 
   - name: Economic Times — Education (India)
-    url: https://education.economictimes.indiatimes.com/rss/government-policies
+    url: https://education.economictimes.indiatimes.com/rss/topstories
     type: rss
     hint: policy
     region: south_asia
@@ -912,45 +1049,33 @@ sources:
     hint: edtech
     region: south_asia
 
-  - name: Dawn — Education (Pakistan)
-    url: https://www.dawn.com/feeds/education
+  - name: Dawn — Pakistan
+    url: https://www.dawn.com/feeds/home
     type: rss
     hint: policy
     region: south_asia
 
-  - name: The Daily Star — Education (Bangladesh)
-    url: https://www.thedailystar.net/education/rss.xml
+  - name: The Daily Star — Bangladesh
+    url: https://www.thedailystar.net/rss.xml
     type: rss
     hint: policy
     region: south_asia
 
-  - name: World Bank — End Poverty in South Asia
-    url: https://blogs.worldbank.org/endpovertyinsouthasia/feed
+  - name: The Kathmandu Post — Nepal
+    url: https://kathmandupost.com/rss
+    type: rss
+    hint: policy
+    region: south_asia
+
+  - name: Daily FT — Sri Lanka
+    url: https://www.ft.lk/rss
     type: rss
     hint: policy
     region: south_asia
 
   # ════════════════════════════════════════════════════════════════
-  # 13. REGIONAL SOURCES — EAST AFRICA
+  # 17. REGIONAL — AFRICA
   # ════════════════════════════════════════════════════════════════
-
-  - name: Nation Africa — Education (Kenya)
-    url: https://nation.africa/kenya/education/rss
-    type: rss
-    hint: policy
-    region: east_africa
-
-  - name: The East African — Education
-    url: https://www.theeastafrican.co.ke/tea/education/rss
-    type: rss
-    hint: policy
-    region: east_africa
-
-  - name: Daily Monitor — Education (Uganda)
-    url: https://www.monitor.co.ug/Uganda/News/Education/rss
-    type: rss
-    hint: policy
-    region: east_africa
 
   - name: AllAfrica — Education
     url: https://allafrica.com/education/rss2.0.xml
@@ -958,9 +1083,47 @@ sources:
     hint: policy
     region: east_africa
 
-  # ════════════════════════════════════════════════════════════════
-  # 14. REGIONAL SOURCES — WEST AFRICA
-  # ════════════════════════════════════════════════════════════════
+  - name: African Arguments — Development
+    url: https://africanarguments.org/feed/
+    type: rss
+    hint: policy
+    region: east_africa
+
+  - name: The Conversation Africa — Education
+    url: https://theconversation.com/africa/education/feed
+    type: rss
+    hint: research
+    region: east_africa
+
+  - name: Mail & Guardian — South Africa
+    url: https://mg.co.za/education/rss
+    type: rss
+    hint: policy
+    region: east_africa
+
+  - name: Daily Maverick — South Africa
+    url: https://www.dailymaverick.co.za/education/rss
+    type: rss
+    hint: policy
+    region: east_africa
+
+  - name: Nation Africa — Kenya
+    url: https://nation.africa/rss
+    type: rss
+    hint: policy
+    region: east_africa
+
+  - name: Ethiopian Monitor — Education
+    url: https://ethiopianmonitor.com/category/education/feed/
+    type: rss
+    hint: policy
+    region: east_africa
+
+  - name: The New Times — Rwanda
+    url: https://www.newtimes.co.rw/rss
+    type: rss
+    hint: policy
+    region: east_africa
 
   - name: Vanguard Nigeria — Education
     url: https://www.vanguardngr.com/category/education/feed/
@@ -980,8 +1143,32 @@ sources:
     hint: policy
     region: west_africa
 
+  - name: Jeune Afrique — Societe
+    url: https://www.jeuneafrique.com/rss/
+    type: rss
+    hint: policy
+    region: west_africa
+
+  - name: SciDev.Net — Sub-Saharan Africa
+    url: https://www.scidev.net/sub-saharan-africa/rss/
+    type: rss
+    hint: research
+    region: east_africa
+
+  - name: ESSA — Education Sub-Saharan Africa
+    url: https://essa-africa.org/feed/
+    type: rss
+    hint: research
+    region: east_africa
+
+  - name: ADEA — Association for Development of Education in Africa
+    url: https://www.adeanet.org/en/rss
+    type: rss
+    hint: policy
+    region: east_africa
+
   # ════════════════════════════════════════════════════════════════
-  # 15. REGIONAL SOURCES — MENA
+  # 18. REGIONAL — MENA
   # ════════════════════════════════════════════════════════════════
 
   - name: Al-Fanar Media — Arab Higher Education
@@ -990,42 +1177,60 @@ sources:
     hint: higher
     region: mena
 
-  - name: Jordan Times — Education
-    url: https://www.jordantimes.com/rss/education
-    type: rss
-    hint: policy
-    region: mena
-
   - name: Khaleej Times — Education (UAE)
     url: https://www.khaleejtimes.com/education/rss
     type: rss
     hint: policy
     region: mena
 
-  # ════════════════════════════════════════════════════════════════
-  # 16. REGIONAL SOURCES — SOUTHEAST ASIA
-  # ════════════════════════════════════════════════════════════════
-
-  - name: Rappler — Education (Philippines)
-    url: https://www.rappler.com/education/feed/
+  - name: Arab News — Education
+    url: https://www.arabnews.com/cat/489/rss.xml
     type: rss
     hint: policy
-    region: southeast_asia
+    region: mena
 
-  - name: Bangkok Post — Learning (Thailand)
+  - name: SciDev.Net — Middle East & North Africa
+    url: https://www.scidev.net/middle-east-north-africa/rss/
+    type: rss
+    hint: research
+    region: mena
+
+  # ════════════════════════════════════════════════════════════════
+  # 19. REGIONAL — SOUTHEAST ASIA
+  # ════════════════════════════════════════════════════════════════
+
+  - name: Bangkok Post — Education (Thailand)
     url: https://www.bangkokpost.com/rss/data/learning.xml
     type: rss
     hint: policy
     region: southeast_asia
 
-  - name: Jakarta Post — Education (Indonesia)
-    url: https://www.thejakartapost.com/academia/feed
+  - name: Jakarta Post — Indonesia
+    url: https://www.thejakartapost.com/rss
     type: rss
     hint: policy
     region: southeast_asia
 
+  - name: Philstar — Philippines Education
+    url: https://www.philstar.com/rss/education
+    type: rss
+    hint: policy
+    region: southeast_asia
+
+  - name: Vietnam News — Education
+    url: https://vietnamnews.vn/rss/education.rss
+    type: rss
+    hint: policy
+    region: southeast_asia
+
+  - name: SciDev.Net — South-East Asia & Pacific
+    url: https://www.scidev.net/south-east-asia-pacific/rss/
+    type: rss
+    hint: research
+    region: southeast_asia
+
   # ════════════════════════════════════════════════════════════════
-  # 17. REGIONAL SOURCES — LATIN AMERICA
+  # 20. REGIONAL — LATIN AMERICA
   # ════════════════════════════════════════════════════════════════
 
   - name: Nexos — Education (Mexico)
@@ -1034,14 +1239,26 @@ sources:
     hint: policy
     region: latin_america
 
-  - name: SUMMA — Education Research (Latin America)
-    url: https://www.summaedu.org/feed/
+  - name: Buenos Aires Times — Argentina
+    url: https://batimes.com.ar/feed
+    type: rss
+    hint: policy
+    region: latin_america
+
+  - name: El Comercio — Peru Education
+    url: https://elcomercio.pe/rss/educacion.xml
+    type: rss
+    hint: policy
+    region: latin_america
+
+  - name: SciDev.Net — Latin America
+    url: https://www.scidev.net/latin-america/rss/
     type: rss
     hint: research
     region: latin_america
 
   # ════════════════════════════════════════════════════════════════
-  # 18. REGIONAL SOURCES — EAST ASIA
+  # 21. REGIONAL — EAST ASIA
   # ════════════════════════════════════════════════════════════════
 
   - name: South China Morning Post — Education
@@ -1063,23 +1280,13 @@ sources:
     region: east_asia
 
   # ════════════════════════════════════════════════════════════════
-  # 19. REGIONAL SOURCES — EUROPE
+  # 22. REGIONAL — AUSTRALIA & PACIFIC
   # ════════════════════════════════════════════════════════════════
 
-  - name: NORRAG — Education & Development (Europe/Global)
-    url: https://www.norrag.org/feed/
+  - name: ACER — Media Releases
+    url: https://www.acer.org/au/about/media/feed
     type: rss
     hint: research
-    region: europe
-
-  # ════════════════════════════════════════════════════════════════
-  # 20. REGIONAL SOURCES — AUSTRALIA & PACIFIC
-  # ════════════════════════════════════════════════════════════════
-
-  - name: The Educator Australia
-    url: https://www.theeducatoronline.com/au/rss
-    type: rss
-    hint: k12
     region: australia_pacific
 
   - name: Campus Morning Mail — Australia
@@ -1088,18 +1295,24 @@ sources:
     hint: higher
     region: australia_pacific
 
+  - name: SciDev.Net — South-East Asia & Pacific
+    url: https://www.scidev.net/south-east-asia-pacific/rss/
+    type: rss
+    hint: research
+    region: australia_pacific
+
   # ════════════════════════════════════════════════════════════════
-  # 21. FUNDING & OPPORTUNITIES
+  # 23. FUNDING & OPPORTUNITIES
   # ════════════════════════════════════════════════════════════════
 
   - name: Devex — Jobs (Education & Skills)
-    url: https://www.devex.com/jobs/rss?q=education+skills
+    url: https://www.devex.com/jobs/rss?q=education
     type: rss
     hint: funding
     region: global
 
   - name: ReliefWeb — Jobs (Education)
-    url: https://reliefweb.int/jobs/feed?source=rss&f[0]=field_career_categories%3A6861
+    url: https://reliefweb.int/jobs/feed
     type: rss
     hint: funding
     region: global
@@ -1110,195 +1323,8 @@ sources:
     hint: funding
     region: global
 
-  - name: Opportunity Desk — Education Opportunities
-    url: https://opportunitydesk.org/category/scholarships/feed/
+  - name: Opportunity Desk — Scholarships & Fellowships
+    url: https://opportunitydesk.org/feed/
     type: rss
     hint: funding
     region: global
-
-  # ════════════════════════════════════════════════════════════════
-  # 22. TEACH FOR ALL & TEACHER LEADERSHIP NETWORKS
-  # Note: Teach For All has no RSS feed. The three closest
-  # alternatives that carry their content and teacher-leadership
-  # discourse are listed here instead.
-  # ════════════════════════════════════════════════════════════════
-
-  - name: Teach For All — Partner News (via Education International)
-    url: https://www.ei-ie.org/en/rss/news
-    type: rss
-    hint: teacher
-    region: global
-
-  - name: UKFIET — International Education & Development Blog
-    url: https://www.ukfiet.org/feed/
-    type: rss
-    hint: teacher
-    region: global
-
-  - name: T4 Education — Global Teacher Prize & News
-    url: https://t4.education/feed/
-    type: rss
-    hint: teacher
-    region: global
-
-  - name: UNESCO IICBA — Teacher Development Africa
-    url: https://www.iicba.unesco.org/en/feed
-    type: rss
-    hint: teacher
-    region: east_africa
-
-  - name: Young Lives — Education Research (Ethiopia, India, Peru, Vietnam)
-    url: https://www.younglives.org.uk/feed
-    type: rss
-    hint: research
-    region: global
-
-  # ════════════════════════════════════════════════════════════════
-  # 23. EUROPE — TVET & NORDIC FOCUS
-  # The Nordic countries (Norway, Sweden, Finland, Denmark) and
-  # Germany are the world's most-studied TVET systems. Added here.
-  # ════════════════════════════════════════════════════════════════
-
-  - name: BIBB — Federal Institute for Vocational Education (Germany)
-    url: https://www.bibb.de/en/rss/news.xml
-    type: rss
-    hint: tvet
-    region: europe
-
-  - name: iMOVE Germany — International Vocational Training News
-    url: https://www.imove-germany.de/redaktion/global/sub/rss-news.xml
-    type: rss
-    hint: tvet
-    region: europe
-
-  - name: Norad (Norway) — Education & TVET Aid
-    url: https://www.norad.no/en/front/rss/
-    type: rss
-    hint: tvet
-    region: europe
-
-  - name: Nordic Journal of Vocational Education & Training (NJVET)
-    url: https://njvet.ep.liu.se/index.php/njvet/gateway/plugin/WebFeedGatewayPlugin/rss2
-    type: rss
-    hint: tvet
-    region: europe
-
-  - name: Nordic Council of Ministers — Education & Research
-    url: https://www.norden.org/en/rss.xml
-    type: rss
-    hint: policy
-    region: europe
-
-  - name: EfVET — European Forum of Technical & Vocational Education
-    url: https://efvet.org/feed/
-    type: rss
-    hint: tvet
-    region: europe
-
-  - name: Cedefop — Skills & Labour Market Intelligence
-    url: https://www.cedefop.europa.eu/en/rss/skills-and-labour-market
-    type: rss
-    hint: labor
-    region: europe
-
-  - name: Cedefop — Publications & Reports
-    url: https://www.cedefop.europa.eu/en/rss/publications
-    type: rss
-    hint: research
-    region: europe
-
-  - name: Education Finland — VET & TVET Export
-    url: https://www.educationfinland.fi/feed
-    type: rss
-    hint: tvet
-    region: europe
-
-  # ════════════════════════════════════════════════════════════════
-  # 24. AFRICA — EXPANDED COVERAGE
-  # Added pan-African bodies, girls' education, francophone Africa,
-  # Southern Africa, and Horn of Africa sources.
-  # ════════════════════════════════════════════════════════════════
-
-  - name: ADEA — Association for Development of Education in Africa
-    url: https://www.adeanet.org/en/rss
-    type: rss
-    hint: policy
-    region: east_africa
-
-  - name: FAWE — Forum for African Women Educationalists
-    url: https://fawe.org/en/feed/
-    type: rss
-    hint: policy
-    region: east_africa
-
-  - name: AllAfrica — Education (Pan-African aggregator)
-    url: https://allafrica.com/education/rss2.0.xml
-    type: rss
-    hint: policy
-    region: east_africa
-
-  - name: African Arguments — Development & Education
-    url: https://africanarguments.org/category/development/feed/
-    type: rss
-    hint: policy
-    region: east_africa
-
-  - name: Brookings — Africa in Focus
-    url: https://www.brookings.edu/tags/africa-in-focus/feed/
-    type: rss
-    hint: research
-    region: east_africa
-
-  - name: Brookings — Education Plus Development
-    url: https://www.brookings.edu/tags/education-plus-development/feed/
-    type: rss
-    hint: research
-    region: global
-
-  - name: UNESCO IICBA — Teacher Development (Addis Ababa)
-    url: https://www.iicba.unesco.org/en/feed
-    type: rss
-    hint: teacher
-    region: east_africa
-
-  - name: Mail & Guardian — Education (South Africa)
-    url: https://mg.co.za/education/feed/
-    type: rss
-    hint: policy
-    region: east_africa
-
-  - name: Daily Maverick — Education (South Africa)
-    url: https://www.dailymaverick.co.za/section/south-africa/education/feed/
-    type: rss
-    hint: policy
-    region: east_africa
-
-  - name: The Conversation Africa — Education
-    url: https://theconversation.com/africa/education/articles.atom
-    type: rss
-    hint: research
-    region: east_africa
-
-  - name: Jeune Afrique — Éducation (Francophone Africa)
-    url: https://www.jeuneafrique.com/categorie/societe/education/feed/
-    type: rss
-    hint: policy
-    region: west_africa
-
-  - name: Ethiopian Monitor — Education
-    url: https://ethiopianmonitor.com/category/education/feed/
-    type: rss
-    hint: policy
-    region: east_africa
-
-  - name: The Namibian — Education
-    url: https://www.namibian.com.na/category/education/feed/
-    type: rss
-    hint: policy
-    region: east_africa
-
-  - name: CAMFED — Girls Education Africa
-    url: https://camfed.org/feed/
-    type: rss
-    hint: policy
-    region: east_africa
