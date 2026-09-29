@@ -478,6 +478,11 @@
       overflow: hidden;
     }
 
+    .card-badges {
+      display: flex;
+      gap: 4px;
+      flex-wrap: wrap;
+    }
     .card-footer {
       display: flex;
       align-items: center;
@@ -940,18 +945,22 @@ function esc(str) {
 }
 
 function makeCard(story) {
-  const stream = story.stream || "policy";
-  const region = story.region || "global";
+  const primaryStream = story.stream || "policy";
+  const allStreams    = story.streams || [primaryStream];
+  const region       = story.region || "global";
+  const badges = allStreams.slice(0, 3).map(s =>
+    `<span class="badge badge-${s}">${STREAM_LABELS[s]||s}</span>`
+  ).join("");
   return `
     <article class="card">
       <div class="card-top">
         <div class="card-source">${esc(story.source)}</div>
-        <span class="badge badge-${stream}">${STREAM_LABELS[stream]||stream}</span>
       </div>
       <div class="card-title">
         <a href="${esc(story.url)}" target="_blank" rel="noopener noreferrer">${esc(story.title)}</a>
       </div>
       ${story.summary ? `<div class="card-summary">${esc(story.summary)}</div>` : ""}
+      <div class="card-badges">${badges}</div>
       <div class="card-footer">
         <span class="card-date">${relativeTime(story.published)}</span>
         <span class="region-tag">${REGION_LABELS[region]||region}</span>
