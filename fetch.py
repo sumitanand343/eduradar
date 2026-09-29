@@ -1,25 +1,34 @@
 """
 fetch.py — EduRadar
-Parallel fetcher: uses 10 concurrent workers so all 150+ sources
-complete in under 15 minutes instead of 6+ hours.
 
-Reads sources.yaml, fetches RSS/Atom feeds, applies an education
-gate to AI/tech sources, classifies stories into 12 streams and
-11 regions, deduplicates, and writes:
-  - data/stories.json
-  - data/last_run.txt
+Reads sources.yaml, fetches every RSS/Atom feed in parallel, keeps only
+education-relevant stories from general AI/tech/news feeds, sorts each
+story into one of 12 streams, and writes:
+  - data/stories.json   (read by index.html)
+  - data/last_run.txt   (timestamp shown on the site)
+  - data/stories.db     (SQLite store, keeps history between runs)
+
+Safety limits so a run can never hang:
+  - robots.txt check: 5 second limit per site
+  - each feed download: 20 seconds total, 5 MB max
+  - whole fetch stage: stops waiting after 15 minutes and saves what it has
 
 Run:  python fetch.py
 Deps: pip install requests feedparser pyyaml
 """
 
+import calendar
+import html
 import json
+import os
 import re
 import sqlite3
+import sys
 import threading
 import time
 import urllib.robotparser
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import TimeoutError as FuturesTimeout
 from datetime import datetime, timezone
 from hashlib import sha256
 from pathlib import Path
@@ -30,26 +39,37 @@ import requests
 import yaml
 
 # ── Config ────────────────────────────────────────────────────────────────────
-BASE_DIR               = Path(__file__).parent
-DATA_DIR               = BASE_DIR / "data"
-DB_PATH                = DATA_DIR / "stories.db"
-JSON_PATH              = DATA_DIR / "stories.json"
-LAST_RUN               = DATA_DIR / "last_run.txt"
-SOURCES                = BASE_DIR / "sources.yaml"
+BASE_DIR  = Path(__file__).parent
+DATA_DIR  = BASE_DIR / "data"
+DB_PATH   = DATA_DIR / "stories.db"
+JSON_PATH = DATA_DIR / "stories.json"
+LAST_RUN  = DATA_DIR / "last_run.txt"
+SOURCES   = BASE_DIR / "sources.yaml"
+
 MAX_STORIES_PER_STREAM = 80
 MAX_AGE_DAYS           = 60
-MAX_WORKERS            = 10      # parallel fetches
-TIMEOUT                = 8       # seconds per request — was 20, caused 6h timeouts
 
-# Standard browser user agent — avoids most robots blocks
+MAX_WORKERS     = 10          # feeds fetched at the same time
+CONNECT_TIMEOUT = 5           # seconds to connect
+READ_TIMEOUT    = 10          # seconds of silence before giving up
+TOTAL_TIMEOUT   = 20          # seconds max for a whole feed download
+MAX_BYTES       = 5_000_000   # 5 MB max per feed
+ROBOTS_TIMEOUT  = 5           # seconds max for robots.txt
+FETCH_DEADLINE  = 15 * 60     # stop waiting for slow feeds after 15 minutes
+
 HTTP_USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/124.0.0.0 Safari/537.36"
 )
-ROBOTS_AGENT = "Mozilla"
+ROBOTS_AGENT = "Mozilla"   # robots.txt rules checked for this agent (generic "*" rules)
 
-# ── Streams ───────────────────────────────────────────────────────────────────
+HEADERS = {
+    "User-Agent": HTTP_USER_AGENT,
+    "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+}
+
+# ── Streams & regions ─────────────────────────────────────────────────────────
 STREAMS = {
     "fln":       "Foundational Learning",
     "ece":       "Early Childhood",
@@ -79,358 +99,452 @@ REGIONS = {
     "australia_pacific": "Australia & Pacific",
 }
 
+# ── Word matching helper ──────────────────────────────────────────────────────
+# Whole words only (plus plural s/es), so "ece" does not match "recent",
+# "stem" does not match "system", "grant" does not match "immigrant".
+def compile_words(words):
+    alts = "|".join(re.escape(w) for w in sorted(set(words), key=len, reverse=True))
+    return re.compile(r"(?<!\w)(?:" + alts + r")(?:s|es)?(?!\w)", re.IGNORECASE)
+
 # ── Education gate ────────────────────────────────────────────────────────────
+# These sources publish mostly general AI, tech or news content. A story from
+# them is kept only if it is clearly about education, skills or work.
+# A source can also be gated by adding "gate: true" to it in sources.yaml.
 EDUCATION_GATED_SOURCES = {
+    # AI labs and AI research
     "arXiv — cs.CY (Computers & Society)",
     "OpenAI — News & Research",
     "Anthropic — News & Research",
     "Google — The Keyword Blog",
     "Google DeepMind — Blog",
-    "Google Research — Blog",
-    "Microsoft Research — Blog",
-    "Meta AI — Blog",
     "MIT Technology Review — AI",
-    "Allen Institute for AI (AI2)",
     "Stanford HAI — Human-Centered AI",
-    "AI Now Institute",
-    "Future of Life Institute — AI & Education",
+    "Allen Institute for AI (AI2)",
     "Partnership on AI — Blog",
-    "BBC — News",
-    "The Guardian — World",
-    "Financial Times",
-    "The Economist",
-    "Reuters",
-    "Al Jazeera — News",
+    "AI Now Institute",
+    # General media sections
+    "BBC — Business & Work",
+    "The Guardian — Technology",
+    "New York Times — Technology",
+    "Al Jazeera — News (education-gated)",
+    "WEF — Technology & Innovation",
+    "WEF — Global Risks & Geopolitics",
+    # General science / development feeds
+    "SciDev.Net — Education & Skills",
+    "SciDev.Net — Sub-Saharan Africa",
+    "SciDev.Net — Middle East & North Africa",
+    "SciDev.Net — South-East Asia & Pacific",
+    "SciDev.Net — Latin America",
+    "NBER — Working Papers",
+    "CGD — Center for Global Development",
+    "ODI — Overseas Development Institute",
+    "McKinsey Global Institute",
+    "Open Society Foundations — News",
+    "Plan International — News",
+    "UN Women — News",
+    "UNICEF — Education",
+    "UNDP — Human Development",
+    "African Arguments — Development",
+    "World Bank — South Asia Blog",
+    "World Bank — Africa Blog",
+    "World Bank — MENA Blog",
+    "World Bank — Latin America Blog",
+    # Donor news feeds
+    "JICA (Japan) — Press Releases",
+    "KOICA (South Korea) — News",
+    "Norad (Norway) — Aid Results",
+    "Australian DFAT — Development",
+    # General national newspapers
+    "Dawn — Pakistan",
+    "The Daily Star — Bangladesh",
+    "The Kathmandu Post — Nepal",
+    "Daily FT — Sri Lanka",
+    "Nation Africa — Kenya",
+    "The New Times — Rwanda",
+    "Jeune Afrique — Societe",
+    "Jakarta Post — Indonesia",
+    "Buenos Aires Times — Argentina",
+    # General jobs / opportunity boards
+    "ReliefWeb — Jobs (Education)",
+    "Opportunity Desk — Scholarships & Fellowships",
 }
 
 EDUCATION_GATE_KEYWORDS = [
-    "education", "learning", "school", "student", "teacher", "classroom",
-    "literacy", "numeracy", "curriculum", "pedagogy", "university", "college",
-    "skill", "training", "workforce", "vocational", "tvet", "edtech",
-    "tutoring", "assessment", "teaching", "academic", "course", "degree",
-    "scholarship", "campus", "faculty", "dropout", "enrollment",
-    "homework", "lecture", "exam", "lesson", "instruction",
-    "early childhood", "k-12", "higher ed", "upskill", "reskill",
-    "apprenticeship", "foundational", "reading", "math", "stem",
-    "tutor", "child development", "adult learning", "lifelong learning",
-    "distance learning", "blended learning", "learning outcome",
-    "learning loss", "edtech", "future of work", "labour market",
-    "labor market", "jobs", "employment", "unemployment", "skills gap",
-    "reskilling", "upskilling", "human capital", "ai in education",
-    "artificial intelligence education", "digital skills",
+    # English
+    "education", "educational", "educator", "school", "schooling", "student",
+    "pupil", "teacher", "teaching", "classroom", "curriculum", "pedagogy",
+    "literacy", "numeracy", "learner", "learning outcome", "learning loss",
+    "e-learning", "elearning", "online learning", "distance learning",
+    "blended learning", "lifelong learning", "adult learning", "early learning",
+    "university", "college", "campus", "faculty", "tuition", "enrolment",
+    "enrollment", "dropout", "exam", "examination", "homework", "lecture",
+    "lesson", "tutor", "tutoring", "textbook", "scholarship", "fellowship",
+    "degree", "graduate", "k-12", "kindergarten", "preschool",
+    "early childhood", "child development", "stem education",
+    "skill", "skills gap", "upskilling", "reskilling", "digital skills",
+    "vocational", "tvet", "apprenticeship", "apprentice", "internship",
+    "workforce", "labour market", "labor market", "future of work",
+    "jobs", "job market", "employment", "unemployment", "youth employment",
+    "human capital", "edtech", "ed-tech", "ai tutor", "ai literacy",
+    # French
+    "éducation", "école", "enseignement", "enseignant", "élève",
+    "étudiant", "formation professionnelle", "apprentissage",
+    # Spanish / Portuguese
+    "educación", "educação", "escuela", "escola", "docente", "maestro",
+    "estudiante", "universidad", "aprendizaje", "alfabetización",
 ]
+_GATE_RE = compile_words(EDUCATION_GATE_KEYWORDS)
+
+# AI jargon that contains education words but is not about education.
+# Removed before the gate check, so "machine learning" alone does not pass.
+_AI_JARGON_RE = re.compile(
+    r"\b(machine|deep|reinforcement|federated|transfer|representation|"
+    r"self-supervised|semi-supervised|supervised|unsupervised|in-context|"
+    r"contrastive|curriculum|few-shot|zero-shot|meta|continual|active|online)"
+    r"[\s-]+learning\b|\blearning rates?\b|\btraining (data|runs?|compute|set)\b|"
+    r"\bmodel training\b|\bpre-?training\b|\bfine-?tuning\b",
+    re.IGNORECASE,
+)
 
 
-def passes_education_gate(source_name: str, title: str, summary: str) -> bool:
-    if source_name not in EDUCATION_GATED_SOURCES:
-        return True
-    text = (title + " " + summary).lower()
-    return any(kw in text for kw in EDUCATION_GATE_KEYWORDS)
+def is_gated(source: dict) -> bool:
+    return bool(source.get("gate")) or source.get("name") in EDUCATION_GATED_SOURCES
 
 
-# ── Keyword classification — first match wins ─────────────────────────────────
-KEYWORD_RULES: list[tuple[str, list[str]]] = [
+def passes_education_gate(title: str, summary: str) -> bool:
+    text = _AI_JARGON_RE.sub(" ", f"{title} {summary}")
+    return bool(_GATE_RE.search(text))
+
+
+# ── Stream classification — first matching stream wins ───────────────────────
+KEYWORD_RULES = [
     ("funding", [
-        "grant", "call for proposals", "rfp", "rfq", "vacancy",
-        "fellowship", "scholarship", "tender", "funding opportunity",
-        "job opening", "apply now", "applications open",
+        "grant", "call for proposals", "request for proposals", "rfp", "rfq",
+        "vacancy", "fellowship", "scholarship", "tender", "funding opportunity",
+        "job opening", "apply now", "applications open", "deadline to apply",
     ]),
     ("research", [
-        "randomized", "rct", "evaluation", "working paper", "evidence",
+        "randomized", "randomised", "rct", "evaluation", "working paper",
         "impact study", "meta-analysis", "systematic review", "preprint",
-        "arxiv", "journal", "dissertation", "replication", "endline",
-        "learning assessment", "egra", "egma",
+        "journal", "dissertation", "replication", "endline", "baseline survey",
+        "learning assessment", "egra", "egma", "study finds", "new study",
     ]),
     ("fln", [
-        "foundational literacy", "foundational numeracy", "fln",
-        "early grade reading", "early grade math", "egra", "egma",
-        "teaching at the right level", "tarl", "numeracy",
-        "reading skills", "basic literacy", "pratham", "room to read",
+        "foundational literacy", "foundational numeracy", "foundational learning",
+        "fln", "early grade reading", "early grade math",
+        "teaching at the right level", "tarl", "numeracy", "reading skill",
+        "basic literacy", "learning poverty",
     ]),
     ("ece", [
-        "early childhood", "pre-primary", "preschool", "kindergarten",
-        "ece", "ecd", "early learning", "nursery", "child development",
-        "early years",
+        "early childhood", "pre-primary", "preschool", "kindergarten", "ecd", "ece",
+        "early learning", "nursery school", "child development", "early years",
     ]),
     ("tvet", [
         "tvet", "vocational", "apprenticeship", "technical education",
         "workforce training", "skills framework", "competency-based",
         "technical and vocational", "community college", "polytechnic",
-        "trade training",
+        "trade training", "vet system",
     ]),
     ("labor", [
         "labor market", "labour market", "future of work", "skills demand",
-        "job displacement", "automation", "employment", "unemployment",
-        "wage", "human capital", "skills gap", "workforce development",
-        "lightcast", "burning glass", "reskilling", "upskilling",
-        "digital skills", "green skills",
+        "job displacement", "automation", "employment", "unemployment", "wage",
+        "human capital", "skills gap", "workforce development", "reskilling",
+        "upskilling", "digital skills", "green skills", "jobs report",
     ]),
     ("teacher", [
         "teacher training", "teacher education", "professional development",
-        "pedagogy", "teaching quality", "teacher workforce",
+        "pedagogy", "teaching quality", "teacher workforce", "teacher shortage",
         "in-service training", "pre-service", "teacher support",
         "instructional coaching",
     ]),
     ("edtech", [
-        "edtech", "artificial intelligence in education",
-        "ai in education", "ai in learning", "ai in schools",
-        "ai for education", "personalized learning", "adaptive learning",
-        "learning analytics", "khan academy", "duolingo",
-        "digital learning", "e-learning", "elearning", "online learning",
-        "learning platform", "lms", "intelligent tutoring", "ai tutor",
-        "generative ai education", "llm education", "ed-tech",
+        "edtech", "ed-tech", "ai in education", "ai in learning", "ai in schools",
+        "ai for education", "artificial intelligence in education", "ai tutor",
+        "ai literacy", "personalized learning", "personalised learning",
+        "adaptive learning", "learning analytics", "khan academy", "khanmigo",
+        "duolingo", "digital learning", "e-learning", "elearning",
+        "online learning", "learning platform", "lms", "intelligent tutoring",
+        "chatgpt", "generative ai", "large language model", "artificial intelligence",
     ]),
     ("secondary", [
         "secondary school", "secondary education", "high school",
         "upper secondary", "lower secondary", "a-level", "gcse",
-        "baccalaureate", "adolescent education",
+        "baccalaureate", "adolescent",
     ]),
     ("higher", [
         "university", "higher education", "college", "undergraduate",
-        "postgraduate", "phd", "master's", "faculty", "campus",
-        "degree", "enrollment", "tuition",
+        "postgraduate", "phd", "doctoral", "campus", "degree", "tuition",
     ]),
     ("k12", [
-        "primary school", "elementary school", "k-12", "k12",
-        "basic education", "primary education", "school enrollment",
-        "out of school", "dropout", "attendance",
+        "primary school", "elementary school", "k-12", "k12", "basic education",
+        "primary education", "school enrolment", "school enrollment",
+        "out of school", "out-of-school", "dropout", "school attendance",
     ]),
     ("policy", [
         "policy", "strategy", "regulation", "legislation", "ministry",
-        "government", "reform", "national plan", "curriculum",
-        "accreditation", "education system", "governance",
+        "government", "reform", "national plan", "curriculum", "accreditation",
+        "education system", "governance", "budget",
     ]),
 ]
+_RULES_RE = [(stream, compile_words(words)) for stream, words in KEYWORD_RULES]
 
 
-# ── Robots.txt — thread-safe ──────────────────────────────────────────────────
+def classify(title: str, summary: str, hint: str) -> str:
+    text = f"{title} {summary}"
+    for stream, pattern in _RULES_RE:
+        if pattern.search(text):
+            return stream
+    return hint if hint in STREAMS else "policy"
+
+
+# ── robots.txt (5 second limit, never blocks other workers) ──────────────────
 _robots_cache: dict = {}
 _robots_lock = threading.Lock()
 
 
+def _load_robots(base: str):
+    """Returns a parser, or None meaning 'no rules, allowed'."""
+    try:
+        r = requests.get(f"{base}/robots.txt", headers=HEADERS,
+                         timeout=(ROBOTS_TIMEOUT, ROBOTS_TIMEOUT))
+    except Exception:
+        return None
+    if r.status_code >= 400:          # no robots.txt = no rules
+        return None
+    rp = urllib.robotparser.RobotFileParser()
+    rp.parse(r.text[:500_000].splitlines())
+    return rp
+
+
 def can_fetch(url: str) -> bool:
-    parsed = urlparse(url)
-    base   = f"{parsed.scheme}://{parsed.netloc}"
+    p = urlparse(url)
+    base = f"{p.scheme}://{p.netloc}"
     with _robots_lock:
-        if base not in _robots_cache:
-            rp = urllib.robotparser.RobotFileParser()
-            rp.set_url(f"{base}/robots.txt")
-            try:
-                rp.read()
-                _robots_cache[base] = rp
-            except Exception:
-                _robots_cache[base] = None
-        rp = _robots_cache[base]
+        if base in _robots_cache:
+            rp = _robots_cache[base]
+            return True if rp is None else rp.can_fetch(ROBOTS_AGENT, url)
+    rp = _load_robots(base)               # network call happens OUTSIDE the lock
+    with _robots_lock:
+        _robots_cache[base] = rp
     return True if rp is None else rp.can_fetch(ROBOTS_AGENT, url)
 
 
-# ── Database — thread-safe writes ────────────────────────────────────────────
-_db_lock = threading.Lock()
+# ── Download with hard limits ─────────────────────────────────────────────────
+def http_get(url: str) -> bytes:
+    start = time.monotonic()
+    with requests.get(url, headers=HEADERS, stream=True,
+                      timeout=(CONNECT_TIMEOUT, READ_TIMEOUT)) as r:
+        r.raise_for_status()
+        chunks, size = [], 0
+        for chunk in r.iter_content(chunk_size=65536):
+            chunks.append(chunk)
+            size += len(chunk)
+            if size > MAX_BYTES:
+                raise ValueError("feed larger than 5 MB")
+            if time.monotonic() - start > TOTAL_TIMEOUT:
+                raise TimeoutError(f"download took over {TOTAL_TIMEOUT}s")
+        return b"".join(chunks)
 
 
-def init_db(conn: sqlite3.Connection) -> None:
-    conn.execute("""
-        CREATE TABLE IF NOT EXISTS stories (
-            id          TEXT PRIMARY KEY,
-            title       TEXT,
-            url         TEXT,
-            summary     TEXT,
-            source      TEXT,
-            stream      TEXT,
-            region      TEXT,
-            published   TEXT,
-            fetched_at  TEXT
-        )
-    """)
-    try:
-        conn.execute("ALTER TABLE stories ADD COLUMN region TEXT DEFAULT 'global'")
-    except Exception:
-        pass
-    conn.commit()
+# ── Parsing helpers ───────────────────────────────────────────────────────────
+def clean(text: str, limit: int) -> str:
+    text = re.sub(r"<[^>]+>", " ", text or "")
+    text = html.unescape(text)
+    return " ".join(text.split())[:limit]
+
+
+def parse_date(entry) -> str:
+    now = datetime.now(timezone.utc)
+    for attr in ("published_parsed", "updated_parsed", "created_parsed"):
+        val = entry.get(attr)
+        if val:
+            try:
+                dt = datetime.fromtimestamp(calendar.timegm(val), tz=timezone.utc)
+                return min(dt, now).isoformat()   # feed dates are UTC; no future dates
+            except Exception:
+                pass
+    return now.isoformat()
 
 
 def story_id(url: str) -> str:
     return sha256(url.encode()).hexdigest()[:16]
 
 
-def upsert_stories_batch(conn: sqlite3.Connection, stories: list[dict]) -> int:
-    """Insert all new stories in one transaction. Returns count of new ones."""
-    new = 0
-    with _db_lock:
-        for story in stories:
-            existing = conn.execute(
-                "SELECT id FROM stories WHERE id = ?", (story["id"],)
-            ).fetchone()
-            if not existing:
-                conn.execute(
-                    """INSERT INTO stories
-                       (id,title,url,summary,source,stream,region,published,fetched_at)
-                       VALUES (:id,:title,:url,:summary,:source,:stream,:region,:published,:fetched_at)""",
-                    story,
-                )
-                new += 1
-        conn.commit()
-    return new
+# ── Fetch one feed ────────────────────────────────────────────────────────────
+def fetch_feed(source: dict):
+    """Returns (name, stories, status, message). Never raises."""
+    name   = source.get("name", "Unnamed source")
+    url    = source.get("url", "")
+    hint   = source.get("hint", "policy")
+    region = source.get("region", "global")
+    gated  = is_gated(source)
+
+    try:
+        if not can_fetch(url):
+            return name, [], "blocked", "robots.txt disallows"
+
+        feed = feedparser.parse(http_get(url))
+        if not feed.entries:
+            why = "not a valid RSS feed" if feed.bozo else "feed has no items"
+            return name, [], "empty", why
+
+        now_iso, stories, dropped = datetime.now(timezone.utc).isoformat(), [], 0
+        for entry in feed.entries:
+            link    = entry.get("link")
+            title   = clean(entry.get("title", ""), 300)
+            summary = clean(entry.get("summary") or entry.get("description") or "", 600)
+            if not link or not title:
+                continue
+            if gated and not passes_education_gate(title, summary):
+                dropped += 1
+                continue
+            stories.append({
+                "id":         story_id(link),
+                "title":      title,
+                "url":        link,
+                "summary":    summary,
+                "source":     name,
+                "stream":     classify(title, summary, hint),
+                "region":     region,
+                "published":  parse_date(entry),
+                "fetched_at": now_iso,
+            })
+
+        msg = f"{len(stories)} kept"
+        if dropped:
+            msg += f", {dropped} dropped by education gate"
+        return name, stories, "ok", msg
+
+    except requests.HTTPError as exc:
+        code = exc.response.status_code if exc.response is not None else "?"
+        return name, [], "error", f"HTTP {code}"
+    except Exception as exc:
+        return name, [], "error", f"{type(exc).__name__}: {str(exc)[:90]}"
 
 
-def prune_old(conn: sqlite3.Connection) -> None:
-    cutoff     = datetime.now(timezone.utc).timestamp() - MAX_AGE_DAYS * 86400
-    cutoff_str = datetime.fromtimestamp(cutoff, tz=timezone.utc).isoformat()
-    conn.execute("DELETE FROM stories WHERE published < ?", (cutoff_str,))
+# ── Database (only the main thread touches it) ────────────────────────────────
+def init_db(conn: sqlite3.Connection) -> None:
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS stories (
+            id TEXT PRIMARY KEY, title TEXT, url TEXT, summary TEXT,
+            source TEXT, stream TEXT, region TEXT, published TEXT, fetched_at TEXT
+        )
+    """)
+    cols = {row[1] for row in conn.execute("PRAGMA table_info(stories)")}
+    if "region" not in cols:
+        conn.execute("ALTER TABLE stories ADD COLUMN region TEXT DEFAULT 'global'")
     conn.commit()
 
 
-# ── Classification ────────────────────────────────────────────────────────────
-def classify(title: str, summary: str, hint: str) -> str:
-    text = (title + " " + summary).lower()
-    for stream, keywords in KEYWORD_RULES:
-        if any(kw in text for kw in keywords):
-            return stream
-    return hint if hint in STREAMS else "policy"
+def save_stories(conn: sqlite3.Connection, stories: list) -> int:
+    before = conn.total_changes
+    conn.executemany(
+        """INSERT OR IGNORE INTO stories
+           (id, title, url, summary, source, stream, region, published, fetched_at)
+           VALUES (:id, :title, :url, :summary, :source, :stream, :region, :published, :fetched_at)""",
+        stories,
+    )
+    conn.commit()
+    return conn.total_changes - before
 
 
-# ── Fetch one feed ────────────────────────────────────────────────────────────
-def parse_date(entry) -> str:
-    for attr in ("published_parsed", "updated_parsed", "created_parsed"):
-        val = getattr(entry, attr, None)
-        if val:
-            try:
-                ts = time.mktime(val)
-                return datetime.fromtimestamp(ts, tz=timezone.utc).isoformat()
-            except Exception:
-                pass
-    return datetime.now(timezone.utc).isoformat()
+def cutoff_iso() -> str:
+    ts = datetime.now(timezone.utc).timestamp() - MAX_AGE_DAYS * 86400
+    return datetime.fromtimestamp(ts, tz=timezone.utc).isoformat()
 
 
-def fetch_feed(source: dict) -> tuple[str, list[dict], str]:
-    """Returns (source_name, stories, status_message)."""
-    url    = source["url"]
-    hint   = source.get("hint", "policy")
-    region = source.get("region", "global")
-    name   = source["name"]
-
-    if not can_fetch(url):
-        return name, [], "robots blocked"
-
-    try:
-        resp = requests.get(
-            url,
-            headers={
-                "User-Agent": HTTP_USER_AGENT,
-                "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
-            },
-            timeout=TIMEOUT,
-        )
-        resp.raise_for_status()
-    except Exception as exc:
-        short = str(exc)[:80]
-        return name, [], f"error: {short}"
-
-    feed    = feedparser.parse(resp.text)
-    now_iso = datetime.now(timezone.utc).isoformat()
-    stories = []
-    gated   = 0
-
-    for entry in feed.entries:
-        link    = getattr(entry, "link", None)
-        title   = getattr(entry, "title", "")
-        summary = getattr(entry, "summary", "") or getattr(entry, "description", "")
-        summary = re.sub(r"<[^>]+>", " ", summary).strip()
-        summary = " ".join(summary.split())[:600]
-
-        if not link or not title:
-            continue
-
-        if not passes_education_gate(name, title, summary):
-            gated += 1
-            continue
-
-        stories.append({
-            "id":         story_id(link),
-            "title":      title.strip(),
-            "url":        link,
-            "summary":    summary,
-            "source":     name,
-            "stream":     classify(title, summary, hint),
-            "region":     region,
-            "published":  parse_date(entry),
-            "fetched_at": now_iso,
-        })
-
-    msg = f"{len(stories)} entries"
-    if gated:
-        msg += f", {gated} filtered by education gate"
-    return name, stories, msg
+def prune_old(conn: sqlite3.Connection) -> None:
+    conn.execute("DELETE FROM stories WHERE published < ?", (cutoff_iso(),))
+    conn.commit()
 
 
-# ── Export JSON ───────────────────────────────────────────────────────────────
-def build_json(conn: sqlite3.Connection) -> None:
-    cutoff     = datetime.now(timezone.utc).timestamp() - MAX_AGE_DAYS * 86400
-    cutoff_str = datetime.fromtimestamp(cutoff, tz=timezone.utc).isoformat()
-    result     = {"streams": {}, "regions": {}}
+# ── Export JSON for the website ───────────────────────────────────────────────
+def build_json(conn: sqlite3.Connection) -> int:
+    cutoff = cutoff_iso()
+    result = {"streams": {}, "regions": {}}
+    total = 0
 
-    for stream_key in STREAMS:
+    for key in STREAMS:
         rows = conn.execute(
-            """SELECT title, url, summary, source, published, region
-               FROM stories WHERE stream = ? AND published > ?
-               ORDER BY published DESC LIMIT ?""",
-            (stream_key, cutoff_str, MAX_STORIES_PER_STREAM),
+            """SELECT title, url, summary, source, published, region FROM stories
+               WHERE stream = ? AND published > ? ORDER BY published DESC LIMIT ?""",
+            (key, cutoff, MAX_STORIES_PER_STREAM),
         ).fetchall()
-        result["streams"][stream_key] = [
-            {"title": r[0], "url": r[1], "summary": r[2],
-             "source": r[3], "published": r[4], "region": r[5],
-             "stream": stream_key}
+        result["streams"][key] = [
+            {"title": r[0], "url": r[1], "summary": r[2], "source": r[3],
+             "published": r[4], "region": r[5], "stream": key}
+            for r in rows
+        ]
+        total += len(rows)
+
+    for key in REGIONS:
+        rows = conn.execute(
+            """SELECT title, url, summary, source, published, stream FROM stories
+               WHERE region = ? AND published > ? ORDER BY published DESC LIMIT 40""",
+            (key, cutoff),
+        ).fetchall()
+        result["regions"][key] = [
+            {"title": r[0], "url": r[1], "summary": r[2], "source": r[3],
+             "published": r[4], "stream": r[5], "region": key}
             for r in rows
         ]
 
-    for region_key in REGIONS:
-        rows = conn.execute(
-            """SELECT title, url, summary, source, published, stream
-               FROM stories WHERE region = ? AND published > ?
-               ORDER BY published DESC LIMIT 40""",
-            (region_key, cutoff_str),
-        ).fetchall()
-        result["regions"][region_key] = [
-            {"title": r[0], "url": r[1], "summary": r[2],
-             "source": r[3], "published": r[4], "stream": r[5],
-             "region": region_key}
-            for r in rows
-        ]
-
-    with open(JSON_PATH, "w", encoding="utf-8") as f:
-        json.dump(result, f, ensure_ascii=False, indent=2)
-
-    ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    LAST_RUN.write_text(ts)
-    print(f"\nWrote {JSON_PATH} — {ts}")
+    JSON_PATH.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
+    LAST_RUN.write_text(datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+                        encoding="utf-8")
+    return total
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 def main() -> None:
     DATA_DIR.mkdir(exist_ok=True)
-    sources_raw = yaml.safe_load(SOURCES.read_text())["sources"]
-    conn        = sqlite3.connect(DB_PATH, check_same_thread=False)
+
+    # Load sources, skipping duplicate URLs
+    raw = yaml.safe_load(SOURCES.read_text(encoding="utf-8"))["sources"]
+    sources, seen = [], set()
+    for s in raw:
+        u = (s or {}).get("url")
+        if u and u not in seen:
+            seen.add(u)
+            sources.append(s)
+
+    conn = sqlite3.connect(DB_PATH)
     init_db(conn)
 
-    print(f"Fetching {len(sources_raw)} sources with {MAX_WORKERS} parallel workers...\n")
-    t0        = time.time()
-    new_count = 0
+    print(f"Fetching {len(sources)} sources, {MAX_WORKERS} at a time...\n", flush=True)
+    t0 = time.monotonic()
+    counts = {"ok": 0, "empty": 0, "blocked": 0, "error": 0}
+    new_count, done = 0, 0
 
-    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = {executor.submit(fetch_feed, src): src for src in sources_raw}
-        for future in as_completed(futures):
-            name, stories, msg = future.result()
-            print(f"  [{msg}] {name}")
+    pool = ThreadPoolExecutor(max_workers=MAX_WORKERS)
+    futures = [pool.submit(fetch_feed, s) for s in sources]
+    try:
+        for fut in as_completed(futures, timeout=FETCH_DEADLINE):
+            name, stories, status, msg = fut.result()
+            counts[status] += 1
+            done += 1
+            print(f"  [{status}] {name}: {msg}", flush=True)
             if stories:
-                new_count += upsert_stories_batch(conn, stories)
-
-    elapsed = time.time() - t0
-    print(f"\nAll sources fetched in {elapsed:.0f}s")
+                new_count += save_stories(conn, stories)
+    except FuturesTimeout:
+        print(f"\n  [deadline] {len(sources) - done} slow sources skipped after "
+              f"{FETCH_DEADLINE // 60} minutes", flush=True)
+    pool.shutdown(wait=False, cancel_futures=True)
 
     prune_old(conn)
-    build_json(conn)
+    total = build_json(conn)
     conn.close()
-    print(f"Done. {new_count} new stories added.")
+
+    mins = (time.monotonic() - t0) / 60
+    print(f"\nFinished in {mins:.1f} min. "
+          f"ok={counts['ok']} empty={counts['empty']} "
+          f"blocked={counts['blocked']} errors={counts['error']}")
+    print(f"{new_count} new stories added, {total} stories published to the site.",
+          flush=True)
+
+    # Exit immediately so a stuck background download can't keep the job alive
+    sys.stdout.flush()
+    os._exit(0)
 
 
 if __name__ == "__main__":
