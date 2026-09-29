@@ -614,6 +614,8 @@
     .source-pill-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; background: var(--accent); }
     .source-pill-name { font-weight: 600; flex: 1; }
     .source-pill-region { font-size: 0.68rem; color: var(--muted); }
+    .source-favicon { width: 16px; height: 16px; border-radius: 3px; object-fit: contain; flex-shrink: 0; }
+    .source-favicon-fallback { width: 16px; height: 16px; border-radius: 3px; background: var(--accent-lt); flex-shrink: 0; display: flex; align-items: center; justify-content: center; font-size: 0.6rem; color: var(--accent); font-weight: 700; }
 
     /* ── Footer ── */
     footer {
@@ -1148,23 +1150,197 @@ const SOURCE_CATEGORIES = [
   { label: "Funding & Opportunities", hint: null, names: ["Devex Jobs","ReliefWeb","Commonwealth Scholarships","Opportunity Desk"] },
 ];
 
+// Favicon domains for known sources
+const SOURCE_FAVICONS = {
+  "World Bank":        "worldbank.org",
+  "UNESCO":            "unesco.org",
+  "ILO":               "ilo.org",
+  "UNICEF":            "unicef.org",
+  "UNDP":              "undp.org",
+  "UN Women":          "unwomen.org",
+  "FCDO":              "gov.uk",
+  "USAID":             "usaid.gov",
+  "GIZ":               "giz.de",
+  "JICA":              "jica.go.jp",
+  "KOICA":             "koica.go.kr",
+  "Norad":             "norad.no",
+  "ADB":               "adb.org",
+  "IDB":               "iadb.org",
+  "GPE":               "globalpartnership.org",
+  "ETF":               "etf.europa.eu",
+  "WEF":               "weforum.org",
+  "BBC":               "bbc.co.uk",
+  "The Guardian":      "theguardian.com",
+  "New York Times":    "nytimes.com",
+  "Financial Times":   "ft.com",
+  "The Economist":     "economist.com",
+  "The Independent":   "independent.co.uk",
+  "Al Jazeera":        "aljazeera.com",
+  "Global Schools Forum": "globalschoolsforum.org",
+  "Gates Foundation":  "gatesfoundation.org",
+  "Hewlett Foundation":"hewlett.org",
+  "Lumina":            "luminafoundation.org",
+  "Mastercard Foundation": "mastercardfdn.org",
+  "Open Society":      "opensocietyfoundations.org",
+  "Jacobs Foundation": "jacobsfoundation.org",
+  "CIFF":              "ciff.org",
+  "Aga Khan":          "akdn.org",
+  "Room to Read":      "roomtoread.org",
+  "Pratham":           "pratham.org",
+  "Plan International":"plan-international.org",
+  "R4D":               "r4d.org",
+  "EdTech Hub":        "edtechhub.org",
+  "T4 Education":      "t4.education",
+  "FAWE":              "fawe.org",
+  "CAMFED":            "camfed.org",
+  "UKFIET":            "ukfiet.org",
+  "Development Pathways": "developmentpathways.co.uk",
+  "Oxfam":             "oxfam.org",
+  "Save the Children": "savethechildren.org",
+  "Brookings":         "brookings.edu",
+  "RAND":              "rand.org",
+  "J-PAL":             "povertyactionlab.org",
+  "RISE":              "riseprogramme.org",
+  "EEF":               "educationendowmentfoundation.org.uk",
+  "Learning Policy":   "learningpolicyinstitute.org",
+  "CGD":               "cgdev.org",
+  "ODI":               "odi.org",
+  "NBER":              "nber.org",
+  "McKinsey":          "mckinsey.com",
+  "The Conversation":  "theconversation.com",
+  "NORRAG":            "norrag.org",
+  "CIPPEC":            "cippec.org",
+  "SUMMA":             "summaedu.org",
+  "Argentinos":        "argentinosporlaeducacion.org",
+  "Stanford":          "stanford.edu",
+  "Harvard":           "harvard.edu",
+  "MIT":               "mit.edu",
+  "Oxford":            "ox.ac.uk",
+  "Cambridge":         "cam.ac.uk",
+  "UCL":               "ucl.ac.uk",
+  "LSE":               "lse.ac.uk",
+  "Teachers College":  "tc.columbia.edu",
+  "ACER":              "acer.org",
+  "Cedefop":           "cedefop.europa.eu",
+  "BIBB":              "bibb.de",
+  "Nordic Journal":    "liu.se",
+  "EfVET":             "efvet.org",
+  "Nordic Council":    "norden.org",
+  "Schools Week":      "schoolsweek.co.uk",
+  "TES":               "tes.com",
+  "EURACTIV":          "euractiv.com",
+  "arXiv":             "arxiv.org",
+  "Nature":            "nature.com",
+  "PLOS":              "plos.org",
+  "Computers & Education": "sciencedirect.com",
+  "British Journal":   "wiley.com",
+  "SSRN":              "ssrn.com",
+  "AJOL":              "ajol.info",
+  "Times Higher":      "timeshighereducation.com",
+  "University World":  "universityworldnews.com",
+  "PIE News":          "thepienews.com",
+  "Inside Higher":     "insidehighered.com",
+  "Chronicle":         "chronicle.com",
+  "EdSurge":           "edsurge.com",
+  "The 74":            "the74million.org",
+  "Chalkbeat":         "chalkbeat.org",
+  "Hechinger":         "hechingerreport.org",
+  "Education Week":    "edweek.org",
+  "MindShift":         "kqed.org",
+  "Getting Smart":     "gettingsmart.com",
+  "HolonIQ":           "holoniq.com",
+  "eLearning Industry":"elearningindustry.com",
+  "eSchool News":      "eschoolnews.com",
+  "Devex":             "devex.com",
+  "Rest of World":     "restofworld.org",
+  "GEM Report":        "unesco.org",
+  "EdNews Africa":     "ednews.africa",
+  "Lightcast":         "lightcast.io",
+  "Burning Glass":     "burningglassinstitute.org",
+  "NCVER":             "ncver.edu.au",
+  "City & Guilds":     "cityandguilds.com",
+  "Google":            "google.com",
+  "OpenAI":            "openai.com",
+  "Anthropic":         "anthropic.com",
+  "Microsoft":         "microsoft.com",
+  "Khan Academy":      "khanacademy.org",
+  "Duolingo":          "duolingo.com",
+  "MIT Technology":    "technologyreview.com",
+  "Allen Institute":   "allenai.org",
+  "Partnership on AI": "partnershiponai.org",
+  "AI Now":            "ainowinstitute.org",
+  "The Hindu":         "thehindu.com",
+  "India Education":   "indiaeducationdiary.in",
+  "The Wire":          "thewire.in",
+  "Economic Times":    "economictimes.indiatimes.com",
+  "EdTech Review":     "edtechreview.in",
+  "Dawn":              "dawn.com",
+  "Daily Star":        "thedailystar.net",
+  "Kathmandu Post":    "kathmandupost.com",
+  "Daily FT":          "ft.lk",
+  "AllAfrica":         "allafrica.com",
+  "African Arguments": "africanarguments.org",
+  "Conversation Africa":"theconversation.com",
+  "Mail & Guardian":   "mg.co.za",
+  "Daily Maverick":    "dailymaverick.co.za",
+  "Nation Africa":     "nation.africa",
+  "Ethiopian Monitor": "ethiopianmonitor.com",
+  "New Times Rwanda":  "newtimes.co.rw",
+  "Vanguard Nigeria":  "vanguardngr.com",
+  "Daily Trust":       "dailytrust.com",
+  "Graphic Online":    "graphic.com.gh",
+  "Jeune Afrique":     "jeuneafrique.com",
+  "SciDev.Net":        "scidev.net",
+  "ESSA":              "essa-africa.org",
+  "ADEA":              "adeanet.org",
+  "Al-Fanar":          "al-fanarmedia.org",
+  "Arab News":         "arabnews.com",
+  "Khaleej Times":     "khaleejtimes.com",
+  "Bangkok Post":      "bangkokpost.com",
+  "Jakarta Post":      "thejakartapost.com",
+  "Philstar":          "philstar.com",
+  "Vietnam News":      "vietnamnews.vn",
+  "Nexos":             "nexos.com.mx",
+  "Buenos Aires Times":"batimes.com.ar",
+  "El Comercio":       "elcomercio.pe",
+  "SCMP":              "scmp.com",
+  "Japan Times":       "japantimes.co.jp",
+  "Korea Herald":      "koreaherald.com",
+  "The Educator":      "theeducatoronline.com",
+  "Campus Morning Mail":"campusmorningmail.com.au",
+  "ReliefWeb":         "reliefweb.int",
+  "Commonwealth Scholarships": "cscuk.fcdo.gov.uk",
+  "Opportunity Desk":  "opportunitydesk.org",
+};
+
+function getFavicon(sourceName) {
+  for (const [key, domain] of Object.entries(SOURCE_FAVICONS)) {
+    if (sourceName.includes(key)) {
+      return `https://www.google.com/s2/favicons?domain=${domain}&sz=32`;
+    }
+  }
+  return null;
+}
+
 function buildSourcesList() {
   const el = document.getElementById("sources-list");
   if (el.innerHTML) return; // already built
-
-  // Flatten all streams to get source names
-  const allSources = new Set();
-  Object.values(allData.streams).forEach(arr => arr.forEach(s => allSources.add(s.source)));
 
   el.innerHTML = SOURCE_CATEGORIES.map(cat => `
     <div class="sources-category">
       <h2>${cat.label}</h2>
       <div class="sources-grid">
-        ${cat.names.map(n => `
+        ${cat.names.map(n => {
+          const faviconUrl = getFavicon(n);
+          const icon = faviconUrl
+            ? `<img class="source-favicon" src="${faviconUrl}" alt="" onerror="this.style.display='none'">`
+            : `<div class="source-favicon-fallback">${n.charAt(0)}</div>`;
+          return `
           <div class="source-pill">
-            <div class="source-pill-dot"></div>
+            ${icon}
             <div class="source-pill-name">${n}</div>
-          </div>`).join("")}
+          </div>`;
+        }).join("")}
       </div>
     </div>`).join("");
 }
