@@ -414,18 +414,6 @@
         "stream": "school"
       },
       {
-        "title": "In Fighting for Every Black Child, Did I Betray My Own?",
-        "url": "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html",
-        "summary": "A decade ago, I made a decision about my daughter’s education that I hoped would challenge New York City’s separate and unequal school system. Now 16, she thinks I made the wrong choice.",
-        "source": "New York Times — Education",
-        "published": "2026-09-28T13:38:23+00:00",
-        "region": "north_america",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
         "title": "As Missouri’s Student Population Shrinks, Schools Face a New Demographic Reality",
         "url": "https://www.the74million.org/article/as-missouris-student-population-shrinks-schools-face-a-new-demographic-reality/",
         "summary": "Correction appended St. Louis Public Schools was one of America’s largest school systems in the late-1960s, educating 115,000 students at its peak. But at the beginning of the 2026–27 academic year, after decades of erosion and poor performance, that number fell below 17,000. Explanations for the swoon are diverse and mostly dispiriting, including persistently high […]",
@@ -1031,6 +1019,18 @@
       }
     ],
     "higher": [
+      {
+        "title": "UEL launches US institution with Florida degree offer",
+        "url": "https://thepienews.com/uel-launches-us-institution-with-florida-degree-offer/",
+        "summary": "The London university will offer one-year bachelor’s completion routes and master’s degrees through its new US institution, with degree teaching starting in January 2027. The post UEL launches US institution with Florida degree offer appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-09-29T16:36:01+00:00",
+        "region": "global",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
       {
         "title": "Dare to try: A visibly rewarding creative journey into Disney",
         "url": "https://www.scmp.com/presented/news/hong-kong/education/topics/hkmu-disney-magic/article/3369005/dare-try-visibly-rewarding-creative-journey-disney?utm_source=rss_feed",
@@ -1978,28 +1978,65 @@
           "higher"
         ],
         "stream": "higher"
-      },
-      {
-        "title": "Are industry-academia collaborations practical partnerships or a romantic dream?",
-        "url": "https://www.thehindu.com/education/are-industry-academia-collaborations-practical-partnerships-or-a-romantic-dream/article71483818.ece",
-        "summary": "The future of higher education will depend not merely on increasing collaborations between universities and industry, but on designing models that are realistic, scalable, and aligned with the needs of both",
-        "source": "The Hindu — Education",
-        "published": "2026-09-26T08:56:22+00:00",
-        "region": "south_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
       }
     ],
     "tvet": [
       {
+        "title": "The next step for European VET: turning AI competence into teacher practice",
+        "url": "https://efvet.org/the-next-step-for-european-vet-turning-ai-competence-into-teacher-practice/",
+        "summary": "Europe is not starting from zero. We already have strong foundations for digital competence, VET development and responsible technology. But as AI rapidly transforms both education and the workplace, a new challenge is becoming increasingly urgent: How do we turn these foundations into practical AI competence for VET teachers and trainers? Knowing how to use […] The post The next step for European VET: turning AI competence into teacher practice appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-29T08:02:30+00:00",
+        "region": "europe",
+        "streams": [
+          "tvet"
+        ],
+        "stream": "tvet"
+      },
+      {
         "title": "Teachers at Euan Blair firm report ‘horrendous stress’ after AI used to rate their work",
         "url": "https://www.theguardian.com/technology/2026/sep/28/teachers-euan-blair-firm-report-horrendous-stress-ai-used-to-rate-their-work",
         "summary": "Exclusive: Instructors at tech training company Multiverse hit out at ‘remorseless’ and ‘unnerving’ monitoring system Teachers at Euan Blair’s £1.6bn tech training company, Multiverse, have blown the whistle about “horrendous stress” and feeling constantly watched after bosses started using AI models to surveil and rate their teaching. Staff delivering apprenticeship training in computer and AI skills to thousands of UK public and private sector workers now have transcripts of online classroom sessions analysed and scored by an AI programmed to alert human managers when they are suspected of d",
-        "source": "The Guardian — Technology",
+        "source": "The Guardian — Education",
         "published": "2026-09-28T11:57:57+00:00",
         "region": "global",
+        "streams": [
+          "tvet"
+        ],
+        "stream": "tvet"
+      },
+      {
+        "title": "Basque VET Centres Scale Immersive Learning Across the Network",
+        "url": "https://efvet.org/basque-vet-centres-scale-immersive-learning-across-the-network/",
+        "summary": "Basque VET centres are integrating XR into vocational training. This initiative, coordinated by TKNIKA and supported by the Basque Government’s Department of Education, is aligned with the Basque VET 2030 Strategy and forms part of a system of 184 coordinated VET institutions. To support this initiative, the Basque VET network selected VIROO as its […] The post Basque VET Centres Scale Immersive Learning Across the Network appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-28T10:30:24+00:00",
+        "region": "europe",
+        "streams": [
+          "tvet"
+        ],
+        "stream": "tvet"
+      },
+      {
+        "title": "From Skills Gap to Learner Success: Why the TVET Learning Experience Needs to Change",
+        "url": "https://efvet.org/from-skills-gap-to-learner-success-why-the-tvet-learning-experience-needs-to-change/",
+        "summary": "How adapting the learning experience can help TVET providers attract, engage and retain the next generation of learners. The skills gap is one of the most pressing challenges facing vocational education and training. Across Europe, employers are struggling to find people with the practical skills they need, while TVET providers are being asked to prepare […] The post From Skills Gap to Learner Success: Why the TVET Learning Experience Needs to Change appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-28T10:25:10+00:00",
+        "region": "europe",
+        "streams": [
+          "tvet",
+          "labor"
+        ],
+        "stream": "tvet"
+      },
+      {
+        "title": "Message from WorldSkills in Shanghai: “Skills are the new societal wealth”.",
+        "url": "https://efvet.org/message-from-worldskills-in-shanghai-skills-are-the-new-societal-wealth/",
+        "summary": "EfVET is pleased to be present at WorldSkills Shanghai 2026 and the WorldSkills Conference 2026, joining the international TVET community for one of the most important global gatherings dedicated to skills, excellence and vocational education and training. The scale itself is remarkable: around 1,400 young Competitors from more than 70 countries and regions, while the […] The post Message from WorldSkills in Shanghai: “Skills are the new societal wealth”. appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-24T14:25:45+00:00",
+        "region": "europe",
         "streams": [
           "tvet"
         ],
@@ -2018,12 +2055,84 @@
         "stream": "tvet"
       },
       {
+        "title": "EfVET at the Forum on Vocational Excellence 2026",
+        "url": "https://efvet.org/efvet-forum-on-vocational-excellence-2026-cop-coves/",
+        "summary": "From 7 to 9 September, the EfVET team participated in the Forum on Vocational Excellence 2026 conference in Graz, Austria. The conference brought together around 400 participants from across Europe and beyond to exchange best practice, ideas and lessons learned, and to find creative solutions by encouraging collaboration between VET providers, companies and governments. Hosted […] The post EfVET at the Forum on Vocational Excellence 2026 appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-21T10:22:11+00:00",
+        "region": "europe",
+        "streams": [
+          "tvet"
+        ],
+        "stream": "tvet"
+      },
+      {
+        "title": "Creative Skills Week 2026 – Creative Confidence in Action",
+        "url": "https://efvet.org/creative-skills-week-2026/",
+        "summary": "Titled “The Difference that Makes the Difference”, this year’s Creative Skills Week (CSW) was co-organised by EIT Culture and Creativity, CYANOTYPES project, and Creative Futures Academy, in collaboration with the Creative Pact for Skills, CREDEX and the GreenCCIrcle projects. Hosted by LUCA School of Arts and ICHEC Brussels Management School, this major event took place […] The post Creative Skills Week 2026 – Creative Confidence in Action appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-11T10:56:37+00:00",
+        "region": "europe",
+        "streams": [
+          "tvet"
+        ],
+        "stream": "tvet"
+      },
+      {
+        "title": "Expanding Horizons for Swiss VET Internationalisation",
+        "url": "https://efvet.org/expanding-horizons-for-swiss-vet-internationalisation/",
+        "summary": "In a comprehensive scientific briefing commissioned by Movetia, the Swiss Observatory for Vocational Education and Training OBS SFUVET identifies both the existing barriers and specific ‘levers’ required to strengthen the engagement of Swiss vocational actors in European mobility and cooperation initiatives. Prof. Dr. Lukas Graf and Dr. Agata A. Lambrechts of the Swiss Observatory for […] The post Expanding Horizons for Swiss VET Internationalisation appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-04T10:08:33+00:00",
+        "region": "europe",
+        "streams": [
+          "tvet"
+        ],
+        "stream": "tvet"
+      },
+      {
         "title": "From Workshops to Workplaces: FAWE Benin Offers Apprentices an Immersive Professional Experience for a Sustainable Future",
         "url": "https://fawe.org/en/from-workshops-to-workplaces-fawe-benin-offers-apprentices-an-immersive-professional-experience-for-a-sustainable-future/",
         "summary": "COTONOU, Benin – From 17 to 22 August 2026, the streets of several Beninese localities hummed with the energy of a groundbreaking initiative. FAWE-Benin, under the Projet3M, organised immersion visits to partner workshops and enterprises for apprentices from the nine (09) Vocational Training and Craft Centres (CFPA) benefiting from the programme. This initiative, targeting young […] The post From Workshops to Workplaces: FAWE Benin Offers Apprentices an Immersive Professional Experience for a Sustainable Future appeared first on FORUM FOR AFRICAN WOMEN EDUCATIONALISTS (FAWE) .",
         "source": "FAWE — African Women Educationalists",
         "published": "2026-09-02T15:17:19+00:00",
         "region": "east_africa",
+        "streams": [
+          "tvet"
+        ],
+        "stream": "tvet"
+      },
+      {
+        "title": "The GIRO Project promotes a vision of VET based on innovation, equality and social impact",
+        "url": "https://efvet.org/giro-project-vet/",
+        "summary": "Centro Sagrado Corazón – Jesuitas Logroño has won first prize in the 5th edition of the VET Knowledge Transfer Awards, organised by FPEmpresa and Grupo Esprinet, thanks to the GIRO Project, an initiative that reflects a way of understanding Vocational Education and Training as a space where innovation starts with people and knowledge is placed […] The post The GIRO Project promotes a vision of VET based on innovation, equality and social impact appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-01T08:48:21+00:00",
+        "region": "europe",
+        "streams": [
+          "tvet"
+        ],
+        "stream": "tvet"
+      },
+      {
+        "title": "VitiSensor concludes with an IoT solution to advance towards more sustainable viticulture",
+        "url": "https://efvet.org/vitisensor-iot-solution/",
+        "summary": "Salesianos Los Boscos has presented the final results of VitiSensor, an innovation project developed by students from Telecommunications vocational training programmes that has enabled the design, construction and implementation of a modular sensor system for smart vineyard monitoring. The initiative, selected in the 9th Dualiza Grants Call, promoted by CaixaBank Dualiza and FPEmpresa, demonstrates how […] The post VitiSensor concludes with an IoT solution to advance towards more sustainable viticulture appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-01T08:45:13+00:00",
+        "region": "europe",
+        "streams": [
+          "tvet"
+        ],
+        "stream": "tvet"
+      },
+      {
+        "title": "SOLAREST turns corporate sustainability into a classroom challenge",
+        "url": "https://efvet.org/solarest-corporate-sustainability/",
+        "summary": "How can an industrial company move towards a more sustainable model without giving up innovation? This question provided the starting point for SOLAREST, an educational project in which students from CIFP N1 de Santander applied the content of the Sustainability Applied to the Productive Sector module to a business scenario. Within the framework of […] The post SOLAREST turns corporate sustainability into a classroom challenge appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-01T08:41:14+00:00",
+        "region": "europe",
         "streams": [
           "tvet"
         ],
@@ -2099,6 +2208,19 @@
         "published": "2026-09-29T07:02:07+00:00",
         "region": "global",
         "streams": [
+          "labor"
+        ],
+        "stream": "labor"
+      },
+      {
+        "title": "From Skills Gap to Learner Success: Why the TVET Learning Experience Needs to Change",
+        "url": "https://efvet.org/from-skills-gap-to-learner-success-why-the-tvet-learning-experience-needs-to-change/",
+        "summary": "How adapting the learning experience can help TVET providers attract, engage and retain the next generation of learners. The skills gap is one of the most pressing challenges facing vocational education and training. Across Europe, employers are struggling to find people with the practical skills they need, while TVET providers are being asked to prepare […] The post From Skills Gap to Learner Success: Why the TVET Learning Experience Needs to Change appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-28T10:25:10+00:00",
+        "region": "europe",
+        "streams": [
+          "tvet",
           "labor"
         ],
         "stream": "labor"
@@ -2414,11 +2536,23 @@
     ],
     "edtech": [
       {
+        "title": "New LMS, Same Messy Content? Fix Your Library Before You Migrate",
+        "url": "https://elearningindustry.com/new-lms-same-messy-content-fix-your-library-before-you-migrate",
+        "summary": "Every content item you migrate is an asset you will keep maintaining, whether anyone uses it or not. An LMS migration is the rare moment when library cleanup has a budget and deadline behind it. Here's the business case, plus a six-step process to follow. This post was first published on eLearning Industry .",
+        "source": "eLearning Industry",
+        "published": "2026-09-29T17:00:53+00:00",
+        "region": "global",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
+      {
         "title": "College Students Flex Their Power in A.I. Investment Frenzy",
         "url": "https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html",
         "summary": "Dorm Room Fund, a program that lets college students invest in their peers, raised a new $50 million fund as the competition for young founders ramps up.",
         "source": "New York Times — Technology",
-        "published": "2026-09-29T15:31:44+00:00",
+        "published": "2026-09-29T15:31:45+00:00",
         "region": "north_america",
         "streams": [
           "edtech"
@@ -2982,18 +3116,6 @@
         "stream": "edtech"
       },
       {
-        "title": "How To Build Product Training That Can Keep Up With A Global Rollout?",
-        "url": "https://elearningindustry.com/how-to-build-product-training-that-can-keep-up-with-a-global-rollout",
-        "summary": "A product launch training program for a global agricultural technology company was built into a modular eLearning curriculum, keeping product depth intact while scaling across crops, regions, and languages. This post was first published on eLearning Industry .",
-        "source": "eLearning Industry",
-        "published": "2026-09-21T17:00:54+00:00",
-        "region": "global",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
-      },
-      {
         "title": "Expanding free AI training for educators",
         "url": "https://blog.google/products-and-platforms/products/education/digital-promise/",
         "summary": "Badges in blue, red, orange, green with gradients representing Google AI Educator Series",
@@ -3386,8 +3508,56 @@
         "url": "https://kathmandupost.com/columns/2026/09/28/are-nepali-schools-ready-for-the-ai-takeover",
         "summary": "From panicked teachers to copy-pasting students, artificial intelligence is rewriting the rules of education—leaving traditional pen-and-paper exams struggling to keep up.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-09-29T16:01:49.237218+00:00",
+        "published": "2026-09-29T17:23:18.683166+00:00",
         "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Dartmouth Provost Is the Latest College Professor Examined for A.I. Use",
+        "url": "https://www.nytimes.com/2026/09/29/us/college-professors-administrators-ai-dartmouth.html",
+        "summary": "Dartmouth said it would investigate its provost over A.I. accusations. Similar controversies on other campuses have prompted frustration among students.",
+        "source": "New York Times — Education",
+        "published": "2026-09-29T16:28:09+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Cornell Sexual Assault Investigation to Be Reopened",
+        "url": "https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html",
+        "summary": "After outrage over allegations in a lawsuit, the Tompkins County district attorney will revisit the decision not to pursue criminal charges against seven fraternity members.",
+        "source": "New York Times — Education",
+        "published": "2026-09-29T16:24:37+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Cornell University Rape Investigation: What We Know",
+        "url": "https://www.nytimes.com/2026/09/29/nyregion/cornell-university-rape-investigation-chi-phi-fraternity.html",
+        "summary": "Prosecutors have reopened the case of a woman who said she was sexually assaulted on campus in 2024. The woman’s lawsuit brought renewed pressure to reopen the investigation.",
+        "source": "New York Times — Education",
+        "published": "2026-09-29T16:19:05+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "MacArthur Foundation Announces 2026 ‘Genius Grant’ Winners",
+        "url": "https://www.nytimes.com/2026/09/29/arts/design/macarthur-foundation-announces-2026-genius-grant-winners.html",
+        "summary": "The 20 fellowship recipients across the arts, humanities and sciences will each receive an $800,000, no-strings-attached stipend for their work.",
+        "source": "New York Times — Education",
+        "published": "2026-09-29T16:01:05+00:00",
+        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -3398,7 +3568,7 @@
         "url": "https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html",
         "summary": "Dorm Room Fund, a program that lets college students invest in their peers, raised a new $50 million fund as the competition for young founders ramps up.",
         "source": "New York Times — Education",
-        "published": "2026-09-29T15:31:44+00:00",
+        "published": "2026-09-29T15:31:45+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -3424,18 +3594,6 @@
         "source": "The Independent — Education",
         "published": "2026-09-29T15:18:05+00:00",
         "region": "europe",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Cornell University Rape Investigation: What We Know",
-        "url": "https://www.nytimes.com/2026/09/29/nyregion/cornell-university-rape-investigation-chi-phi-fraternity.html",
-        "summary": "Prosecutors have said they will reopen the case of a woman who said she was sexually assaulted on campus in 2024. The woman’s lawsuit brought renewed pressure to reopen the investigation.",
-        "source": "New York Times — Education",
-        "published": "2026-09-29T15:02:02+00:00",
-        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -3470,7 +3628,19 @@
         "url": "https://www.nytimes.com/2026/09/29/opinion/writing-thinking-college-ai.html",
         "summary": "If I do not treat writing as essential for achieving thought, it is not clear why I should force my students to.",
         "source": "New York Times — Education",
-        "published": "2026-09-29T12:15:55+00:00",
+        "published": "2026-09-29T12:15:56+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Why China Is Requiring Ninth Graders to Read ‘Jane Eyre’",
+        "url": "https://www.nytimes.com/2026/09/28/world/asia/china-jane-eyre-required-reading-literature.html",
+        "summary": "The Victorian heroine has long been celebrated in China for her independence and insistence on equality.",
+        "source": "New York Times — Education",
+        "published": "2026-09-29T12:10:43+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -3495,18 +3665,6 @@
         "summary": "We look at a few compelling proposals.",
         "source": "New York Times — Education",
         "published": "2026-09-29T10:53:02+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Dartmouth Provost Is the Latest College Professor Examined for A.I. Use",
-        "url": "https://www.nytimes.com/2026/09/29/us/college-professors-administrators-ai-dartmouth.html",
-        "summary": "Dartmouth said it would investigate its provost over A.I. accusations. Similar controversies on other campuses have prompted frustration among students.",
-        "source": "New York Times — Education",
-        "published": "2026-09-29T09:02:11+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -3622,11 +3780,23 @@
         "stream": "policy"
       },
       {
-        "title": "Cornell Sexual Assault Investigation to Be Reopened",
-        "url": "https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html",
-        "summary": "After outrage over allegations in a lawsuit, the Tompkins County district attorney will revisit the decision not to pursue criminal charges against seven fraternity members.",
+        "title": "30 Ideas for Fixing U.S. Schools, Ranked by Experts",
+        "url": "https://www.nytimes.com/2026/09/28/upshot/ideas-fixing-schools-ranked.html",
+        "summary": "Math and reading scores are in a decade-long slump. We asked three dozen experts: What could turn things around?",
         "source": "New York Times — Education",
-        "published": "2026-09-28T20:29:57+00:00",
+        "published": "2026-09-28T20:28:09+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "The U.C.L.A. Bollywood Dance Team That Inspired ‘Best of the Best’",
+        "url": "https://www.nytimes.com/2026/09/28/arts/bonding-and-battling-the-college-life-of-a-bollywood-dance-team.html",
+        "summary": "“For a lot of South Asians, dance is the way we connect,” said a member of the U.C.L.A. team Nashaa. Our photographer captured glimpses of the team last year, from audition to competitions.",
+        "source": "New York Times — Education",
+        "published": "2026-09-28T16:51:20+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -3699,6 +3869,18 @@
         "summary": "What is the NEET-SS examination? Why are NEET-SS seats going vacant? What was the demand of doctors from Tamil Nadu?",
         "source": "The Hindu — Education",
         "published": "2026-09-28T08:33:13+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Neitzsche, Natyashastra and the Indian Consumer",
+        "url": "https://blogs.lse.ac.uk/southasia/2026/09/28/neitzsche-natyashastra-and-the-indian-consumer/",
+        "summary": "Bollywood remains one of India’s most important cultural exports, spanning decades and still remaining potent. But how do Western audiences make sense of the seemingly disruptive, even ‘illogical’, storylines, complete with song-and-dance sequences and change of costumes? Ram Sharma frames the Indian consumer in a civilisational aesthetic whose philosophical traditions never acceded primacy to reason … Continued The post Neitzsche, Natyashastra and the Indian Consumer first appeared on South Asia @ LSE .",
+        "source": "LSE South Asia Blog",
+        "published": "2026-09-28T07:18:17+00:00",
         "region": "south_asia",
         "streams": [
           "policy"
@@ -4247,18 +4429,6 @@
         "stream": "policy"
       },
       {
-        "title": "Stanford Used A.I. to Swap Black Student for Hispanic Student in a Photo",
-        "url": "https://www.nytimes.com/2026/09/22/us/stanford-photo-swap-black-hispanic-student.html",
-        "summary": "Universities have been accused of doctoring photos to showcase diversity in the past. In this case, a Black woman replaced a Hispanic young man, who said it was upsetting to be “erased.”",
-        "source": "New York Times — Education",
-        "published": "2026-09-24T14:17:47+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
         "title": "Why has Andhra Pradesh raised the age limit for govt. jobs, and who is still left out? | Explained",
         "url": "https://www.thehindu.com/news/national/andhra-pradesh/why-has-andhra-pradesh-raised-the-age-limit-for-government-jobs-and-who-is-still-left-out-explained/article71504070.ece",
         "summary": "Age relief rekindles hopes of job aspirants a year before the relaxation lapses; uniform-service candidates seek a wider window",
@@ -4293,57 +4463,57 @@
           "policy"
         ],
         "stream": "policy"
-      },
-      {
-        "title": "Visitor goes missing in flooded Pattaya",
-        "url": "https://www.bangkokpost.com/learning/easy/3325359/visitor-goes-missing-in-flooded-pattaya",
-        "summary": "A man believed to be a foreigner went missing after his group fell into a canal while they were wading through a flooded alley in Pattaya early Thursday morning.",
-        "source": "Bangkok Post — Education (Thailand)",
-        "published": "2026-09-24T07:48:00+00:00",
-        "region": "southeast_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Before voting, students must be taught to question their social media feed",
-        "url": "https://www.thehindu.com/education/before-voting-students-must-be-taught-to-question-their-social-media-feed/article71490549.ece",
-        "summary": "Colleges should teach students how to recognise political influence, not what to think",
-        "source": "The Hindu — Education",
-        "published": "2026-09-24T07:23:38+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Three-language policy case: Centre given more time to mull SC proposal to exempt current Class 6",
-        "url": "https://www.thehindu.com/news/national/three-language-policy-case-centre-given-more-time-to-mull-sc-proposal-to-exempt-current-class-6/article71498688.ece",
-        "summary": "Chief Justice Kant had said the government could use the time to come up with incentives for the children to embrace the study of a third language in school",
-        "source": "The Hindu — Education",
-        "published": "2026-09-24T06:29:02+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Supreme Court to examine Bar Council’s authority to regulate legal education",
-        "url": "https://www.thehindu.com/news/national/supreme-court-to-examine-bar-councils-authority-to-regulate-legal-education/article71498890.ece",
-        "summary": "The Bench said the BCI could formulate general guidelines like the duration of a law course, but had no authority to dictate the nuances of legal education.",
-        "source": "The Hindu — Education",
-        "published": "2026-09-24T06:26:23+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
       }
     ],
     "research": [
+      {
+        "title": "Leaving Cumberland Lodge with better questions, not simpler answers about development",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/leaving-cumberland-lodge-with-better-questions-not-simpler-answers-about-development/",
+        "summary": "How should development be understood in an era of geopolitical fragmentation, climate crisis and growing global inequality? Drawing on her experience at a Cumberland Lodge retreat for students in the LSE Department of International Development, MSc candidate Disha Ghosh explores how a weekend of lectures, discussion and debate challenged conventional assumptions about development and highlighted … Continued The post Leaving Cumberland Lodge with better questions, not simpler answers about development first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T14:40:51+00:00",
+        "region": "europe",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Moona Shaik reflects on her journey from an LSE consultancy project to a UN Women panel",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/moona-shaik-reflects-on-her-journey-from-an-lse-consultancy-project-to-a-un-women-panel/",
+        "summary": "After contributing to a UN Women consultancy project at LSE, recent alumna Moona Shaik was invited to speak at a HeForShe University webinar. She shared what her research revealed about the pushback against women’s rights, the importance of allyship and the future of DEI initiatives. Drawing on her work in East Africa and reflections from … Continued The post Moona Shaik reflects on her journey from an LSE consultancy project to a UN Women panel first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T13:43:08+00:00",
+        "region": "europe",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "The Belém Gender Action Plan puts women at the centre of climate action, now it needs to deliver",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/the-belem-gender-action-plan-puts-women-at-the-centre-of-climate-action-now-it-needs-to-deliver/",
+        "summary": "MSc candidate Amanda Costa explores how the Belém Gender Action Plan became one of the most significant gender commitments in the history of UN climate negotiations. While the agreement promises to strengthen women’s participation across climate decision-making, finance and implementation, she argues that its success will ultimately depend on whether it delivers meaningful change for … Continued The post The Belém Gender Action Plan puts women at the centre of climate action, now it needs to deliver first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T10:51:42+00:00",
+        "region": "europe",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Shanghai and the complexities of China’s rise",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/shanghai-and-the-complexities-of-chinas-rise/",
+        "summary": "More than 40 years after his first visit to China, Professor Robert Wade returns to find in Shanghai a city that appears to have moved from the developing world into the technological future. Its prosperity, manufacturing depth and technological ambition reveal the results of decades of strategic economic development, but its low fertility, property downturn … Continued The post Shanghai and the complexities of China’s rise first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T08:39:19+00:00",
+        "region": "europe",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
       {
         "title": "PhD training should encourage ethical dissent",
         "url": "https://www.nature.com/articles/d41586-026-03053-8",
@@ -5053,6 +5223,18 @@
         "stream": "research"
       },
       {
+        "title": "Rich Countries Don’t Have a Secret Trick for Cutting Carbon",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/21/rich-countries-dont-have-a-secret-trick-for-cutting-carbon/",
+        "summary": "Meghna Chotaliya, Subir Chowdhury Visiting Fellow at India Observatory and International Inequalities Institute, LSE explores new evidence from close to 190 countries over two decades that suggests low- and middle-income economies can cut carbon intensity just as effectively as high-income countries once their energy mix shifts. The real gap is not one of ability, but … Continued The post Rich Countries Don’t Have a Secret Trick for Cutting Carbon first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-21T13:20:24+00:00",
+        "region": "europe",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
         "title": "OPINION: We need more Black professionals in STEM fields",
         "url": "https://hechingerreport.org/opinion-we-need-more-black-professionals-in-stem-fields/",
         "summary": "Only 3 percent of Black professionals hold executive roles in the tech C-suite. That statistic is not just a number. It is a mirror reflecting opportunity lost, decisions never made and innovations the world will never see. It also highlights a dynamic that we believe can be changed. The three of us — a nonprofit […] The post OPINION: We need more Black professionals in STEM fields appeared first on The Hechinger Report .",
@@ -5197,11 +5379,35 @@
         "stream": "research"
       },
       {
+        "title": "On AI Access, Awareness, and Augmentation",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/10/on-ai-access-awareness-and-augmentation/",
+        "summary": "AI is often deemed a democratic technology. Insights from an initial, small-scale set of interviews suggest that there is far more to the picture. Anusha Raghav explores how human interaction with AI falls into distinct layers, shaped by demographic, sectoral, and ethical factors that anyone building or regulating AI needs to account for. In January … Continued The post On AI Access, Awareness, and Augmentation first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-10T09:34:56+00:00",
+        "region": "europe",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
         "title": "When Schools become Shelters: Bridging gaps in the HDP Nexus through conflict sensitive Peace Education in Lebanon",
         "url": "https://www.norrageducation.org/when-schools-become-shelters-bridging-gaps-in-the-hdp-nexus-through-conflict-sensitive-peace-education-in-lebanon/",
         "summary": "In this blog, Layal Assaad, Country Director, International Alert Lebanon and Ruth Simpson, Peace Education Expert, demonstrate how an HDP nexus approach – rooted in system leadership – frames training and ongoing support in peace education for teachers, with positive and encouraging results for learners in a severely challenging context of various and protracted violence. The... Read More The post When Schools become Shelters: Bridging gaps in the HDP Nexus through conflict sensitive Peace Education in Lebanon appeared first on NORRAG - .",
         "source": "NORRAG — Education & Development",
         "published": "2026-09-10T08:00:33+00:00",
+        "region": "europe",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Maize in Zambia is not an agricultural story. It is a political one.",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/08/maize-in-zambia-is-not-an-agricultural-story-it-is-a-political-one/",
+        "summary": "Zambia’s dependence on maize is often treated as a food security problem requiring technical solutions. But maize didn’t arrive in Zambia because it was the best crop for the land: it arrived because it served colonial interests. In this blog, Carla Monzón Bordón traces how that original decision continues to shape land access, hunger, and … Continued The post Maize in Zambia is not an agricultural story. It is a political one. first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-08T14:15:23+00:00",
         "region": "europe",
         "streams": [
           "research"
@@ -5215,90 +5421,6 @@
         "source": "NORRAG — Education & Development",
         "published": "2026-09-08T11:44:49+00:00",
         "region": "europe",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Eficiencia regulatoria en ciudades y su impacto en la atracción de inversiones",
-        "url": "https://www.cippec.org/eficiencia-regulatoria-en-ciudades-y-su-impacto-en-la-atraccion-de-inversiones/",
-        "summary": "Las ciudades son el lugar concreto donde la inversión se traduce en desarrollo. Según los últimos datos del Banco Mundial (2020), en ellas se genera más del 80% del producto bruto interno mundial. El resultado de las estrategias de atracción de inversiones y su posterior impacto en el desarrollo de una economía no depende solo […] La entrada Eficiencia regulatoria en ciudades y su impacto en la atracción de inversiones se publicó primero en CIPPEC .",
-        "source": "CIPPEC — Education (Argentina)",
-        "published": "2026-09-07T19:48:06+00:00",
-        "region": "latin_america",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "NORRAG’s Strategy (2021-2025)",
-        "url": "https://www.norrageducation.org/norrags-strategy-2021-2025/",
-        "summary": "NORRAG STRATEGY NORRAG’s Strategy (2021-2025) works toward our vision: a world where everyone enjoys the right to equitable, quality, accessible lifelong education as a public good. During these next few years, we will continue to carry out strategic activities while deepening our partnerships, reach, learning, and sustainability. We will place special focus on strengthening the... Read More The post NORRAG’s Strategy (2021-2025) appeared first on NORRAG - .",
-        "source": "NORRAG — Education & Development",
-        "published": "2026-09-07T12:28:50+00:00",
-        "region": "europe",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Supporting our partners in Colombia to prevent learning losses following recent earthquake",
-        "url": "https://jacobsfoundation.org/supporting-our-partners-in-colombia-to-prevent-learning-losses-following-recent-earthquake/",
-        "summary": "Following the magnitude 7.4 earthquake that struck Colombia on 10 August, the Jacobs Foundation is committing CHF 5 million to safeguard children’s access to education and maintain their learning and development. Jointly with local partners, funding will be devoted to ensuring evidence-based educational continuity in affected communities as recovery gets underway. The earthquake, with […] The post Supporting our partners in Colombia to prevent learning losses following recent earthquake appeared first on Jacobs Foundation .",
-        "source": "Jacobs Foundation — Blog",
-        "published": "2026-09-03T09:48:52+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Crisis as Curriculum? The Politics of Shifting Responsibility onto Children",
-        "url": "https://www.norrageducation.org/crisis-as-curriculum-the-politics-of-shifting-responsibility-onto-children/",
-        "summary": "In this blog, Sreehari Ravindranath, Director of Research and Impact at Dream a Dream, India, elucidates how the frequent creation of new curricula in response to crises, while often important, risks shifting responsibility to teachers and learners, while protecting the institutional architectures and inequalities that contributed to generating the problem. Each new crisis appears to... Read More The post Crisis as Curriculum? The Politics of Shifting Responsibility onto Children appeared first on NORRAG - .",
-        "source": "NORRAG — Education & Development",
-        "published": "2026-09-03T08:00:51+00:00",
-        "region": "europe",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "BOLD celebrates its 10th birthday by launching the Science Communication Fellowship",
-        "url": "https://jacobsfoundation.org/bold-celebrates-its-10th-birthday-by-launching-the-science-communication-fellowship/",
-        "summary": "The Jacobs Foundation is pleased to announce the launch of the BOLD Science Communication Fellowship. This is an exciting opportunity for early-career researchers working in the field of child learning and development to advance their science communication skills. Selected Fellows will receive dedicated expert mentoring and training in science writing, editing, and video production while […] The post BOLD celebrates its 10th birthday by launching the Science Communication Fellowship appeared first on Jacobs Foundation .",
-        "source": "Jacobs Foundation — Blog",
-        "published": "2026-09-01T15:15:43+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Call for Abstracts – Learning Innovations and Emerging Technologies Conference 2026: PD4AI | AI4PD",
-        "url": "https://www.norrageducation.org/call-for-abstracts-learning-innovations-and-emerging-technologies-conference-2026/",
-        "summary": "Note: The abstract submission deadline has been extended to 1 October 2026. The Learning Innovations and Emerging Technologies Conference 2026 (LIET2026): PD4AI | AI4PD is now accepting abstracts. The conference, to be held on 27–29 November 2026 at The Education University of Hong Kong (EdUHK), is co-organised by EdUHK, the KIX EMAP Hub, SEAMEO Secretariat,... Read More The post Call for Abstracts – Learning Innovations and Emerging Technologies Conference 2026: PD4AI | AI4PD appeared first on NORRAG - .",
-        "source": "NORRAG — Education & Development",
-        "published": "2026-08-31T16:18:40+00:00",
-        "region": "europe",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Brasil 2033 en el espejo fiscal: un caso cercano para comprender cómo se construyen y sostienen acuerdos complejos",
-        "url": "https://www.cippec.org/brasil-2033-en-el-espejo-fiscal-un-caso-cercano-que-permite-comprender-como-se-construyen-y-sostienen-acuerdos-complejos/",
-        "summary": "¿Cómo se ordena un sistema de impuestos repartido entre Nación, provincias y municipios? Esa pregunta reunió a empresarios, funcionarios, gobernadores y especialistas para conocer la experiencia brasileña y conversar sobre federalismo, competitividad y construcción de acuerdos de largo plazo. El encuentro fue organizado por CIPPEC junto al Consejo Federal de Inversiones, la Fundación Argentina Debate, […] La entrada Brasil 2033 en el espejo fiscal: un caso cercano para comprender cómo se construyen y sostienen acuerdos complejos se publicó primero en CIPPEC .",
-        "source": "CIPPEC — Education (Argentina)",
-        "published": "2026-08-28T16:17:49+00:00",
-        "region": "latin_america",
         "streams": [
           "research"
         ],
@@ -5550,6 +5672,30 @@
   },
   "regions": {
     "global": [
+      {
+        "title": "New LMS, Same Messy Content? Fix Your Library Before You Migrate",
+        "url": "https://elearningindustry.com/new-lms-same-messy-content-fix-your-library-before-you-migrate",
+        "summary": "Every content item you migrate is an asset you will keep maintaining, whether anyone uses it or not. An LMS migration is the rare moment when library cleanup has a budget and deadline behind it. Here's the business case, plus a six-step process to follow. This post was first published on eLearning Industry .",
+        "source": "eLearning Industry",
+        "published": "2026-09-29T17:00:53+00:00",
+        "stream": "edtech",
+        "streams": [
+          "edtech"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "UEL launches US institution with Florida degree offer",
+        "url": "https://thepienews.com/uel-launches-us-institution-with-florida-degree-offer/",
+        "summary": "The London university will offer one-year bachelor’s completion routes and master’s degrees through its new US institution, with degree teaching starting in January 2027. The post UEL launches US institution with Florida degree offer appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-09-29T16:36:01+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "global"
+      },
       {
         "title": "Applications Open: Design & Digital Marketing School Cohort 3 for Lagos Residents",
         "url": "https://opportunitydesk.org/2026/09/29/design-digital-marketing-school-cohort-3-for-lagos-residents/",
@@ -6005,30 +6151,6 @@
           "research"
         ],
         "region": "global"
-      },
-      {
-        "title": "Correction: Renal coccidiosis in black skimmers in North America reveals an uncharacterized Eimeria lineage (Apicomplexa: Eimeriidae)",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359440",
-        "summary": "by Kátia R. Groch, Tiana L. Sanders, Elena M. I. Duran, Susan A. Heath, Dallas Clontz, Jacquelyn K. Grace, Raquel R. Rech, Guilherme G. Verocai, Laura K. Bryan",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-09-28T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "The perceived facilitators and barriers to the potential adoption of teledentistry among dental care providers in Saudi Arabia: A systematic review",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359436",
-        "summary": "by Amjad Hakami, Sarika Mohan Teledentistry has emerged as a tool that holds great potential to enhance access, efficiency, and continuity of oral healthcare delivery. In Saudi Arabia, its adoption is important in the context of the health transformation programme and Vision 2030, particularly given the high prevalence of dental caries among schoolchildren. Despite this potential, actual implementation is still limited. In this context, there is a need to systematically assess the factors influencing its potential adoption from the care providers’ perspectives. This review aimed to systematica",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-09-28T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
       }
     ],
     "south_asia": [
@@ -6037,7 +6159,7 @@
         "url": "https://kathmandupost.com/columns/2026/09/28/are-nepali-schools-ready-for-the-ai-takeover",
         "summary": "From panicked teachers to copy-pasting students, artificial intelligence is rewriting the rules of education—leaving traditional pen-and-paper exams struggling to keep up.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-09-29T16:01:49.237218+00:00",
+        "published": "2026-09-29T17:23:18.683166+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6230,6 +6352,18 @@
         "summary": "What is the NEET-SS examination? Why are NEET-SS seats going vacant? What was the demand of doctors from Tamil Nadu?",
         "source": "The Hindu — Education",
         "published": "2026-09-28T08:33:13+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "Neitzsche, Natyashastra and the Indian Consumer",
+        "url": "https://blogs.lse.ac.uk/southasia/2026/09/28/neitzsche-natyashastra-and-the-indian-consumer/",
+        "summary": "Bollywood remains one of India’s most important cultural exports, spanning decades and still remaining potent. But how do Western audiences make sense of the seemingly disruptive, even ‘illogical’, storylines, complete with song-and-dance sequences and change of costumes? Ram Sharma frames the Indian consumer in a civilisational aesthetic whose philosophical traditions never acceded primacy to reason … Continued The post Neitzsche, Natyashastra and the Indian Consumer first appeared on South Asia @ LSE .",
+        "source": "LSE South Asia Blog",
+        "published": "2026-09-28T07:18:17+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6494,18 +6628,6 @@
         "summary": "The Mayor of New York Zohran Mamdani and Schools Chancellor Kamar H. Samuels on September 2 imposed a one-year moratorium on student-facing generative AI for pupils up to eighth grade for the 2026–27 academic year",
         "source": "The Hindu — Education",
         "published": "2026-09-25T11:46:16+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "NIRF rankings decoded: what’s new, what matters",
-        "url": "https://www.thehindu.com/education/nirf-rankings-decoded-whats-new-what-matters/article71499400.ece",
-        "summary": "",
-        "source": "The Hindu — Education",
-        "published": "2026-09-25T10:04:25+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -7714,6 +7836,103 @@
         "region": "europe"
       },
       {
+        "title": "Leaving Cumberland Lodge with better questions, not simpler answers about development",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/leaving-cumberland-lodge-with-better-questions-not-simpler-answers-about-development/",
+        "summary": "How should development be understood in an era of geopolitical fragmentation, climate crisis and growing global inequality? Drawing on her experience at a Cumberland Lodge retreat for students in the LSE Department of International Development, MSc candidate Disha Ghosh explores how a weekend of lectures, discussion and debate challenged conventional assumptions about development and highlighted … Continued The post Leaving Cumberland Lodge with better questions, not simpler answers about development first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T14:40:51+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "Moona Shaik reflects on her journey from an LSE consultancy project to a UN Women panel",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/moona-shaik-reflects-on-her-journey-from-an-lse-consultancy-project-to-a-un-women-panel/",
+        "summary": "After contributing to a UN Women consultancy project at LSE, recent alumna Moona Shaik was invited to speak at a HeForShe University webinar. She shared what her research revealed about the pushback against women’s rights, the importance of allyship and the future of DEI initiatives. Drawing on her work in East Africa and reflections from … Continued The post Moona Shaik reflects on her journey from an LSE consultancy project to a UN Women panel first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T13:43:08+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "The Belém Gender Action Plan puts women at the centre of climate action, now it needs to deliver",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/the-belem-gender-action-plan-puts-women-at-the-centre-of-climate-action-now-it-needs-to-deliver/",
+        "summary": "MSc candidate Amanda Costa explores how the Belém Gender Action Plan became one of the most significant gender commitments in the history of UN climate negotiations. While the agreement promises to strengthen women’s participation across climate decision-making, finance and implementation, she argues that its success will ultimately depend on whether it delivers meaningful change for … Continued The post The Belém Gender Action Plan puts women at the centre of climate action, now it needs to deliver first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T10:51:42+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "Shanghai and the complexities of China’s rise",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/shanghai-and-the-complexities-of-chinas-rise/",
+        "summary": "More than 40 years after his first visit to China, Professor Robert Wade returns to find in Shanghai a city that appears to have moved from the developing world into the technological future. Its prosperity, manufacturing depth and technological ambition reveal the results of decades of strategic economic development, but its low fertility, property downturn … Continued The post Shanghai and the complexities of China’s rise first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T08:39:19+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "The next step for European VET: turning AI competence into teacher practice",
+        "url": "https://efvet.org/the-next-step-for-european-vet-turning-ai-competence-into-teacher-practice/",
+        "summary": "Europe is not starting from zero. We already have strong foundations for digital competence, VET development and responsible technology. But as AI rapidly transforms both education and the workplace, a new challenge is becoming increasingly urgent: How do we turn these foundations into practical AI competence for VET teachers and trainers? Knowing how to use […] The post The next step for European VET: turning AI competence into teacher practice appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-29T08:02:30+00:00",
+        "stream": "tvet",
+        "streams": [
+          "tvet"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "Basque VET Centres Scale Immersive Learning Across the Network",
+        "url": "https://efvet.org/basque-vet-centres-scale-immersive-learning-across-the-network/",
+        "summary": "Basque VET centres are integrating XR into vocational training. This initiative, coordinated by TKNIKA and supported by the Basque Government’s Department of Education, is aligned with the Basque VET 2030 Strategy and forms part of a system of 184 coordinated VET institutions. To support this initiative, the Basque VET network selected VIROO as its […] The post Basque VET Centres Scale Immersive Learning Across the Network appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-28T10:30:24+00:00",
+        "stream": "tvet",
+        "streams": [
+          "tvet"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "From Skills Gap to Learner Success: Why the TVET Learning Experience Needs to Change",
+        "url": "https://efvet.org/from-skills-gap-to-learner-success-why-the-tvet-learning-experience-needs-to-change/",
+        "summary": "How adapting the learning experience can help TVET providers attract, engage and retain the next generation of learners. The skills gap is one of the most pressing challenges facing vocational education and training. Across Europe, employers are struggling to find people with the practical skills they need, while TVET providers are being asked to prepare […] The post From Skills Gap to Learner Success: Why the TVET Learning Experience Needs to Change appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-28T10:25:10+00:00",
+        "stream": "tvet",
+        "streams": [
+          "tvet",
+          "labor"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "Message from WorldSkills in Shanghai: “Skills are the new societal wealth”.",
+        "url": "https://efvet.org/message-from-worldskills-in-shanghai-skills-are-the-new-societal-wealth/",
+        "summary": "EfVET is pleased to be present at WorldSkills Shanghai 2026 and the WorldSkills Conference 2026, joining the international TVET community for one of the most important global gatherings dedicated to skills, excellence and vocational education and training. The scale itself is remarkable: around 1,400 young Competitors from more than 70 countries and regions, while the […] The post Message from WorldSkills in Shanghai: “Skills are the new societal wealth”. appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-24T14:25:45+00:00",
+        "stream": "tvet",
+        "streams": [
+          "tvet"
+        ],
+        "region": "europe"
+      },
+      {
         "title": "Mapping Knowledge, Connecting Expertise Through #TheSouthAlsoKnows: Meet NORRAG Network Members from Africa",
         "url": "https://www.norrageducation.org/mapping-knowledge-connecting-expertise-through-thesouthalsoknows-meet-norrag-network-members-from-africa/",
         "summary": "Across Africa, education challenges are increasingly shaped by questions that cut across traditional disciplinary and geographic boundaries, from girls’ transitions and social protection to digital transformation, artificial intelligence and the future of work. Addressing these questions requires more than expertise in individual fields, it requires spaces where different forms of knowledge, experience and perspectives can... Read More The post Mapping Knowledge, Connecting Expertise Through #TheSouthAlsoKnows: Meet NORRAG Network Members from Africa appeared first on NORRAG - .",
@@ -7762,6 +7981,30 @@
         "region": "europe"
       },
       {
+        "title": "Rich Countries Don’t Have a Secret Trick for Cutting Carbon",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/21/rich-countries-dont-have-a-secret-trick-for-cutting-carbon/",
+        "summary": "Meghna Chotaliya, Subir Chowdhury Visiting Fellow at India Observatory and International Inequalities Institute, LSE explores new evidence from close to 190 countries over two decades that suggests low- and middle-income economies can cut carbon intensity just as effectively as high-income countries once their energy mix shifts. The real gap is not one of ability, but … Continued The post Rich Countries Don’t Have a Secret Trick for Cutting Carbon first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-21T13:20:24+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "EfVET at the Forum on Vocational Excellence 2026",
+        "url": "https://efvet.org/efvet-forum-on-vocational-excellence-2026-cop-coves/",
+        "summary": "From 7 to 9 September, the EfVET team participated in the Forum on Vocational Excellence 2026 conference in Graz, Austria. The conference brought together around 400 participants from across Europe and beyond to exchange best practice, ideas and lessons learned, and to find creative solutions by encouraging collaboration between VET providers, companies and governments. Hosted […] The post EfVET at the Forum on Vocational Excellence 2026 appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-21T10:22:11+00:00",
+        "stream": "tvet",
+        "streams": [
+          "tvet"
+        ],
+        "region": "europe"
+      },
+      {
         "title": "UN Talks on Free Education Advance as States Weigh Next Steps",
         "url": "https://www.norrageducation.org/un-talks-on-free-education-advance-as-states-weigh-next-steps/",
         "summary": "In this blogpost, Bede Sheppard reports on a UN session in early September at which governments continued a process that aims to extend and strengthen the right to education in international law. A United Nations process is moving forward to consider a new legally binding treaty to strengthen children’s right to free education. The proposed... Read More The post UN Talks on Free Education Advance as States Weigh Next Steps appeared first on NORRAG - .",
@@ -7774,11 +8017,47 @@
         "region": "europe"
       },
       {
+        "title": "Creative Skills Week 2026 – Creative Confidence in Action",
+        "url": "https://efvet.org/creative-skills-week-2026/",
+        "summary": "Titled “The Difference that Makes the Difference”, this year’s Creative Skills Week (CSW) was co-organised by EIT Culture and Creativity, CYANOTYPES project, and Creative Futures Academy, in collaboration with the Creative Pact for Skills, CREDEX and the GreenCCIrcle projects. Hosted by LUCA School of Arts and ICHEC Brussels Management School, this major event took place […] The post Creative Skills Week 2026 – Creative Confidence in Action appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-11T10:56:37+00:00",
+        "stream": "tvet",
+        "streams": [
+          "tvet"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "On AI Access, Awareness, and Augmentation",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/10/on-ai-access-awareness-and-augmentation/",
+        "summary": "AI is often deemed a democratic technology. Insights from an initial, small-scale set of interviews suggest that there is far more to the picture. Anusha Raghav explores how human interaction with AI falls into distinct layers, shaped by demographic, sectoral, and ethical factors that anyone building or regulating AI needs to account for. In January … Continued The post On AI Access, Awareness, and Augmentation first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-10T09:34:56+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
         "title": "When Schools become Shelters: Bridging gaps in the HDP Nexus through conflict sensitive Peace Education in Lebanon",
         "url": "https://www.norrageducation.org/when-schools-become-shelters-bridging-gaps-in-the-hdp-nexus-through-conflict-sensitive-peace-education-in-lebanon/",
         "summary": "In this blog, Layal Assaad, Country Director, International Alert Lebanon and Ruth Simpson, Peace Education Expert, demonstrate how an HDP nexus approach – rooted in system leadership – frames training and ongoing support in peace education for teachers, with positive and encouraging results for learners in a severely challenging context of various and protracted violence. The... Read More The post When Schools become Shelters: Bridging gaps in the HDP Nexus through conflict sensitive Peace Education in Lebanon appeared first on NORRAG - .",
         "source": "NORRAG — Education & Development",
         "published": "2026-09-10T08:00:33+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "Maize in Zambia is not an agricultural story. It is a political one.",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/08/maize-in-zambia-is-not-an-agricultural-story-it-is-a-political-one/",
+        "summary": "Zambia’s dependence on maize is often treated as a food security problem requiring technical solutions. But maize didn’t arrive in Zambia because it was the best crop for the land: it arrived because it served colonial interests. In this blog, Carla Monzón Bordón traces how that original decision continues to shape land access, hunger, and … Continued The post Maize in Zambia is not an agricultural story. It is a political one. first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-08T14:15:23+00:00",
         "stream": "research",
         "streams": [
           "research"
@@ -7810,6 +8089,18 @@
         "region": "europe"
       },
       {
+        "title": "Expanding Horizons for Swiss VET Internationalisation",
+        "url": "https://efvet.org/expanding-horizons-for-swiss-vet-internationalisation/",
+        "summary": "In a comprehensive scientific briefing commissioned by Movetia, the Swiss Observatory for Vocational Education and Training OBS SFUVET identifies both the existing barriers and specific ‘levers’ required to strengthen the engagement of Swiss vocational actors in European mobility and cooperation initiatives. Prof. Dr. Lukas Graf and Dr. Agata A. Lambrechts of the Swiss Observatory for […] The post Expanding Horizons for Swiss VET Internationalisation appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-04T10:08:33+00:00",
+        "stream": "tvet",
+        "streams": [
+          "tvet"
+        ],
+        "region": "europe"
+      },
+      {
         "title": "Crisis as Curriculum? The Politics of Shifting Responsibility onto Children",
         "url": "https://www.norrageducation.org/crisis-as-curriculum-the-politics-of-shifting-responsibility-onto-children/",
         "summary": "In this blog, Sreehari Ravindranath, Director of Research and Impact at Dream a Dream, India, elucidates how the frequent creation of new curricula in response to crises, while often important, risks shifting responsibility to teachers and learners, while protecting the institutional architectures and inequalities that contributed to generating the problem. Each new crisis appears to... Read More The post Crisis as Curriculum? The Politics of Shifting Responsibility onto Children appeared first on NORRAG - .",
@@ -7818,6 +8109,66 @@
         "stream": "research",
         "streams": [
           "research"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "The overlooked geography of migration and why it should be scaled for development",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/02/the-overlooked-geography-of-migration-and-why-it-should-be-scaled-for-development/",
+        "summary": "Global migration is not only a story of movement from developing to developed countries: South-South migration represents a major share of global mobility. Carla Broussy argues the development benefits this migration generates should not be ignored. Open any news article and the migration reported on is usually a movement towards Europe or the United States. … Continued The post The overlooked geography of migration and why it should be scaled for development first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-02T10:56:39+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "Ratko Mladić Is Dead. The Questions He Leaves Behind Are Not",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/01/ratko-mladic-is-dead-the-questions-he-leaves-behind-are-not/",
+        "summary": "Ratko Mladić has died in UN custody while serving a life sentence for genocide, crimes against humanity and war crimes. Reflecting on his own experience in besieged Sarajevo, Professor Stuart Gordon considers the importance of accountability and the unanswered questions surrounding the international community’s failure to prevent the Srebrenica genocide. Ratko Mladić died on Thursday … Continued The post Ratko Mladić Is Dead. The Questions He Leaves Behind Are Not first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-01T11:04:16+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "The GIRO Project promotes a vision of VET based on innovation, equality and social impact",
+        "url": "https://efvet.org/giro-project-vet/",
+        "summary": "Centro Sagrado Corazón – Jesuitas Logroño has won first prize in the 5th edition of the VET Knowledge Transfer Awards, organised by FPEmpresa and Grupo Esprinet, thanks to the GIRO Project, an initiative that reflects a way of understanding Vocational Education and Training as a space where innovation starts with people and knowledge is placed […] The post The GIRO Project promotes a vision of VET based on innovation, equality and social impact appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-01T08:48:21+00:00",
+        "stream": "tvet",
+        "streams": [
+          "tvet"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "VitiSensor concludes with an IoT solution to advance towards more sustainable viticulture",
+        "url": "https://efvet.org/vitisensor-iot-solution/",
+        "summary": "Salesianos Los Boscos has presented the final results of VitiSensor, an innovation project developed by students from Telecommunications vocational training programmes that has enabled the design, construction and implementation of a modular sensor system for smart vineyard monitoring. The initiative, selected in the 9th Dualiza Grants Call, promoted by CaixaBank Dualiza and FPEmpresa, demonstrates how […] The post VitiSensor concludes with an IoT solution to advance towards more sustainable viticulture appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-01T08:45:13+00:00",
+        "stream": "tvet",
+        "streams": [
+          "tvet"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "SOLAREST turns corporate sustainability into a classroom challenge",
+        "url": "https://efvet.org/solarest-corporate-sustainability/",
+        "summary": "How can an industrial company move towards a more sustainable model without giving up innovation? This question provided the starting point for SOLAREST, an educational project in which students from CIFP N1 de Santander applied the content of the Sustainability Applied to the Productive Sector module to a business scenario. Within the framework of […] The post SOLAREST turns corporate sustainability into a classroom challenge appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-09-01T08:41:14+00:00",
+        "stream": "tvet",
+        "streams": [
+          "tvet"
         ],
         "region": "europe"
       },
@@ -7892,27 +8243,75 @@
           "tvet"
         ],
         "region": "europe"
+      },
+      {
+        "title": "Eilidh Taylor shares seven lessons from dissertation writing",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/08/10/eilidh-taylor-shares-seven-lessons-from-dissertation-writing/",
+        "summary": "As dissertation season reaches its final stretch, MSc Development Studies student Eilidh Taylor reflects on seven lessons she’s learned about research, writing, managing uncertainty and making the most of the process. Hello, I’m Eilidh, a Development Studies master’s student in the 2025-26 cohort. I’m currently writing my dissertation and, in the moments between reading and … Continued The post Eilidh Taylor shares seven lessons from dissertation writing first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-08-10T10:23:11+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
       }
     ],
     "north_america": [
       {
-        "title": "College Students Flex Their Power in A.I. Investment Frenzy",
-        "url": "https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html",
-        "summary": "Dorm Room Fund, a program that lets college students invest in their peers, raised a new $50 million fund as the competition for young founders ramps up.",
-        "source": "New York Times — Technology",
-        "published": "2026-09-29T15:31:44+00:00",
-        "stream": "edtech",
+        "title": "Dartmouth Provost Is the Latest College Professor Examined for A.I. Use",
+        "url": "https://www.nytimes.com/2026/09/29/us/college-professors-administrators-ai-dartmouth.html",
+        "summary": "Dartmouth said it would investigate its provost over A.I. accusations. Similar controversies on other campuses have prompted frustration among students.",
+        "source": "New York Times — Education",
+        "published": "2026-09-29T16:28:09+00:00",
+        "stream": "policy",
         "streams": [
-          "edtech"
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Cornell Sexual Assault Investigation to Be Reopened",
+        "url": "https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html",
+        "summary": "After outrage over allegations in a lawsuit, the Tompkins County district attorney will revisit the decision not to pursue criminal charges against seven fraternity members.",
+        "source": "New York Times — Education",
+        "published": "2026-09-29T16:24:37+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
         ],
         "region": "north_america"
       },
       {
         "title": "Cornell University Rape Investigation: What We Know",
         "url": "https://www.nytimes.com/2026/09/29/nyregion/cornell-university-rape-investigation-chi-phi-fraternity.html",
-        "summary": "Prosecutors have said they will reopen the case of a woman who said she was sexually assaulted on campus in 2024. The woman’s lawsuit brought renewed pressure to reopen the investigation.",
+        "summary": "Prosecutors have reopened the case of a woman who said she was sexually assaulted on campus in 2024. The woman’s lawsuit brought renewed pressure to reopen the investigation.",
         "source": "New York Times — Education",
-        "published": "2026-09-29T15:02:02+00:00",
+        "published": "2026-09-29T16:19:05+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "MacArthur Foundation Announces 2026 ‘Genius Grant’ Winners",
+        "url": "https://www.nytimes.com/2026/09/29/arts/design/macarthur-foundation-announces-2026-genius-grant-winners.html",
+        "summary": "The 20 fellowship recipients across the arts, humanities and sciences will each receive an $800,000, no-strings-attached stipend for their work.",
+        "source": "New York Times — Education",
+        "published": "2026-09-29T16:01:05+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "College Students Flex Their Power in A.I. Investment Frenzy",
+        "url": "https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html",
+        "summary": "Dorm Room Fund, a program that lets college students invest in their peers, raised a new $50 million fund as the competition for young founders ramps up.",
+        "source": "New York Times — Education",
+        "published": "2026-09-29T15:31:45+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -7948,7 +8347,19 @@
         "url": "https://www.nytimes.com/2026/09/29/opinion/writing-thinking-college-ai.html",
         "summary": "If I do not treat writing as essential for achieving thought, it is not clear why I should force my students to.",
         "source": "New York Times — Education",
-        "published": "2026-09-29T12:15:55+00:00",
+        "published": "2026-09-29T12:15:56+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Why China Is Requiring Ninth Graders to Read ‘Jane Eyre’",
+        "url": "https://www.nytimes.com/2026/09/28/world/asia/china-jane-eyre-required-reading-literature.html",
+        "summary": "The Victorian heroine has long been celebrated in China for her independence and insistence on equality.",
+        "source": "New York Times — Education",
+        "published": "2026-09-29T12:10:43+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8012,18 +8423,6 @@
         "stream": "school",
         "streams": [
           "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Dartmouth Provost Is the Latest College Professor Examined for A.I. Use",
-        "url": "https://www.nytimes.com/2026/09/29/us/college-professors-administrators-ai-dartmouth.html",
-        "summary": "Dartmouth said it would investigate its provost over A.I. accusations. Similar controversies on other campuses have prompted frustration among students.",
-        "source": "New York Times — Education",
-        "published": "2026-09-29T09:02:11+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "north_america"
       },
@@ -8184,11 +8583,11 @@
         "region": "north_america"
       },
       {
-        "title": "Cornell Sexual Assault Investigation to Be Reopened",
-        "url": "https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html",
-        "summary": "After outrage over allegations in a lawsuit, the Tompkins County district attorney will revisit the decision not to pursue criminal charges against seven fraternity members.",
+        "title": "30 Ideas for Fixing U.S. Schools, Ranked by Experts",
+        "url": "https://www.nytimes.com/2026/09/28/upshot/ideas-fixing-schools-ranked.html",
+        "summary": "Math and reading scores are in a decade-long slump. We asked three dozen experts: What could turn things around?",
         "source": "New York Times — Education",
-        "published": "2026-09-28T20:29:57+00:00",
+        "published": "2026-09-28T20:28:09+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8232,6 +8631,18 @@
         "region": "north_america"
       },
       {
+        "title": "The U.C.L.A. Bollywood Dance Team That Inspired ‘Best of the Best’",
+        "url": "https://www.nytimes.com/2026/09/28/arts/bonding-and-battling-the-college-life-of-a-bollywood-dance-team.html",
+        "summary": "“For a lot of South Asians, dance is the way we connect,” said a member of the U.C.L.A. team Nashaa. Our photographer captured glimpses of the team last year, from audition to competitions.",
+        "source": "New York Times — Education",
+        "published": "2026-09-28T16:51:20+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
         "title": "Opinion: New Study Shows Women Still Face a Higher Bar for the Superintendent’s Job",
         "url": "https://www.the74million.org/article/new-study-shows-women-still-face-a-higher-bar-for-the-superintendents-job/",
         "summary": "In 1874, the school board of Davenport, Iowa, offered Phebe Sudlow the superintendency at less than the departing man’s salary. Her response has echoed across history. “Gentlemen, if you are cutting the salary because of my experience, I have nothing to say; but if you are doing this because I am a woman, I’ll have […]",
@@ -8249,18 +8660,6 @@
         "summary": "Educators often end up spending their own money on the kids they teach, despite being in a profession that rarely leaves them with enough disposable income to do so comfortably. Whether it’s pipe cleaners and glue sticks for a holiday craft, new books for the classroom library or a continuing education class to sharpen their […]",
         "source": "The 74 Million",
         "published": "2026-09-28T14:30:00+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "In Fighting for Every Black Child, Did I Betray My Own?",
-        "url": "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html",
-        "summary": "A decade ago, I made a decision about my daughter’s education that I hoped would challenge New York City’s separate and unequal school system. Now 16, she thinks I made the wrong choice.",
-        "source": "New York Times — Education",
-        "published": "2026-09-28T13:38:23+00:00",
         "stream": "school",
         "streams": [
           "school"
@@ -8336,42 +8735,6 @@
         "stream": "school",
         "streams": [
           "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Opinion: Changing Head Start Rules Would Rob Kids of Skills They Need for School and Life",
-        "url": "https://www.the74million.org/zero2eight/changing-head-start-rules-would-rob-kids-of-skills-they-need-for-school-and-life/",
-        "summary": "Ask kindergarten teachers what they need most from 5-year-olds, and few will say it’s children who can read full sentences or count to 100. They need kids who don’t melt down when a block tower falls, who can share crayons with a classmate, follow multi-step directions, communicate frustration without shutting down and focus in a […]",
-        "source": "The 74 Million",
-        "published": "2026-09-26T10:30:00+00:00",
-        "stream": "foundational",
-        "streams": [
-          "foundational"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "30 College Students Splattered With Condiments and Liquids in Hazing, Police Say",
-        "url": "https://www.nytimes.com/2026/09/25/us/hazing-madison-wisconsin-fraternity.html",
-        "summary": "Two University of Wisconsin-Madison students face charges of suspicion of hazing in the episode, which happened on Wednesday in a sweltering basement, officials said.",
-        "source": "New York Times — Education",
-        "published": "2026-09-25T23:39:36+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Report Finds Security Failings at Event Where Charlie Kirk Was Killed",
-        "url": "https://www.nytimes.com/2026/09/25/us/utah-valley-university-charlie-kirk-security.html",
-        "summary": "A review commissioned by Utah Valley University faults campus and Turning Point USA officials for poor planning of the event last year.",
-        "source": "New York Times — Education",
-        "published": "2026-09-25T23:10:34+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "north_america"
       }
