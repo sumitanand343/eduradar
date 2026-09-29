@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>EduRadar — Live Intelligence on Education, Skills & AI</title>
+  <title>EduRadar — AI, Education & Skills Intelligence</title>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -15,11 +15,11 @@
       --muted:     #6b7280;
       --accent:    #1d4ed8;
       --accent-lt: #eff6ff;
+      --dark:      #0f172a;
       --sidebar-w: 240px;
       --radius:    10px;
       --font:      -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 
-      /* Stream badge colors */
       --c-fln:       #fef3c7; --ct-fln:       #92400e;
       --c-ece:       #d1fae5; --ct-ece:       #065f46;
       --c-k12:       #dbeafe; --ct-k12:       #1e40af;
@@ -45,59 +45,251 @@
 
     /* ── Top bar ── */
     .topbar {
-      background: var(--accent);
+      background: var(--dark);
       color: #fff;
       display: flex;
       align-items: center;
-      gap: 20px;
+      gap: 16px;
       padding: 0 24px;
       height: 56px;
       flex-shrink: 0;
       position: sticky;
       top: 0;
       z-index: 100;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
     }
 
     .brand {
-      font-size: 1.25rem;
+      font-size: 1.2rem;
       font-weight: 800;
       letter-spacing: -0.02em;
       white-space: nowrap;
+      color: #fff;
+      cursor: pointer;
     }
-    .brand span { opacity: 0.7; font-weight: 400; }
+    .brand span { color: #60a5fa; }
 
     .topbar-search {
       flex: 1;
-      max-width: 400px;
+      max-width: 380px;
     }
     .topbar-search input {
       width: 100%;
-      border: none;
+      border: 1px solid rgba(255,255,255,0.15);
       border-radius: 6px;
       padding: 7px 12px;
       font-size: 0.88rem;
-      background: rgba(255,255,255,0.15);
+      background: rgba(255,255,255,0.08);
       color: #fff;
       outline: none;
     }
-    .topbar-search input::placeholder { color: rgba(255,255,255,0.6); }
-    .topbar-search input:focus { background: rgba(255,255,255,0.25); }
+    .topbar-search input::placeholder { color: rgba(255,255,255,0.45); }
+    .topbar-search input:focus { border-color: #60a5fa; background: rgba(255,255,255,0.12); }
 
-    .topbar-meta {
+    .topbar-nav {
+      display: flex;
+      gap: 4px;
       margin-left: auto;
-      font-size: 0.78rem;
-      opacity: 0.7;
+    }
+    .topbar-btn {
+      background: transparent;
+      border: 1px solid rgba(255,255,255,0.15);
+      color: rgba(255,255,255,0.75);
+      border-radius: 6px;
+      padding: 5px 12px;
+      font-size: 0.82rem;
+      cursor: pointer;
+      transition: all .15s;
+    }
+    .topbar-btn:hover, .topbar-btn.active {
+      background: rgba(255,255,255,0.12);
+      color: #fff;
+      border-color: rgba(255,255,255,0.3);
+    }
+    .topbar-meta {
+      font-size: 0.75rem;
+      color: rgba(255,255,255,0.4);
       white-space: nowrap;
+      padding-left: 8px;
+      border-left: 1px solid rgba(255,255,255,0.1);
     }
 
-    /* ── Layout ── */
-    .layout {
+    /* ── Views ── */
+    .view { display: none; }
+    .view.active { display: flex; flex: 1; }
+
+    /* ── LANDING PAGE ── */
+    #view-home {
+      flex-direction: column;
+    }
+
+    .hero {
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 50%, #1d4ed8 100%);
+      color: #fff;
+      padding: 72px 40px 60px;
+      text-align: center;
+    }
+    .hero-label {
+      display: inline-block;
+      background: rgba(96,165,250,0.2);
+      border: 1px solid rgba(96,165,250,0.4);
+      color: #93c5fd;
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      padding: 4px 14px;
+      border-radius: 20px;
+      margin-bottom: 20px;
+    }
+    .hero h1 {
+      font-size: clamp(2rem, 5vw, 3.2rem);
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      line-height: 1.15;
+      margin-bottom: 16px;
+    }
+    .hero h1 span { color: #60a5fa; }
+    .hero p {
+      font-size: 1.05rem;
+      color: rgba(255,255,255,0.7);
+      max-width: 560px;
+      margin: 0 auto 36px;
+      line-height: 1.65;
+    }
+    .hero-stats {
       display: flex;
-      flex: 1;
+      justify-content: center;
+      gap: 40px;
+      flex-wrap: wrap;
+      margin-top: 8px;
+    }
+    .hero-stat { text-align: center; }
+    .hero-stat-num {
+      font-size: 2rem;
+      font-weight: 800;
+      color: #60a5fa;
+      line-height: 1;
+    }
+    .hero-stat-lbl {
+      font-size: 0.78rem;
+      color: rgba(255,255,255,0.55);
+      margin-top: 4px;
+    }
+
+    .hero-actions {
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      margin-top: 32px;
+      flex-wrap: wrap;
+    }
+    .btn-primary {
+      background: #2563eb;
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      padding: 12px 24px;
+      font-size: 0.92rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background .15s;
+    }
+    .btn-primary:hover { background: #1d4ed8; }
+    .btn-secondary {
+      background: rgba(255,255,255,0.1);
+      color: #fff;
+      border: 1px solid rgba(255,255,255,0.25);
+      border-radius: 8px;
+      padding: 12px 24px;
+      font-size: 0.92rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all .15s;
+    }
+    .btn-secondary:hover { background: rgba(255,255,255,0.18); }
+
+    /* Stream cards on home */
+    .home-streams {
+      padding: 40px;
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+    .home-section-title {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      margin-bottom: 20px;
+    }
+    .stream-cards-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 16px;
+      margin-bottom: 40px;
+    }
+    .stream-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 20px;
+      cursor: pointer;
+      transition: all .15s;
+      border-left: 4px solid transparent;
+    }
+    .stream-card:hover {
+      box-shadow: 0 4px 16px rgba(0,0,0,.08);
+      transform: translateY(-2px);
+    }
+    .stream-card-top {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+    .stream-icon {
+      width: 36px;
+      height: 36px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.1rem;
+      flex-shrink: 0;
+    }
+    .stream-card-name { font-size: 0.92rem; font-weight: 700; }
+    .stream-card-count { font-size: 0.78rem; color: var(--muted); margin-top: 2px; }
+    .stream-card-preview {
+      font-size: 0.8rem;
+      color: var(--muted);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
       overflow: hidden;
     }
 
-    /* ── Sidebar ── */
+    /* Latest stories strip on home */
+    .home-latest {
+      background: var(--surface);
+      border-top: 1px solid var(--border);
+      padding: 40px;
+    }
+    .home-latest-inner { max-width: 1200px; margin: 0 auto; }
+    .latest-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+
+    /* ── STREAMS VIEW ── */
+    #view-streams {
+      overflow: hidden;
+    }
+
     .sidebar {
       width: var(--sidebar-w);
       background: var(--surface);
@@ -140,11 +332,7 @@
       border-left-color: var(--accent);
       font-weight: 600;
     }
-    .nav-dot {
-      width: 8px; height: 8px;
-      border-radius: 50%;
-      flex-shrink: 0;
-    }
+    .nav-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
     .nav-count {
       margin-left: auto;
       font-size: 0.72rem;
@@ -153,12 +341,8 @@
       border-radius: 10px;
       color: var(--muted);
     }
-    .nav-item.active .nav-count {
-      background: var(--accent);
-      color: #fff;
-    }
+    .nav-item.active .nav-count { background: var(--accent); color: #fff; }
 
-    /* stream dot colors */
     .dot-fln       { background: var(--ct-fln); }
     .dot-ece       { background: var(--ct-ece); }
     .dot-k12       { background: var(--ct-k12); }
@@ -171,13 +355,9 @@
     .dot-policy    { background: var(--ct-policy); }
     .dot-research  { background: var(--ct-research); }
     .dot-funding   { background: var(--ct-funding); }
-    .dot-region    { background: #94a3b8; }
 
-    /* Region select */
-    .region-select-wrap {
-      padding: 8px 16px 16px;
-    }
-    .region-select-wrap select {
+    .sidebar-filters { padding: 8px 16px 16px; display: flex; flex-direction: column; gap: 8px; }
+    .sidebar-filters select, .sidebar-filters input {
       width: 100%;
       border: 1px solid var(--border);
       border-radius: 6px;
@@ -188,13 +368,16 @@
       cursor: pointer;
       outline: none;
     }
-    .region-select-wrap select:focus { border-color: var(--accent); }
+    .sidebar-filters select:focus,
+    .sidebar-filters input:focus { border-color: var(--accent); }
+    .filter-label { font-size: 0.72rem; color: var(--muted); font-weight: 600; text-transform: uppercase; letter-spacing: .05em; }
 
-    /* ── Main content ── */
+    /* ── Content area ── */
     .content {
       flex: 1;
       overflow-y: auto;
       padding: 24px;
+      height: calc(100vh - 56px);
     }
 
     .section-header {
@@ -202,14 +385,34 @@
       align-items: baseline;
       gap: 12px;
       margin-bottom: 20px;
+      flex-wrap: wrap;
     }
     .section-title { font-size: 1.2rem; font-weight: 700; }
     .section-sub   { font-size: 0.85rem; color: var(--muted); }
 
+    /* Stats bar */
+    .stats-bar {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+      margin-bottom: 24px;
+    }
+    .stat-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px 20px;
+      flex: 1;
+      min-width: 100px;
+      text-align: center;
+    }
+    .stat-num { font-size: 1.5rem; font-weight: 800; color: var(--accent); }
+    .stat-lbl { font-size: 0.72rem; color: var(--muted); margin-top: 2px; }
+
     /* ── Card grid ── */
     .card-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
       gap: 16px;
     }
 
@@ -266,11 +469,7 @@
     .badge-research  { background: var(--c-research);  color: var(--ct-research); }
     .badge-funding   { background: var(--c-funding);   color: var(--ct-funding); }
 
-    .card-title {
-      font-size: 0.95rem;
-      font-weight: 600;
-      line-height: 1.4;
-    }
+    .card-title { font-size: 0.95rem; font-weight: 600; line-height: 1.4; }
     .card-title a { color: var(--text); text-decoration: none; }
     .card-title a:hover { color: var(--accent); }
 
@@ -303,39 +502,162 @@
       font-weight: 600;
     }
 
-    /* ── Empty / loading ── */
+    /* ── Pagination ── */
+    .pagination {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      margin-top: 28px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+    }
+    .page-btn {
+      border: 1px solid var(--border);
+      background: var(--surface);
+      border-radius: 6px;
+      padding: 6px 14px;
+      font-size: 0.85rem;
+      cursor: pointer;
+      color: var(--muted);
+      transition: all .12s;
+    }
+    .page-btn:hover { border-color: var(--accent); color: var(--accent); }
+    .page-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+    .page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+    /* ── Empty ── */
     .empty {
       color: var(--muted);
       font-size: 0.9rem;
-      padding: 40px 0;
+      padding: 60px 0;
       text-align: center;
       grid-column: 1 / -1;
     }
 
-    /* ── Stats bar ── */
-    .stats-bar {
-      display: flex;
-      gap: 20px;
-      flex-wrap: wrap;
-      margin-bottom: 24px;
+    /* ── ABOUT VIEW ── */
+    #view-about {
+      flex-direction: column;
+      overflow-y: auto;
     }
-    .stat-card {
-      background: var(--surface);
+    .about-wrap { max-width: 800px; margin: 0 auto; padding: 48px 28px; width: 100%; }
+    .about-wrap h1 { font-size: 1.8rem; font-weight: 800; margin-bottom: 8px; }
+    .about-wrap .about-sub { font-size: 1rem; color: var(--muted); margin-bottom: 36px; }
+    .about-section { margin-bottom: 36px; }
+    .about-section h2 { font-size: 1.05rem; font-weight: 700; margin-bottom: 12px; color: var(--accent); }
+    .about-section p { font-size: 0.92rem; line-height: 1.75; color: #374151; margin-bottom: 12px; }
+    .about-streams-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 10px;
+      margin-top: 12px;
+    }
+    .about-stream-pill {
+      padding: 10px 14px;
+      border-radius: 8px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      border: 1px solid var(--border);
+    }
+    .contact-box {
+      background: var(--accent-lt);
+      border: 1px solid #bfdbfe;
+      border-radius: var(--radius);
+      padding: 20px 24px;
+      margin-top: 16px;
+    }
+    .contact-box p { font-size: 0.88rem; line-height: 1.65; margin-bottom: 8px; }
+    .contact-box a { color: var(--accent); font-weight: 600; }
+    .disclaimer-box {
+      background: #f9fafb;
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      padding: 14px 20px;
-      flex: 1;
-      min-width: 120px;
-      text-align: center;
+      padding: 20px 24px;
+      margin-top: 16px;
     }
-    .stat-num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
-    .stat-lbl { font-size: 0.75rem; color: var(--muted); margin-top: 2px; }
+    .disclaimer-box p { font-size: 0.85rem; color: var(--muted); line-height: 1.7; }
+
+    /* ── SOURCES VIEW ── */
+    #view-sources {
+      flex-direction: column;
+      overflow-y: auto;
+    }
+    .sources-wrap { max-width: 1100px; margin: 0 auto; padding: 40px 28px; width: 100%; }
+    .sources-wrap h1 { font-size: 1.5rem; font-weight: 800; margin-bottom: 6px; }
+    .sources-sub { font-size: 0.9rem; color: var(--muted); margin-bottom: 32px; }
+    .sources-category { margin-bottom: 32px; }
+    .sources-category h2 {
+      font-size: 0.8rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: var(--muted);
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 12px;
+    }
+    .sources-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 8px;
+    }
+    .source-pill {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 14px;
+      font-size: 0.82rem;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .source-pill-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; background: var(--accent); }
+    .source-pill-name { font-weight: 600; flex: 1; }
+    .source-pill-region { font-size: 0.68rem; color: var(--muted); }
+
+    /* ── Footer ── */
+    footer {
+      background: var(--dark);
+      color: #9ca3af;
+      padding: 48px 28px 28px;
+      margin-top: 0;
+    }
+    .footer-main { max-width: 1100px; margin: 0 auto; }
+    .footer-brand { font-size: 1.3rem; font-weight: 800; color: #fff; margin-bottom: 6px; }
+    .footer-brand span { color: #60a5fa; }
+    .footer-tagline { font-size: 0.85rem; color: #4b5563; margin-bottom: 36px; }
+    .footer-sections {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 32px;
+      margin-bottom: 36px;
+    }
+    .footer-col-title {
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: #f9fafb;
+      margin-bottom: 10px;
+    }
+    .footer-col p { font-size: 0.82rem; line-height: 1.65; }
+    .footer-link { display: inline-block; margin-top: 10px; font-size: 0.82rem; color: #60a5fa; text-decoration: none; }
+    .footer-link:hover { color: #93c5fd; }
+    .footer-bottom {
+      font-size: 0.75rem;
+      color: #374151;
+      border-top: 1px solid #1f2937;
+      padding-top: 20px;
+    }
 
     /* ── Responsive ── */
     @media (max-width: 768px) {
       .sidebar { display: none; }
       .content { padding: 16px; }
       .card-grid { grid-template-columns: 1fr; }
+      .hero { padding: 48px 20px 40px; }
+      .home-streams { padding: 24px 16px; }
+      .topbar-nav { display: none; }
     }
   </style>
 </head>
@@ -343,18 +665,94 @@
 
 <!-- Top bar -->
 <div class="topbar">
-  <div class="brand">Edu<span>Radar</span></div>
+  <div class="brand" onclick="showView('home')">Edu<span>Radar</span></div>
   <div class="topbar-search">
-    <input id="search" type="search" placeholder="Search across all streams…" />
+    <input id="search" type="search" placeholder="Search all streams…" />
   </div>
+  <nav class="topbar-nav">
+    <button class="topbar-btn active" onclick="showView('home')" id="nav-home">Home</button>
+    <button class="topbar-btn" onclick="showView('streams')" id="nav-streams">Streams</button>
+    <button class="topbar-btn" onclick="showView('sources')" id="nav-sources">Sources</button>
+    <button class="topbar-btn" onclick="showView('about')" id="nav-about">About</button>
+  </nav>
   <div class="topbar-meta" id="last-run">Loading…</div>
 </div>
 
-<div class="layout">
+<!-- ════════ HOME VIEW ════════ -->
+<div class="view active" id="view-home">
+  <div class="hero">
+    <div class="hero-label">Live Intelligence Feed</div>
+    <h1>AI, Education & <span>Skills</span> Radar</h1>
+    <p>Everything published on AI in education, workforce skills, TVET, and the future of learning — from 150+ sources across the world, updated every 6 hours.</p>
+    <div class="hero-actions">
+      <button class="btn-primary" onclick="showView('streams')">Browse Streams →</button>
+      <button class="btn-secondary" onclick="showView('sources')">View Sources</button>
+    </div>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <div class="hero-stat-num" id="hero-total">—</div>
+        <div class="hero-stat-lbl">Stories tracked</div>
+      </div>
+      <div class="hero-stat">
+        <div class="hero-stat-num">150+</div>
+        <div class="hero-stat-lbl">Global sources</div>
+      </div>
+      <div class="hero-stat">
+        <div class="hero-stat-num">12</div>
+        <div class="hero-stat-lbl">Topic streams</div>
+      </div>
+      <div class="hero-stat">
+        <div class="hero-stat-num">6h</div>
+        <div class="hero-stat-lbl">Update cycle</div>
+      </div>
+    </div>
+  </div>
 
-  <!-- Sidebar -->
+  <!-- Stream cards -->
+  <div class="home-streams">
+    <div class="home-section-title">Browse by Topic</div>
+    <div class="stream-cards-grid" id="home-stream-cards"></div>
+  </div>
+
+  <!-- Latest stories -->
+  <div class="home-latest">
+    <div class="home-latest-inner">
+      <div class="home-section-title">Latest Stories — All Streams</div>
+      <div class="latest-grid" id="home-latest-grid"></div>
+    </div>
+  </div>
+
+  <!-- Footer on home -->
+  <footer>
+    <div class="footer-main">
+      <div class="footer-brand">Edu<span>Radar</span></div>
+      <div class="footer-tagline">Live intelligence on AI, education, skills, labor markets & TVET — updated every 6 hours from 150+ sources worldwide.</div>
+      <div class="footer-sections">
+        <div class="footer-col">
+          <div class="footer-col-title">Feedback & Suggestions</div>
+          <p>EduRadar is a work in progress. Have a source to suggest, a stream that's missing, or feedback on what's useful?</p>
+          <a href="mailto:sumit.anand343@gmail.com" class="footer-link">sumit.anand343@gmail.com</a>
+        </div>
+        <div class="footer-col">
+          <div class="footer-col-title">Disclaimer</div>
+          <p>EduRadar is an automated news aggregator. All stories link to original sources. Summaries are the publishers' own text. Inclusion does not imply endorsement. Maintained in a personal capacity — does not represent the views of any institution.</p>
+        </div>
+        <div class="footer-col">
+          <div class="footer-col-title">About</div>
+          <p>Built and curated by <strong style="color:#f9fafb">Sumit Anand</strong>. Powered by open RSS feeds, GitHub Actions, and GitHub Pages. No paywalls. No tracking. No ads.</p>
+          <a href="https://github.com/sumitanand343/eduradar" class="footer-link">View source on GitHub →</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        Stories link to original sources · Robots.txt respected on every fetch · © <span id="footer-year"></span> Sumit Anand
+      </div>
+    </div>
+  </footer>
+</div>
+
+<!-- ════════ STREAMS VIEW ════════ -->
+<div class="view" id="view-streams">
   <aside class="sidebar">
-
     <div class="sidebar-section">
       <div class="sidebar-label">View</div>
       <div class="nav-item active" data-view="all" data-key="all">
@@ -363,86 +761,127 @@
         <span class="nav-count" id="count-all">—</span>
       </div>
     </div>
-
     <div class="sidebar-section">
       <div class="sidebar-label">By Topic</div>
-      <div class="nav-item" data-view="stream" data-key="fln">
-        <span class="nav-dot dot-fln"></span>Foundational Learning
-        <span class="nav-count" id="count-fln">—</span>
-      </div>
-      <div class="nav-item" data-view="stream" data-key="ece">
-        <span class="nav-dot dot-ece"></span>Early Childhood
-        <span class="nav-count" id="count-ece">—</span>
-      </div>
-      <div class="nav-item" data-view="stream" data-key="k12">
-        <span class="nav-dot dot-k12"></span>K-12 Education
-        <span class="nav-count" id="count-k12">—</span>
-      </div>
-      <div class="nav-item" data-view="stream" data-key="secondary">
-        <span class="nav-dot dot-secondary"></span>Secondary Education
-        <span class="nav-count" id="count-secondary">—</span>
-      </div>
-      <div class="nav-item" data-view="stream" data-key="higher">
-        <span class="nav-dot dot-higher"></span>Higher Education
-        <span class="nav-count" id="count-higher">—</span>
-      </div>
-      <div class="nav-item" data-view="stream" data-key="tvet">
-        <span class="nav-dot dot-tvet"></span>TVET & Vocational
-        <span class="nav-count" id="count-tvet">—</span>
-      </div>
-      <div class="nav-item" data-view="stream" data-key="labor">
-        <span class="nav-dot dot-labor"></span>Skills & Labor Market
-        <span class="nav-count" id="count-labor">—</span>
-      </div>
-      <div class="nav-item" data-view="stream" data-key="teacher">
-        <span class="nav-dot dot-teacher"></span>Teacher Development
-        <span class="nav-count" id="count-teacher">—</span>
-      </div>
-      <div class="nav-item" data-view="stream" data-key="edtech">
-        <span class="nav-dot dot-edtech"></span>EdTech & AI Tools
-        <span class="nav-count" id="count-edtech">—</span>
-      </div>
-      <div class="nav-item" data-view="stream" data-key="policy">
-        <span class="nav-dot dot-policy"></span>Policy & Governance
-        <span class="nav-count" id="count-policy">—</span>
-      </div>
-      <div class="nav-item" data-view="stream" data-key="research">
-        <span class="nav-dot dot-research"></span>Research & Evidence
-        <span class="nav-count" id="count-research">—</span>
-      </div>
-      <div class="nav-item" data-view="stream" data-key="funding">
-        <span class="nav-dot dot-funding"></span>Funding & Opportunities
-        <span class="nav-count" id="count-funding">—</span>
-      </div>
+      <div class="nav-item" data-view="stream" data-key="fln"><span class="nav-dot dot-fln"></span>Foundational Learning<span class="nav-count" id="count-fln">—</span></div>
+      <div class="nav-item" data-view="stream" data-key="ece"><span class="nav-dot dot-ece"></span>Early Childhood<span class="nav-count" id="count-ece">—</span></div>
+      <div class="nav-item" data-view="stream" data-key="k12"><span class="nav-dot dot-k12"></span>K-12 Education<span class="nav-count" id="count-k12">—</span></div>
+      <div class="nav-item" data-view="stream" data-key="secondary"><span class="nav-dot dot-secondary"></span>Secondary Education<span class="nav-count" id="count-secondary">—</span></div>
+      <div class="nav-item" data-view="stream" data-key="higher"><span class="nav-dot dot-higher"></span>Higher Education<span class="nav-count" id="count-higher">—</span></div>
+      <div class="nav-item" data-view="stream" data-key="tvet"><span class="nav-dot dot-tvet"></span>TVET & Vocational<span class="nav-count" id="count-tvet">—</span></div>
+      <div class="nav-item" data-view="stream" data-key="labor"><span class="nav-dot dot-labor"></span>Skills & Labor Market<span class="nav-count" id="count-labor">—</span></div>
+      <div class="nav-item" data-view="stream" data-key="teacher"><span class="nav-dot dot-teacher"></span>Teacher Development<span class="nav-count" id="count-teacher">—</span></div>
+      <div class="nav-item" data-view="stream" data-key="edtech"><span class="nav-dot dot-edtech"></span>EdTech & AI Tools<span class="nav-count" id="count-edtech">—</span></div>
+      <div class="nav-item" data-view="stream" data-key="policy"><span class="nav-dot dot-policy"></span>Policy & Governance<span class="nav-count" id="count-policy">—</span></div>
+      <div class="nav-item" data-view="stream" data-key="research"><span class="nav-dot dot-research"></span>Research & Evidence<span class="nav-count" id="count-research">—</span></div>
+      <div class="nav-item" data-view="stream" data-key="funding"><span class="nav-dot dot-funding"></span>Funding & Opportunities<span class="nav-count" id="count-funding">—</span></div>
     </div>
-
     <div class="sidebar-section">
-      <div class="sidebar-label">By Region</div>
-      <div class="region-select-wrap">
-        <select id="region-select">
-          <option value="all">All Regions</option>
-          <option value="global">Global</option>
-          <option value="south_asia">South Asia</option>
-          <option value="east_africa">East Africa</option>
-          <option value="west_africa">West Africa</option>
-          <option value="mena">Middle East & North Africa</option>
-          <option value="southeast_asia">Southeast Asia</option>
-          <option value="latin_america">Latin America</option>
-          <option value="east_asia">East Asia</option>
-          <option value="europe">Europe</option>
-          <option value="north_america">North America</option>
-          <option value="australia_pacific">Australia & Pacific</option>
-        </select>
+      <div class="sidebar-label">Filters</div>
+      <div class="sidebar-filters">
+        <div>
+          <div class="filter-label" style="margin-bottom:4px">Region</div>
+          <select id="region-select">
+            <option value="all">All Regions</option>
+            <option value="global">Global</option>
+            <option value="south_asia">South Asia</option>
+            <option value="east_africa">East Africa</option>
+            <option value="west_africa">West Africa</option>
+            <option value="mena">Middle East & North Africa</option>
+            <option value="southeast_asia">Southeast Asia</option>
+            <option value="latin_america">Latin America</option>
+            <option value="east_asia">East Asia</option>
+            <option value="europe">Europe</option>
+            <option value="north_america">North America</option>
+            <option value="australia_pacific">Australia & Pacific</option>
+          </select>
+        </div>
+        <div>
+          <div class="filter-label" style="margin-bottom:4px">Date range</div>
+          <select id="date-select">
+            <option value="0">All time</option>
+            <option value="1">Last 24 hours</option>
+            <option value="7" selected>Last 7 days</option>
+            <option value="14">Last 14 days</option>
+            <option value="30">Last 30 days</option>
+            <option value="90">Last 90 days</option>
+          </select>
+        </div>
       </div>
     </div>
-
   </aside>
 
-  <!-- Main content -->
   <main class="content" id="content">
     <div class="empty">Loading stories…</div>
   </main>
+</div>
 
+<!-- ════════ ABOUT VIEW ════════ -->
+<div class="view" id="view-about">
+  <div class="about-wrap">
+    <h1>About EduRadar</h1>
+    <p class="about-sub">Your live radar for AI, education, skills, and the future of work.</p>
+
+    <div class="about-section">
+      <h2>What is EduRadar?</h2>
+      <p>EduRadar is a free, open, automated intelligence feed that aggregates news, research, policy, and publications from over 150 sources worldwide — all focused on the intersection of AI with education, skills, TVET, and the labor market.</p>
+      <p>It is updated every 6 hours by a Python script that reads RSS and Atom feeds from multilaterals, bilateral donors, foundations, NGOs, universities, think tanks, academic journals, major media houses, and regional press. Every story links to its original source. No paywalls. No tracking. No ads.</p>
+    </div>
+
+    <div class="about-section">
+      <h2>Why EduRadar?</h2>
+      <p>There is no single platform that brings together multilateral research, regional education press from the Global South, academic journals, AI lab announcements, policy updates, and funding opportunities — all in one place, free, live, and searchable. EduRadar fills that gap.</p>
+      <p>It is designed to be useful for education policymakers, researchers, teachers, funders, EdTech entrepreneurs, and anyone working at the intersection of learning and the future of work.</p>
+    </div>
+
+    <div class="about-section">
+      <h2>Topic Streams</h2>
+      <div class="about-streams-grid">
+        <div class="about-stream-pill badge-fln">Foundational Learning</div>
+        <div class="about-stream-pill badge-ece">Early Childhood</div>
+        <div class="about-stream-pill badge-k12">K-12 Education</div>
+        <div class="about-stream-pill badge-secondary">Secondary Education</div>
+        <div class="about-stream-pill badge-higher">Higher Education</div>
+        <div class="about-stream-pill badge-tvet">TVET & Vocational</div>
+        <div class="about-stream-pill badge-labor">Skills & Labor Market</div>
+        <div class="about-stream-pill badge-teacher">Teacher Development</div>
+        <div class="about-stream-pill badge-edtech">EdTech & AI Tools</div>
+        <div class="about-stream-pill badge-policy">Policy & Governance</div>
+        <div class="about-stream-pill badge-research">Research & Evidence</div>
+        <div class="about-stream-pill badge-funding">Funding & Opportunities</div>
+      </div>
+    </div>
+
+    <div class="about-section">
+      <h2>How it works</h2>
+      <p>A Python script reads all sources in <code>sources.yaml</code> every 6 hours using GitHub Actions. Each story is classified into one of 12 streams using keyword rules. AI lab and general media stories pass through an education gate — only stories that mention education, learning, or skills are kept. Everything is stored in SQLite and published as a static JSON file that this page reads directly.</p>
+      <p>Robots.txt is respected on every fetch. Summaries are the publishers' own text, truncated to 600 characters. No content is reproduced in full.</p>
+    </div>
+
+    <div class="about-section">
+      <h2>Feedback & Suggestions</h2>
+      <div class="contact-box">
+        <p>EduRadar is a work in progress. If you have a source to suggest, a stream that's missing, a broken link to report, or any other feedback — reach out directly.</p>
+        <a href="mailto:sumit.anand343@gmail.com">sumit.anand343@gmail.com</a>
+      </div>
+    </div>
+
+    <div class="about-section">
+      <h2>Disclaimer</h2>
+      <div class="disclaimer-box">
+        <p>EduRadar is an automated news aggregator. All stories link to their original sources. Summaries are the publishers' own text. Inclusion of a source does not imply endorsement of its content or views. This site is maintained in a personal capacity and does not represent the views of any institution or employer.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ════════ SOURCES VIEW ════════ -->
+<div class="view" id="view-sources">
+  <div class="sources-wrap">
+    <h1>Sources</h1>
+    <p class="sources-sub">150+ global sources across multilaterals, bilateral donors, foundations, NGOs, universities, think tanks, academic journals, media houses, and regional press.</p>
+    <div id="sources-list"></div>
+  </div>
 </div>
 
 <script>
@@ -462,26 +901,38 @@ const STREAM_LABELS = {
   funding:   "Funding & Opportunities",
 };
 
-const REGION_LABELS = {
-  global:            "Global",
-  south_asia:        "South Asia",
-  east_africa:       "East Africa",
-  west_africa:       "West Africa",
-  mena:              "MENA",
-  southeast_asia:    "SE Asia",
-  latin_america:     "Latin America",
-  east_asia:         "East Asia",
-  europe:            "Europe",
-  north_america:     "N. America",
-  australia_pacific: "Aus & Pacific",
+const STREAM_ICONS = {
+  fln:"📖", ece:"🧒", k12:"🏫", secondary:"📚", higher:"🎓",
+  tvet:"🔧", labor:"💼", teacher:"👩‍🏫", edtech:"🤖",
+  policy:"🏛️", research:"🔬", funding:"💰",
 };
 
+const REGION_LABELS = {
+  global:"Global", south_asia:"South Asia", east_africa:"East Africa",
+  west_africa:"West Africa", mena:"MENA", southeast_asia:"SE Asia",
+  latin_america:"Latin America", east_asia:"East Asia",
+  europe:"Europe", north_america:"N. America", australia_pacific:"Aus & Pacific",
+};
+
+const PAGE_SIZE = 60;
+
 // ── State ─────────────────────────────────────────────────────────────────────
-let allData    = { streams: {}, regions: {} };
-let activeView = "all";
-let activeKey  = "all";
+let allData      = { streams: {}, regions: {} };
+let activeView   = "all";
+let activeKey    = "all";
 let activeRegion = "all";
-let searchTerm = "";
+let activeDays   = 7;
+let searchTerm   = "";
+let currentPage  = 1;
+
+// ── View switching ────────────────────────────────────────────────────────────
+function showView(v) {
+  document.querySelectorAll(".view").forEach(el => el.classList.remove("active"));
+  document.getElementById("view-" + v).classList.add("active");
+  document.querySelectorAll(".topbar-btn").forEach(b => b.classList.remove("active"));
+  document.getElementById("nav-" + v).classList.add("active");
+  if (v === "sources") buildSourcesList();
+}
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
 function relativeTime(isoStr) {
@@ -503,7 +954,7 @@ function makeCard(story) {
     <article class="card">
       <div class="card-top">
         <div class="card-source">${esc(story.source)}</div>
-        <span class="badge badge-${stream}">${STREAM_LABELS[stream] || stream}</span>
+        <span class="badge badge-${stream}">${STREAM_LABELS[stream]||stream}</span>
       </div>
       <div class="card-title">
         <a href="${esc(story.url)}" target="_blank" rel="noopener noreferrer">${esc(story.title)}</a>
@@ -511,7 +962,7 @@ function makeCard(story) {
       ${story.summary ? `<div class="card-summary">${esc(story.summary)}</div>` : ""}
       <div class="card-footer">
         <span class="card-date">${relativeTime(story.published)}</span>
-        <span class="region-tag">${REGION_LABELS[region] || region}</span>
+        <span class="region-tag">${REGION_LABELS[region]||region}</span>
       </div>
     </article>`;
 }
@@ -522,8 +973,14 @@ function getStories() {
 
   if (activeView === "all") {
     Object.values(allData.streams).forEach(arr => stories.push(...arr));
-  } else if (activeView === "stream") {
+  } else {
     stories = allData.streams[activeKey] || [];
+  }
+
+  // Date filter
+  if (activeDays > 0) {
+    const cutoff = Date.now() - activeDays * 86400000;
+    stories = stories.filter(s => new Date(s.published) >= cutoff);
   }
 
   // Region filter
@@ -541,52 +998,118 @@ function getStories() {
     );
   }
 
-  // Sort newest first
-  stories.sort((a, b) => new Date(b.published) - new Date(a.published));
+  stories.sort((a,b) => new Date(b.published) - new Date(a.published));
   return stories;
 }
 
-// ── Render ────────────────────────────────────────────────────────────────────
+// ── Render streams view ───────────────────────────────────────────────────────
 function render() {
   const content = document.getElementById("content");
-  const stories = getStories();
+  const all     = getStories();
+  const total   = all.length;
+  const pages   = Math.max(1, Math.ceil(total / PAGE_SIZE));
+  currentPage   = Math.min(currentPage, pages);
+  const stories = all.slice((currentPage-1)*PAGE_SIZE, currentPage*PAGE_SIZE);
 
-  // Title
   let title = "All Stories";
   let sub   = "";
   if (activeView === "stream") title = STREAM_LABELS[activeKey] || activeKey;
-  if (activeRegion !== "all")  sub   = ` · ${REGION_LABELS[activeRegion] || activeRegion}`;
-  if (searchTerm)              sub  += ` · searching "${searchTerm}"`;
+  if (activeRegion !== "all") sub += ` · ${REGION_LABELS[activeRegion]||activeRegion}`;
+  if (activeDays > 0) sub += ` · Last ${activeDays} days`;
+  if (searchTerm) sub += ` · "${searchTerm}"`;
 
-  // Stats bar (only on All view without filters)
   let statsHtml = "";
   if (activeView === "all" && activeRegion === "all" && !searchTerm) {
-    const total = Object.values(allData.streams).reduce((a, b) => a + b.length, 0);
     const sources = new Set();
     Object.values(allData.streams).forEach(arr => arr.forEach(s => sources.add(s.source)));
     statsHtml = `
       <div class="stats-bar">
-        <div class="stat-card"><div class="stat-num">${total}</div><div class="stat-lbl">Total Stories</div></div>
+        <div class="stat-card"><div class="stat-num">${total}</div><div class="stat-lbl">Stories</div></div>
         <div class="stat-card"><div class="stat-num">${sources.size}</div><div class="stat-lbl">Sources</div></div>
-        <div class="stat-card"><div class="stat-num">${Object.keys(STREAM_LABELS).length}</div><div class="stat-lbl">Topics</div></div>
-        <div class="stat-card"><div class="stat-num">6h</div><div class="stat-lbl">Update Cycle</div></div>
+        <div class="stat-card"><div class="stat-num">${Object.keys(STREAM_LABELS).length}</div><div class="stat-lbl">Streams</div></div>
+        <div class="stat-card"><div class="stat-num">6h</div><div class="stat-lbl">Refresh</div></div>
       </div>`;
   }
 
   const cardsHtml = stories.length
     ? stories.map(makeCard).join("")
-    : `<div class="empty">No stories found. Try a different filter or check back after the next update.</div>`;
+    : `<div class="empty">No stories match your filters. Try adjusting the date range or region.</div>`;
+
+  // Pagination
+  let paginationHtml = "";
+  if (pages > 1) {
+    let btns = `<button class="page-btn" onclick="goPage(${currentPage-1})" ${currentPage===1?"disabled":""}>← Prev</button>`;
+    const start = Math.max(1, currentPage-2);
+    const end   = Math.min(pages, currentPage+2);
+    if (start > 1) btns += `<button class="page-btn" onclick="goPage(1)">1</button>${start>2?'<span style="padding:0 4px;color:var(--muted)">…</span>':""}`;
+    for (let i=start; i<=end; i++) {
+      btns += `<button class="page-btn ${i===currentPage?"active":""}" onclick="goPage(${i})">${i}</button>`;
+    }
+    if (end < pages) btns += `${end<pages-1?'<span style="padding:0 4px;color:var(--muted)">…</span>':""}<button class="page-btn" onclick="goPage(${pages})">${pages}</button>`;
+    btns += `<button class="page-btn" onclick="goPage(${currentPage+1})" ${currentPage===pages?"disabled":""}>Next →</button>`;
+    paginationHtml = `<div class="pagination">${btns}</div>`;
+  }
 
   content.innerHTML = `
     <div class="section-header">
       <h1 class="section-title">${esc(title)}</h1>
-      <span class="section-sub">${stories.length} stories${esc(sub)}</span>
+      <span class="section-sub">${total} stories${esc(sub)}</span>
     </div>
     ${statsHtml}
-    <div class="card-grid">${cardsHtml}</div>`;
+    <div class="card-grid">${cardsHtml}</div>
+    ${paginationHtml}`;
 }
 
-// ── Update sidebar counts ─────────────────────────────────────────────────────
+function goPage(p) {
+  currentPage = p;
+  render();
+  document.getElementById("content").scrollTop = 0;
+}
+
+// ── Home page render ──────────────────────────────────────────────────────────
+function renderHome() {
+  // Total stories
+  let total = 0;
+  Object.values(allData.streams).forEach(arr => total += arr.length);
+  document.getElementById("hero-total").textContent = total.toLocaleString();
+
+  // Stream cards
+  const grid = document.getElementById("home-stream-cards");
+  grid.innerHTML = Object.entries(STREAM_LABELS).map(([key, label]) => {
+    const stories = allData.streams[key] || [];
+    const preview = stories[0] ? stories[0].title : "No recent stories";
+    return `
+      <div class="stream-card" onclick="showView('streams'); setActiveStream('${key}');" style="border-left-color:var(--ct-${key})">
+        <div class="stream-card-top">
+          <div class="stream-icon badge-${key}">${STREAM_ICONS[key]||"📌"}</div>
+          <div>
+            <div class="stream-card-name">${label}</div>
+            <div class="stream-card-count">${stories.length} stories</div>
+          </div>
+        </div>
+        <div class="stream-card-preview">${esc(preview)}</div>
+      </div>`;
+  }).join("");
+
+  // Latest stories
+  let latest = [];
+  Object.values(allData.streams).forEach(arr => latest.push(...arr));
+  latest.sort((a,b) => new Date(b.published) - new Date(a.published));
+  latest = latest.slice(0,12);
+  document.getElementById("home-latest-grid").innerHTML = latest.map(makeCard).join("");
+}
+
+function setActiveStream(key) {
+  document.querySelectorAll(".nav-item").forEach(i => i.classList.remove("active"));
+  const item = document.querySelector(`.nav-item[data-key="${key}"]`);
+  if (item) item.classList.add("active");
+  activeView = "stream";
+  activeKey  = key;
+  currentPage = 1;
+  render();
+}
+
+// ── Sidebar counts ────────────────────────────────────────────────────────────
 function updateCounts() {
   let total = 0;
   Object.entries(allData.streams).forEach(([key, arr]) => {
@@ -598,6 +1121,54 @@ function updateCounts() {
   if (el) el.textContent = total;
 }
 
+// ── Sources page ──────────────────────────────────────────────────────────────
+const SOURCE_CATEGORIES = [
+  { label: "World Bank Group", hint: null, names: ["World Bank"] },
+  { label: "United Nations System", hint: null, names: ["UNESCO","UNICEF","ILO","UNDP","UN Women"] },
+  { label: "Bilateral Donors", hint: null, names: ["FCDO","JICA","KOICA","Norad","USAID","DFAT"] },
+  { label: "Multilateral Development Banks", hint: null, names: ["ADB","IDB","GPE","Education Commission","ETF"] },
+  { label: "World Economic Forum", hint: null, names: ["WEF"] },
+  { label: "Major Global Media", hint: null, names: ["BBC","Guardian","New York Times","Financial Times","Economist","Independent","Al Jazeera","SciDev","Global Schools Forum"] },
+  { label: "Foundations", hint: null, names: ["Gates","Hewlett","Lumina","Mastercard","Open Society","Jacobs","Children's Investment","Aga Khan"] },
+  { label: "NGOs & Implementers", hint: null, names: ["Room to Read","Pratham","Plan International","R4D","EdTech Hub","T4 Education","FAWE","CAMFED","UKFIET","Young Lives","Development Pathways","Oxfam","Save the Children"] },
+  { label: "Think Tanks & Research", hint: null, names: ["Brookings","RAND","J-PAL","RISE","EEF","Learning Policy","CGD","ODI","NBER","McKinsey","The Conversation","NORRAG","CIPPEC","SUMMA","Argentinos"] },
+  { label: "University Research Centres", hint: null, names: ["Stanford","Harvard","MIT","Oxford","UCL","LSE","Teachers College","ACER","Education South Asia"] },
+  { label: "European TVET & Nordic", hint: null, names: ["Cedefop","BIBB","Nordic Journal","EfVET","Nordic Council","Schools Week","TES","EURACTIV"] },
+  { label: "Academic Journals", hint: null, names: ["arXiv","Nature","PLOS","Computers & Education","AI in Education","British Journal","Journal of Education Policy","Compare","AJOL","SSRN","Learning and Instruction","International Journal of Educational Development"] },
+  { label: "Education Press", hint: null, names: ["Times Higher","University World","PIE News","Inside Higher","Chronicle","EdSurge","The 74","Chalkbeat","Hechinger","Education Week","MindShift","Getting Smart","HolonIQ","eLearning","eSchool","Devex","Rest of World","GEM Report","EdNews Africa"] },
+  { label: "AI Labs & Tech", hint: null, names: ["Google","OpenAI","Anthropic","Microsoft Education","Khan Academy","Duolingo","MIT Technology Review","Stanford HAI","Allen Institute","Partnership on AI","AI Now"] },
+  { label: "Labor Market & Skills", hint: null, names: ["Lightcast","Burning Glass","NCVER","City & Guilds"] },
+  { label: "Regional — South Asia", hint: null, names: ["The Hindu","India Education Diary","The Wire","Economic Times","EdTech Review India","Dawn","Daily Star","Kathmandu Post","Daily FT"] },
+  { label: "Regional — Africa", hint: null, names: ["AllAfrica","African Arguments","Conversation Africa","Mail & Guardian","Daily Maverick","Nation Africa","Ethiopian Monitor","New Times Rwanda","Vanguard","Daily Trust","Graphic Online","Jeune Afrique","SciDev Sub-Saharan","ESSA","ADEA"] },
+  { label: "Regional — MENA", hint: null, names: ["Al-Fanar","Khaleej Times","Arab News","SciDev MENA"] },
+  { label: "Regional — Southeast Asia", hint: null, names: ["Bangkok Post","Jakarta Post","Philstar","Vietnam News","SciDev SE Asia"] },
+  { label: "Regional — Latin America", hint: null, names: ["IDB","Nexos","Buenos Aires Times","El Comercio","CIPPEC","SUMMA","SciDev Latin America","LSE Latin America","UNESCO IESALC"] },
+  { label: "Regional — East Asia", hint: null, names: ["South China Morning Post","Japan Times","Korea Herald"] },
+  { label: "Regional — Australia & Pacific", hint: null, names: ["ACER","Campus Morning Mail"] },
+  { label: "Funding & Opportunities", hint: null, names: ["Devex Jobs","ReliefWeb","Commonwealth Scholarships","Opportunity Desk"] },
+];
+
+function buildSourcesList() {
+  const el = document.getElementById("sources-list");
+  if (el.innerHTML) return; // already built
+
+  // Flatten all streams to get source names
+  const allSources = new Set();
+  Object.values(allData.streams).forEach(arr => arr.forEach(s => allSources.add(s.source)));
+
+  el.innerHTML = SOURCE_CATEGORIES.map(cat => `
+    <div class="sources-category">
+      <h2>${cat.label}</h2>
+      <div class="sources-grid">
+        ${cat.names.map(n => `
+          <div class="source-pill">
+            <div class="source-pill-dot"></div>
+            <div class="source-pill-name">${n}</div>
+          </div>`).join("")}
+      </div>
+    </div>`).join("");
+}
+
 // ── Load data ─────────────────────────────────────────────────────────────────
 async function loadData() {
   try {
@@ -605,16 +1176,17 @@ async function loadData() {
       fetch("data/stories.json?t=" + Date.now()),
       fetch("data/last_run.txt?t=" + Date.now()),
     ]);
-    allData = await storiesRes.json();
-    // Back-compat: if old format (no .streams key)
-    if (!allData.streams) allData = { streams: allData, regions: {} };
+    const raw = await storiesRes.json();
+    allData = raw.streams ? raw : { streams: raw, regions: {} };
     document.getElementById("last-run").textContent =
       "Updated " + (await lastRunRes.text()).trim();
   } catch (e) {
     document.getElementById("last-run").textContent = "Could not load data";
     console.error(e);
   }
+  document.getElementById("footer-year").textContent = new Date().getFullYear();
   updateCounts();
+  renderHome();
   render();
 }
 
@@ -624,13 +1196,21 @@ document.querySelector(".sidebar").addEventListener("click", e => {
   if (!item) return;
   document.querySelectorAll(".nav-item").forEach(i => i.classList.remove("active"));
   item.classList.add("active");
-  activeView = item.dataset.view;
-  activeKey  = item.dataset.key;
+  activeView  = item.dataset.view;
+  activeKey   = item.dataset.key;
+  currentPage = 1;
   render();
 });
 
 document.getElementById("region-select").addEventListener("change", e => {
   activeRegion = e.target.value;
+  currentPage  = 1;
+  render();
+});
+
+document.getElementById("date-select").addEventListener("change", e => {
+  activeDays  = parseInt(e.target.value);
+  currentPage = 1;
   render();
 });
 
@@ -638,7 +1218,9 @@ let searchTimer;
 document.getElementById("search").addEventListener("input", e => {
   clearTimeout(searchTimer);
   searchTimer = setTimeout(() => {
-    searchTerm = e.target.value.trim();
+    searchTerm  = e.target.value.trim();
+    currentPage = 1;
+    if (searchTerm) showView("streams");
     render();
   }, 250);
 });
