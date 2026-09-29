@@ -2,8 +2,8 @@
 fetch.py — EduRadar
 
 Reads sources.yaml, fetches every RSS/Atom feed in parallel, applies
-a strict education gate ONLY to general media and AI lab sources,
-classifies stories into 10 streams, and writes:
+a strict education gate to general media and AI lab sources, classifies
+stories into multiple streams (up to 3 per story), and writes:
   - data/stories.json
   - data/last_run.txt
   - data/stories.db
@@ -42,7 +42,7 @@ LAST_RUN  = DATA_DIR / "last_run.txt"
 SOURCES   = BASE_DIR / "sources.yaml"
 
 MAX_STORIES_PER_STREAM = 80
-MAX_AGE_DAYS           = 60
+MAX_AGE_DAYS           = 90      # keep 90 days of history
 MAX_WORKERS            = 10
 CONNECT_TIMEOUT        = 5
 READ_TIMEOUT           = 10
@@ -62,7 +62,7 @@ HEADERS = {
     "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
 }
 
-# ── Streams — 10 streams ──────────────────────────────────────────────────────
+# ── Streams ───────────────────────────────────────────────────────────────────
 STREAMS = {
     "foundational":  "Foundational & Early Learning",
     "school":        "School Education",
@@ -92,17 +92,12 @@ REGIONS = {
 
 # ── Domain blocklist ──────────────────────────────────────────────────────────
 BLOCKED_DOMAINS = {
-    "developmentpathways.co.uk",
-    "opportunitydesk.org",
-    "ideas.repec.org",
+    "ideas.repec.org",           # general economics, too broad
 }
 
-# ── Education gate — ONLY for these general/AI sources ───────────────────────
-# All education-specific orgs (UNESCO, Pratham, OECD, NORRAG, etc.)
-# are NOT listed here and bypass the gate entirely.
-# Only broad media and AI labs need the title gate.
+# ── Education gate — ONLY for general media and AI lab sources ────────────────
+# Education-specific orgs bypass this entirely.
 EDUCATION_GATED_SOURCES = {
-    # General media
     "BBC — Business & Work",
     "The Guardian — Technology",
     "New York Times — Technology",
@@ -110,7 +105,6 @@ EDUCATION_GATED_SOURCES = {
     "Financial Times — Education",
     "The Economist — Education",
     "The Independent — Education",
-    # AI labs — only education-relevant stories
     "Google — The Keyword Blog",
     "Google DeepMind — Blog",
     "OpenAI — News & Research",
@@ -119,26 +113,18 @@ EDUCATION_GATED_SOURCES = {
     "Allen Institute for AI (AI2)",
     "Partnership on AI — Blog",
     "AI Now Institute",
-    "Future of Life Institute",
     "Stanford HAI — Human-Centered AI",
-    # WEF — broad agenda
     "WEF — Forum Stories",
     "WEF — Agenda",
-    # General donor/development news
     "World Bank — News (education-gated)",
-    "JICA (Japan) — Press Releases",
     "GIZ (Germany) — Development News",
+    "JICA (Japan) — Press Releases",
     "Australian DFAT — Development",
     "Norad (Norway) — Aid Results",
-    # General newspapers
     "Dawn — Pakistan",
-    "The Daily Star — Bangladesh",
-    "Al-Fanar Media — Arab Higher Education",
-    "Nation Africa — Kenya",
     "African Arguments — Development",
-    "Jeune Afrique — Societe",
+    "NBER — Working Papers",
     "Rest of World",
-    "Buenos Aires Times — Argentina",
 }
 
 # Title must contain at least one of these for gated sources
@@ -154,53 +140,68 @@ TITLE_EDU_KEYWORDS = [
     "future of work", "job market", "employment", "unemployment",
     "human capital", "digital skills", "ai in education", "ai in schools",
     "ai in learning", "ai for education", "ai tutor", "ai literacy",
-    "generative ai", "chatgpt", "edtech", "learning outcome",
-    "learning loss", "learning poverty", "foundational", "egra", "egma",
-    "tarl", "aser", "teaching at the right level",
-    # French / Spanish / Portuguese
-    "éducation", "école", "educación", "educação", "escuela", "universidad",
-    "aprendizaje", "alfabetización", "enseignement",
+    "generative ai", "chatgpt", "learning outcome", "learning loss",
+    "learning poverty", "foundational", "egra", "egma", "tarl", "aser",
+    "éducation", "école", "educación", "educação", "escuela",
 ]
 _TITLE_RE = re.compile(
     r"(?<!\w)(?:" + "|".join(re.escape(w) for w in sorted(TITLE_EDU_KEYWORDS, key=len, reverse=True)) + r")(?:s|es)?(?!\w)",
     re.IGNORECASE,
 )
 
-# ── Quality filter — drop obvious noise regardless of source ──────────────────
-NOISE_RE = re.compile(
-    r"\b(lost money|made \$|crypto|bitcoin|forex|casino|dating|horoscope|"
-    r"celebrity|recipe|fashion|beauty tip|weight loss|diet plan|net worth|"
-    r"how I made|personal story)\b",
+# ── Opinion/noise filter ──────────────────────────────────────────────────────
+# Blocks political opinion pieces and personal stories with no education substance
+OPINION_NOISE_RE = re.compile(
+    r"\b(advocates fear|under trump|opinion:|i think|my view|personal story|"
+    r"my journey|how i|day in the life|what it's like|lost money|made \$|"
+    r"crypto|bitcoin|casino|dating|horoscope|celebrity|recipe|fashion|"
+    r"beauty tip|weight loss|net worth)\b",
     re.IGNORECASE,
 )
 
-# ── Stream classification — first match wins ──────────────────────────────────
+# Signals that a story HAS real education substance (overrides opinion filter)
+EDU_SUBSTANCE_RE = re.compile(
+    r"\b(programme|program|policy|reform|research|study|data|report|"
+    r"evaluation|funding|enrollment|curriculum|teacher|school|university|"
+    r"student|learning|skills|tvet|vocational|edtech|ai in education)\b",
+    re.IGNORECASE,
+)
+
+
+def passes_noise_filter(title: str, summary: str) -> bool:
+    """Returns True if story should be kept."""
+    if OPINION_NOISE_RE.search(title):
+        # Only keep if it has real education substance
+        return bool(EDU_SUBSTANCE_RE.search(title + " " + summary))
+    return True
+
+
+# ── Multi-stream classification ───────────────────────────────────────────────
+# Each story can belong to up to 3 streams.
+# Rules are checked against title + summary.
+# Returns a list of matching stream keys (max 3).
+
 def _re(words):
     alts = "|".join(re.escape(w) for w in sorted(set(words), key=len, reverse=True))
     return re.compile(r"(?<!\w)(?:" + alts + r")(?:s|es)?(?!\w)", re.IGNORECASE)
 
 
+# Each tuple: (stream_key, compiled_regex)
 STREAM_RULES = [
-    # ── Funding first — isolated ──────────────────────────────────────────────
     ("funding", _re([
         "scholarship opportunity", "fellowship opportunity", "grant application",
-        "call for proposals", "request for proposals", "rfp", "rfq",
-        "job opening", "job posting", "vacancy", "vacancies",
-        "apply now", "applications open", "deadline to apply",
-        "tender", "funding opportunity", "funded programme",
+        "call for proposals", "rfp", "rfq", "job opening", "job posting",
+        "vacancy", "vacancies", "apply now", "applications open",
+        "deadline to apply", "tender", "funding opportunity",
     ])),
-
-    # ── Research & Evidence ───────────────────────────────────────────────────
     ("research", _re([
         "randomized controlled", "randomised controlled", "rct",
         "impact evaluation", "working paper", "meta-analysis",
         "systematic review", "preprint", "quasi-experimental",
-        "replication study", "endline survey", "baseline survey",
-        "learning assessment results", "egra", "egma", "aser",
+        "endline survey", "baseline survey", "egra", "egma", "aser",
         "evidence review", "study finds", "research finds", "new evidence",
+        "learning assessment results",
     ])),
-
-    # ── Foundational & Early Learning (merged FLN + ECE) ─────────────────────
     ("foundational", _re([
         "foundational literacy", "foundational numeracy", "foundational learning",
         "foundational skills", "fln", "early grade reading", "early grade math",
@@ -210,10 +211,8 @@ STREAM_RULES = [
         "early childhood care", "pre-primary", "preschool", "pre-school",
         "kindergarten", "nursery school", "ecd", "ece",
         "child development", "early years education", "early learning",
-        "play-based learning", "zero to five", "0-6 years",
+        "play-based learning",
     ])),
-
-    # ── TVET & Vocational ─────────────────────────────────────────────────────
     ("tvet", _re([
         "tvet", "technical and vocational", "vocational education",
         "vocational training", "vocational school", "apprenticeship",
@@ -222,57 +221,47 @@ STREAM_RULES = [
         "community college", "polytechnic", "vet system",
         "workforce training programme",
     ])),
-
-    # ── Skills & Labor Market ─────────────────────────────────────────────────
     ("labor", _re([
         "labor market", "labour market", "future of work",
         "skills demand", "skills shortage", "skills mismatch",
         "job displacement", "automation of jobs", "workforce skills",
-        "human capital development", "skills gap",
-        "reskilling", "upskilling", "digital skills training",
-        "green skills", "jobs report", "employment report",
-        "youth employment", "school-to-work", "work-based learning",
-        "workforce development",
+        "human capital development", "skills gap", "reskilling",
+        "upskilling", "digital skills training", "green skills",
+        "jobs report", "employment report", "youth employment",
+        "school-to-work", "workforce development",
     ])),
-
-    # ── Teacher Development ───────────────────────────────────────────────────
     ("teacher", _re([
         "teacher training", "teacher education",
         "teacher professional development", "teaching quality",
         "teacher workforce", "teacher shortage", "teacher recruitment",
         "in-service training", "pre-service training",
-        "teacher support", "instructional coaching",
-        "pedagogical", "teaching practice",
-        "teacher assessment", "teacher evaluation",
+        "teacher support", "instructional coaching", "pedagogical",
+        "teaching practice", "teacher assessment", "teacher evaluation",
+        "classroom technology", "teachers and technology",
+        "teachers use", "teachers weigh", "teachers report",
     ])),
-
-    # ── EdTech & AI Tools ────────────────────────────────────────────────────
     ("edtech", _re([
         "edtech", "ed-tech", "ai in education", "ai in learning",
         "ai in schools", "ai for education", "ai for learning",
         "artificial intelligence in education", "ai tutor", "ai tutoring",
         "intelligent tutoring system", "ai literacy",
         "personalized learning platform", "adaptive learning system",
-        "learning analytics platform", "educational technology",
+        "learning analytics", "educational technology",
         "digital learning platform", "e-learning platform",
         "online learning platform", "learning management system",
-        "lms", "khanmigo", "duolingo", "chatgpt in education",
-        "generative ai in education", "large language model education",
-        "ai and education", "technology in education",
-        "digital education", "open educational resources",
+        "khanmigo", "chatgpt in education", "generative ai in education",
+        "large language model education", "ai and education",
+        "technology in education", "digital education",
+        "classroom technology", "education technology",
     ])),
-
-    # ── Higher Education ──────────────────────────────────────────────────────
     ("higher", _re([
         "higher education", "university education", "college education",
         "undergraduate programme", "postgraduate programme",
         "phd programme", "doctoral research", "university policy",
         "university funding", "university ranking", "academic freedom",
-        "campus", "higher education reform", "tuition fees",
-        "graduate programme", "faculty research",
+        "higher education reform", "tuition fees", "graduate programme",
+        "faculty research",
     ])),
-
-    # ── School Education (K-12 + Secondary merged) ────────────────────────────
     ("school", _re([
         "primary school", "elementary school", "k-12", "k12",
         "basic education", "primary education", "school enrollment",
@@ -283,10 +272,8 @@ STREAM_RULES = [
         "inclusive education", "special education",
         "secondary school", "secondary education", "high school",
         "upper secondary", "lower secondary", "middle school",
-        "a-level", "gcse", "baccalaureate", "secondary curriculum",
+        "a-level", "gcse", "baccalaureate",
     ])),
-
-    # ── Policy & Governance ───────────────────────────────────────────────────
     ("policy", _re([
         "education policy", "education reform", "education strategy",
         "education legislation", "ministry of education",
@@ -297,27 +284,21 @@ STREAM_RULES = [
     ])),
 ]
 
+MAX_STREAMS_PER_STORY = 3
 
-def classify(title: str, summary: str, hint: str) -> str:
-    text = f"{title} {summary}"
+
+def classify_multi(title: str, summary: str, hint: str) -> list[str]:
+    """Returns list of matching stream keys (up to MAX_STREAMS_PER_STORY)."""
+    text    = f"{title} {summary}"
+    matched = []
     for stream, pattern in STREAM_RULES:
         if pattern.search(text):
-            return stream
-    return hint if hint in STREAMS else "policy"
-
-
-# ── Helpers ───────────────────────────────────────────────────────────────────
-def is_gated(source: dict) -> bool:
-    return bool(source.get("gate")) or source.get("name") in EDUCATION_GATED_SOURCES
-
-
-def passes_title_gate(title: str) -> bool:
-    return bool(_TITLE_RE.search(title))
-
-
-def is_blocked_domain(url: str) -> bool:
-    domain = urlparse(url).netloc.lower().lstrip("www.")
-    return any(domain == b or domain.endswith("." + b) for b in BLOCKED_DOMAINS)
+            matched.append(stream)
+            if len(matched) >= MAX_STREAMS_PER_STORY:
+                break
+    if not matched:
+        matched = [hint if hint in STREAMS else "policy"]
+    return matched
 
 
 # ── robots.txt ────────────────────────────────────────────────────────────────
@@ -351,7 +332,7 @@ def can_fetch(url: str) -> bool:
     return True if rp is None else rp.can_fetch(ROBOTS_AGENT, url)
 
 
-# ── Download ──────────────────────────────────────────────────────────────────
+# ── Safe download ─────────────────────────────────────────────────────────────
 def http_get(url: str) -> bytes:
     start = time.monotonic()
     with requests.get(url, headers=HEADERS, stream=True,
@@ -368,7 +349,7 @@ def http_get(url: str) -> bytes:
         return b"".join(chunks)
 
 
-# ── Parsing ───────────────────────────────────────────────────────────────────
+# ── Helpers ───────────────────────────────────────────────────────────────────
 def clean(text: str, limit: int) -> str:
     text = re.sub(r"<[^>]+>", " ", text or "")
     text = html.unescape(text)
@@ -376,20 +357,34 @@ def clean(text: str, limit: int) -> str:
 
 
 def parse_date(entry) -> str:
+    """Parse feed date, always return UTC ISO string. Never return future dates."""
     now = datetime.now(timezone.utc)
     for attr in ("published_parsed", "updated_parsed", "created_parsed"):
         val = entry.get(attr)
         if val:
             try:
-                dt = datetime.fromtimestamp(calendar.timegm(val), tz=timezone.utc)
+                # Use calendar.timegm to treat the parsed time as UTC
+                ts = calendar.timegm(val)
+                dt = datetime.fromtimestamp(ts, tz=timezone.utc)
+                # Cap at now — feeds sometimes have future-dated entries
                 return min(dt, now).isoformat()
             except Exception:
                 pass
+    # No date in feed — use current time
     return now.isoformat()
 
 
 def story_id(url: str) -> str:
     return sha256(url.encode()).hexdigest()[:16]
+
+
+def is_blocked_domain(url: str) -> bool:
+    domain = urlparse(url).netloc.lower().lstrip("www.")
+    return any(domain == b or domain.endswith("." + b) for b in BLOCKED_DOMAINS)
+
+
+def is_gated(source: dict) -> bool:
+    return bool(source.get("gate")) or source.get("name") in EDUCATION_GATED_SOURCES
 
 
 # ── Fetch one feed ────────────────────────────────────────────────────────────
@@ -423,29 +418,36 @@ def fetch_feed(source: dict):
             if not link or not title:
                 continue
 
-            # Drop obvious noise from any source
-            if NOISE_RE.search(title):
+            # Noise filter — drops opinion pieces with no education substance
+            if not passes_noise_filter(title, summary):
                 dropped += 1
                 continue
 
-            # Title gate — only for gated (general media + AI lab) sources
-            if gated and not passes_title_gate(title):
+            # Title gate for general media and AI lab sources
+            if gated and not _TITLE_RE.search(title):
                 dropped += 1
                 continue
 
-            stories.append({
-                "id":         story_id(link),
-                "title":      title,
-                "url":        link,
-                "summary":    summary,
-                "source":     name,
-                "stream":     classify(title, summary, hint),
-                "region":     region,
-                "published":  parse_date(entry),
-                "fetched_at": now_iso,
-            })
+            streams = classify_multi(title, summary, hint)
+            pub     = parse_date(entry)
 
-        msg = f"{len(stories)} kept"
+            # Create one story entry per stream so it appears in each stream tab
+            for stream in streams:
+                sid = story_id(link + stream)   # unique per story+stream combo
+                stories.append({
+                    "id":         sid,
+                    "title":      title,
+                    "url":        link,
+                    "summary":    summary,
+                    "source":     name,
+                    "stream":     stream,
+                    "streams":    json.dumps(streams),  # all streams for badge display
+                    "region":     region,
+                    "published":  pub,
+                    "fetched_at": now_iso,
+                })
+
+        msg = f"{len(set(s['url'] for s in stories))} stories, {sum(1 for s in stories) } stream entries"
         if dropped:
             msg += f", {dropped} dropped"
         return name, stories, "ok", msg
@@ -462,12 +464,14 @@ def init_db(conn: sqlite3.Connection) -> None:
     conn.execute("""
         CREATE TABLE IF NOT EXISTS stories (
             id TEXT PRIMARY KEY, title TEXT, url TEXT, summary TEXT,
-            source TEXT, stream TEXT, region TEXT, published TEXT, fetched_at TEXT
+            source TEXT, stream TEXT, streams TEXT, region TEXT,
+            published TEXT, fetched_at TEXT
         )
     """)
     cols = {row[1] for row in conn.execute("PRAGMA table_info(stories)")}
-    if "region" not in cols:
-        conn.execute("ALTER TABLE stories ADD COLUMN region TEXT DEFAULT 'global'")
+    for col, defval in [("region", "'global'"), ("streams", "NULL")]:
+        if col not in cols:
+            conn.execute(f"ALTER TABLE stories ADD COLUMN {col} TEXT DEFAULT {defval}")
     conn.commit()
 
 
@@ -475,8 +479,8 @@ def save_stories(conn: sqlite3.Connection, stories: list) -> int:
     before = conn.total_changes
     conn.executemany(
         """INSERT OR IGNORE INTO stories
-           (id,title,url,summary,source,stream,region,published,fetched_at)
-           VALUES (:id,:title,:url,:summary,:source,:stream,:region,:published,:fetched_at)""",
+           (id,title,url,summary,source,stream,streams,region,published,fetched_at)
+           VALUES (:id,:title,:url,:summary,:source,:stream,:streams,:region,:published,:fetched_at)""",
         stories,
     )
     conn.commit()
@@ -506,26 +510,35 @@ def build_json(conn: sqlite3.Connection) -> int:
 
     for key in STREAMS:
         rows = conn.execute(
-            """SELECT title, url, summary, source, published, region FROM stories
-               WHERE stream = ? AND published > ? ORDER BY published DESC LIMIT ?""",
+            """SELECT title, url, summary, source, published, region, streams
+               FROM stories
+               WHERE stream = ? AND published > ?
+               ORDER BY published DESC LIMIT ?""",
             (key, cutoff, MAX_STORIES_PER_STREAM),
         ).fetchall()
         result["streams"][key] = [
             {"title": r[0], "url": r[1], "summary": r[2], "source": r[3],
-             "published": r[4], "region": r[5], "stream": key}
+             "published": r[4], "region": r[5],
+             "streams": json.loads(r[6]) if r[6] else [key],
+             "stream": key}
             for r in rows
         ]
         total += len(rows)
 
     for key in REGIONS:
         rows = conn.execute(
-            """SELECT title, url, summary, source, published, stream FROM stories
-               WHERE region = ? AND published > ? ORDER BY published DESC LIMIT 40""",
+            """SELECT title, url, summary, source, published, stream, streams
+               FROM stories
+               WHERE region = ? AND published > ?
+               GROUP BY url   -- deduplicate: one entry per URL per region
+               ORDER BY published DESC LIMIT 40""",
             (key, cutoff),
         ).fetchall()
         result["regions"][key] = [
             {"title": r[0], "url": r[1], "summary": r[2], "source": r[3],
-             "published": r[4], "stream": r[5], "region": key}
+             "published": r[4], "stream": r[5],
+             "streams": json.loads(r[6]) if r[6] else [r[5]],
+             "region": key}
             for r in rows
         ]
 
@@ -550,7 +563,7 @@ def main() -> None:
     conn = sqlite3.connect(DB_PATH)
     init_db(conn)
 
-    print("Clearing old stories to apply new stream structure...", flush=True)
+    print("Clearing old stories to apply new multi-stream structure...", flush=True)
     clear_db(conn)
 
     print(f"Fetching {len(sources)} sources with {MAX_WORKERS} workers...\n", flush=True)
@@ -581,7 +594,7 @@ def main() -> None:
     print(f"\nFinished in {mins:.1f} min — "
           f"ok={counts['ok']} empty={counts['empty']} "
           f"blocked={counts['blocked']} errors={counts['error']}")
-    print(f"{new_count} stories added, {total} published.", flush=True)
+    print(f"{new_count} stream entries added, {total} published.", flush=True)
 
     sys.stdout.flush()
     os._exit(0)
