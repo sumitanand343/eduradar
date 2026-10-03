@@ -308,6 +308,18 @@
     ],
     "school": [
       {
+        "title": "Here’s What it Takes to Feed LAUSD Students Each Day",
+        "url": "https://www.the74million.org/article/heres-what-it-takes-to-feed-lausd-students-each-day/",
+        "summary": "This story was originally published by EdSource. Sign up for their daily newsletter. In the state’s largest school district, making meals available to all students — breakfast, lunch and sometimes, dinner — is a massive operation. From Pepperoni Pizza to Birria Bowls, to vegetarian and vegan offerings, students have a range of options to choose from. Even as […]",
+        "source": "The 74 Million",
+        "published": "2026-10-03T16:30:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
         "title": "What to Know About France’s High School Protests",
         "url": "https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html",
         "summary": "Students angry over the state of the country’s education system have blockaded hundreds of schools. Thousands of protesters have been arrested and dozens of people injured.",
@@ -339,19 +351,6 @@
         "published": "2026-10-03T10:30:00+00:00",
         "region": "north_america",
         "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "High school students in Paris' deprived suburbs spark national protest movement",
-        "url": "https://www.dawn.com/news/2034461/high-school-students-in-paris-deprived-suburbs-spark-national-protest-movement",
-        "summary": "Maisa, a 17-year-old in a poor Paris suburb who aspires to be an English teacher, joined tens of thousands of other students and their supporters this week in protests that spread across France over dilapidated schools, classroom overcrowding and teacher shortages. At Lycee Le Corbusier school in Aubervilliers, a suburb north of Paris in the Seine-Saint-Denis department, protesters said schools in poor neighborhoods like theirs faced the worst conditions. Last year I took the high school French exam without a French teacher, and teachers have a huge impact,“ Maisa said. French high school stud",
-        "source": "Dawn — Pakistan",
-        "published": "2026-10-03T08:18:33+00:00",
-        "region": "south_asia",
-        "streams": [
-          "teacher",
           "school"
         ],
         "stream": "school"
@@ -722,18 +721,6 @@
         "stream": "school"
       },
       {
-        "title": "Education Dept. Formally Removes Title IX Protections for LGBTQ Students",
-        "url": "https://www.the74million.org/article/education-dept-formally-removes-title-ix-protections-for-lgbtq-students/",
-        "summary": "The Trump administration on Monday officially threw out the Biden-era Title IX rule, which extended protections against sexual harassment and assault to LGBTQ students. But officials stopped short of including a definition of sex to mean identified as male or female at birth. That step is expected in a future amendment to Title IX, which […]",
-        "source": "The 74 Million",
-        "published": "2026-09-28T18:28:48+00:00",
-        "region": "north_america",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
         "title": "Chakma council to implement NEP from 2027-28, introduce ‘Mizo Speaking Day’ in schools",
         "url": "https://www.thehindu.com/news/national/mizoram/chakma-council-to-implement-nep-from-2027-28-introduce-mizo-speaking-day-in-schools/article71518647.ece",
         "summary": "The meeting resolved to observe every Wednesday as 'Mizo Speaking Day' in all primary and middle schools within the CADC area to provide students regular opportunities to learn and practice the Mizo language.",
@@ -1088,9 +1075,21 @@
     ],
     "higher": [
       {
+        "title": "Tennessee prisons chief resigning after botched execution of Christa Pike",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369673/tennessee-prisons-chief-resigning-after-botched-execution-christa-pike?utm_source=rss_feed",
+        "summary": "The head of Tennessee’s prison system is resigning, Governor Bill Lee announced on Saturday, the first major staff shake-up since Christa Pike’s stunning failed execution left her unconscious and on a ventilator at a hospital. Frank Strada, commissioner of the Department of Correction, will step down this month, Lee said. Some of the governor’s fellow Republicans and other elected officials had been urging a change in leadership. It was the second time since May that Tennessee has not been able...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-03T16:53:29+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
         "title": "Probe launched into luxury One Stanley project over alleged steel bar shortage",
         "url": "https://www.scmp.com/news/hong-kong/society/article/3369669/probe-launched-luxury-one-stanley-project-over-alleged-steel-bar-shortage?utm_source=rss_feed",
-        "summary": "Authorities have launched a probe into the building quality of a luxury residential development in one of Hong Kong’s most expensive neighbourhoods in the Southern district after receiving a complaint from an owner that insufficient steel bars were used during construction. The Buildings Department said on Saturday it was “very concerned about the matter” relating to One Stanley in Stanley, but stressed that its previous inspections did not find any imminent danger. The department said it would...",
+        "summary": "Authorities have launched a probe into the building quality of a luxury residential development in one of Hong Kong’s most expensive neighbourhoods in the Southern district after receiving a complaint from an owner that insufficient steel bars were used during construction. The Buildings Department said on Saturday it was “highly concerned about the incident” relating to One Stanley in Stanley, but stressed that its previous inspections did not find any imminent danger. The department said it...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-03T14:35:43+00:00",
         "region": "east_asia",
@@ -1112,9 +1111,9 @@
         "stream": "higher"
       },
       {
-        "title": "Flames, smoke seen at Aramco facility south of Saudi capital",
+        "title": "Houthis say they struck Aramco oil facility, as Saudis hit Sanaa",
         "url": "https://www.scmp.com/news/world/middle-east/article/3369667/flames-smoke-seen-aramco-facility-south-saudi-capital?utm_source=rss_feed",
-        "summary": "Flames and smoke were seen rising from a facility belonging to Saudi oil giant Aramco south of the kingdom’s capital Riyadh on Saturday, an AFP journalist said. The circumstances remained unclear but in recent weeks Aramco, majority-owned by the Saudi state, has come under attack from the Houthi group targeting the kingdom as part of the war in Yemen where Riyadh is backing the internationally recognised government. Aramco remains the flagship company of the Saudi economy and one of the largest...",
+        "summary": "Yemen’s Houthis claimed an attack on an oil facility near the Saudi capital on Saturday, where flames and smoke were seen, and accused the Gulf kingdom of striking Sanaa dozens of times. The foes have traded strikes since the Houthis seized all of Yemen’s Red Sea coast and took control of the Bab al-Mandab strait in a lightning offensive last month. Houthi-affiliated channel Al-Masirah TV reported that “Saudi enemy aircraft” hit Sanaa with 26 strikes, after earlier reporting “Saudi aggression”...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-03T13:57:44+00:00",
         "region": "east_asia",
@@ -1705,18 +1704,6 @@
         "summary": "China is ramping up its efforts to bring young Americans to China, and ready to be seen as a country concerned with environmental protection, lifting people out of poverty, protecting minority cultures and building the technology of the future. During his trip to the United States last week, Chinese President Xi Jinping said his country aimed to welcome 100,000 young Americans on exchange or study trips over the next five years. That builds on an earlier target announced in 2023 that set the...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-02T14:00:21+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "‘America is back’, AI ‘conspiracy’, China’s Laos deal: 7 global relations reads",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3369257/america-back-ai-conspiracy-chinas-laos-deal-7-global-relations-reads?utm_source=rss_feed",
-        "summary": "We have selected seven of the most interesting and important news stories covering global relations from the past few weeks. If you would like to see more of our reporting, please consider subscribing. 1. Trump condemns ‘sick conspiracy’ against AI, says he is only guardrail needed US President Donald Trump downplayed growing concerns about artificial intelligence, claiming America already has guardrails to regulate the industry and warning that casting doubt on development only benefits...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T14:00:15+00:00",
         "region": "east_asia",
         "streams": [
           "higher"
@@ -2321,19 +2308,6 @@
     ],
     "teacher": [
       {
-        "title": "High school students in Paris' deprived suburbs spark national protest movement",
-        "url": "https://www.dawn.com/news/2034461/high-school-students-in-paris-deprived-suburbs-spark-national-protest-movement",
-        "summary": "Maisa, a 17-year-old in a poor Paris suburb who aspires to be an English teacher, joined tens of thousands of other students and their supporters this week in protests that spread across France over dilapidated schools, classroom overcrowding and teacher shortages. At Lycee Le Corbusier school in Aubervilliers, a suburb north of Paris in the Seine-Saint-Denis department, protesters said schools in poor neighborhoods like theirs faced the worst conditions. Last year I took the high school French exam without a French teacher, and teachers have a huge impact,“ Maisa said. French high school stud",
-        "source": "Dawn — Pakistan",
-        "published": "2026-10-03T08:18:33+00:00",
-        "region": "south_asia",
-        "streams": [
-          "teacher",
-          "school"
-        ],
-        "stream": "teacher"
-      },
-      {
         "title": "France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting",
         "url": "https://www.theguardian.com/world/2026/oct/01/france-school-protests-escalate-pm-crisis-cabinet-meeting",
         "summary": "About 900 demonstrations, blockades and related incidents under way outside high schools around the country A fast-growing protest by high-school students over long hours, teacher shortages and decaying facilities has escalated into “urban violence”, the French government has warned, as it said many schools would switch to online classes to protect teachers and pupils. The prime minister, Sébastien Lecornu, called a crisis cabinet meeting on Thursday and told ministers to cancel travel plans to deal with the demonstrations, which erupted in the Paris region last week but have snowballed across",
@@ -2581,6 +2555,30 @@
       }
     ],
     "edtech": [
+      {
+        "title": "How to Help Working Adults Catch Up in Asynchronous Online Courses",
+        "url": "https://elearningindustry.com/how-to-help-working-adults-catch-up-in-asynchronous-online-courses",
+        "summary": "A missed week should trigger a clear route back into learning. This article explains how instructors can identify barriers, prioritize essential activities and provide manageable feedback, with a hypothetical recovery plan for a working adult. This post was first published on eLearning Industry .",
+        "source": "eLearning Industry",
+        "published": "2026-10-03T17:00:40+00:00",
+        "region": "global",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
+      {
+        "title": "The dual mediation of flow experience and learning effectiveness: unraveling the formation mechanism of continuous intention to use online learning platforms",
+        "url": "https://www.nature.com/articles/s41599-026-08425-z",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-03T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
       {
         "title": "How To Write Faster: 10 Strategies For Speed, Clarity, And Better Notes",
         "url": "https://elearningindustry.com/how-to-write-faster",
@@ -3064,18 +3062,6 @@
         "stream": "edtech"
       },
       {
-        "title": "Email Pitch Examples: 15 Templates For PR, Partnerships, And B2B Outreach",
-        "url": "https://elearningindustry.com/email-pitch-examples-templates-for-pr-partnerships-and-b2b-outreach",
-        "summary": "You just sent an email and are now waiting for a reply that never comes. Writing the right email pitch isn't an easy task. It takes a lot of research. Keep reading if you want to discover the right formulas to get a reply to your pitches. This post was first published on eLearning Industry .",
-        "source": "eLearning Industry",
-        "published": "2026-09-25T13:00:17+00:00",
-        "region": "global",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
-      },
-      {
         "title": "Teachers weigh the realities of classroom technology in new national survey",
         "url": "https://www.eschoolnews.com/innovative-teaching/2026/09/25/teachers-weigh-the-realities-of-classroom-technology-in-new-national-survey/",
         "summary": "While classroom technology is nearly universal, educators are navigating a growing disconnect between how digital tools are mandated and how they actually function, according to Teaching for Tomorrow: Screen Wise, a new report from the Walton Family Foundation and Gallup, in partnership with the Joan Ganz Cooney Center.",
@@ -3536,18 +3522,6 @@
           "edtech"
         ],
         "stream": "edtech"
-      },
-      {
-        "title": "What Yellowstone, Rwanda and AI Taught Me About Change",
-        "url": "https://edsurge.com/news/what-yellowstone-rwanda-and-ai-taught-me-about-change",
-        "summary": "By viewing our classrooms as interconnected ecosystems, we can move beyond the surface-level debate over technology to focus on cultivating judgment, ...",
-        "source": "EdSurge",
-        "published": "2026-09-16T00:00:00+00:00",
-        "region": "north_america",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
       }
     ],
     "policy": [
@@ -3556,7 +3530,7 @@
         "url": "https://kathmandupost.com/columns/2026/10/02/nepali-teachers-have-found-their-way-to-ai-can-our-education-system-keep-up",
         "summary": "When teachers are prepared and properly supported, AI can become a valuable professional partner, one whose answers they examine rather than accept.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-03T15:30:29.598341+00:00",
+        "published": "2026-10-03T20:25:30.652961+00:00",
         "region": "south_asia",
         "streams": [
           "policy"
@@ -3568,8 +3542,32 @@
         "url": "https://kathmandupost.com/world/2026/10/02/nine-things-to-know-about-the-rape-case-at-cornell-university",
         "summary": "A former Cornell student’s allegations against seven men have reopened a criminal investigation nearly two years after the alleged assault at a fraternity house.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-03T15:30:29.598066+00:00",
+        "published": "2026-10-03T20:25:30.652705+00:00",
         "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Trump Suggests Cornell Defendants Won’t Get a ‘Fair Shake’ From Letitia James",
+        "url": "https://www.nytimes.com/2026/10/02/us/politics/trump-cornell-letitia-james.html",
+        "summary": "President Trump weighed in on the case when asked about Ms. James, who has become a target of his second-term retribution campaign.",
+        "source": "New York Times — Education",
+        "published": "2026-10-03T19:53:54+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "What the Cornell Lawsuit Reveals About Sexual Violence in America",
+        "url": "https://www.nytimes.com/2026/10/03/opinion/cornell-rape-lawsuit-politics-morality.html",
+        "summary": "The columnist David French argues that “we have privileged getting wasted over taking care of people.”",
+        "source": "New York Times — Education",
+        "published": "2026-10-03T16:04:49+00:00",
+        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -3606,18 +3604,6 @@
         "source": "The Hindu — Education",
         "published": "2026-10-03T12:08:06+00:00",
         "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Opinion: What the Cornell Lawsuit Reveals About Sexual Violence in America",
-        "url": "https://www.nytimes.com/2026/10/03/opinion/cornell-rape-lawsuit-politics-morality.html",
-        "summary": "The columnist David French argues that “we have privileged getting wasted over taking care of people.”",
-        "source": "New York Times — Education",
-        "published": "2026-10-03T11:00:18+00:00",
-        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -3720,18 +3706,6 @@
         "stream": "policy"
       },
       {
-        "title": "Trump Suggests Cornell Defendants Won’t Get a ‘Fair Shake’ From Letitia James",
-        "url": "https://www.nytimes.com/2026/10/02/us/politics/trump-cornell-letitia-james.html",
-        "summary": "President Trump weighed in on the case when asked about Ms. James, who has become a target of his second-term retribution campaign.",
-        "source": "New York Times — Education",
-        "published": "2026-10-03T00:39:01+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
         "title": "Teen Charged With Attempted Murder and Domestic Terrorism After Chemical Spill",
         "url": "https://www.nytimes.com/2026/10/02/us/portland-oregon-domestic-terrorism-charge.html",
         "summary": "The 15-year-old mixed and ingested hazardous chemicals at a school cafeteria in Portland, Ore., last month, officials said. His lawyers denied the allegations.",
@@ -3761,18 +3735,6 @@
         "summary": "As a special prosecutor, Ms. James has wide powers over the handling of the investigation, but legal experts say the case comes with potential obstacles.",
         "source": "New York Times — Education",
         "published": "2026-10-02T22:44:21+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Man Accused of Sex Assault Seeks to Expunge Cornell’s Finding of Related Violation",
-        "url": "https://www.nytimes.com/2026/10/02/nyregion/cornell-accused-man-punishment-appeal.html",
-        "summary": "A panel found the man responsible for attempted sexual exploitation, barred him from contact with the woman and required him to take a class and write a paper.",
-        "source": "New York Times — Education",
-        "published": "2026-10-02T19:12:31+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -3810,18 +3772,6 @@
         "source": "FAWE — African Women Educationalists",
         "published": "2026-10-02T15:42:17+00:00",
         "region": "east_africa",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "A Forum at Cornell",
-        "url": "https://www.nytimes.com/2026/10/02/briefing/a-forum-at-cornell.html",
-        "summary": "We look at more student reactions.",
-        "source": "New York Times — Education",
-        "published": "2026-10-02T15:41:59+00:00",
-        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -4510,12 +4460,48 @@
           "policy"
         ],
         "stream": "policy"
+      },
+      {
+        "title": "9% of students report suicidal thoughts, finds Supreme Court-appointed panel’s survey",
+        "url": "https://www.thehindu.com/news/national/nine-per-cent-of-students-report-suicidal-thoughts-finds-supreme-court-appointed-panels-survey/article71522815.ece",
+        "summary": "A nationwide survey by the National Task Force found 15% of students felt overwhelmed or distressed and 9% reported suicidal thoughts in the past six months, ahead of its final report due on October 31",
+        "source": "The Hindu — Education",
+        "published": "2026-09-29T07:56:57+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Expansion, equity and excellence: Indian universities must learn to balance the three Es",
+        "url": "https://education.economictimes.indiatimes.com/news/higher-education/expansion-equity-and-excellence-indian-universities-must-learn-to-balance-the-three-es/134559070",
+        "summary": "Prof V Ramgopal Rao, Group Vice Chancellor, BITS Pilani, on why AI is forcing universities to rethink classroom learning, why financial sustainability is becoming inseparable from academic excellence, and what it will take to build world-class universities in India.",
+        "source": "Economic Times — Education (India)",
+        "published": "2026-09-29T07:16:12+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
       }
     ],
     "research": [
       {
         "title": "Artificial intelligence use, creative thinking disposition, and metacognitive awareness among EFL learners: a structural equation modelling approach",
         "url": "https://www.nature.com/articles/s41599-026-09291-5",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-03T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Barriers to women’s participation in STEM education: a regional study of southern Punjab, Pakistan",
+        "url": "https://www.nature.com/articles/s41599-026-09251-z",
         "summary": "",
         "source": "Nature — Education",
         "published": "2026-10-03T00:00:00+00:00",
@@ -5007,6 +4993,66 @@
         "stream": "research"
       },
       {
+        "title": "Turning an interest in climate finance into an award-winning dissertation and a UN career",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/turning-an-interest-in-climate-finance-into-an-award-winning-dissertation-and-a-un-career/",
+        "summary": "LSE Africa Dissertation Prize 2026 co-winner Patrick McVeigh reflects on how a fascination with carbon markets, land rights and REDD+ in East Africa shaped both his award-winning dissertation and his career with the United Nations. Receiving the LSE Africa Dissertation Prize for my MSc thesis has felt like something of a full-circle moment. A little … Continued The post Turning an interest in climate finance into an award-winning dissertation and a UN career first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T18:55:26+00:00",
+        "region": "europe",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Leaving Cumberland Lodge with better questions, not simpler answers about development",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/leaving-cumberland-lodge-with-better-questions-not-simpler-answers-about-development/",
+        "summary": "How should development be understood in an era of geopolitical fragmentation, climate crisis and growing global inequality? Drawing on her experience at a Cumberland Lodge retreat for students in the LSE Department of International Development, MSc candidate Disha Ghosh explores how a weekend of lectures, discussion and debate challenged conventional assumptions about development and highlighted … Continued The post Leaving Cumberland Lodge with better questions, not simpler answers about development first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T14:40:51+00:00",
+        "region": "europe",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Moona Shaik reflects on her journey from an LSE consultancy project to a UN Women panel",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/moona-shaik-reflects-on-her-journey-from-an-lse-consultancy-project-to-a-un-women-panel/",
+        "summary": "After contributing to a UN Women consultancy project at LSE, recent alumna Moona Shaik was invited to speak at a HeForShe University webinar. She shared what her research revealed about the pushback against women’s rights, the importance of allyship and the future of DEI initiatives. Drawing on her work in East Africa and reflections from … Continued The post Moona Shaik reflects on her journey from an LSE consultancy project to a UN Women panel first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T13:43:08+00:00",
+        "region": "europe",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "The Belém Gender Action Plan puts women at the centre of climate action, now it needs to deliver",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/the-belem-gender-action-plan-puts-women-at-the-centre-of-climate-action-now-it-needs-to-deliver/",
+        "summary": "MSc candidate Amanda Costa explores how the Belém Gender Action Plan became one of the most significant gender commitments in the history of UN climate negotiations. While the agreement promises to strengthen women’s participation across climate decision-making, finance and implementation, she argues that its success will ultimately depend on whether it delivers meaningful change for … Continued The post The Belém Gender Action Plan puts women at the centre of climate action, now it needs to deliver first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T10:51:42+00:00",
+        "region": "europe",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Shanghai and the complexities of China’s rise",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/shanghai-and-the-complexities-of-chinas-rise/",
+        "summary": "More than 40 years after his first visit to China, Professor Robert Wade returns to find in Shanghai a city that appears to have moved from the developing world into the technological future. Its prosperity, manufacturing depth and technological ambition reveal the results of decades of strategic economic development, but its low fertility, property downturn … Continued The post Shanghai and the complexities of China’s rise first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T08:39:19+00:00",
+        "region": "europe",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
         "title": "PhD training should encourage ethical dissent",
         "url": "https://www.nature.com/articles/d41586-026-03053-8",
         "summary": "",
@@ -5271,18 +5317,6 @@
         "stream": "research"
       },
       {
-        "title": "AI-assisted speaking practice for EFL learners: effects on anxiety, enjoyment, and engagement compared to traditional teacher-led practice",
-        "url": "https://www.nature.com/articles/s41599-026-09016-8",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-09-23T00:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
         "title": "OPINION: Colleges should not be punished for trying to give every student a fair shot",
         "url": "https://hechingerreport.org/opinion-colleges-should-not-be-punished-for-trying-to-give-every-student-a-fair-shot/",
         "summary": "The Treasury Department wants to strip tax-exempt status from private schools that factor race into admissions, scholarships, financial aid or athletics. That announcement this month may sound like a straightforward enforcement measure, one that targets colleges engaged in overt discrimination. If finalized, though, the proposal would unfairly punish institutions that welcome students from every background […] The post OPINION: Colleges should not be punished for trying to give every student a fair shot appeared first on The Hechinger Report .",
@@ -5307,18 +5341,6 @@
         "stream": "research"
       },
       {
-        "title": "Culturally responsive and equity-driven differentiated STEM pedagogy and assessment in diverse classrooms in Ghana",
-        "url": "https://www.nature.com/articles/s41599-026-09129-0",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-09-22T00:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
         "title": "Building belonging and confidence through music",
         "url": "https://hewlett.org/building-belonging-and-confidence-through-music/",
         "summary": "Like many summer camps, mornings at Cazadero Music Camp in Northern California start with reveille. Unlike most camps, Caz often remixes the classic wake-up call — maybe with a brass ensemble, or oboes impersonating bagpipes, or banging on pots and pans with kitchen utensils. Since almost everyone on site, from staff to students, is a musician, the possibilities are ... The post Building belonging and confidence through music appeared first on Hewlett Foundation .",
@@ -5336,6 +5358,18 @@
         "summary": "Date: 27 – 29 November 2026 Location: The Education University of Hong Kong (EdUHK), Hong Kong Artificial Intelligence (AI) is reshaping education and creating new opportunities for teaching, learning, leadership, and educational management. As AI becomes increasingly embedded in education, strengthening the capacity of the education workforce to engage with AI, while leveraging AI to... Read More The post Learning Innovations and Emerging Technologies Conference 2026 (LIET 2026): PD4AI | AI4PD appeared first on NORRAG - .",
         "source": "NORRAG — Education & Development",
         "published": "2026-09-21T15:11:52+00:00",
+        "region": "europe",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Rich Countries Don’t Have a Secret Trick for Cutting Carbon",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/21/rich-countries-dont-have-a-secret-trick-for-cutting-carbon/",
+        "summary": "Meghna Chotaliya, Subir Chowdhury Visiting Fellow at India Observatory and International Inequalities Institute, LSE explores new evidence from close to 190 countries over two decades that suggests low- and middle-income economies can cut carbon intensity just as effectively as high-income countries once their energy mix shifts. The real gap is not one of ability, but … Continued The post Rich Countries Don’t Have a Secret Trick for Cutting Carbon first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-21T13:20:24+00:00",
         "region": "europe",
         "streams": [
           "research"
@@ -5403,71 +5437,11 @@
         "stream": "research"
       },
       {
-        "title": "When Schools become Shelters: Bridging gaps in the HDP Nexus through conflict sensitive Peace Education in Lebanon",
-        "url": "https://www.norrageducation.org/when-schools-become-shelters-bridging-gaps-in-the-hdp-nexus-through-conflict-sensitive-peace-education-in-lebanon/",
-        "summary": "In this blog, Layal Assaad, Country Director, International Alert Lebanon and Ruth Simpson, Peace Education Expert, demonstrate how an HDP nexus approach – rooted in system leadership – frames training and ongoing support in peace education for teachers, with positive and encouraging results for learners in a severely challenging context of various and protracted violence. The... Read More The post When Schools become Shelters: Bridging gaps in the HDP Nexus through conflict sensitive Peace Education in Lebanon appeared first on NORRAG - .",
-        "source": "NORRAG — Education & Development",
-        "published": "2026-09-10T08:00:33+00:00",
-        "region": "europe",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Call for inputs on upcoming country visit to Bangladesh by the Special Rapporteur on the right to education (23 November – 4 December 2026)",
-        "url": "https://www.norrageducation.org/call-for-inputs-on-upcoming-country-visit-to-bangladesh-by-the-special-rapporteur-on-the-right-to-education-23-november-4-december-2026/",
-        "summary": "Purpose: To inform the official country visit to Bangladesh by the Special Rapporteur on the right to education (23 November – 4 December 2026) Background The United Nations Special Rapporteur on the right to education, Ms. Farida Shaheed, will conduct an official country visit to Bangladesh from 23 November to 4 December 2026, at the invitation... Read More The post Call for inputs on upcoming country visit to Bangladesh by the Special Rapporteur on the right to education (23 November – 4 December 2026) appeared first on NORRAG - .",
-        "source": "NORRAG — Education & Development",
-        "published": "2026-09-08T11:44:49+00:00",
-        "region": "europe",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Eficiencia regulatoria en ciudades y su impacto en la atracción de inversiones",
-        "url": "https://www.cippec.org/eficiencia-regulatoria-en-ciudades-y-su-impacto-en-la-atraccion-de-inversiones/",
-        "summary": "Las ciudades son el lugar concreto donde la inversión se traduce en desarrollo. Según los últimos datos del Banco Mundial (2020), en ellas se genera más del 80% del producto bruto interno mundial. El resultado de las estrategias de atracción de inversiones y su posterior impacto en el desarrollo de una economía no depende solo […] La entrada Eficiencia regulatoria en ciudades y su impacto en la atracción de inversiones se publicó primero en CIPPEC .",
-        "source": "CIPPEC — Education (Argentina)",
-        "published": "2026-09-07T19:48:06+00:00",
-        "region": "latin_america",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "NORRAG’s Strategy (2021-2025)",
-        "url": "https://www.norrageducation.org/norrags-strategy-2021-2025/",
-        "summary": "NORRAG STRATEGY NORRAG’s Strategy (2021-2025) works toward our vision: a world where everyone enjoys the right to equitable, quality, accessible lifelong education as a public good. During these next few years, we will continue to carry out strategic activities while deepening our partnerships, reach, learning, and sustainability. We will place special focus on strengthening the... Read More The post NORRAG’s Strategy (2021-2025) appeared first on NORRAG - .",
-        "source": "NORRAG — Education & Development",
-        "published": "2026-09-07T12:28:50+00:00",
-        "region": "europe",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Supporting our partners in Colombia to prevent learning losses following recent earthquake",
-        "url": "https://jacobsfoundation.org/supporting-our-partners-in-colombia-to-prevent-learning-losses-following-recent-earthquake/",
-        "summary": "Following the magnitude 7.4 earthquake that struck Colombia on 10 August, the Jacobs Foundation is committing CHF 5 million to safeguard children’s access to education and maintain their learning and development. Jointly with local partners, funding will be devoted to ensuring evidence-based educational continuity in affected communities as recovery gets underway. The earthquake, with […] The post Supporting our partners in Colombia to prevent learning losses following recent earthquake appeared first on Jacobs Foundation .",
-        "source": "Jacobs Foundation — Blog",
-        "published": "2026-09-03T09:48:52+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Crisis as Curriculum? The Politics of Shifting Responsibility onto Children",
-        "url": "https://www.norrageducation.org/crisis-as-curriculum-the-politics-of-shifting-responsibility-onto-children/",
-        "summary": "In this blog, Sreehari Ravindranath, Director of Research and Impact at Dream a Dream, India, elucidates how the frequent creation of new curricula in response to crises, while often important, risks shifting responsibility to teachers and learners, while protecting the institutional architectures and inequalities that contributed to generating the problem. Each new crisis appears to... Read More The post Crisis as Curriculum? The Politics of Shifting Responsibility onto Children appeared first on NORRAG - .",
-        "source": "NORRAG — Education & Development",
-        "published": "2026-09-03T08:00:51+00:00",
+        "title": "On AI Access, Awareness, and Augmentation",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/10/on-ai-access-awareness-and-augmentation/",
+        "summary": "AI is often deemed a democratic technology. Insights from an initial, small-scale set of interviews suggest that there is far more to the picture. Anusha Raghav explores how human interaction with AI falls into distinct layers, shaped by demographic, sectoral, and ethical factors that anyone building or regulating AI needs to account for. In January … Continued The post On AI Access, Awareness, and Augmentation first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-10T09:34:56+00:00",
         "region": "europe",
         "streams": [
           "research"
@@ -5476,6 +5450,54 @@
       }
     ],
     "funding": [
+      {
+        "title": "Loeb Fellowship 2027-2028 at the Harvard Graduate School of Design (Funded)",
+        "url": "https://opportunitydesk.org/2026/10/03/loeb-fellowship-2027-2028/",
+        "summary": "Deadline: January 5, 2027 Applications are open for the Loeb Fellowship 2027-2028. The Loeb Fellowship is designed for civic leaders, journalists, architects, technologists, urban planners and designers, activists, landscape architects, policy makers, and public artists who come from around the world to the Harvard Graduate School of Design with one purpose: to make the world a [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-03T16:25:31+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Google Engineering & Technical Internships 2027",
+        "url": "https://opportunitydesk.org/2026/10/03/google-engineering-technical-internships-2027/",
+        "summary": "Deadline: Varies Google has opened applications for their Engineering & Technical Internships 2027. The interns are integral to Google — involved and solving problems from the start. As a technical intern, you are excited about tackling the hard problems in technology. With internships across the globe, ranging from Software Engineering to User Experience, Google offers [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-03T16:10:53+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Google Ireland Scholarship for Women in Computer Science 2027 (€5,000 award)",
+        "url": "https://opportunitydesk.org/2026/10/03/google-ireland-scholarship-for-women-in-computer-science-2027/",
+        "summary": "Deadline: October 5, 2026 Applications are invited for the Google Ireland Scholarship for Women in Computer Science 2027. Scholarship: Google Ireland for Women in Computer Science was established to help aspiring computer scientists excel in technology and become leaders in the field. The scholarship will be awarded based on the strength of each candidate’s demonstrated [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-03T15:55:30+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "citiesRISE Fellowship for Emerging Leaders in Mental Health and Spirituality 2026 ($500 stipend)",
+        "url": "https://opportunitydesk.org/2026/10/03/citiesrise-fellowship-2026/",
+        "summary": "Deadline: October 12, 2026 Applications are open for the citiesRISE Fellowship for Emerging Leaders in Mental Health and Spirituality 2026. This is a dynamic fellowship for young leaders (18-25) in New York City ready to build skills, deepen connections, and expand their impact at the intersection of mental health and spirituality. If you’re already showing [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-03T15:40:07+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
       {
         "title": "Jasiri Growth Accelerator 2026 for Entrepreneurs from Kenya & Rwanda",
         "url": "https://opportunitydesk.org/2026/10/03/jasiri-growth-accelerator-2026/",
@@ -5542,54 +5564,6 @@
         "summary": "Deadline: February 3, 2026 Applications are open for the American University Human Rights Essay Award 2027. The Human Rights Essay Award is an annual award sponsored by the Academy aimed at encouraging the production of academic articles in the field of international human rights law. The topic for the 2027 will be: Democracy, Human Rights and Participation. [...]",
         "source": "Opportunity Desk — Scholarships & Fellowships",
         "published": "2026-10-02T14:32:35+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "UONGOZI Institute Emerging Leaders Programme 2026-2027",
-        "url": "https://opportunitydesk.org/2026/10/02/uongozi-institute-emerging-leaders-programme-2026-2027/",
-        "summary": "Deadline: October 23, 2026 Applications are open for the UONGOZI Institute Emerging Leaders Programme 2026-2027. UONGOZI Institute invites applications from mid-level executives working in any sector across Africa for a dynamic, self-paced programme, Emerging Leaders Programme. The programme, undertaken in collaboration with HAUS Finnish Institute of Public Management, includes six modules running for a period [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-02T13:24:22+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "NVIDIA Graduate Fellowship 2027-2028 (up to $60,000)",
-        "url": "https://opportunitydesk.org/2026/10/02/nvidia-graduate-fellowship-2027-2028/",
-        "summary": "Deadline: October 30, 2026 Applications are open for the NVIDIA Graduate Fellowship 2027-2028. The NVIDIA Graduate Fellowship Program provides up to $60,000 per award for PhD research that advances accelerated computing. Fellows work with NVIDIA researchers and complete a required in-person summer internship before the award year. NVIDIA Research is passionate about developing the technology [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-02T12:37:14+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "Dalai Lama Fellows Program 2027 for Emerging Changemakers",
-        "url": "https://opportunitydesk.org/2026/10/02/dalai-lama-fellows-program-2027/",
-        "summary": "Deadline: November 11, 2026 Applications are open for the Dalai Lama Fellows Program 2027. The Dalai Lama Fellows (DLF) offers a one-year fellowship program for emerging changemakers aiming to cultivate leadership practices rooted in wisdom and compassion. The interdisciplinary and deeply contemplative program provides a curriculum, coaching, group learning, and additional forms of support to [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-02T12:28:32+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "30 Hot Jobs Across Africa Currently Open – October 2, 2026",
-        "url": "https://opportunitydesk.org/2026/10/01/30-hot-jobs-across-africa-currently-open-october-2-2026/",
-        "summary": "1. African Development Bank (AfDB) Internship Program 2027 African Development Bank is recruiting for this opportunity based in Abidjan / AfDB duty locations. A paid professional internship aligned with AfDB’s Ten-Year Strategy and gender strategy. Focus areas include human capital, operations, finance, governance, economics, data, communications, legal, HR, technology and other Bank job families. The [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-01T23:04:17+00:00",
         "region": "global",
         "streams": [
           "funding"
@@ -5709,6 +5683,66 @@
   "regions": {
     "global": [
       {
+        "title": "How to Help Working Adults Catch Up in Asynchronous Online Courses",
+        "url": "https://elearningindustry.com/how-to-help-working-adults-catch-up-in-asynchronous-online-courses",
+        "summary": "A missed week should trigger a clear route back into learning. This article explains how instructors can identify barriers, prioritize essential activities and provide manageable feedback, with a hypothetical recovery plan for a working adult. This post was first published on eLearning Industry .",
+        "source": "eLearning Industry",
+        "published": "2026-10-03T17:00:40+00:00",
+        "stream": "edtech",
+        "streams": [
+          "edtech"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Loeb Fellowship 2027-2028 at the Harvard Graduate School of Design (Funded)",
+        "url": "https://opportunitydesk.org/2026/10/03/loeb-fellowship-2027-2028/",
+        "summary": "Deadline: January 5, 2027 Applications are open for the Loeb Fellowship 2027-2028. The Loeb Fellowship is designed for civic leaders, journalists, architects, technologists, urban planners and designers, activists, landscape architects, policy makers, and public artists who come from around the world to the Harvard Graduate School of Design with one purpose: to make the world a [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-03T16:25:31+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Google Engineering & Technical Internships 2027",
+        "url": "https://opportunitydesk.org/2026/10/03/google-engineering-technical-internships-2027/",
+        "summary": "Deadline: Varies Google has opened applications for their Engineering & Technical Internships 2027. The interns are integral to Google — involved and solving problems from the start. As a technical intern, you are excited about tackling the hard problems in technology. With internships across the globe, ranging from Software Engineering to User Experience, Google offers [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-03T16:10:53+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Google Ireland Scholarship for Women in Computer Science 2027 (€5,000 award)",
+        "url": "https://opportunitydesk.org/2026/10/03/google-ireland-scholarship-for-women-in-computer-science-2027/",
+        "summary": "Deadline: October 5, 2026 Applications are invited for the Google Ireland Scholarship for Women in Computer Science 2027. Scholarship: Google Ireland for Women in Computer Science was established to help aspiring computer scientists excel in technology and become leaders in the field. The scholarship will be awarded based on the strength of each candidate’s demonstrated [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-03T15:55:30+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "citiesRISE Fellowship for Emerging Leaders in Mental Health and Spirituality 2026 ($500 stipend)",
+        "url": "https://opportunitydesk.org/2026/10/03/citiesrise-fellowship-2026/",
+        "summary": "Deadline: October 12, 2026 Applications are open for the citiesRISE Fellowship for Emerging Leaders in Mental Health and Spirituality 2026. This is a dynamic fellowship for young leaders (18-25) in New York City ready to build skills, deepen connections, and expand their impact at the intersection of mental health and spirituality. If you’re already showing [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-03T15:40:07+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
         "title": "Jasiri Growth Accelerator 2026 for Entrepreneurs from Kenya & Rwanda",
         "url": "https://opportunitydesk.org/2026/10/03/jasiri-growth-accelerator-2026/",
         "summary": "Deadline: October 8, 2026 Applications are open for the Jasiri Growth Accelerator 2026. The Accelerator backs proven ventures from Kenya and Rwanda solving problems and delivering valuable goods and services to unserved or underserved markets. They provide intelligent capital, operational support, and access to a wider ecosystem, helping ventures accelerate toward growth and impact. This [...]",
@@ -5769,6 +5803,18 @@
         "region": "global"
       },
       {
+        "title": "Barriers to women’s participation in STEM education: a regional study of southern Punjab, Pakistan",
+        "url": "https://www.nature.com/articles/s41599-026-09251-z",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-03T00:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
         "title": "Growing a new profession: evaluating occupational therapy education in Mongolia",
         "url": "https://www.nature.com/articles/s41599-026-09211-7",
         "summary": "",
@@ -5777,6 +5823,18 @@
         "stream": "research",
         "streams": [
           "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "The dual mediation of flow experience and learning effectiveness: unraveling the formation mechanism of continuous intention to use online learning platforms",
+        "url": "https://www.nature.com/articles/s41599-026-08425-z",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-03T00:00:00+00:00",
+        "stream": "edtech",
+        "streams": [
+          "edtech"
         ],
         "region": "global"
       },
@@ -5949,18 +6007,6 @@
         "region": "global"
       },
       {
-        "title": "UONGOZI Institute Emerging Leaders Programme 2026-2027",
-        "url": "https://opportunitydesk.org/2026/10/02/uongozi-institute-emerging-leaders-programme-2026-2027/",
-        "summary": "Deadline: October 23, 2026 Applications are open for the UONGOZI Institute Emerging Leaders Programme 2026-2027. UONGOZI Institute invites applications from mid-level executives working in any sector across Africa for a dynamic, self-paced programme, Emerging Leaders Programme. The programme, undertaken in collaboration with HAUS Finnish Institute of Public Management, includes six modules running for a period [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-02T13:24:22+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
         "title": "Press Release Distribution Services: What B2B Brands Should Look For Before Choosing One",
         "url": "https://elearningindustry.com/press-release-distribution-services-what-b2b-brands-should-look-for-before-choosing-one",
         "summary": "You can probably find hundreds of websites where you can post a press release with a simple Google search. Are they all valuable to your business? Absolutely not. Learn how to choose the right press release distribution service based on your niche and audience needs. This post was first published on eLearning Industry .",
@@ -5969,30 +6015,6 @@
         "stream": "edtech",
         "streams": [
           "edtech"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "NVIDIA Graduate Fellowship 2027-2028 (up to $60,000)",
-        "url": "https://opportunitydesk.org/2026/10/02/nvidia-graduate-fellowship-2027-2028/",
-        "summary": "Deadline: October 30, 2026 Applications are open for the NVIDIA Graduate Fellowship 2027-2028. The NVIDIA Graduate Fellowship Program provides up to $60,000 per award for PhD research that advances accelerated computing. Fellows work with NVIDIA researchers and complete a required in-person summer internship before the award year. NVIDIA Research is passionate about developing the technology [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-02T12:37:14+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Dalai Lama Fellows Program 2027 for Emerging Changemakers",
-        "url": "https://opportunitydesk.org/2026/10/02/dalai-lama-fellows-program-2027/",
-        "summary": "Deadline: November 11, 2026 Applications are open for the Dalai Lama Fellows Program 2027. The Dalai Lama Fellows (DLF) offers a one-year fellowship program for emerging changemakers aiming to cultivate leadership practices rooted in wisdom and compassion. The interdisciplinary and deeply contemplative program provides a curriculum, coaching, group learning, and additional forms of support to [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-02T12:28:32+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
         ],
         "region": "global"
       },
@@ -6069,18 +6091,6 @@
         "region": "global"
       },
       {
-        "title": "30 Hot Jobs Across Africa Currently Open – October 2, 2026",
-        "url": "https://opportunitydesk.org/2026/10/01/30-hot-jobs-across-africa-currently-open-october-2-2026/",
-        "summary": "1. African Development Bank (AfDB) Internship Program 2027 African Development Bank is recruiting for this opportunity based in Abidjan / AfDB duty locations. A paid professional internship aligned with AfDB’s Ten-Year Strategy and gender strategy. Focus areas include human capital, operations, finance, governance, economics, data, communications, legal, HR, technology and other Bank job families. The [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-01T23:04:17+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
         "title": "Confined Space Training: How Instructional Designers Can Build Effective, OSHA-Aligned Learning Programs",
         "url": "https://elearningindustry.com/confined-space-training",
         "summary": "Learn how Instructional Designers can create OSHA-aligned confined space training that improves compliance, competence, safety, and workforce performance. This post was first published on eLearning Industry .",
@@ -6152,42 +6162,6 @@
           "edtech"
         ],
         "region": "global"
-      },
-      {
-        "title": "A student’s death and safety fears fuel protests at Indian unis",
-        "url": "https://thepienews.com/a-students-death-and-safety-fears-fuel-protests-at-indian-unis/",
-        "summary": "Marches against harassment in Delhi, demands for an independent inquiry at IIT Bombay and unrest that halted classes at two Punjab universities have put student welfare, accountability and complaints procedures at Indian universities under scrutiny. The post A student’s death and safety fears fuel protests at Indian unis appeared first on The PIE News .",
-        "source": "The PIE News",
-        "published": "2026-10-01T14:09:55+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Predictors of mortality available at emergency department arrival in massively transfused trauma patients without severe TBI: A single-center retrospective cohort study",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359963",
-        "summary": "by Younggoun Jo, Yunchul Park, Euisung Jeong, Hyunseok Jang, Hyo-Sin Kim Trauma patients requiring massive transfusion have mortality exceeding 40%, yet early risk-stratification tools for this population remain limited. We evaluated readily available predictors of mortality in massively transfused trauma patients, excluding those with severe traumatic brain injury (TBI) to focus on a hemorrhage-predominant cohort. This single-center retrospective cohort study included trauma patients who received massive transfusion at Chonnam National University Hospital between January 2018 and December 202",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-01T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Immunization timeliness and its determinants among young children in Baghdad, Iraq: A cross-sectional study using documented vaccination cards",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359962",
-        "summary": "by Syed Shaukat Ali Muttaqi Shah, Hakeem Ahmed Mukhlif Al-ani, Mohammed Abdul Wahab Alwardi, Ale Zehra, Uroosa Kanwal, Tehreem Ansari Background Childhood immunization is a critical public health intervention, yet timeliness remains a challenge in post conflict affected settings like Iraq. This study assessed timeliness of immunization, missed doses, and associated factors with delay among children aged 18–24 months in Baghdad, Iraq. Methods A cross-sectional study was conducted in 11 primary healthcare centers in Baghdad between May and July 2025. Data were collected from 168 children using d",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-01T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
       }
     ],
     "south_asia": [
@@ -6196,7 +6170,7 @@
         "url": "https://kathmandupost.com/columns/2026/10/02/nepali-teachers-have-found-their-way-to-ai-can-our-education-system-keep-up",
         "summary": "When teachers are prepared and properly supported, AI can become a valuable professional partner, one whose answers they examine rather than accept.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-03T15:30:29.598341+00:00",
+        "published": "2026-10-03T20:25:30.652961+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6208,7 +6182,7 @@
         "url": "https://kathmandupost.com/world/2026/10/02/nine-things-to-know-about-the-rape-case-at-cornell-university",
         "summary": "A former Cornell student’s allegations against seven men have reopened a criminal investigation nearly two years after the alleged assault at a fraternity house.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-03T15:30:29.598066+00:00",
+        "published": "2026-10-03T20:25:30.652705+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6224,19 +6198,6 @@
         "stream": "policy",
         "streams": [
           "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "High school students in Paris' deprived suburbs spark national protest movement",
-        "url": "https://www.dawn.com/news/2034461/high-school-students-in-paris-deprived-suburbs-spark-national-protest-movement",
-        "summary": "Maisa, a 17-year-old in a poor Paris suburb who aspires to be an English teacher, joined tens of thousands of other students and their supporters this week in protests that spread across France over dilapidated schools, classroom overcrowding and teacher shortages. At Lycee Le Corbusier school in Aubervilliers, a suburb north of Paris in the Seine-Saint-Denis department, protesters said schools in poor neighborhoods like theirs faced the worst conditions. Last year I took the high school French exam without a French teacher, and teachers have a huge impact,“ Maisa said. French high school stud",
-        "source": "Dawn — Pakistan",
-        "published": "2026-10-03T08:18:33+00:00",
-        "stream": "teacher",
-        "streams": [
-          "teacher",
-          "school"
         ],
         "region": "south_asia"
       },
@@ -6606,6 +6567,18 @@
         "summary": "What is the NEET-SS examination? Why are NEET-SS seats going vacant? What was the demand of doctors from Tamil Nadu?",
         "source": "The Hindu — Education",
         "published": "2026-09-28T08:33:13+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "Neitzsche, Natyashastra and the Indian Consumer",
+        "url": "https://blogs.lse.ac.uk/southasia/2026/09/28/neitzsche-natyashastra-and-the-indian-consumer/",
+        "summary": "Bollywood remains one of India’s most important cultural exports, spanning decades and still remaining potent. But how do Western audiences make sense of the seemingly disruptive, even ‘illogical’, storylines, complete with song-and-dance sequences and change of costumes? Ram Sharma frames the Indian consumer in a civilisational aesthetic whose philosophical traditions never acceded primacy to reason … Continued The post Neitzsche, Natyashastra and the Indian Consumer first appeared on South Asia @ LSE .",
+        "source": "LSE South Asia Blog",
+        "published": "2026-09-28T07:18:17+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -7381,9 +7354,21 @@
     ],
     "east_asia": [
       {
+        "title": "Tennessee prisons chief resigning after botched execution of Christa Pike",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369673/tennessee-prisons-chief-resigning-after-botched-execution-christa-pike?utm_source=rss_feed",
+        "summary": "The head of Tennessee’s prison system is resigning, Governor Bill Lee announced on Saturday, the first major staff shake-up since Christa Pike’s stunning failed execution left her unconscious and on a ventilator at a hospital. Frank Strada, commissioner of the Department of Correction, will step down this month, Lee said. Some of the governor’s fellow Republicans and other elected officials had been urging a change in leadership. It was the second time since May that Tennessee has not been able...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-03T16:53:29+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
         "title": "Probe launched into luxury One Stanley project over alleged steel bar shortage",
         "url": "https://www.scmp.com/news/hong-kong/society/article/3369669/probe-launched-luxury-one-stanley-project-over-alleged-steel-bar-shortage?utm_source=rss_feed",
-        "summary": "Authorities have launched a probe into the building quality of a luxury residential development in one of Hong Kong’s most expensive neighbourhoods in the Southern district after receiving a complaint from an owner that insufficient steel bars were used during construction. The Buildings Department said on Saturday it was “very concerned about the matter” relating to One Stanley in Stanley, but stressed that its previous inspections did not find any imminent danger. The department said it would...",
+        "summary": "Authorities have launched a probe into the building quality of a luxury residential development in one of Hong Kong’s most expensive neighbourhoods in the Southern district after receiving a complaint from an owner that insufficient steel bars were used during construction. The Buildings Department said on Saturday it was “highly concerned about the incident” relating to One Stanley in Stanley, but stressed that its previous inspections did not find any imminent danger. The department said it...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-03T14:35:43+00:00",
         "stream": "higher",
@@ -7405,9 +7390,9 @@
         "region": "east_asia"
       },
       {
-        "title": "Flames, smoke seen at Aramco facility south of Saudi capital",
+        "title": "Houthis say they struck Aramco oil facility, as Saudis hit Sanaa",
         "url": "https://www.scmp.com/news/world/middle-east/article/3369667/flames-smoke-seen-aramco-facility-south-saudi-capital?utm_source=rss_feed",
-        "summary": "Flames and smoke were seen rising from a facility belonging to Saudi oil giant Aramco south of the kingdom’s capital Riyadh on Saturday, an AFP journalist said. The circumstances remained unclear but in recent weeks Aramco, majority-owned by the Saudi state, has come under attack from the Houthi group targeting the kingdom as part of the war in Yemen where Riyadh is backing the internationally recognised government. Aramco remains the flagship company of the Saudi economy and one of the largest...",
+        "summary": "Yemen’s Houthis claimed an attack on an oil facility near the Saudi capital on Saturday, where flames and smoke were seen, and accused the Gulf kingdom of striking Sanaa dozens of times. The foes have traded strikes since the Houthis seized all of Yemen’s Red Sea coast and took control of the Bab al-Mandab strait in a lightning offensive last month. Houthi-affiliated channel Al-Masirah TV reported that “Saudi enemy aircraft” hit Sanaa with 26 strikes, after earlier reporting “Saudi aggression”...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-03T13:57:44+00:00",
         "stream": "higher",
@@ -7847,18 +7832,6 @@
           "higher"
         ],
         "region": "east_asia"
-      },
-      {
-        "title": "Taiwan coastguard uses water cannons to warn off mainland Chinese fishing vessel",
-        "url": "https://www.scmp.com/news/china/politics/article/3369634/taiwan-coastguard-uses-water-cannons-warn-mainland-chinese-fishing-vessel?utm_source=rss_feed",
-        "summary": "Taiwan’s Coast Guard Administration (CGA) used water cannons to expel a mainland Chinese fishing vessel near Dongsha Island, authorities said on Friday. The incident occurred on October 1, 27 nautical miles east of the Taiwanese-controlled Dongsha Island, also called Pratas Island, in the South China Sea, the agency revealed. The CGA’s patrol vessel Yunlin directed its water cannon towards the fishing boat Jin Sha’s wheelhouse for about 90 seconds after initially spraying water into the air for...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T18:33:28+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
       }
     ],
     "europe": [
@@ -7907,6 +7880,66 @@
         "stream": "tvet",
         "streams": [
           "tvet"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "Turning an interest in climate finance into an award-winning dissertation and a UN career",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/turning-an-interest-in-climate-finance-into-an-award-winning-dissertation-and-a-un-career/",
+        "summary": "LSE Africa Dissertation Prize 2026 co-winner Patrick McVeigh reflects on how a fascination with carbon markets, land rights and REDD+ in East Africa shaped both his award-winning dissertation and his career with the United Nations. Receiving the LSE Africa Dissertation Prize for my MSc thesis has felt like something of a full-circle moment. A little … Continued The post Turning an interest in climate finance into an award-winning dissertation and a UN career first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T18:55:26+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "Leaving Cumberland Lodge with better questions, not simpler answers about development",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/leaving-cumberland-lodge-with-better-questions-not-simpler-answers-about-development/",
+        "summary": "How should development be understood in an era of geopolitical fragmentation, climate crisis and growing global inequality? Drawing on her experience at a Cumberland Lodge retreat for students in the LSE Department of International Development, MSc candidate Disha Ghosh explores how a weekend of lectures, discussion and debate challenged conventional assumptions about development and highlighted … Continued The post Leaving Cumberland Lodge with better questions, not simpler answers about development first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T14:40:51+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "Moona Shaik reflects on her journey from an LSE consultancy project to a UN Women panel",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/moona-shaik-reflects-on-her-journey-from-an-lse-consultancy-project-to-a-un-women-panel/",
+        "summary": "After contributing to a UN Women consultancy project at LSE, recent alumna Moona Shaik was invited to speak at a HeForShe University webinar. She shared what her research revealed about the pushback against women’s rights, the importance of allyship and the future of DEI initiatives. Drawing on her work in East Africa and reflections from … Continued The post Moona Shaik reflects on her journey from an LSE consultancy project to a UN Women panel first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T13:43:08+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "The Belém Gender Action Plan puts women at the centre of climate action, now it needs to deliver",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/the-belem-gender-action-plan-puts-women-at-the-centre-of-climate-action-now-it-needs-to-deliver/",
+        "summary": "MSc candidate Amanda Costa explores how the Belém Gender Action Plan became one of the most significant gender commitments in the history of UN climate negotiations. While the agreement promises to strengthen women’s participation across climate decision-making, finance and implementation, she argues that its success will ultimately depend on whether it delivers meaningful change for … Continued The post The Belém Gender Action Plan puts women at the centre of climate action, now it needs to deliver first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T10:51:42+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "Shanghai and the complexities of China’s rise",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/shanghai-and-the-complexities-of-chinas-rise/",
+        "summary": "More than 40 years after his first visit to China, Professor Robert Wade returns to find in Shanghai a city that appears to have moved from the developing world into the technological future. Its prosperity, manufacturing depth and technological ambition reveal the results of decades of strategic economic development, but its low fertility, property downturn … Continued The post Shanghai and the complexities of China’s rise first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-29T08:39:19+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
         ],
         "region": "europe"
       },
@@ -8008,6 +8041,18 @@
         "region": "europe"
       },
       {
+        "title": "Rich Countries Don’t Have a Secret Trick for Cutting Carbon",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/21/rich-countries-dont-have-a-secret-trick-for-cutting-carbon/",
+        "summary": "Meghna Chotaliya, Subir Chowdhury Visiting Fellow at India Observatory and International Inequalities Institute, LSE explores new evidence from close to 190 countries over two decades that suggests low- and middle-income economies can cut carbon intensity just as effectively as high-income countries once their energy mix shifts. The real gap is not one of ability, but … Continued The post Rich Countries Don’t Have a Secret Trick for Cutting Carbon first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-21T13:20:24+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
         "title": "EfVET at the Forum on Vocational Excellence 2026",
         "url": "https://efvet.org/efvet-forum-on-vocational-excellence-2026-cop-coves/",
         "summary": "From 7 to 9 September, the EfVET team participated in the Forum on Vocational Excellence 2026 conference in Graz, Austria. The conference brought together around 400 participants from across Europe and beyond to exchange best practice, ideas and lessons learned, and to find creative solutions by encouraging collaboration between VET providers, companies and governments. Hosted […] The post EfVET at the Forum on Vocational Excellence 2026 appeared first on EfVET .",
@@ -8044,11 +8089,35 @@
         "region": "europe"
       },
       {
+        "title": "On AI Access, Awareness, and Augmentation",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/10/on-ai-access-awareness-and-augmentation/",
+        "summary": "AI is often deemed a democratic technology. Insights from an initial, small-scale set of interviews suggest that there is far more to the picture. Anusha Raghav explores how human interaction with AI falls into distinct layers, shaped by demographic, sectoral, and ethical factors that anyone building or regulating AI needs to account for. In January … Continued The post On AI Access, Awareness, and Augmentation first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-10T09:34:56+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
         "title": "When Schools become Shelters: Bridging gaps in the HDP Nexus through conflict sensitive Peace Education in Lebanon",
         "url": "https://www.norrageducation.org/when-schools-become-shelters-bridging-gaps-in-the-hdp-nexus-through-conflict-sensitive-peace-education-in-lebanon/",
         "summary": "In this blog, Layal Assaad, Country Director, International Alert Lebanon and Ruth Simpson, Peace Education Expert, demonstrate how an HDP nexus approach – rooted in system leadership – frames training and ongoing support in peace education for teachers, with positive and encouraging results for learners in a severely challenging context of various and protracted violence. The... Read More The post When Schools become Shelters: Bridging gaps in the HDP Nexus through conflict sensitive Peace Education in Lebanon appeared first on NORRAG - .",
         "source": "NORRAG — Education & Development",
         "published": "2026-09-10T08:00:33+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "Maize in Zambia is not an agricultural story. It is a political one.",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/08/maize-in-zambia-is-not-an-agricultural-story-it-is-a-political-one/",
+        "summary": "Zambia’s dependence on maize is often treated as a food security problem requiring technical solutions. But maize didn’t arrive in Zambia because it was the best crop for the land: it arrived because it served colonial interests. In this blog, Carla Monzón Bordón traces how that original decision continues to shape land access, hunger, and … Continued The post Maize in Zambia is not an agricultural story. It is a political one. first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-08T14:15:23+00:00",
         "stream": "research",
         "streams": [
           "research"
@@ -8097,6 +8166,30 @@
         "summary": "In this blog, Sreehari Ravindranath, Director of Research and Impact at Dream a Dream, India, elucidates how the frequent creation of new curricula in response to crises, while often important, risks shifting responsibility to teachers and learners, while protecting the institutional architectures and inequalities that contributed to generating the problem. Each new crisis appears to... Read More The post Crisis as Curriculum? The Politics of Shifting Responsibility onto Children appeared first on NORRAG - .",
         "source": "NORRAG — Education & Development",
         "published": "2026-09-03T08:00:51+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "The overlooked geography of migration and why it should be scaled for development",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/02/the-overlooked-geography-of-migration-and-why-it-should-be-scaled-for-development/",
+        "summary": "Global migration is not only a story of movement from developing to developed countries: South-South migration represents a major share of global mobility. Carla Broussy argues the development benefits this migration generates should not be ignored. Open any news article and the migration reported on is usually a movement towards Europe or the United States. … Continued The post The overlooked geography of migration and why it should be scaled for development first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-02T10:56:39+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "Ratko Mladić Is Dead. The Questions He Leaves Behind Are Not",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/01/ratko-mladic-is-dead-the-questions-he-leaves-behind-are-not/",
+        "summary": "Ratko Mladić has died in UN custody while serving a life sentence for genocide, crimes against humanity and war crimes. Reflecting on his own experience in besieged Sarajevo, Professor Stuart Gordon considers the importance of accountability and the unanswered questions surrounding the international community’s failure to prevent the Srebrenica genocide. Ratko Mladić died on Thursday … Continued The post Ratko Mladić Is Dead. The Questions He Leaves Behind Are Not first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-09-01T11:04:16+00:00",
         "stream": "research",
         "streams": [
           "research"
@@ -8166,6 +8259,42 @@
     ],
     "north_america": [
       {
+        "title": "Trump Suggests Cornell Defendants Won’t Get a ‘Fair Shake’ From Letitia James",
+        "url": "https://www.nytimes.com/2026/10/02/us/politics/trump-cornell-letitia-james.html",
+        "summary": "President Trump weighed in on the case when asked about Ms. James, who has become a target of his second-term retribution campaign.",
+        "source": "New York Times — Education",
+        "published": "2026-10-03T19:53:54+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Here’s What it Takes to Feed LAUSD Students Each Day",
+        "url": "https://www.the74million.org/article/heres-what-it-takes-to-feed-lausd-students-each-day/",
+        "summary": "This story was originally published by EdSource. Sign up for their daily newsletter. In the state’s largest school district, making meals available to all students — breakfast, lunch and sometimes, dinner — is a massive operation. From Pepperoni Pizza to Birria Bowls, to vegetarian and vegan offerings, students have a range of options to choose from. Even as […]",
+        "source": "The 74 Million",
+        "published": "2026-10-03T16:30:00+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "What the Cornell Lawsuit Reveals About Sexual Violence in America",
+        "url": "https://www.nytimes.com/2026/10/03/opinion/cornell-rape-lawsuit-politics-morality.html",
+        "summary": "The columnist David French argues that “we have privileged getting wasted over taking care of people.”",
+        "source": "New York Times — Education",
+        "published": "2026-10-03T16:04:49+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
         "title": "What to Know About France’s High School Protests",
         "url": "https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html",
         "summary": "Students angry over the state of the country’s education system have blockaded hundreds of schools. Thousands of protesters have been arrested and dozens of people injured.",
@@ -8195,18 +8324,6 @@
         "summary": "He asked if we could “sponsor” him for a course that would help further his career in health care.",
         "source": "New York Times — Education",
         "published": "2026-10-03T12:45:02+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Opinion: What the Cornell Lawsuit Reveals About Sexual Violence in America",
-        "url": "https://www.nytimes.com/2026/10/03/opinion/cornell-rape-lawsuit-politics-morality.html",
-        "summary": "The columnist David French argues that “we have privileged getting wasted over taking care of people.”",
-        "source": "New York Times — Education",
-        "published": "2026-10-03T11:00:18+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8262,18 +8379,6 @@
         "region": "north_america"
       },
       {
-        "title": "Trump Suggests Cornell Defendants Won’t Get a ‘Fair Shake’ From Letitia James",
-        "url": "https://www.nytimes.com/2026/10/02/us/politics/trump-cornell-letitia-james.html",
-        "summary": "President Trump weighed in on the case when asked about Ms. James, who has become a target of his second-term retribution campaign.",
-        "source": "New York Times — Education",
-        "published": "2026-10-03T00:39:01+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
         "title": "Teen Charged With Attempted Murder and Domestic Terrorism After Chemical Spill",
         "url": "https://www.nytimes.com/2026/10/02/us/portland-oregon-domestic-terrorism-charge.html",
         "summary": "The 15-year-old mixed and ingested hazardous chemicals at a school cafeteria in Portland, Ore., last month, officials said. His lawyers denied the allegations.",
@@ -8322,18 +8427,6 @@
         "region": "north_america"
       },
       {
-        "title": "Man Accused of Sex Assault Seeks to Expunge Cornell’s Finding of Related Violation",
-        "url": "https://www.nytimes.com/2026/10/02/nyregion/cornell-accused-man-punishment-appeal.html",
-        "summary": "A panel found the man responsible for attempted sexual exploitation, barred him from contact with the woman and required him to take a class and write a paper.",
-        "source": "New York Times — Education",
-        "published": "2026-10-02T19:12:31+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
         "title": "Childcare Workers in NC Struggle to Afford Care for Their Own Kids",
         "url": "https://www.the74million.org/zero2eight/childcare-workers-struggle-to-afford-care-for-their-own-kids-nc-communities-are-testing-solutions/",
         "summary": "DURHAM — At Kate’s Korner, the day begins early — children arriving, classroom doors opening, small voices calling for teachers, parents saying quick goodbyes before heading to work. For the childcare center’s staff, the morning comes with one less worry: they don’t have to figure out how to pay for care for their own children. […]",
@@ -8363,18 +8456,6 @@
         "summary": "Through tears, some students shared stories of assaults they had experienced, while others spoke out to criticize administrators and demand improved training on consent.",
         "source": "New York Times — Education",
         "published": "2026-10-02T15:50:06+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "A Forum at Cornell",
-        "url": "https://www.nytimes.com/2026/10/02/briefing/a-forum-at-cornell.html",
-        "summary": "We look at more student reactions.",
-        "source": "New York Times — Education",
-        "published": "2026-10-02T15:41:59+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8639,6 +8720,18 @@
         "summary": "When kids start attending school, the youngest tend to get sick their first year. Some may have a tough time adjusting to a new school routine. Some parents may believe missing the day’s lesson isn’t that big of a deal, so their student stays home. But when young students miss school, the days absent can […]",
         "source": "The 74 Million",
         "published": "2026-10-01T17:30:00+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "After 74 Investigation, Minnesota Senators Seek Law Regulating Autism Therapy",
+        "url": "https://www.the74million.org/article/after-74-investigation-minnesota-senators-seek-law-regulating-autism-therapy/",
+        "summary": "Citing a recent 74 Million investigation, two Minnesota state senators announced they will seek laws regulating the influence of private equity investment firms on autism therapy providers. “This report is outrageous,” said Minneapolis state Sen. Zaynab Mohamed, of the Democratic-Farmer-Labor Party. “The idea that Wall Street investors are exploiting these programs for profit is infuriating.” […]",
+        "source": "The 74 Million",
+        "published": "2026-10-01T16:46:09+00:00",
         "stream": "school",
         "streams": [
           "school"
