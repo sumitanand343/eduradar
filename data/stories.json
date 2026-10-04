@@ -324,20 +324,8 @@
         "url": "https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html",
         "summary": "Students angry over the state of the country’s education system have blockaded hundreds of schools. Thousands of protesters have been arrested and dozens of people injured.",
         "source": "New York Times — Education",
-        "published": "2026-10-03T15:00:00+00:00",
+        "published": "2026-10-03T15:00:01+00:00",
         "region": "north_america",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "French high school engulfed in flames as student protests continue",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss",
-        "summary": "A French high school in Metz went up in flames as student protests over school conditions spread across the country.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-03T12:59:27+00:00",
-        "region": "global",
         "streams": [
           "school"
         ],
@@ -1075,6 +1063,150 @@
     ],
     "higher": [
       {
+        "title": "How Malaysia offers Chinese investors Singapore’s comfort at prices lower than Thailand",
+        "url": "https://www.scmp.com/business/article/3369646/how-malaysia-offers-chinese-investors-singapores-comfort-prices-lower-thailand?utm_source=rss_feed",
+        "summary": "Malaysia is proving to be a middle ground for many Hong Kong and mainland Chinese investors looking to buy property in a country that provides the stability Singapore offers, but with competitive price points similar to those found in Thailand, according to analysts. Data from Juwai IQI, a property portal with 7 million listings across 111 countries, showed that in the first half of 2026, Malaysia was the fourth-highest destination for inquiries received from Chinese buyers. That compared with...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T03:00:09+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Cornell University boss breaks silence over rape case uproar",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369677/cornell-university-boss-breaks-silence-over-rape-case-uproar?utm_source=rss_feed",
+        "summary": "Cornell University president Michael Kotlikoff said he was “deeply disturbed” by a student’s 2024 rape allegation that has drawn national outrage. “My heart aches when I think of what she experienced,” Kotlikoff said in a video message released on Saturday, saying the university must “do everything we can to prevent what happened to Jane Doe” from happening again. Lawyers for a Jane Doe last month filed a civil lawsuit against the Ivy League university, its leaders, the Chi Phi fraternity, her...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T02:21:48+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Young Chinese hire ‘life stand-ins’ to cook and care for elderly parents amid booming trend",
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3369676/young-chinese-hire-life-stand-ins-cook-and-care-elderly-parents-amid-booming-trend?utm_source=rss_feed",
+        "summary": "From cooking and attending hospital visits to doing the actual quarrelling, paid “life stand-ins” are stepping in to manage these tasks, along with errands and awkward moments that many young Chinese would rather avoid. This trend, known as the “stand-in economy,” is gaining traction among time-strapped consumers who are willing to pay for convenience when daily responsibilities exceed their time, patience, or expertise. First widely reported by mainland media in 2024, the movement has since...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T02:20:53+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Quality over quantity: China’s AI microdrama producers battle viewer fatigue",
+        "url": "https://www.scmp.com/tech/policy/article/3368700/quality-over-quantity-chinas-ai-microdrama-producers-battle-viewer-fatigue?utm_source=rss_feed",
+        "summary": "Two decades after stepping away from the spotlight, iconic actress Joey Wong made an unexpected return to the screen – not through a traditional production, but via artificial intelligence-powered reconstruction. In a two-minute video by NetEase this summer, Wong, one of the most well-known actresses of the 1980s and 90s, had some of her most celebrated roles recreated, including the beautiful ghost in A Chinese Ghost Story and an alluring snake demon in Green Snake. The revival is just the tip...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T02:00:09+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Name and shame: Japan’s tame answer to jobseeker sex harassment",
+        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3369593/name-and-shame-japans-tame-answer-jobseeker-sex-harassment?utm_source=rss_feed",
+        "summary": "Final-year students invited to recruiters’ apartments for help with their applications. Coffee dates with alumni who promise to explain how the company works. Inappropriate interview questions about boyfriends, marriage plans and sex lives. For young women in Japan, looking for a job has long entailed submitting themselves to the skewed power dynamics of the recruitment process. And before Thursday, no official legal safeguards existed to protect these jobseekers from such...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T01:30:14+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "To become a dog-friendly city, Hong Kong needs dog literacy",
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3369242/become-dog-friendly-city-hong-kong-needs-dog-literacy?utm_source=rss_feed",
+        "summary": "Since July, Hong Kong has permitted dogs in approved dining premises under a tightly regulated scheme. More than 2,200 restaurants applied, with more than 980 taking part within the first month. On the surface, these are straightforward changes to the rules around where dogs are allowed. But they reflect something more significant: a changing relationship between Hong Kong and the dogs who also call it home. Small companion breeds are familiar in urban life, while larger dogs, local mixed breeds...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T01:30:10+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Trump shares Senator Tom Cotton’s phone number in daylight saving time clash",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369675/trump-shares-senator-tom-cottons-phone-number-daylight-saving-time-clash?utm_source=rss_feed",
+        "summary": "US President Donald Trump shared online the supposed phone number of a Republican US senator on Saturday in an escalating dispute over making daylight saving time permanent. In a social media post, the president urged people to call a phone number he said belonged to Senator Tom Cotton, an Arkansas Republican who opposes the Trump-backed Sunshine Protection Act. The act would end the twice-yearly practice ‌of changing clocks by one hour. Trump says most Americans want more afternoon sunlight,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T01:21:41+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Hong Kong’s cancer research drawing global attention, says leading body’s chief",
+        "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3369670/hong-kongs-cancer-research-drawing-global-attention-says-leading-bodys-chief?utm_source=rss_feed",
+        "summary": "Hong Kong is playing a central role as part of a broader regional hub for research breakthroughs, the head of a leading global cancer organisation has said, adding that the city’s success in reducing its smoking rate has set an example for others to follow. Cary Adams, CEO of the Union for International Cancer Control, praised the city’s tobacco control efforts as the organisation held the World Cancer Congress in Hong Kong last month for the first time. “We’ve all become aware globally that the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T01:00:15+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Sinking city, rising rage: Bangkok’s floods fuel fury over government inaction",
+        "url": "https://www.scmp.com/week-asia/health-environment/article/3369592/sinking-city-rising-rage-bangkoks-floods-fuel-fury-over-government-inaction?utm_source=rss_feed",
+        "summary": "As floodwaters surged from Bangkok’s drains, Fon’s car sank faster than her hopes of escaping the floods unscathed. She had bought it less than a month earlier. “I woke up at 5am but it was too late,” the 24-year-old said, recalling her decision last weekend to wait until dawn to move her car to a nearby shopping centre. “My car was already submerged. I hadn’t even started making the payments and it’s gone.” Relentless rain paralysed Thailand’s capital this September, dumping a month’s worth of...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T00:00:12+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Latvia’s Andris Kulbergs scores big win in election shadowed by Russia",
+        "url": "https://www.scmp.com/news/world/europe/article/3369674/latvian-leader-poised-big-win-election-shadowed-putin?utm_source=rss_feed",
+        "summary": "Latvian Prime Minister Andris Kulbergs’ centrist, pro-Ukraine United List party won Saturday’s parliamentary election by an unexpectedly wide margin, partial results showed, with many voters on edge amid warnings of potential Russian aggression. With 88 per cent of ballots counted, United List was on 36.6 per cent, followed by the populist, ‌Maga-style Latvia First on 13.4 per cent. Latvia First had courted the country’s substantial ethnic Russian minority in the run-up to the vote. Baltic...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-03T23:11:44+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "China and Africa boost law enforcement ties in crackdown on cross-border cybercrime",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3369660/china-and-africa-boost-law-enforcement-ties-crackdown-cross-border-cybercrime?utm_source=rss_feed",
+        "summary": "From online-gambling rings in eSwatini to SIM swapping in Kenya and cybercrime networks in Zambia, a wave of cross-border fraud is drawing African governments and China into closer security cooperation. China hosted East African security ministers and police chiefs in Lianyungang, Jiangsu province, on September 10 for talks on terrorism, kidnapping, online fraud and other cross-border threats. China’s public security minister, Wang Xiaohong, said Beijing would strengthen law-enforcement...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-03T22:00:12+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Baby bonuses fail to address the fear of falling behind",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3369277/baby-bonuses-fail-address-fear-falling-behind?utm_source=rss_feed",
+        "summary": "When one of my seniors from medical school was pregnant during her surgical residency, she planned the exact date of her C-section so she could complete her training on time. When I asked why she didn’t consider taking maternity leave to recuperate afterwards, she said she couldn’t bring herself to lag behind her peers. “I didn’t want motherhood to slow me down,” she said. In medicine, it is common for women to delay childbearing until after their early career years, often into their...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-03T21:30:09+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
         "title": "Tennessee prisons chief resigning after botched execution of Christa Pike",
         "url": "https://www.scmp.com/news/world/united-states-canada/article/3369673/tennessee-prisons-chief-resigning-after-botched-execution-christa-pike?utm_source=rss_feed",
         "summary": "The head of Tennessee’s prison system is resigning, Governor Bill Lee announced on Saturday, the first major staff shake-up since Christa Pike’s stunning failed execution left her unconscious and on a ventilator at a hospital. Frank Strada, commissioner of the Department of Correction, will step down this month, Lee said. Some of the governor’s fellow Republicans and other elected officials had been urging a change in leadership. It was the second time since May that Tennessee has not been able...",
@@ -1351,7 +1483,7 @@
         "stream": "higher"
       },
       {
-        "title": "Flydubai plane attack: co-pilot had been from flying over extremist views",
+        "title": "Flydubai plane attack: co-pilot had been banned from flying over extremist views",
         "url": "https://www.scmp.com/news/world/middle-east/article/3369644/flydubai-plane-attack-co-pilot-previously-barred-flying-oman-over-extremist-views?utm_source=rss_feed",
         "summary": "The Flydubai co-pilot who officials said nearly crashed a Tel Aviv-bound flight with 182 people aboard was barred from flying by his native Oman over concerns he had adopted extremist views, a person familiar with the matter said on Saturday. The co-pilot has been identified as Hamam al-Hammami, according to three people with knowledge of the situation, including a Gulf and Western diplomat. All spoke on condition of anonymity because they were not authorised to speak to the media. The United...",
         "source": "South China Morning Post — Education",
@@ -1555,156 +1687,12 @@
         "stream": "higher"
       },
       {
-        "title": "Brazil’s Lula hails ‘bold’ Chinese investors as rival pitches rare earths to Trump",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3369636/brazils-lula-hails-bold-chinese-investors-rival-pitches-rare-earths-trump?utm_source=rss_feed",
-        "summary": "Brazilian President Luiz Inacio Lula da Silva named China as a possible partner in his critical minerals plans, three days before Sunday’s closely fought election. Lula told Flow, one of the country’s most-watched podcasts, on Thursday evening that Brazil should stop shipping out raw ore. “We want to transform them here in Brazil,” he said of the minerals. Asked whether China fit into his plans, Lula said it could be a partner “bringing technology to us”, as could the United States. “[Donald]...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T21:04:21+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Panama auditor targets ex-port regulators, CK Hutchison’s subsidiary in canal probe",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3369635/panama-auditor-targets-ex-port-regulators-and-hong-kong-firms-executives-canal-probe?utm_source=rss_feed",
-        "summary": "Panama’s comptroller general said on Friday that his office would send prosecutors more audit material on former executives of CK Hutchison’s local subsidiary next week, as part of a criminal investigation into the Hong Kong conglomerate’s annulled Panama Canal ports concession. Speaking at the Atlantic Council in Washington, Anel Flores said prosecutors had requested documents concerning Panama Ports Company (PPC), the operator of the Balboa and Cristobal terminals at either end of the canal...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T19:10:10+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Taiwan coastguard uses water cannons to warn off mainland Chinese fishing vessel",
-        "url": "https://www.scmp.com/news/china/politics/article/3369634/taiwan-coastguard-uses-water-cannons-warn-mainland-chinese-fishing-vessel?utm_source=rss_feed",
-        "summary": "Taiwan’s Coast Guard Administration (CGA) used water cannons to expel a mainland Chinese fishing vessel near Dongsha Island, authorities said on Friday. The incident occurred on October 1, 27 nautical miles east of the Taiwanese-controlled Dongsha Island, also called Pratas Island, in the South China Sea, the agency revealed. The CGA’s patrol vessel Yunlin directed its water cannon towards the fishing boat Jin Sha’s wheelhouse for about 90 seconds after initially spraying water into the air for...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T18:33:28+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "King Charles to acknowledge ‘darkest days’ of colonial rule on Caribbean tour",
-        "url": "https://www.scmp.com/news/world/europe/article/3369633/king-charles-acknowledge-darkest-days-colonial-rule-caribbean-tour?utm_source=rss_feed",
-        "summary": "King Charles will acknowledge the “darkest days” of colonial rule and slavery while touring Caribbean countries on a visit beginning this month, a Buckingham Palace spokesman said on Friday. The king will first visit the Bahamas and Guyana alone, followed by a trip to Antigua and Barbuda with Queen Camilla, where Charles will give a speech at a meeting of Commonwealth heads of government, the palace said. Charles, 77, who is still receiving treatment for cancer, will visit former colonies that...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T18:11:53+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "New York governor attacks handling of Cornell gang rape case, appoints special prosecutor",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369632/new-york-governor-attacks-handling-cornell-gang-rape-case-appoints-special-prosecutor?utm_source=rss_feed",
-        "summary": "New York Governor Kathy Hochul on Friday faulted police and prosecutors for failing to fully investigate an alleged gang rape in 2024 at Cornell University, saying she was “deeply disturbed” by how the incident was handled. Hochul was speaking at a press conference alongside state Attorney General Letitia James, ‌whom she appointed on Thursday night as a special prosecutor to investigate the allegations. The case has drawn fresh scrutiny after the alleged victim filed a lawsuit accusing...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T17:10:53+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Off-duty senior ambulanceman dies after abseiling fall on Kowloon Peak",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3369630/duty-senior-ambulanceman-dies-after-abseiling-fall-kowloon-peak?utm_source=rss_feed",
-        "summary": "An off-duty senior ambulanceman has died after falling from a cliff while abseiling in Hong Kong. The Fire Services Department said on Friday that it had received a report at 2.33pm that a man had fallen from Kowloon Peak in Wong Tai Sin while abseiling. Rescuers and a government helicopter searched the area and found an unconscious man at a nearby cliff. Another man with minor injuries was found on a nearby trail. The department mobilised its mountain and high-angle rescue teams during the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T16:12:25+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "2 Hongkongers held in Philippines for months after prison terms end",
-        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369629/2-hongkongers-held-philippines-months-after-prison-terms-end?utm_source=rss_feed",
-        "summary": "The Chinese embassy in Manila has expressed concern over the cases of two Hongkongers who have remained in custody in the Philippines for months despite being discharged from prison, according to the Immigration Department. The department confirmed on Friday night that it was handling the two cases following an appeal from a former lawmaker and a Hong Kong man who returned to the city on Tuesday after serving 26 years in a Philippine prison for drug offences. The returned Hongkonger, Tang...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T15:07:00+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Hong Kong could overtake London as top arbitration hub in decade: Bar Association head",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3369627/hong-kong-could-overtake-london-top-arbitration-hub-decade-bar-association-head?utm_source=rss_feed",
-        "summary": "Hong Kong could dethrone London as the top choice for arbitration within the next decade given the Asian city’s status as a global fundraising capital for businesses in mainland China and beyond, the head of the Bar Association has said. Jose-Antonio Maurellet, chairman of the Hong Kong Bar Association, told the South China Morning Post on Friday that the city had enjoyed rapid growth in arbitration work, with high-stakes cases attracting elite international legal talent. Hong Kong tied with...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T14:52:25+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "G7 nations agree to release diesel and oil stocks after Trump pressure",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369626/trump-says-europe-agrees-release-diesel-stocks?utm_source=rss_feed",
-        "summary": "Group ⁠of Seven countries agreed on Friday to release 100 million barrels of diesel and crude oil from emergency reserves and pledged to refrain from energy export restrictions after pressure from US President Donald Trump. The US led a pressure campaign on the European Union to draw down emergency diesel inventories, with the Trump administration warning that failure to act could lead to a US ban on diesel exports. Such a ban could sharply reduce supplies to Europe, which has become...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T14:51:04+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Donald Trump is planning trip to the Philippines for Asean summit",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3369624/donald-trump-planning-trip-philippines-asean-summit?utm_source=rss_feed",
-        "summary": "US President Donald Trump is planning to attend the Asean summit next month, the South China Morning Post understands, as Washington vies with Beijing for influence in the region. If the trip happens, Trump’s appearance at the Association of Southeast Asian Nations meeting, expected to run from November 16-18 in Manila, will be his second consecutive appearance at the gathering during this term. Trump was in Kuala Lumpur for Asean last year and in Manila for the meeting in 2017. Sources told the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T14:38:46+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
         "title": "Australia’s student visa restrictions take effect, curbing dependants and onshore applications",
         "url": "https://thepienews.com/australias-student-visa-restrictions-take-effect-curbing-dependants-and-onshore-applications/",
         "summary": "Australia has confirmed that new restrictions limiting when international students can bring dependants into the country are now in force, with assistant minister for international education Julian Hill revealing the timing and further details of the government’s wider migration reforms. The post Australia’s student visa restrictions take effect, curbing dependants and onshore applications appeared first on The PIE News .",
         "source": "The PIE News",
         "published": "2026-10-02T14:24:18+00:00",
         "region": "global",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "What’s in a name? Why Trump wants to rebrand AI as ‘super intelligence’",
-        "url": "https://www.scmp.com/tech/policy/article/3369617/whats-name-why-trump-wants-rebrand-ai-super-intelligence?utm_source=rss_feed",
-        "summary": "US President Donald Trump wants to retire one of the technology sector’s most recognisable acronyms, arguing that the term “artificial intelligence”, or AI, is no longer fit for purpose. On Tuesday, Trump signed an executive order directing US federal agencies to replace “artificial intelligence” and “AI” with “super intelligence” and “SI” in official communications and non-statutory documents. He also instructed the White House science adviser to draft a new federal definition. The move...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T14:00:30+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "If young US people accept Xi’s invitation to China, what will Beijing show them?",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3369609/if-young-us-people-accept-xis-invitation-china-what-will-beijing-show-them?utm_source=rss_feed",
-        "summary": "China is ramping up its efforts to bring young Americans to China, and ready to be seen as a country concerned with environmental protection, lifting people out of poverty, protecting minority cultures and building the technology of the future. During his trip to the United States last week, Chinese President Xi Jinping said his country aimed to welcome 100,000 young Americans on exchange or study trips over the next five years. That builds on an earlier target announced in 2023 that set the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T14:00:21+00:00",
-        "region": "east_asia",
         "streams": [
           "higher"
         ],
@@ -1990,7 +1978,7 @@
         "title": "Supporting AI readiness in higher education",
         "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/educause-2026/",
         "summary": "Graduation caps and icons in different colors",
-        "source": "Google for Education — Blog",
+        "source": "Google — The Keyword Blog",
         "published": "2026-09-30T16:43:00+00:00",
         "region": "global",
         "streams": [
@@ -2667,7 +2655,7 @@
         "title": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
         "url": "https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/",
         "summary": "Many stars bursting out of a laptop",
-        "source": "Google for Education — Blog",
+        "source": "Google — The Keyword Blog",
         "published": "2026-10-01T16:00:00+00:00",
         "region": "global",
         "streams": [
@@ -3530,7 +3518,7 @@
         "url": "https://kathmandupost.com/columns/2026/10/02/nepali-teachers-have-found-their-way-to-ai-can-our-education-system-keep-up",
         "summary": "When teachers are prepared and properly supported, AI can become a valuable professional partner, one whose answers they examine rather than accept.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-03T20:25:30.652961+00:00",
+        "published": "2026-10-04T03:37:04.886542+00:00",
         "region": "south_asia",
         "streams": [
           "policy"
@@ -3542,7 +3530,7 @@
         "url": "https://kathmandupost.com/world/2026/10/02/nine-things-to-know-about-the-rape-case-at-cornell-university",
         "summary": "A former Cornell student’s allegations against seven men have reopened a criminal investigation nearly two years after the alleged assault at a fraternity house.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-03T20:25:30.652705+00:00",
+        "published": "2026-10-04T03:37:04.886137+00:00",
         "region": "south_asia",
         "streams": [
           "policy"
@@ -3550,12 +3538,48 @@
         "stream": "policy"
       },
       {
-        "title": "Trump Suggests Cornell Defendants Won’t Get a ‘Fair Shake’ From Letitia James",
-        "url": "https://www.nytimes.com/2026/10/02/us/politics/trump-cornell-letitia-james.html",
-        "summary": "President Trump weighed in on the case when asked about Ms. James, who has become a target of his second-term retribution campaign.",
+        "title": "How Cornell Punished Each of the 7 Men Accused of Sexual Assault",
+        "url": "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html",
+        "summary": "Summaries obtained by The New York Times offer a detailed look at the discipline meted out to the men accused of sexually assaulting a fellow student at Cornell University.",
         "source": "New York Times — Education",
-        "published": "2026-10-03T19:53:54+00:00",
+        "published": "2026-10-04T02:43:02+00:00",
         "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "When parenting advice becomes too much",
+        "url": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Many parents feel overwhelmed by the amount of parenting information available",
+        "source": "BBC — Education",
+        "published": "2026-10-04T01:24:05+00:00",
+        "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Cornell President Calls Rape Inquiry ‘Defining Moment’ for Campus",
+        "url": "https://www.nytimes.com/2026/10/03/nyregion/cornell-president-calls-rape-inquiry-defining-moment-for-campus.html",
+        "summary": "Michael I. Kotlikoff said in a video the university would be more transparent, hold Greek groups accountable and improve sexual assault prevention.",
+        "source": "New York Times — Education",
+        "published": "2026-10-04T00:35:45+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Tories pledge to remove £100,000 childcare 'cliff edge'",
+        "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
+        "source": "BBC — Education",
+        "published": "2026-10-03T21:03:22+00:00",
+        "region": "global",
         "streams": [
           "policy"
         ],
@@ -3567,18 +3591,6 @@
         "summary": "The columnist David French argues that “we have privileged getting wasted over taking care of people.”",
         "source": "New York Times — Education",
         "published": "2026-10-03T16:04:49+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "D.A. in Cornell Rape Inquiry Declined to Review Additional Evidence",
-        "url": "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html",
-        "summary": "Records show that campus police officers informed Tompkins County prosecutors that they had conducted additional interviews beyond taking a statement from the woman who said she was raped.",
-        "source": "New York Times — Education",
-        "published": "2026-10-03T13:11:48+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -3626,8 +3638,20 @@
         "url": "https://www.nytimes.com/2026/10/03/us/cornell-rape-campus-sexual-assault.html",
         "summary": "A lawsuit alleging rape at Cornell has led to an outpouring of women sharing stories about sexual violence on college campuses.",
         "source": "New York Times — Education",
-        "published": "2026-10-03T09:02:40+00:00",
+        "published": "2026-10-03T09:02:41+00:00",
         "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "The first-year reset: Why universities need to teach students how to learn again",
+        "url": "https://www.thehindu.com/education/the-first-year-reset-why-universities-need-to-teach-students-how-to-learn-again/article71513530.ece",
+        "summary": "Why high-achieving students can struggle in college and why universities need to teach them new ways of learning",
+        "source": "The Hindu — Education",
+        "published": "2026-10-03T06:55:00+00:00",
+        "region": "south_asia",
         "streams": [
           "policy"
         ],
@@ -3699,42 +3723,6 @@
         "summary": "The State Department has denied its funding for the next two years, jeopardizing the education of hundreds of female Afghan students.",
         "source": "New York Times — Education",
         "published": "2026-10-03T03:28:09+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Teen Charged With Attempted Murder and Domestic Terrorism After Chemical Spill",
-        "url": "https://www.nytimes.com/2026/10/02/us/portland-oregon-domestic-terrorism-charge.html",
-        "summary": "The 15-year-old mixed and ingested hazardous chemicals at a school cafeteria in Portland, Ore., last month, officials said. His lawyers denied the allegations.",
-        "source": "New York Times — Education",
-        "published": "2026-10-03T00:33:53+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Hochul Denounces D.A. and Cornell Police in Handling of Sex Assault Case",
-        "url": "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-jane-doe-hochul.html",
-        "summary": "Gov. Kathy Hochul appointed Letitia James, the attorney general, to investigate the original allegations and why a police report omitted crucial information.",
-        "source": "New York Times — Education",
-        "published": "2026-10-03T00:12:29+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Letitia James Is in Charge of the Cornell Rape Inquiry. What Comes Next?",
-        "url": "https://www.nytimes.com/2026/10/02/nyregion/cornell-university-jane-doe-investigation.html",
-        "summary": "As a special prosecutor, Ms. James has wide powers over the handling of the investigation, but legal experts say the case comes with potential obstacles.",
-        "source": "New York Times — Education",
-        "published": "2026-10-02T22:44:21+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -5683,6 +5671,30 @@
   "regions": {
     "global": [
       {
+        "title": "When parenting advice becomes too much",
+        "url": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Many parents feel overwhelmed by the amount of parenting information available",
+        "source": "BBC — Education",
+        "published": "2026-10-04T01:24:05+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Tories pledge to remove £100,000 childcare 'cliff edge'",
+        "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
+        "source": "BBC — Education",
+        "published": "2026-10-03T21:03:22+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "global"
+      },
+      {
         "title": "How to Help Working Adults Catch Up in Asynchronous Online Courses",
         "url": "https://elearningindustry.com/how-to-help-working-adults-catch-up-in-asynchronous-online-courses",
         "summary": "A missed week should trigger a clear route back into learning. This article explains how instructors can identify barriers, prioritize essential activities and provide manageable feedback, with a hypothetical recovery plan for a working adult. This post was first published on eLearning Industry .",
@@ -5751,18 +5763,6 @@
         "stream": "funding",
         "streams": [
           "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "French high school engulfed in flames as student protests continue",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss",
-        "summary": "A French high school in Metz went up in flames as student protests over school conditions spread across the country.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-03T12:59:27+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
         ],
         "region": "global"
       },
@@ -6143,20 +6143,8 @@
         "title": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
         "url": "https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/",
         "summary": "Many stars bursting out of a laptop",
-        "source": "Google for Education — Blog",
+        "source": "Google — The Keyword Blog",
         "published": "2026-10-01T16:00:00+00:00",
-        "stream": "edtech",
-        "streams": [
-          "edtech"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Access Isn't Enough: A Data-Confident Culture Needs Guardrails, Not Just Dashboards",
-        "url": "https://elearningindustry.com/access-isnt-enough-a-data-confident-culture-needs-guardrails-not-just-dashboards",
-        "summary": "Data access alone won't create a data-driven culture. Learn why organizations need data literacy and governance to turn access into confident, trustworthy decisions. This post was first published on eLearning Industry .",
-        "source": "eLearning Industry",
-        "published": "2026-10-01T15:00:09+00:00",
         "stream": "edtech",
         "streams": [
           "edtech"
@@ -6170,7 +6158,7 @@
         "url": "https://kathmandupost.com/columns/2026/10/02/nepali-teachers-have-found-their-way-to-ai-can-our-education-system-keep-up",
         "summary": "When teachers are prepared and properly supported, AI can become a valuable professional partner, one whose answers they examine rather than accept.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-03T20:25:30.652961+00:00",
+        "published": "2026-10-04T03:37:04.886542+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6182,7 +6170,7 @@
         "url": "https://kathmandupost.com/world/2026/10/02/nine-things-to-know-about-the-rape-case-at-cornell-university",
         "summary": "A former Cornell student’s allegations against seven men have reopened a criminal investigation nearly two years after the alleged assault at a fraternity house.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-03T20:25:30.652705+00:00",
+        "published": "2026-10-04T03:37:04.886137+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6195,6 +6183,18 @@
         "summary": "Prominent universities that conduct two-year Master’s programmes, five-year PhD courses under the centre include Banaras Hindu University, Jamia Millia Islamia, the University of Hyderabad, the Tata Institute of Social Sciences, and Panjab University amongst others",
         "source": "The Hindu — Education",
         "published": "2026-10-03T12:08:06+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "The first-year reset: Why universities need to teach students how to learn again",
+        "url": "https://www.thehindu.com/education/the-first-year-reset-why-universities-need-to-teach-students-how-to-learn-again/article71513530.ece",
+        "summary": "Why high-achieving students can struggle in college and why universities need to teach them new ways of learning",
+        "source": "The Hindu — Education",
+        "published": "2026-10-03T06:55:00+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6627,18 +6627,6 @@
         "summary": "What are the students demanding? How has IIT-Bombay responded? What questions have faculty members raised?",
         "source": "The Hindu — Education",
         "published": "2026-09-27T18:41:34+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "Brain mapping of students and teachers uncovers when learning happens best",
-        "url": "https://www.thehindu.com/education/brain-mapping-of-students-and-teachers-uncovers-when-learning-happens-best/article71480689.ece",
-        "summary": "Scientists found that learning outcomes in school-going children significantly improved through social experiences like storytelling and scaffolding, which were associated with higher neural synchrony.",
-        "source": "The Hindu — Education",
-        "published": "2026-09-27T18:32:10+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -7354,6 +7342,150 @@
     ],
     "east_asia": [
       {
+        "title": "How Malaysia offers Chinese investors Singapore’s comfort at prices lower than Thailand",
+        "url": "https://www.scmp.com/business/article/3369646/how-malaysia-offers-chinese-investors-singapores-comfort-prices-lower-thailand?utm_source=rss_feed",
+        "summary": "Malaysia is proving to be a middle ground for many Hong Kong and mainland Chinese investors looking to buy property in a country that provides the stability Singapore offers, but with competitive price points similar to those found in Thailand, according to analysts. Data from Juwai IQI, a property portal with 7 million listings across 111 countries, showed that in the first half of 2026, Malaysia was the fourth-highest destination for inquiries received from Chinese buyers. That compared with...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T03:00:09+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Cornell University boss breaks silence over rape case uproar",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369677/cornell-university-boss-breaks-silence-over-rape-case-uproar?utm_source=rss_feed",
+        "summary": "Cornell University president Michael Kotlikoff said he was “deeply disturbed” by a student’s 2024 rape allegation that has drawn national outrage. “My heart aches when I think of what she experienced,” Kotlikoff said in a video message released on Saturday, saying the university must “do everything we can to prevent what happened to Jane Doe” from happening again. Lawyers for a Jane Doe last month filed a civil lawsuit against the Ivy League university, its leaders, the Chi Phi fraternity, her...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T02:21:48+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Young Chinese hire ‘life stand-ins’ to cook and care for elderly parents amid booming trend",
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3369676/young-chinese-hire-life-stand-ins-cook-and-care-elderly-parents-amid-booming-trend?utm_source=rss_feed",
+        "summary": "From cooking and attending hospital visits to doing the actual quarrelling, paid “life stand-ins” are stepping in to manage these tasks, along with errands and awkward moments that many young Chinese would rather avoid. This trend, known as the “stand-in economy,” is gaining traction among time-strapped consumers who are willing to pay for convenience when daily responsibilities exceed their time, patience, or expertise. First widely reported by mainland media in 2024, the movement has since...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T02:20:53+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Quality over quantity: China’s AI microdrama producers battle viewer fatigue",
+        "url": "https://www.scmp.com/tech/policy/article/3368700/quality-over-quantity-chinas-ai-microdrama-producers-battle-viewer-fatigue?utm_source=rss_feed",
+        "summary": "Two decades after stepping away from the spotlight, iconic actress Joey Wong made an unexpected return to the screen – not through a traditional production, but via artificial intelligence-powered reconstruction. In a two-minute video by NetEase this summer, Wong, one of the most well-known actresses of the 1980s and 90s, had some of her most celebrated roles recreated, including the beautiful ghost in A Chinese Ghost Story and an alluring snake demon in Green Snake. The revival is just the tip...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T02:00:09+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Name and shame: Japan’s tame answer to jobseeker sex harassment",
+        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3369593/name-and-shame-japans-tame-answer-jobseeker-sex-harassment?utm_source=rss_feed",
+        "summary": "Final-year students invited to recruiters’ apartments for help with their applications. Coffee dates with alumni who promise to explain how the company works. Inappropriate interview questions about boyfriends, marriage plans and sex lives. For young women in Japan, looking for a job has long entailed submitting themselves to the skewed power dynamics of the recruitment process. And before Thursday, no official legal safeguards existed to protect these jobseekers from such...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T01:30:14+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "To become a dog-friendly city, Hong Kong needs dog literacy",
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3369242/become-dog-friendly-city-hong-kong-needs-dog-literacy?utm_source=rss_feed",
+        "summary": "Since July, Hong Kong has permitted dogs in approved dining premises under a tightly regulated scheme. More than 2,200 restaurants applied, with more than 980 taking part within the first month. On the surface, these are straightforward changes to the rules around where dogs are allowed. But they reflect something more significant: a changing relationship between Hong Kong and the dogs who also call it home. Small companion breeds are familiar in urban life, while larger dogs, local mixed breeds...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T01:30:10+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Trump shares Senator Tom Cotton’s phone number in daylight saving time clash",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369675/trump-shares-senator-tom-cottons-phone-number-daylight-saving-time-clash?utm_source=rss_feed",
+        "summary": "US President Donald Trump shared online the supposed phone number of a Republican US senator on Saturday in an escalating dispute over making daylight saving time permanent. In a social media post, the president urged people to call a phone number he said belonged to Senator Tom Cotton, an Arkansas Republican who opposes the Trump-backed Sunshine Protection Act. The act would end the twice-yearly practice ‌of changing clocks by one hour. Trump says most Americans want more afternoon sunlight,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T01:21:41+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Hong Kong’s cancer research drawing global attention, says leading body’s chief",
+        "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3369670/hong-kongs-cancer-research-drawing-global-attention-says-leading-bodys-chief?utm_source=rss_feed",
+        "summary": "Hong Kong is playing a central role as part of a broader regional hub for research breakthroughs, the head of a leading global cancer organisation has said, adding that the city’s success in reducing its smoking rate has set an example for others to follow. Cary Adams, CEO of the Union for International Cancer Control, praised the city’s tobacco control efforts as the organisation held the World Cancer Congress in Hong Kong last month for the first time. “We’ve all become aware globally that the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T01:00:15+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Sinking city, rising rage: Bangkok’s floods fuel fury over government inaction",
+        "url": "https://www.scmp.com/week-asia/health-environment/article/3369592/sinking-city-rising-rage-bangkoks-floods-fuel-fury-over-government-inaction?utm_source=rss_feed",
+        "summary": "As floodwaters surged from Bangkok’s drains, Fon’s car sank faster than her hopes of escaping the floods unscathed. She had bought it less than a month earlier. “I woke up at 5am but it was too late,” the 24-year-old said, recalling her decision last weekend to wait until dawn to move her car to a nearby shopping centre. “My car was already submerged. I hadn’t even started making the payments and it’s gone.” Relentless rain paralysed Thailand’s capital this September, dumping a month’s worth of...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T00:00:12+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Latvia’s Andris Kulbergs scores big win in election shadowed by Russia",
+        "url": "https://www.scmp.com/news/world/europe/article/3369674/latvian-leader-poised-big-win-election-shadowed-putin?utm_source=rss_feed",
+        "summary": "Latvian Prime Minister Andris Kulbergs’ centrist, pro-Ukraine United List party won Saturday’s parliamentary election by an unexpectedly wide margin, partial results showed, with many voters on edge amid warnings of potential Russian aggression. With 88 per cent of ballots counted, United List was on 36.6 per cent, followed by the populist, ‌Maga-style Latvia First on 13.4 per cent. Latvia First had courted the country’s substantial ethnic Russian minority in the run-up to the vote. Baltic...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-03T23:11:44+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "China and Africa boost law enforcement ties in crackdown on cross-border cybercrime",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3369660/china-and-africa-boost-law-enforcement-ties-crackdown-cross-border-cybercrime?utm_source=rss_feed",
+        "summary": "From online-gambling rings in eSwatini to SIM swapping in Kenya and cybercrime networks in Zambia, a wave of cross-border fraud is drawing African governments and China into closer security cooperation. China hosted East African security ministers and police chiefs in Lianyungang, Jiangsu province, on September 10 for talks on terrorism, kidnapping, online fraud and other cross-border threats. China’s public security minister, Wang Xiaohong, said Beijing would strengthen law-enforcement...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-03T22:00:12+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Baby bonuses fail to address the fear of falling behind",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3369277/baby-bonuses-fail-address-fear-falling-behind?utm_source=rss_feed",
+        "summary": "When one of my seniors from medical school was pregnant during her surgical residency, she planned the exact date of her C-section so she could complete her training on time. When I asked why she didn’t consider taking maternity leave to recuperate afterwards, she said she couldn’t bring herself to lag behind her peers. “I didn’t want motherhood to slow me down,” she said. In medicine, it is common for women to delay childbearing until after their early career years, often into their...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-03T21:30:09+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
         "title": "Tennessee prisons chief resigning after botched execution of Christa Pike",
         "url": "https://www.scmp.com/news/world/united-states-canada/article/3369673/tennessee-prisons-chief-resigning-after-botched-execution-christa-pike?utm_source=rss_feed",
         "summary": "The head of Tennessee’s prison system is resigning, Governor Bill Lee announced on Saturday, the first major staff shake-up since Christa Pike’s stunning failed execution left her unconscious and on a ventilator at a hospital. Frank Strada, commissioner of the Department of Correction, will step down this month, Lee said. Some of the governor’s fellow Republicans and other elected officials had been urging a change in leadership. It was the second time since May that Tennessee has not been able...",
@@ -7630,7 +7762,7 @@
         "region": "east_asia"
       },
       {
-        "title": "Flydubai plane attack: co-pilot had been from flying over extremist views",
+        "title": "Flydubai plane attack: co-pilot had been banned from flying over extremist views",
         "url": "https://www.scmp.com/news/world/middle-east/article/3369644/flydubai-plane-attack-co-pilot-previously-barred-flying-oman-over-extremist-views?utm_source=rss_feed",
         "summary": "The Flydubai co-pilot who officials said nearly crashed a Tel Aviv-bound flight with 182 people aboard was barred from flying by his native Oman over concerns he had adopted extremist views, a person familiar with the matter said on Saturday. The co-pilot has been identified as Hamam al-Hammami, according to three people with knowledge of the situation, including a Gulf and Western diplomat. All spoke on condition of anonymity because they were not authorised to speak to the media. The United...",
         "source": "South China Morning Post — Education",
@@ -7683,150 +7815,6 @@
         "summary": "A video of a nine-month-old baby climbing steps at a mountain tourist site has gone viral, igniting heated debates about his family’s parenting style. Filmed at a mountain resort in central China’s Hubei province, the clip has garnered 200,000 likes and 17,000 comments on a popular short video platform. Footage shows the baby’s mother closely accompanying him, while he wears kneecaps for protection as he enjoys the outdoor activity. Some viewers expressed shock at the video, questioning whether...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-03T02:00:17+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Malaysia is building a new research corridor across Asia to meet China’s rise: scientists",
-        "url": "https://www.scmp.com/news/china/science/article/3369619/malaysia-building-new-research-corridor-across-asia-meet-chinas-rise-scientists?utm_source=rss_feed",
-        "summary": "When chemical engineer Ahmad Zuhairi Abdullah joined Universiti Sains Malaysia (USM) 22 years ago, Western institutions dominated the field, from global research infrastructure and high-impact publications to the greatest breakthroughs. Two decades later, the centre of gravity has moved eastward, says Zuhairi, now a professor with the USM school of chemical engineering in Penang. “[Not much was known] about China at that time when I joined the university. I knew that they had quite a number of...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-03T02:00:13+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Why a film about a dictator has South Korea at war with itself",
-        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3369548/why-film-about-dictator-has-south-korea-war-itself?utm_source=rss_feed",
-        "summary": "Like many films released during Chuseok, South Korea’s national mid-autumn harvest festival, The Assassin(s) shot right to the top, selling more than a million tickets in its first four days. But the box-office success of the film about the 1974 assassination attempt on former president and military leader Park Chung-hee was quickly overshadowed by calls to halt screenings, as well as a police complaint against the film’s director and producers. Park loyalists and conservative politicians are...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-03T01:30:13+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Hong Kong vs Singapore in tackling bad behaviour",
-        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3369302/hong-kong-vs-singapore-tackling-bad-behaviour?utm_source=rss_feed",
-        "summary": "Singapore is doing something about uncivilised behaviour on public buses. The city state has started enforcing new regulations that carry an immediate fine of up to S$500 (US$390) if you put your feet up on seats, play loud audio on your phone or make a nuisance of yourself in other ways such as eating, drinking and littering. This aligns with existing rules governing passenger conduct on Singapore’s MRT railway system. Did you know we have long had similar regulations for Hong Kong’s MTR...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-03T01:30:07+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Hongkongers lose HK$220 million to customer service scams in August",
-        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369628/hongkongers-lose-hk220-million-customer-service-scams-august?utm_source=rss_feed",
-        "summary": "Scams involving fraudsters posing as customer service officers caused losses of over HK$220 million (US$28.2 million) in August in Hong Kong, more than triple the monthly average in the first seven months of the year, police have said. The police force also warned that scammers had shifted their modus operandi from using phishing links to taking real-time control of victims through direct calls and screen sharing, or tricking them into installing a malicious app that turned mobile phones into a...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-03T01:00:20+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "China has dominated tungsten for decades. Can US cash in Central Asia loosen its grip?",
-        "url": "https://www.scmp.com/economy/global-economy/article/3369599/china-has-dominated-tungsten-decades-can-us-cash-central-asia-loosen-its-grip?utm_source=rss_feed",
-        "summary": "The race to loosen China’s grip on tungsten is moving to Kazakhstan, where United States-backed mining projects are attempting to compete in an industry where Chinese investment already has an operating foothold. Global tungsten prices have surged more than 200 per cent since May 2025, according to commodity and energy information provider Argus Media, adding urgency to efforts to develop alternative supplies. The soaring costs followed Beijing’s export controls on selected tungsten products...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-03T01:00:14+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Going ‘car-lite’: why more Singaporeans are quitting driving",
-        "url": "https://www.scmp.com/week-asia/economics/article/3369591/going-car-lite-why-more-singaporeans-are-quitting-driving?utm_source=rss_feed",
-        "summary": "When the time came to renew his certificate of entitlement (COE), Andrew Tan hit the brakes on coughing up an eye-watering S$112,000 (US$87,400) to keep his car on Singapore’s roads for another 10 years. Instead, the 49-year-old business consultant decided in May to go without a car for the first time in two decades. High COE prices, rising running costs and the hassle of parking and congestion are prompting more Singaporeans to reconsider car ownership, as the land-scarce city state expands...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-03T00:00:17+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Trump expected to name Jay Clayton as AI tsar",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369639/trump-expected-name-jay-clayton-ai-tsar?utm_source=rss_feed",
-        "summary": "US ⁠President Donald Trump is expected to name Director of National Intelligence Jay Clayton to be his top adviser on AI, a position the president has called “AI tsar” in ‌the past, according to a source familiar with the decision. Clayton already oversees 18 US intelligence agencies as the nation’s top spy and is expected to keep that role. “Any personnel announcement will be announced directly by the president,” a White ⁠House official said in a statement when asked about Clayton ‌being...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T22:41:49+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "US blast simulation targets China’s alleged secret nuclear testing",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3369638/us-blast-simulation-targets-chinas-alleged-secret-nuclear-testing?utm_source=rss_feed",
-        "summary": "The US has conducted a non-nuclear underground experiment to enhance its ability to detect low-yield nuclear explosions that it explicitly linked with a test that Washington suspects China carried out in 2020 – an accusation Beijing denies. The US Department of Energy announced on Wednesday that the National Nuclear Security Administration (NNSA) conducted a “subsurface, non-nuclear chemical high-explosive” experiment at the Nevada National Security Site, which it said aimed to “increase the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T22:38:41+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "‘No retreat’: key Trump ally urges continued US-China engagement on rare earths",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3369505/no-retreat-key-trump-ally-urges-continued-us-china-engagement-rare-earths?utm_source=rss_feed",
-        "summary": "US Republican Senator Steve Daines, a close aide to President Donald Trump and a key interlocutor between Washington and Beijing, has called on the two capitals to stay engaged and “not retreat” over differences on issues including rare earth supply chains. Daines told the South China Morning Post that both sides still had issues that predated Chinese President Xi Jinping’s state visit to Washington last week and that they would continue working on them after the summit. “So that’s again why...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T22:00:09+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "US man arrested over alleged $300 million scheme to smuggle Nvidia AI servers to China",
-        "url": "https://www.scmp.com/news/us/article/3369637/us-man-arrested-over-alleged-300-million-scheme-smuggle-nvidia-ai-servers-china?utm_source=rss_feed",
-        "summary": "Amid intensifying competition in the AI technology race, US authorities have arrested a California technology company owner accused of using Malaysia and Singapore as transit points to circumvent US export controls and send more than US$300 million worth of restricted computer servers to China. Greg Lui, 38, also known as Yiu Kong Lui, of San Gabriel, was arrested on Thursday and charged with conspiracy to violate US export controls, outbound smuggling and conspiracy to commit money laundering,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T21:57:01+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Brazil’s Lula hails ‘bold’ Chinese investors as rival pitches rare earths to Trump",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3369636/brazils-lula-hails-bold-chinese-investors-rival-pitches-rare-earths-trump?utm_source=rss_feed",
-        "summary": "Brazilian President Luiz Inacio Lula da Silva named China as a possible partner in his critical minerals plans, three days before Sunday’s closely fought election. Lula told Flow, one of the country’s most-watched podcasts, on Thursday evening that Brazil should stop shipping out raw ore. “We want to transform them here in Brazil,” he said of the minerals. Asked whether China fit into his plans, Lula said it could be a partner “bringing technology to us”, as could the United States. “[Donald]...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T21:04:21+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Panama auditor targets ex-port regulators, CK Hutchison’s subsidiary in canal probe",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3369635/panama-auditor-targets-ex-port-regulators-and-hong-kong-firms-executives-canal-probe?utm_source=rss_feed",
-        "summary": "Panama’s comptroller general said on Friday that his office would send prosecutors more audit material on former executives of CK Hutchison’s local subsidiary next week, as part of a criminal investigation into the Hong Kong conglomerate’s annulled Panama Canal ports concession. Speaking at the Atlantic Council in Washington, Anel Flores said prosecutors had requested documents concerning Panama Ports Company (PPC), the operator of the Balboa and Cristobal terminals at either end of the canal...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-02T19:10:10+00:00",
         "stream": "higher",
         "streams": [
           "higher"
@@ -8259,11 +8247,23 @@
     ],
     "north_america": [
       {
-        "title": "Trump Suggests Cornell Defendants Won’t Get a ‘Fair Shake’ From Letitia James",
-        "url": "https://www.nytimes.com/2026/10/02/us/politics/trump-cornell-letitia-james.html",
-        "summary": "President Trump weighed in on the case when asked about Ms. James, who has become a target of his second-term retribution campaign.",
+        "title": "How Cornell Punished Each of the 7 Men Accused of Sexual Assault",
+        "url": "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html",
+        "summary": "Summaries obtained by The New York Times offer a detailed look at the discipline meted out to the men accused of sexually assaulting a fellow student at Cornell University.",
         "source": "New York Times — Education",
-        "published": "2026-10-03T19:53:54+00:00",
+        "published": "2026-10-04T02:43:02+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Cornell President Calls Rape Inquiry ‘Defining Moment’ for Campus",
+        "url": "https://www.nytimes.com/2026/10/03/nyregion/cornell-president-calls-rape-inquiry-defining-moment-for-campus.html",
+        "summary": "Michael I. Kotlikoff said in a video the university would be more transparent, hold Greek groups accountable and improve sexual assault prevention.",
+        "source": "New York Times — Education",
+        "published": "2026-10-04T00:35:45+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8299,22 +8299,10 @@
         "url": "https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html",
         "summary": "Students angry over the state of the country’s education system have blockaded hundreds of schools. Thousands of protesters have been arrested and dozens of people injured.",
         "source": "New York Times — Education",
-        "published": "2026-10-03T15:00:00+00:00",
+        "published": "2026-10-03T15:00:01+00:00",
         "stream": "school",
         "streams": [
           "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "D.A. in Cornell Rape Inquiry Declined to Review Additional Evidence",
-        "url": "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html",
-        "summary": "Records show that campus police officers informed Tompkins County prosecutors that they had conducted additional interviews beyond taking a statement from the woman who said she was raped.",
-        "source": "New York Times — Education",
-        "published": "2026-10-03T13:11:48+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "north_america"
       },
@@ -8359,7 +8347,7 @@
         "url": "https://www.nytimes.com/2026/10/03/us/cornell-rape-campus-sexual-assault.html",
         "summary": "A lawsuit alleging rape at Cornell has led to an outpouring of women sharing stories about sexual violence on college campuses.",
         "source": "New York Times — Education",
-        "published": "2026-10-03T09:02:40+00:00",
+        "published": "2026-10-03T09:02:41+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8372,42 +8360,6 @@
         "summary": "The State Department has denied its funding for the next two years, jeopardizing the education of hundreds of female Afghan students.",
         "source": "New York Times — Education",
         "published": "2026-10-03T03:28:09+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Teen Charged With Attempted Murder and Domestic Terrorism After Chemical Spill",
-        "url": "https://www.nytimes.com/2026/10/02/us/portland-oregon-domestic-terrorism-charge.html",
-        "summary": "The 15-year-old mixed and ingested hazardous chemicals at a school cafeteria in Portland, Ore., last month, officials said. His lawyers denied the allegations.",
-        "source": "New York Times — Education",
-        "published": "2026-10-03T00:33:53+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Hochul Denounces D.A. and Cornell Police in Handling of Sex Assault Case",
-        "url": "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-jane-doe-hochul.html",
-        "summary": "Gov. Kathy Hochul appointed Letitia James, the attorney general, to investigate the original allegations and why a police report omitted crucial information.",
-        "source": "New York Times — Education",
-        "published": "2026-10-03T00:12:29+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Letitia James Is in Charge of the Cornell Rape Inquiry. What Comes Next?",
-        "url": "https://www.nytimes.com/2026/10/02/nyregion/cornell-university-jane-doe-investigation.html",
-        "summary": "As a special prosecutor, Ms. James has wide powers over the handling of the investigation, but legal experts say the case comes with potential obstacles.",
-        "source": "New York Times — Education",
-        "published": "2026-10-02T22:44:21+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8732,6 +8684,42 @@
         "summary": "Citing a recent 74 Million investigation, two Minnesota state senators announced they will seek laws regulating the influence of private equity investment firms on autism therapy providers. “This report is outrageous,” said Minneapolis state Sen. Zaynab Mohamed, of the Democratic-Farmer-Labor Party. “The idea that Wall Street investors are exploiting these programs for profit is infuriating.” […]",
         "source": "The 74 Million",
         "published": "2026-10-01T16:46:09+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Cornell Students Question Greek Life Culture After Sexual Assault Claim",
+        "url": "https://www.nytimes.com/2026/09/30/nyregion/cornell-university-students-jane-doe-case.html",
+        "summary": "With their university under fire in the wake of a sexual assault lawsuit, students are having difficult conversations about Greek life, campus rituals and the possibility for lasting changes.",
+        "source": "New York Times — Education",
+        "published": "2026-10-01T16:43:31+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "How a Cornell Student Went From Shame to Action",
+        "url": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html",
+        "summary": "The woman known as “Jane Doe” was initially embarrassed about what happened at a fraternity party in 2024, but soon concluded: “I was assaulted.”",
+        "source": "New York Times — Education",
+        "published": "2026-10-01T15:20:51+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Stamping the Moment in Time: The Evolving Challenges and Opportunities in Education",
+        "url": "https://www.the74million.org/article/stamping-the-moment-in-time-the-evolving-challenges-and-opportunities-in-education/",
+        "summary": "Class Disrupted is an education podcast featuring author Michael Horn and Futre’s Diane Tavenner in conversation with educators, school leaders, students and other members of school communities as they investigate the challenges facing the education system in the aftermath of the pandemic — and where we should go from here. Find every episode by bookmarking […]",
+        "source": "The 74 Million",
+        "published": "2026-10-01T14:30:00+00:00",
         "stream": "school",
         "streams": [
           "school"
