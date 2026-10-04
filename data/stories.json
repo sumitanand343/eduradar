@@ -2,6 +2,18 @@
   "streams": {
     "foundational": [
       {
+        "title": "The Guardian view on nurseries: some things are going right for under-fives | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/04/the-guardian-view-on-nurseries-some-things-are-going-right-for-under-fives",
+        "summary": "England’s strong results in an early learning study are a Sure Start legacy that ministers must build on Recognition of the importance of babyhood and early childhood continues to grow. It is widely understood by many ordinary people, as well as experts, that what happens to us when we are very small, and our brains are at their most malleable , has lasting effects. As the Organisation for Economic Co-operation and Development (OECD) put it in a study of early years education , “the first five years of a child’s life represent a window of opportunity, but also of vulnerability”. New Labour’s g",
+        "source": "The Guardian — Education",
+        "published": "2026-10-04T16:25:32+00:00",
+        "region": "global",
+        "streams": [
+          "foundational"
+        ],
+        "stream": "foundational"
+      },
+      {
         "title": "Why youth participation in climate decision-making matters",
         "url": "https://ciff.org/why-youth-participation-in-climate-decision-making-matters/",
         "summary": "The post Why youth participation in climate decision-making matters appeared first on CIFF .",
@@ -308,6 +320,30 @@
     ],
     "school": [
       {
+        "title": "Hundreds of schools to close on Monday as education protests rock France",
+        "url": "https://www.scmp.com/news/world/europe/article/3369730/hundreds-schools-close-monday-education-protests-rock-france?utm_source=rss_feed",
+        "summary": "Up to 500 schools across France will be totally or partly closed on Monday because of a wave of pupil protests that has shaken the country, the education minister said. Lessons will be “totally or partly suspended” in some “400-500” high schools as the security conditions “have not been fulfilled”, said Education Minister Edouard Geffray on Sunday, adding that 24 schools had been “burned or ransacked” since the start of the movement. He described the closures as chiefly a security precaution...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T18:42:26+00:00",
+        "region": "east_asia",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
+        "title": "School Librarians Hesitant to Discuss Books Amid Texas Battles to Restrict Titles",
+        "url": "https://www.the74million.org/article/school-librarians-hesitant-to-discuss-books-order-more-amid-texas-battles-to-restrict-titles-they-say/",
+        "summary": "Seven years ago, Frank Strong stocked 20 copies of the book “I Am Not Your Perfect Mexican Daughter” in his classroom library. Then, one by one, the coming-of-age novel about a Mexican immigrant girl started disappearing from his shelves. Just two remain, and it makes him chuckle. It’s a sign, he said, that Erika Sánchez’s […]",
+        "source": "The 74 Million",
+        "published": "2026-10-04T16:30:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
         "title": "More than 1,200 Colorado students have earned a climate ‘seal’: ‘We’re the ones growing up in this world’",
         "url": "https://www.theguardian.com/us-news/2026/oct/04/colorado-climate-high-school-students",
         "summary": "A statewide initiative pairs climate-focused coursework with community service – and is spreading to other states As a student at a high school not far from Denver’s main airport, Anthony Muñoz wondered whether the jet fuel from airplanes flying above his campus was harming living things. An avid gardener, Muñoz partnered with a local university to create a garden on the campus of his charter school, Vista Academy, filling it with native plants that could detect ground-level ozone pollution. He also worked with climate scientists from the National Center for Atmospheric Research, a federal off",
@@ -361,18 +397,6 @@
         "summary": "This story was originally published by EdSource. Sign up for their daily newsletter. In the state’s largest school district, making meals available to all students — breakfast, lunch and sometimes, dinner — is a massive operation. From Pepperoni Pizza to Birria Bowls, to vegetarian and vegan offerings, students have a range of options to choose from. Even as […]",
         "source": "The 74 Million",
         "published": "2026-10-03T16:30:00+00:00",
-        "region": "north_america",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "What to Know About France’s High School Protests",
-        "url": "https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html",
-        "summary": "Students angry over the state of the country’s education system have blockaded hundreds of schools. Thousands of protesters have been arrested and dozens of people injured.",
-        "source": "New York Times — Education",
-        "published": "2026-10-03T15:00:01+00:00",
         "region": "north_america",
         "streams": [
           "school"
@@ -1087,6 +1111,90 @@
     ],
     "higher": [
       {
+        "title": "Serb separatist Dodik declares victory in Bosnia vote as ethnic tensions, EU hopes collide",
+        "url": "https://www.scmp.com/news/world/europe/article/3369733/serb-separatist-dodik-declares-victory-bosnia-vote-ethnic-tensions-eu-hopes-collide?utm_source=rss_feed",
+        "summary": "Bosnian Serb nationalist politician Milorad Dodik has declared victory for his party in an election in Bosnia and Herzegovina on Sunday that was shaped by economic pressures, the prospect of the Balkan nation joining the European Union and ethnic tensions that have divided the country since its brutal 1992–95 war. Dodik is a staunchly pro-Russia politician who, despite not appearing on the ballot, has dominated the campaign and inflamed divisions with separatist rhetoric that have sparked fears...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T20:36:54+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Netanyahu orders security review of international flights to Israel after Flydubai attack",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3369732/netanyahu-orders-security-review-international-flights-israel-after-flydubai-attack?utm_source=rss_feed",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu ordered a security review of international flights to Israel on Sunday, after an attempt by an Omani co-pilot to crash an Israel-bound plane from Dubai. Netanyahu “has instructed the head of the National Security Council, Shmuel Ben Ezra, to appoint an examiner to conduct a thorough review of all security aspects of foreign civil aviation to Israel”, a statement from the premier’s office said. Calls have mounted in Israel for an investigation into the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T20:09:25+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Iran tells US there is no military solution to Middle East war",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3369731/iran-tells-us-there-no-military-solution-middle-east-war?utm_source=rss_feed",
+        "summary": "Iran’s top diplomat insisted on Sunday that there would be no military solution to the United States’ war against the Islamic republic, with talks on ending the conflict apparently at an impasse. A campaign of heavy bombardment failed to bring a decisive close to the war launched by the US and Israel in late February, and Washington in recent weeks has dialled back military operations in favour of economic pressure. The main point of contention remains Iran’s attempt to blockade the Strait of...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T19:44:29+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Dozens detained at a rally in Moscow held by Kremlin-friendly Communist Party, party says",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3369729/dozens-detained-rally-moscow-held-kremlin-friendly-communist-party-party-says?utm_source=rss_feed",
+        "summary": "Police in Moscow detained about 60 people at a rally on Sunday held by Russia’s Kremlin-friendly Communist Party, the party said. The party said in a statement that the detentions happened as the rally was ending and that its Moscow branch was working to get those who were detained – mostly young people – released. The rally marked the anniversary of the Kremlin’s 1993 crushing of a parliamentary uprising. The Telegram news channel Ostorozhno Novosti said protesters chanted slogans including...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T18:17:20+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Brazilians head to polls in high-stakes, polarised election",
+        "url": "https://www.scmp.com/news/world/americas/article/3369728/brazilians-head-polls-high-stakes-polarised-election?utm_source=rss_feed",
+        "summary": "Brazilians queued to vote on Sunday in the first round of a tight election, following a campaign dominated by corruption scandals, economic anxiety and accusations of US meddling. The field of 13 candidates has been led by two clear front runners – leftist President Luiz Inacio Lula da Silva, 80, who is seeking a fourth term, and Senator Flavio Bolsonaro, the 45-year-old son of former president Jair Bolsonaro, who hopes to return his father’s right-wing movement to power. A victory for the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T17:48:51+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelensky",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3369727/ukraine-believes-russia-shared-jet-drone-technology-north-korea-says-zelensky?utm_source=rss_feed",
+        "summary": "Ukrainian President Volodymyr Zelensky said on Sunday ⁠he believed Russia ⁠may have shared jet-drone technology ⁠with its long-standing ally North Korea. In recent weeks, Russia has sharply increased its use of jet-drones against Ukraine, which so far has no effective means of countering them other than using ‌combat aircraft. Earlier in the war, North Korea supplied Russia with millions of artillery shells and it has since provided ballistic missiles that Moscow regularly uses to attack...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T16:45:32+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "UK Green Party adopts ‘Zionism is racism’ policy, drawing backlash from Israel",
+        "url": "https://www.scmp.com/news/world/europe/article/3369725/uk-green-party-adopts-zionism-racism-policy-drawing-backlash-israel?utm_source=rss_feed",
+        "summary": "The UK’s left-wing Green Party on Sunday voted to define Zionism as racism at the party’s annual meeting, drawing sharp backlash from British Jewish groups and the Israeli government. Members of the Green Party, which has five MPs in Britain’s 650-seat parliament and which enjoyed a boost in recent local and special elections, backed the motion at the party’s conference, with 1,022 votes in favour and 813 against. According to the motion, Zionism would be “treated as any other form of racism”...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T16:26:47+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
         "title": "Hong Kong builders take three WorldSkills honours in best CIC haul",
         "url": "https://www.scmp.com/presented/news/hong-kong/topics/constructing-careers-through-worldskills/article/3369508/hong-kong-builders-take-three-worldskills-honours-best-cic-haul?utm_source=rss_feed",
         "summary": "[The content of this article has been produced by our advertising partner.] Nine young construction competitors from the Construction Industry Council returned from WorldSkills Shanghai with three Medallions for Excellence, the strongest finish the CIC has recorded at the competition. The honours went to Law Chak-sum in painting and decorating, Tse Yu-lok in welding, and the concrete construction work team of Huang To-kong and Wan Tsz-ho. It was Hong Kong’s first WorldSkills honour in concrete...",
@@ -1173,7 +1281,7 @@
       {
         "title": "Hong Kong issues amber rainstorm warning",
         "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3369718/hong-kong-issues-amber-rainstorm-warning?utm_source=rss_feed",
-        "summary": "The Hong Kong Observatory has issued an amber rainstorm warning, with the signal set to remain in place until 11.30pm on Sunday. The weather forecaster issued the warning at 8.20pm. “A few squally thunderstorms are expected to occur over Hong Kong,” a spokesman for the Observatory said. Showers would be heavy at times in the evening. The forecaster also warned that intense gusts reaching 70km/h (43mph) could affect the city. It said there would be flooding in some low-lying and poorly drained...",
+        "summary": "The Hong Kong Observatory issued an amber rainstorm warning on Sunday evening, with the signal remaining in place for more than two hours. The weather forecaster issued the alert – the lowest level in a three-tier warning system – at 8.20pm and cancelled it at 10.30pm. “A few squally thunderstorms are expected to occur over Hong Kong,” a spokesman for the Observatory said in the evening. Showers would be heavy at times. The forecaster also warned that intense gusts reaching 70km/h (43mph) could...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-04T13:05:38+00:00",
         "region": "east_asia",
@@ -1579,102 +1687,6 @@
         "stream": "higher"
       },
       {
-        "title": "Sinking city, rising rage: Bangkok’s floods fuel fury over government inaction",
-        "url": "https://www.scmp.com/week-asia/health-environment/article/3369592/sinking-city-rising-rage-bangkoks-floods-fuel-fury-over-government-inaction?utm_source=rss_feed",
-        "summary": "As floodwaters surged from Bangkok’s drains, Fon’s car sank faster than her hopes of escaping the floods unscathed. She had bought it less than a month earlier. “I woke up at 5am but it was too late,” the 24-year-old said, recalling her decision last weekend to wait until dawn to move her car to a nearby shopping centre. “My car was already submerged. I hadn’t even started making the payments and it’s gone.” Relentless rain paralysed Thailand’s capital this September, dumping a month’s worth of...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-04T00:00:12+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Latvia’s Andris Kulbergs wins big in election shadowed by Russia",
-        "url": "https://www.scmp.com/news/world/europe/article/3369674/latvian-leader-poised-big-win-election-shadowed-putin?utm_source=rss_feed",
-        "summary": "Latvian lawmakers on Sunday planned to begin negotiations to form a new government following a parliamentary election in which pro-Ukraine Prime Minister Andris Kulbergs ‘s four-party coalition emerged with 35 per cent of the vote. The United List party is expected to take 42 seats in parliament, and a multiparty coalition will be needed to govern in a splintered political landscape. Parties must take at least 5 per cent of the vote to win parliamentary seats. The election saw a voter turnout...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-03T23:11:44+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "China and Africa boost law enforcement ties in crackdown on cross-border cybercrime",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3369660/china-and-africa-boost-law-enforcement-ties-crackdown-cross-border-cybercrime?utm_source=rss_feed",
-        "summary": "From online-gambling rings in eSwatini to SIM swapping in Kenya and cybercrime networks in Zambia, a wave of cross-border fraud is drawing African governments and China into closer security cooperation. China hosted East African security ministers and police chiefs in Lianyungang, Jiangsu province, on September 10 for talks on terrorism, kidnapping, online fraud and other cross-border threats. China’s public security minister, Wang Xiaohong, said Beijing would strengthen law-enforcement...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-03T22:00:12+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Baby bonuses fail to address the fear of falling behind",
-        "url": "https://www.scmp.com/opinion/world-opinion/article/3369277/baby-bonuses-fail-address-fear-falling-behind?utm_source=rss_feed",
-        "summary": "When one of my seniors from medical school was pregnant during her surgical residency, she planned the exact date of her C-section so she could complete her training on time. When I asked why she didn’t consider taking maternity leave to recuperate afterwards, she said she couldn’t bring herself to lag behind her peers. “I didn’t want motherhood to slow me down,” she said. In medicine, it is common for women to delay childbearing until after their early career years, often into their...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-03T21:30:09+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Tennessee prisons chief resigning after botched execution of Christa Pike",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369673/tennessee-prisons-chief-resigning-after-botched-execution-christa-pike?utm_source=rss_feed",
-        "summary": "The head of Tennessee’s prison system is resigning, Governor Bill Lee announced on Saturday, the first major staff shake-up since Christa Pike’s stunning failed execution left her unconscious and on a ventilator at a hospital. Frank Strada, commissioner of the Department of Correction, will step down this month, Lee said. Some of the governor’s fellow Republicans and other elected officials had been urging a change in leadership. It was the second time since May that Tennessee has not been able...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-03T16:53:29+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Probe launched into luxury One Stanley project over alleged steel bar shortage",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3369669/probe-launched-luxury-one-stanley-project-over-alleged-steel-bar-shortage?utm_source=rss_feed",
-        "summary": "Authorities have launched a probe into the building quality of a luxury residential development in one of Hong Kong’s most expensive neighbourhoods in the Southern district after receiving a complaint from an owner that insufficient steel bars were used during construction. The Buildings Department said on Saturday it was “highly concerned about the incident” relating to One Stanley in Stanley, but stressed that its previous inspections did not find any imminent danger. The department said it...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-03T14:35:43+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Chinese art takes long march home from US museums",
-        "url": "https://www.scmp.com/news/china/article/3369654/chinese-art-takes-long-march-home-us-museums?utm_source=rss_feed",
-        "summary": "Christie’s auctioneer Rupert Banner leans forward with practised showmanship as bidding stalls on a rare Yongzheng bowl near New York’s iconic Rockefeller Centre. He pauses as if willing offers from thin air, scanning dozens of in-person buyers and phone banks connecting with China, London, Texas. It will be a bad look if the frenzy abates for this delicate peach-decorated bowl highlighted on Christie’s glossy Chinese sale catalogue and online advertising. But bidding soon resumes with a...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-03T14:00:12+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Houthis say they struck Aramco oil facility, as Saudis hit Sanaa",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3369667/flames-smoke-seen-aramco-facility-south-saudi-capital?utm_source=rss_feed",
-        "summary": "Yemen’s Houthis claimed an attack on an oil facility near the Saudi capital on Saturday, where flames and smoke were seen, and accused the Gulf kingdom of striking Sanaa dozens of times. The foes have traded strikes since the Houthis seized all of Yemen’s Red Sea coast and took control of the Bab al-Mandab strait in a lightning offensive last month. Houthi-affiliated channel Al-Masirah TV reported that “Saudi enemy aircraft” hit Sanaa with 26 strikes, after earlier reporting “Saudi aggression”...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-03T13:57:44+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
         "title": "Students turn to lawyers to fight AI misconduct accusations",
         "url": "https://www.ft.com/content/7e34e5c1-e841-4d0d-abc1-40f98ba4da01?syn-25a6b1a6=1",
         "summary": "Legal cases rise as universities struggle with approach to technology",
@@ -1990,7 +2002,7 @@
         "title": "Supporting AI readiness in higher education",
         "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/educause-2026/",
         "summary": "Graduation caps and icons in different colors",
-        "source": "Google — The Keyword Blog",
+        "source": "Google for Education — Blog",
         "published": "2026-09-30T16:43:00+00:00",
         "region": "global",
         "streams": [
@@ -2044,6 +2056,18 @@
         "streams": [
           "higher",
           "school"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "UCT’s Global Rise and Africa’s First World Academic Summit Celebrated",
+        "url": "https://www.ednews.africa/p/ucts-global-rise-and-africas-first",
+        "summary": "Minister Manamela hails UCT’s top‑150 world ranking and its leadership in hosting a landmark academic gathering on the continent",
+        "source": "EdNews Africa",
+        "published": "2026-09-30T10:46:05+00:00",
+        "region": "east_africa",
+        "streams": [
+          "higher"
         ],
         "stream": "higher"
       }
@@ -2692,7 +2716,7 @@
         "title": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
         "url": "https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/",
         "summary": "Many stars bursting out of a laptop",
-        "source": "Google — The Keyword Blog",
+        "source": "Google for Education — Blog",
         "published": "2026-10-01T16:00:00+00:00",
         "region": "global",
         "streams": [
@@ -3539,6 +3563,90 @@
     ],
     "policy": [
       {
+        "title": "What is fuelling school protests in France?",
+        "url": "https://www.dawn.com/news/2034771/what-is-fuelling-school-protests-in-france",
+        "summary": "Protests by teenagers outside their schools have shaken France in recent days, with students blockading entrances to their institutions and security forces on occasion responding with tear gas. The government has said that while the grievances may be legitimate, violence is not and has accused the hard-left of whipping up the movement. Critics have meanwhile accused some police of heavy-handed force against protesters, who are legally still children. More than 5,000 people have been arrested since Monday, according to the interior ministry, while about 735 educational establishments were affec",
+        "source": "Dawn — Pakistan",
+        "published": "2026-10-04T19:47:05+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "France to shutter up to 500 schools as more student protests called",
+        "url": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
+        "summary": "Education minister cites safety concerns for closures as organisers call for resumption of protests.",
+        "source": "Al Jazeera — News (education-gated)",
+        "published": "2026-10-04T19:41:04+00:00",
+        "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "How regulation stifles HEIs",
+        "url": "https://www.thehindu.com/opinion/op-ed/how-regulation-stifles-heis/article71544719.ece",
+        "summary": "If intensive regulatory mechanisms were the real engine of quality, our most tightly regulated universities and HEIs would have been outperforming the IISc, IITs, IIMs NITs and other similar institutions.",
+        "source": "The Hindu — Education",
+        "published": "2026-10-04T19:33:18+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "The sore lack of hostels in DU",
+        "url": "https://www.thehindu.com/opinion/op-ed/the-sore-lack-of-hostels-in-du/article71544714.ece",
+        "summary": "While 30 to 40 colleges were established under different political dispensations in Delhi, none of them have attempted to provide hostel accommodation on their campuses",
+        "source": "The Hindu — Education",
+        "published": "2026-10-04T19:24:54+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "After Week of Turmoil at Cornell, a Heavy Cloud Hangs Over Student Life",
+        "url": "https://www.nytimes.com/2026/10/04/nyregion/cornell-university-campus-students.html",
+        "summary": "As the weekend arrived, much of the nightlife in the upstate New York college town was subdued. But there were still some students looking to cut loose.",
+        "source": "New York Times — Education",
+        "published": "2026-10-04T18:54:43+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "A Campus Reckoning: ‘Cornell Is Now Known for This’",
+        "url": "https://www.nytimes.com/2026/10/04/nyregion/cornell-spotlight-rape-accusation.html",
+        "summary": "Accusations of sexual assault at a fraternity party have tarnished the self-image of a fiercely proud Ivy League institution. Can the university ever be the same?",
+        "source": "New York Times — Education",
+        "published": "2026-10-04T18:09:59+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Jerusalem Daily: Israeli forces arrest school children during raid",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
+        "summary": "Jerusalem Daily: Israeli forces arrest school children during raid",
+        "source": "Al Jazeera — News (education-gated)",
+        "published": "2026-10-04T16:04:53+00:00",
+        "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
         "title": "Thousands of child-on-child sexual offences reported at schools in England and Wales",
         "url": "https://www.theguardian.com/education/2026/oct/04/child-on-child-sexual-abuse-schools-england-and-wales",
         "summary": "Exclusive: Average of nearly five sexual crimes a day against under-13s were reported to police between 2021 and 2025 From unwanted touching to rape: the scale of child-on-child abuse in English and Welsh schools Lawyers and campaigners have condemned the “horrifying” scale of child-on-child sexual abuse in schools after a Guardian investigation revealed thousands of sexual offences against under-13s, including multiple rapes, are reported to police every year. Close to five sexual crimes against children aged 12 and younger were recorded on average by police every day in primary and secondary",
@@ -3599,6 +3707,18 @@
         "stream": "policy"
       },
       {
+        "title": "Subatomic ambitions take five Indian school students to CERN",
+        "url": "https://www.thehindu.com/sci-tech/science/subatomic-ambitions-take-five-indian-school-students-to-cern/article71528053.ece",
+        "summary": "The students said they spent several hours every day in the three to four weeks before the competition. While the first week was mostly about recruiting and forming a team, the next three weeks were a complete grind",
+        "source": "The Hindu — Education",
+        "published": "2026-10-04T10:30:26+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
         "title": "Opinion: Why Schools Need a Phonics-Style Reckoning for Math",
         "url": "https://www.the74million.org/article/why-schools-need-a-phonics-style-reckoning-for-math/",
         "summary": "A version of this essay appeared on Matthew Yglesias’ Slow Boring, a site dedicated to offering pragmatic takes on politics and public policy At this point, everyone who cares about education policy at all has probably listened to Emily Hanford’s “Sold a Story” podcast series, or pretends to have, and is aware that there is […]",
@@ -3615,7 +3735,7 @@
         "url": "https://www.thehindu.com/news/national/amu-protests-students-block-four-entry-gates-proctor-says-outsider-detained-from-hostel/article71543198.ece",
         "summary": "Tensions escalated at Aligarh Muslim University after protesters blocked all four entry gates amid an ongoing agitation demanding students’ union elections",
         "source": "The Hindu — Education",
-        "published": "2026-10-04T08:07:39+00:00",
+        "published": "2026-10-04T10:05:22+00:00",
         "region": "south_asia",
         "streams": [
           "policy"
@@ -3623,11 +3743,11 @@
         "stream": "policy"
       },
       {
-        "title": "A Campus Reckoning: ‘Cornell Is Now Known for This’",
-        "url": "https://www.nytimes.com/2026/10/04/nyregion/cornell-spotlight-rape-accusation.html",
-        "summary": "Accusations of sexual assault at a fraternity party have tarnished the self-image of a fiercely proud Ivy League institution. Can the university ever be the same?",
+        "title": "Cornell Case Carries Far-Reaching Implications for Hochul and James",
+        "url": "https://www.nytimes.com/2026/10/04/nyregion/hochul-james-cornell.html",
+        "summary": "The decision to intercede by Gov. Kathy Hochul and the New York attorney general, Letitia James, has raised questions of impartiality as both face re-election.",
         "source": "New York Times — Education",
-        "published": "2026-10-04T07:00:17+00:00",
+        "published": "2026-10-04T07:00:23+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -4199,18 +4319,6 @@
         "stream": "policy"
       },
       {
-        "title": "Subatomic ambitions take five Indian school students to CERN",
-        "url": "https://www.thehindu.com/sci-tech/science/subatomic-ambitions-take-five-indian-school-students-to-cern/article71528053.ece",
-        "summary": "The students said they spent several hours every day in the three to four weeks before the competition. While the first week was mostly about recruiting and forming a team, the next three weeks were a complete grind",
-        "source": "The Hindu — Education",
-        "published": "2026-10-01T10:48:54+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
         "title": "New UK sanctions target Kremlin war chest, propagandists and torturers",
         "url": "https://www.gov.uk/government/news/new-uk-sanctions-target-kremlin-war-chest-propagandists-and-torturers",
         "summary": "The UK has announced a package of 31 sanctions against Russia as UK steps up economic pressure ahead of the winter.",
@@ -4409,90 +4517,6 @@
         "source": "Bangkok Post — Education (Thailand)",
         "published": "2026-09-30T01:29:00+00:00",
         "region": "southeast_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "US aircraft carrier with 5,000 crew to call on Phuket",
-        "url": "https://www.bangkokpost.com/learning/easy/3328778/us-aircraft-carrier-with-5000-crew-to-call-on-phuket",
-        "summary": "Phuket is preparing to welcome 5,000 US navy personnel during a port call by the USS George HW Bush, the second aircraft carrier to visit Thailand after seeing action in the Middle East war.",
-        "source": "Bangkok Post — Education (Thailand)",
-        "published": "2026-09-30T01:22:00+00:00",
-        "region": "southeast_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Thai Airways cancels 37 more flights",
-        "url": "https://www.bangkokpost.com/learning/easy/3328774/thai-airways-cancels-37-more-flights",
-        "summary": "Thai Airways International has cancelled 37 more domestic and international flights scheduled for Tuesday, Wednesday and Thursday as it tries to dig itself out from under a massive baggage backlog at Suvarnabhumi airport.",
-        "source": "Bangkok Post — Education (Thailand)",
-        "published": "2026-09-30T01:11:00+00:00",
-        "region": "southeast_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Antisemitism on the rise at universities, charity warns",
-        "url": "https://www.bbc.co.uk/news/articles/c9gk54r61yldo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Community Security Trust says reported incidents are \"substantially higher\" than before the war in Gaza began.",
-        "source": "BBC — Education",
-        "published": "2026-09-30T00:36:22+00:00",
-        "region": "global",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "New NCERT Social Science text replaces European revolutions with resistance movements in medieval India",
-        "url": "https://www.thehindu.com/education/new-ncert-social-science-text-replaces-european-revolutions-with-resistance-movements-in-medieval-india/article71524853.ece",
-        "summary": "Content on French, Russian revolutions removed from latest edition of Class 9 textbook; shifts focus to foreign invasions triggered by Indian wealth, and armed resistance by Sikhs, Jats, Rajputs, Ahoms",
-        "source": "The Hindu — Education",
-        "published": "2026-09-29T15:24:02+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "16-point safety audits in Delhi schools, colleges begin; over 3,000 DU women students march for safer campuses",
-        "url": "https://www.thehindu.com/news/cities/Delhi/delhi-university-students-march-for-womens-safety-as-police-step-up-school-college-audits/article71520705.ece",
-        "summary": "Police exercise to cover over 5,000 schools and 30 universities; students seek functioning ICCs, better lighting and public transport",
-        "source": "The Hindu — Education",
-        "published": "2026-09-29T11:02:53+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "9% of students report suicidal thoughts, finds Supreme Court-appointed panel’s survey",
-        "url": "https://www.thehindu.com/news/national/nine-per-cent-of-students-report-suicidal-thoughts-finds-supreme-court-appointed-panels-survey/article71522815.ece",
-        "summary": "A nationwide survey by the National Task Force found 15% of students felt overwhelmed or distressed and 9% reported suicidal thoughts in the past six months, ahead of its final report due on October 31",
-        "source": "The Hindu — Education",
-        "published": "2026-09-29T07:56:57+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Expansion, equity and excellence: Indian universities must learn to balance the three Es",
-        "url": "https://education.economictimes.indiatimes.com/news/higher-education/expansion-equity-and-excellence-indian-universities-must-learn-to-balance-the-three-es/134559070",
-        "summary": "Prof V Ramgopal Rao, Group Vice Chancellor, BITS Pilani, on why AI is forcing universities to rethink classroom learning, why financial sustainability is becoming inseparable from academic excellence, and what it will take to build world-class universities in India.",
-        "source": "Economic Times — Education (India)",
-        "published": "2026-09-29T07:16:12+00:00",
-        "region": "south_asia",
         "streams": [
           "policy"
         ],
@@ -5696,6 +5720,42 @@
   "regions": {
     "global": [
       {
+        "title": "France to shutter up to 500 schools as more student protests called",
+        "url": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
+        "summary": "Education minister cites safety concerns for closures as organisers call for resumption of protests.",
+        "source": "Al Jazeera — News (education-gated)",
+        "published": "2026-10-04T19:41:04+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "The Guardian view on nurseries: some things are going right for under-fives | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/04/the-guardian-view-on-nurseries-some-things-are-going-right-for-under-fives",
+        "summary": "England’s strong results in an early learning study are a Sure Start legacy that ministers must build on Recognition of the importance of babyhood and early childhood continues to grow. It is widely understood by many ordinary people, as well as experts, that what happens to us when we are very small, and our brains are at their most malleable , has lasting effects. As the Organisation for Economic Co-operation and Development (OECD) put it in a study of early years education , “the first five years of a child’s life represent a window of opportunity, but also of vulnerability”. New Labour’s g",
+        "source": "The Guardian — Education",
+        "published": "2026-10-04T16:25:32+00:00",
+        "stream": "foundational",
+        "streams": [
+          "foundational"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Jerusalem Daily: Israeli forces arrest school children during raid",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
+        "summary": "Jerusalem Daily: Israeli forces arrest school children during raid",
+        "source": "Al Jazeera — News (education-gated)",
+        "published": "2026-10-04T16:04:53+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "global"
+      },
+      {
         "title": "Thousands of child-on-child sexual offences reported at schools in England and Wales",
         "url": "https://www.theguardian.com/education/2026/oct/04/child-on-child-sexual-abuse-schools-england-and-wales",
         "summary": "Exclusive: Average of nearly five sexual crimes a day against under-13s were reported to police between 2021 and 2025 From unwanted touching to rape: the scale of child-on-child abuse in English and Welsh schools Lawyers and campaigners have condemned the “horrifying” scale of child-on-child sexual abuse in schools after a Guardian investigation revealed thousands of sexual offences against under-13s, including multiple rapes, are reported to police every year. Close to five sexual crimes against children aged 12 and younger were recorded on average by police every day in primary and secondary",
@@ -6138,51 +6198,63 @@
           "higher"
         ],
         "region": "global"
-      },
-      {
-        "title": "iSpring L&D Launch Bootcamp: Practical Training For Real Challenges",
-        "url": "https://elearningindustry.com/elearning-events/ispring-ld-launch-bootcamp-practical-training-for-real-challenges-oct-2-2026",
-        "summary": "A free two-week bootcamp for L&D professionals working through real onboarding, deskless-worker training, and SME collaboration challenges, with workshops, templates, and peer networking. This post was first published on eLearning Industry .",
-        "source": "eLearning Industry",
-        "published": "2026-10-02T08:00:41+00:00",
-        "stream": "edtech",
-        "streams": [
-          "edtech"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Probing language teacher creativity and its interplay with emotions in lesson study projects",
-        "url": "https://www.nature.com/articles/s41599-026-09216-2",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-02T00:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Can we have class outside? Seven tips to breeze through outdoor lectures",
-        "url": "https://www.nature.com/articles/d41586-026-02564-8",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-02T00:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
       }
     ],
     "south_asia": [
+      {
+        "title": "What is fuelling school protests in France?",
+        "url": "https://www.dawn.com/news/2034771/what-is-fuelling-school-protests-in-france",
+        "summary": "Protests by teenagers outside their schools have shaken France in recent days, with students blockading entrances to their institutions and security forces on occasion responding with tear gas. The government has said that while the grievances may be legitimate, violence is not and has accused the hard-left of whipping up the movement. Critics have meanwhile accused some police of heavy-handed force against protesters, who are legally still children. More than 5,000 people have been arrested since Monday, according to the interior ministry, while about 735 educational establishments were affec",
+        "source": "Dawn — Pakistan",
+        "published": "2026-10-04T19:47:05+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "How regulation stifles HEIs",
+        "url": "https://www.thehindu.com/opinion/op-ed/how-regulation-stifles-heis/article71544719.ece",
+        "summary": "If intensive regulatory mechanisms were the real engine of quality, our most tightly regulated universities and HEIs would have been outperforming the IISc, IITs, IIMs NITs and other similar institutions.",
+        "source": "The Hindu — Education",
+        "published": "2026-10-04T19:33:18+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "The sore lack of hostels in DU",
+        "url": "https://www.thehindu.com/opinion/op-ed/the-sore-lack-of-hostels-in-du/article71544714.ece",
+        "summary": "While 30 to 40 colleges were established under different political dispensations in Delhi, none of them have attempted to provide hostel accommodation on their campuses",
+        "source": "The Hindu — Education",
+        "published": "2026-10-04T19:24:54+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "Subatomic ambitions take five Indian school students to CERN",
+        "url": "https://www.thehindu.com/sci-tech/science/subatomic-ambitions-take-five-indian-school-students-to-cern/article71528053.ece",
+        "summary": "The students said they spent several hours every day in the three to four weeks before the competition. While the first week was mostly about recruiting and forming a team, the next three weeks were a complete grind",
+        "source": "The Hindu — Education",
+        "published": "2026-10-04T10:30:26+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
       {
         "title": "AMU protests: Students block four entry gates, proctor says ‘outsider’ detained from hostel",
         "url": "https://www.thehindu.com/news/national/amu-protests-students-block-four-entry-gates-proctor-says-outsider-detained-from-hostel/article71543198.ece",
         "summary": "Tensions escalated at Aligarh Muslim University after protesters blocked all four entry gates amid an ongoing agitation demanding students’ union elections",
         "source": "The Hindu — Education",
-        "published": "2026-10-04T08:07:39+00:00",
+        "published": "2026-10-04T10:05:22+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6327,18 +6399,6 @@
         "summary": "Institutions must provide secure, campus-wide AI environments (similar to Harvard’s Sandbox or Wharton’s AI Research Lab) where faculty can test assignment prompts against state-of-the-art models before releasing them to students.",
         "source": "The Hindu — Education",
         "published": "2026-10-01T11:46:24+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "Subatomic ambitions take five Indian school students to CERN",
-        "url": "https://www.thehindu.com/sci-tech/science/subatomic-ambitions-take-five-indian-school-students-to-cern/article71528053.ece",
-        "summary": "The students said they spent several hours every day in the three to four weeks before the competition. While the first week was mostly about recruiting and forming a team, the next three weeks were a complete grind",
-        "source": "The Hindu — Education",
-        "published": "2026-10-01T10:48:54+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6615,42 +6675,6 @@
         "summary": "Bollywood remains one of India’s most important cultural exports, spanning decades and still remaining potent. But how do Western audiences make sense of the seemingly disruptive, even ‘illogical’, storylines, complete with song-and-dance sequences and change of costumes? Ram Sharma frames the Indian consumer in a civilisational aesthetic whose philosophical traditions never acceded primacy to reason … Continued The post Neitzsche, Natyashastra and the Indian Consumer first appeared on South Asia @ LSE .",
         "source": "LSE South Asia Blog",
         "published": "2026-09-28T07:18:17+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "Chakma council to implement NEP from 2027-28, introduce ‘Mizo Speaking Day’ in schools",
-        "url": "https://www.thehindu.com/news/national/mizoram/chakma-council-to-implement-nep-from-2027-28-introduce-mizo-speaking-day-in-schools/article71518647.ece",
-        "summary": "The meeting resolved to observe every Wednesday as 'Mizo Speaking Day' in all primary and middle schools within the CADC area to provide students regular opportunities to learn and practice the Mizo language.",
-        "source": "The Hindu — Education",
-        "published": "2026-09-28T07:06:41+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "Are young people under pressure to do it all?",
-        "url": "https://www.thehindu.com/education/are-young-people-under-pressure-to-do-it-all/article71487304.ece",
-        "summary": "Students are building impressive profiles earlier than before but are they losing sight of what actually matters?",
-        "source": "The Hindu — Education",
-        "published": "2026-09-28T05:10:23+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "How technology-enabled public-private partnerships can unlock India’s scholarship promise",
-        "url": "https://www.thehindu.com/education/how-technology-enabled-public-private-partnerships-can-unlock-indias-scholarship-promise/article71491326.ece",
-        "summary": "What is required is an ecosystem in which every rupee reaches the student it was intended to support",
-        "source": "The Hindu — Education",
-        "published": "2026-09-28T03:08:07+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -7366,6 +7390,102 @@
     ],
     "east_asia": [
       {
+        "title": "Serb separatist Dodik declares victory in Bosnia vote as ethnic tensions, EU hopes collide",
+        "url": "https://www.scmp.com/news/world/europe/article/3369733/serb-separatist-dodik-declares-victory-bosnia-vote-ethnic-tensions-eu-hopes-collide?utm_source=rss_feed",
+        "summary": "Bosnian Serb nationalist politician Milorad Dodik has declared victory for his party in an election in Bosnia and Herzegovina on Sunday that was shaped by economic pressures, the prospect of the Balkan nation joining the European Union and ethnic tensions that have divided the country since its brutal 1992–95 war. Dodik is a staunchly pro-Russia politician who, despite not appearing on the ballot, has dominated the campaign and inflamed divisions with separatist rhetoric that have sparked fears...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T20:36:54+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Netanyahu orders security review of international flights to Israel after Flydubai attack",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3369732/netanyahu-orders-security-review-international-flights-israel-after-flydubai-attack?utm_source=rss_feed",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu ordered a security review of international flights to Israel on Sunday, after an attempt by an Omani co-pilot to crash an Israel-bound plane from Dubai. Netanyahu “has instructed the head of the National Security Council, Shmuel Ben Ezra, to appoint an examiner to conduct a thorough review of all security aspects of foreign civil aviation to Israel”, a statement from the premier’s office said. Calls have mounted in Israel for an investigation into the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T20:09:25+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Iran tells US there is no military solution to Middle East war",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3369731/iran-tells-us-there-no-military-solution-middle-east-war?utm_source=rss_feed",
+        "summary": "Iran’s top diplomat insisted on Sunday that there would be no military solution to the United States’ war against the Islamic republic, with talks on ending the conflict apparently at an impasse. A campaign of heavy bombardment failed to bring a decisive close to the war launched by the US and Israel in late February, and Washington in recent weeks has dialled back military operations in favour of economic pressure. The main point of contention remains Iran’s attempt to blockade the Strait of...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T19:44:29+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Hundreds of schools to close on Monday as education protests rock France",
+        "url": "https://www.scmp.com/news/world/europe/article/3369730/hundreds-schools-close-monday-education-protests-rock-france?utm_source=rss_feed",
+        "summary": "Up to 500 schools across France will be totally or partly closed on Monday because of a wave of pupil protests that has shaken the country, the education minister said. Lessons will be “totally or partly suspended” in some “400-500” high schools as the security conditions “have not been fulfilled”, said Education Minister Edouard Geffray on Sunday, adding that 24 schools had been “burned or ransacked” since the start of the movement. He described the closures as chiefly a security precaution...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T18:42:26+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Dozens detained at a rally in Moscow held by Kremlin-friendly Communist Party, party says",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3369729/dozens-detained-rally-moscow-held-kremlin-friendly-communist-party-party-says?utm_source=rss_feed",
+        "summary": "Police in Moscow detained about 60 people at a rally on Sunday held by Russia’s Kremlin-friendly Communist Party, the party said. The party said in a statement that the detentions happened as the rally was ending and that its Moscow branch was working to get those who were detained – mostly young people – released. The rally marked the anniversary of the Kremlin’s 1993 crushing of a parliamentary uprising. The Telegram news channel Ostorozhno Novosti said protesters chanted slogans including...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T18:17:20+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Brazilians head to polls in high-stakes, polarised election",
+        "url": "https://www.scmp.com/news/world/americas/article/3369728/brazilians-head-polls-high-stakes-polarised-election?utm_source=rss_feed",
+        "summary": "Brazilians queued to vote on Sunday in the first round of a tight election, following a campaign dominated by corruption scandals, economic anxiety and accusations of US meddling. The field of 13 candidates has been led by two clear front runners – leftist President Luiz Inacio Lula da Silva, 80, who is seeking a fourth term, and Senator Flavio Bolsonaro, the 45-year-old son of former president Jair Bolsonaro, who hopes to return his father’s right-wing movement to power. A victory for the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T17:48:51+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelensky",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3369727/ukraine-believes-russia-shared-jet-drone-technology-north-korea-says-zelensky?utm_source=rss_feed",
+        "summary": "Ukrainian President Volodymyr Zelensky said on Sunday ⁠he believed Russia ⁠may have shared jet-drone technology ⁠with its long-standing ally North Korea. In recent weeks, Russia has sharply increased its use of jet-drones against Ukraine, which so far has no effective means of countering them other than using ‌combat aircraft. Earlier in the war, North Korea supplied Russia with millions of artillery shells and it has since provided ballistic missiles that Moscow regularly uses to attack...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T16:45:32+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "UK Green Party adopts ‘Zionism is racism’ policy, drawing backlash from Israel",
+        "url": "https://www.scmp.com/news/world/europe/article/3369725/uk-green-party-adopts-zionism-racism-policy-drawing-backlash-israel?utm_source=rss_feed",
+        "summary": "The UK’s left-wing Green Party on Sunday voted to define Zionism as racism at the party’s annual meeting, drawing sharp backlash from British Jewish groups and the Israeli government. Members of the Green Party, which has five MPs in Britain’s 650-seat parliament and which enjoyed a boost in recent local and special elections, backed the motion at the party’s conference, with 1,022 votes in favour and 813 against. According to the motion, Zionism would be “treated as any other form of racism”...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-04T16:26:47+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
         "title": "Hong Kong builders take three WorldSkills honours in best CIC haul",
         "url": "https://www.scmp.com/presented/news/hong-kong/topics/constructing-careers-through-worldskills/article/3369508/hong-kong-builders-take-three-worldskills-honours-best-cic-haul?utm_source=rss_feed",
         "summary": "[The content of this article has been produced by our advertising partner.] Nine young construction competitors from the Construction Industry Council returned from WorldSkills Shanghai with three Medallions for Excellence, the strongest finish the CIC has recorded at the competition. The honours went to Law Chak-sum in painting and decorating, Tse Yu-lok in welding, and the concrete construction work team of Huang To-kong and Wan Tsz-ho. It was Hong Kong’s first WorldSkills honour in concrete...",
@@ -7452,7 +7572,7 @@
       {
         "title": "Hong Kong issues amber rainstorm warning",
         "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3369718/hong-kong-issues-amber-rainstorm-warning?utm_source=rss_feed",
-        "summary": "The Hong Kong Observatory has issued an amber rainstorm warning, with the signal set to remain in place until 11.30pm on Sunday. The weather forecaster issued the warning at 8.20pm. “A few squally thunderstorms are expected to occur over Hong Kong,” a spokesman for the Observatory said. Showers would be heavy at times in the evening. The forecaster also warned that intense gusts reaching 70km/h (43mph) could affect the city. It said there would be flooding in some low-lying and poorly drained...",
+        "summary": "The Hong Kong Observatory issued an amber rainstorm warning on Sunday evening, with the signal remaining in place for more than two hours. The weather forecaster issued the alert – the lowest level in a three-tier warning system – at 8.20pm and cancelled it at 10.30pm. “A few squally thunderstorms are expected to occur over Hong Kong,” a spokesman for the Observatory said in the evening. Showers would be heavy at times. The forecaster also warned that intense gusts reaching 70km/h (43mph) could...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-04T13:05:38+00:00",
         "stream": "higher",
@@ -7743,102 +7863,6 @@
         "summary": "Hong Kong should enact laws on data governance and underlying safety standards to ensure the responsible use of artificial intelligence (AI), experts have said, as the government pledged to tackle disputes or crimes involving the technology’s application with tailored legislation. They also said that legislation was needed to define liability boundaries, which could bolster business and public confidence in expanding its adoption. Chief Executive John Lee Ka-chiu said in his recent policy...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-04T04:00:15+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Indonesians sue their president over haze – can it clear the air?",
-        "url": "https://www.scmp.com/week-asia/politics/article/3369594/indonesians-sue-president-over-haze-can-it-clear-air?utm_source=rss_feed",
-        "summary": "For months, the air over West Kalimantan has been thick enough to taste. Now, some of the province’s residents are taking the government to court over it. Indonesia’s worst wildfire season in 11 years has been sending plumes of toxic haze drifting across borders to Malaysia, Singapore and the Philippines since at least August. But nowhere has been worse hit than West Kalimantan, where more than 48,000 hectares (185 square miles) of land and forest have burned since the start of the year,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-04T04:00:11+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Mars shelter problem can be solved with engineered yeast, gelatin and sand: paper",
-        "url": "https://www.scmp.com/news/china/science/article/3368830/mars-shelter-problem-can-be-solved-engineered-yeast-gelatin-and-sand-paper?utm_source=rss_feed",
-        "summary": "Future settlers on Mars would need houses, but they must either spend huge sums transporting construction materials from Earth or use enormous amounts of energy to melt Martian soil into bricks. Scientists in Hong Kong say they have developed a quick and low-cost “living” building material made from genetically engineered yeast, gelatin and sand that can be 3D printed under conditions simulating the Martian environment. Their study, published online last month in Chem Circularity, an...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-04T04:00:07+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "How Malaysia offers Chinese investors Singapore’s comfort at prices lower than Thailand",
-        "url": "https://www.scmp.com/business/article/3369646/how-malaysia-offers-chinese-investors-singapores-comfort-prices-lower-thailand?utm_source=rss_feed",
-        "summary": "Malaysia is proving to be a middle ground for many Hong Kong and mainland Chinese investors looking to buy property in a country that provides the stability Singapore offers, but with competitive price points similar to those found in Thailand, according to analysts. Data from Juwai IQI, a property portal with 7 million listings across 111 countries, showed that in the first half of 2026, Malaysia was the fourth-highest destination for inquiries received from Chinese buyers. That compared with...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-04T03:00:09+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Cornell University boss breaks silence over rape case uproar",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369677/cornell-university-boss-breaks-silence-over-rape-case-uproar?utm_source=rss_feed",
-        "summary": "Cornell University president Michael Kotlikoff said he was “deeply disturbed” by a student’s 2024 rape allegation that has drawn national outrage. “My heart aches when I think of what she experienced,” Kotlikoff said in a video message released on Saturday, saying the university must “do everything we can to prevent what happened to Jane Doe” from happening again. Lawyers for a Jane Doe last month filed a civil lawsuit against the Ivy League university, its leaders, the Chi Phi fraternity, her...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-04T02:21:48+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Young Chinese hire ‘life stand-ins’ to cook and care for elderly parents amid booming trend",
-        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3369676/young-chinese-hire-life-stand-ins-cook-and-care-elderly-parents-amid-booming-trend?utm_source=rss_feed",
-        "summary": "From cooking and attending hospital visits to doing the actual quarrelling, paid “life stand-ins” are stepping in to manage these tasks, along with errands and awkward moments that many young Chinese would rather avoid. This trend, known as the “stand-in economy,” is gaining traction among time-strapped consumers who are willing to pay for convenience when daily responsibilities exceed their time, patience, or expertise. First widely reported by mainland media in 2024, the movement has since...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-04T02:20:53+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Quality over quantity: China’s AI microdrama producers battle viewer fatigue",
-        "url": "https://www.scmp.com/tech/policy/article/3368700/quality-over-quantity-chinas-ai-microdrama-producers-battle-viewer-fatigue?utm_source=rss_feed",
-        "summary": "Two decades after stepping away from the spotlight, iconic actress Joey Wong made an unexpected return to the screen – not through a traditional production, but via artificial intelligence-powered reconstruction. In a two-minute video by NetEase this summer, Wong, one of the most well-known actresses of the 1980s and 90s, had some of her most celebrated roles recreated, including the beautiful ghost in A Chinese Ghost Story and an alluring snake demon in Green Snake. The revival is just the tip...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-04T02:00:09+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Japan’s tame answer to jobseeker sex harassment: name and shame",
-        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3369593/name-and-shame-japans-tame-answer-jobseeker-sex-harassment?utm_source=rss_feed",
-        "summary": "Final-year students invited to recruiters’ apartments for help with their applications. Coffee dates with alumni who promise to explain how the company works. Inappropriate interview questions about boyfriends, marriage plans and sex lives. For young women in Japan, looking for a job has long entailed submitting themselves to the skewed power dynamics of the recruitment process. And before Thursday, no official legal safeguards existed to protect these jobseekers from such...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-04T01:30:14+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "To become a dog-friendly city, Hong Kong needs dog literacy",
-        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3369242/become-dog-friendly-city-hong-kong-needs-dog-literacy?utm_source=rss_feed",
-        "summary": "Since July, Hong Kong has permitted dogs in approved dining premises under a tightly regulated scheme. More than 2,200 restaurants applied, with more than 980 taking part within the first month. On the surface, these are straightforward changes to the rules around where dogs are allowed. But they reflect something more significant: a changing relationship between Hong Kong and the dogs who also call it home. Small companion breeds are familiar in urban life, while larger dogs, local mixed breeds...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-04T01:30:10+00:00",
         "stream": "higher",
         "streams": [
           "higher"
@@ -8271,6 +8295,42 @@
     ],
     "north_america": [
       {
+        "title": "After Week of Turmoil at Cornell, a Heavy Cloud Hangs Over Student Life",
+        "url": "https://www.nytimes.com/2026/10/04/nyregion/cornell-university-campus-students.html",
+        "summary": "As the weekend arrived, much of the nightlife in the upstate New York college town was subdued. But there were still some students looking to cut loose.",
+        "source": "New York Times — Education",
+        "published": "2026-10-04T18:54:43+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "A Campus Reckoning: ‘Cornell Is Now Known for This’",
+        "url": "https://www.nytimes.com/2026/10/04/nyregion/cornell-spotlight-rape-accusation.html",
+        "summary": "Accusations of sexual assault at a fraternity party have tarnished the self-image of a fiercely proud Ivy League institution. Can the university ever be the same?",
+        "source": "New York Times — Education",
+        "published": "2026-10-04T18:09:59+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "School Librarians Hesitant to Discuss Books Amid Texas Battles to Restrict Titles",
+        "url": "https://www.the74million.org/article/school-librarians-hesitant-to-discuss-books-order-more-amid-texas-battles-to-restrict-titles-they-say/",
+        "summary": "Seven years ago, Frank Strong stocked 20 copies of the book “I Am Not Your Perfect Mexican Daughter” in his classroom library. Then, one by one, the coming-of-age novel about a Mexican immigrant girl started disappearing from his shelves. Just two remain, and it makes him chuckle. It’s a sign, he said, that Erika Sánchez’s […]",
+        "source": "The 74 Million",
+        "published": "2026-10-04T16:30:00+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "north_america"
+      },
+      {
         "title": "Why My Gen Z Students Are Fascinated by the King James Bible",
         "url": "https://www.nytimes.com/2026/10/04/opinion/bible-gen-z-king-james.html",
         "summary": "The King James Version is a master class in cooperative intellectual struggle.",
@@ -8307,11 +8367,11 @@
         "region": "north_america"
       },
       {
-        "title": "A Campus Reckoning: ‘Cornell Is Now Known for This’",
-        "url": "https://www.nytimes.com/2026/10/04/nyregion/cornell-spotlight-rape-accusation.html",
-        "summary": "Accusations of sexual assault at a fraternity party have tarnished the self-image of a fiercely proud Ivy League institution. Can the university ever be the same?",
+        "title": "Cornell Case Carries Far-Reaching Implications for Hochul and James",
+        "url": "https://www.nytimes.com/2026/10/04/nyregion/hochul-james-cornell.html",
+        "summary": "The decision to intercede by Gov. Kathy Hochul and the New York attorney general, Letitia James, has raised questions of impartiality as both face re-election.",
         "source": "New York Times — Education",
-        "published": "2026-10-04T07:00:17+00:00",
+        "published": "2026-10-04T07:00:23+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8384,18 +8444,6 @@
         "summary": "This story was originally published by EdSource. Sign up for their daily newsletter. In the state’s largest school district, making meals available to all students — breakfast, lunch and sometimes, dinner — is a massive operation. From Pepperoni Pizza to Birria Bowls, to vegetarian and vegan offerings, students have a range of options to choose from. Even as […]",
         "source": "The 74 Million",
         "published": "2026-10-03T16:30:00+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "What to Know About France’s High School Protests",
-        "url": "https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html",
-        "summary": "Students angry over the state of the country’s education system have blockaded hundreds of schools. Thousands of protesters have been arrested and dozens of people injured.",
-        "source": "New York Times — Education",
-        "published": "2026-10-03T15:00:01+00:00",
         "stream": "school",
         "streams": [
           "school"
@@ -8723,30 +8771,6 @@
         "stream": "school",
         "streams": [
           "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "After 74 Investigation, Minnesota Senators Seek Law Regulating Autism Therapy",
-        "url": "https://www.the74million.org/article/after-74-investigation-minnesota-senators-seek-law-regulating-autism-therapy/",
-        "summary": "Citing a recent 74 Million investigation, two Minnesota state senators announced they will seek laws regulating the influence of private equity investment firms on autism therapy providers. “This report is outrageous,” said Minneapolis state Sen. Zaynab Mohamed, of the Democratic-Farmer-Labor Party. “The idea that Wall Street investors are exploiting these programs for profit is infuriating.” […]",
-        "source": "The 74 Million",
-        "published": "2026-10-01T16:46:09+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Cornell Students Question Greek Life Culture After Sexual Assault Claim",
-        "url": "https://www.nytimes.com/2026/09/30/nyregion/cornell-university-students-jane-doe-case.html",
-        "summary": "With their university under fire in the wake of a sexual assault lawsuit, students are having difficult conversations about Greek life, campus rituals and the possibility for lasting changes.",
-        "source": "New York Times — Education",
-        "published": "2026-10-01T16:43:31+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "north_america"
       }
