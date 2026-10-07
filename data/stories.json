@@ -299,7 +299,19 @@
         "url": "https://kathmandupost.com/world/2026/10/06/students-and-teachers-march-in-france-on-biggest-day-of-high-school-protests",
         "summary": "Tuesday’s demonstrations come after a fortnight of protests which began in Paris’s deprived suburbs before spreading across the country.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-06T22:04:51.182394+00:00",
+        "published": "2026-10-07T03:34:28.938680+00:00",
+        "region": "south_asia",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
+        "title": "School protests sweeping France cause ‘heaviest toll in decades’",
+        "url": "https://kathmandupost.com/world/2026/10/07/school-protests-sweeping-france-cause-heaviest-toll-in-decades",
+        "summary": "More than 250,000 people join nationwide marches over school funding, staffing and poor conditions as clashes leave hundreds of students and staff injured.",
+        "source": "The Kathmandu Post — Nepal",
+        "published": "2026-10-07T03:34:28.937813+00:00",
         "region": "south_asia",
         "streams": [
           "school"
@@ -395,7 +407,7 @@
         "url": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html",
         "summary": "The rallies are a test of the strength of the student-led protest movement that has escalated at French high schools since late September.",
         "source": "New York Times — Education",
-        "published": "2026-10-06T15:32:24+00:00",
+        "published": "2026-10-06T15:32:25+00:00",
         "region": "north_america",
         "streams": [
           "school"
@@ -439,9 +451,9 @@
         "stream": "school"
       },
       {
-        "title": "French school unrest: students, teachers march on biggest day of protests",
+        "title": "School protests sweep France in most violent student demonstrations in decades",
         "url": "https://www.scmp.com/news/world/europe/article/3369936/french-school-unrest-students-teachers-march-biggest-day-protests?utm_source=rss_feed",
-        "summary": "Police fired tear ⁠gas at protesters blockading French high schools on Tuesday as students, teachers and parents took to the streets on the biggest day of action in a wave of demonstrations against understaffed and dilapidated classrooms. In Marseille and Nantes, protesters held up signs marked with “The state has killed national education” and other messages, in largely peaceful rallies. In Toulouse, parents linked arms at the front of a march through the city. But in Strasbourg, Lyon and...",
+        "summary": "Demonstrations swept across France on Tuesday as teachers and parents took ⁠to the streets with high school pupils on the biggest day of what Prime Minister Sebastien Lecornu described as the most violent student demonstrations in decades. Police fired tear gas and water cannons to disperse violent groups on the fringes of marches in Paris, Strasbourg, Rennes and Toulouse, among other cities. The marches drew more than 250,000 people in dozens of cities, the interior ministry said, though...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-06T11:35:05+00:00",
         "region": "east_asia",
@@ -457,18 +469,6 @@
         "source": "The 74 Million",
         "published": "2026-10-06T10:30:00+00:00",
         "region": "north_america",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "BISE Bannu, DI Khan postpone this week’s exams, citing suspension of communication services",
-        "url": "https://www.dawn.com/news/2035134/bise-bannu-di-khan-postpone-this-weeks-exams-citing-suspension-of-communication-services",
-        "summary": "BANNU: The Board of Intermediate and Secondary Education (BISE) Bannu has postponed the Secondary School Certificate (SSC) Annual-II/Oriental Languages Examination 2026 papers scheduled for October 7, 8, 9 and 10 due to the security situation in the region. According to a notification issued by the BISE Bannu chairman on October 3, the decision was taken in view of the prevailing security situation and the suspension of mobile phone and internet services within the board’s jurisdiction. The board said the suspension of communication services could cause serious inconvenience to students, paren",
-        "source": "Dawn — Pakistan",
-        "published": "2026-10-06T07:34:27+00:00",
-        "region": "south_asia",
         "streams": [
           "school"
         ],
@@ -562,7 +562,7 @@
       {
         "title": "Some schools are full, others are struggling for students: What Girish Kumar Sachdev sees changing in India’s K-12 market",
         "url": "https://education.economictimes.indiatimes.com/news/school-education/some-schools-are-full-others-are-struggling-for-students-what-girish-kumar-sachdev-sees-changing-in-indias-k-12-market/134674770",
-        "summary": "Girish Kumar Sachdev, Member, Board of Management, DPS Indirapuram, oversees schools serving around 6000 students across junior and senior school. In a conversation with ETEducation, he discusses uneven demand across school markets, growing competition, international curricula, maintaining quality at scale and why schools need to rethink how they use technology and AI.",
+        "summary": "Girish Kumar Sachdev, Member, Board of Management, DPS Indirapuram, oversees schools serving around 12,500 students across DPS Indirapuram, DPS Raj Nagar Extension and Pacific World School. In a conversation with ETEducation, he discusses uneven demand across school markets, growing competition, international curricula, maintaining quality at scale and why schools need to rethink how they use technology and AI.",
         "source": "Economic Times — Education (India)",
         "published": "2026-10-05T00:30:00+00:00",
         "region": "south_asia",
@@ -1156,6 +1156,162 @@
     ],
     "higher": [
       {
+        "title": "Hong Kong police investigate case of girl, 10, made to carry bags of beer",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3369975/hong-kong-police-investigate-case-girl-10-made-carry-bags-beer?utm_source=rss_feed",
+        "summary": "Hong Kong police are investigating the case of a 10-year-old girl who was made to carry bags of beer after videos were posted online showing her being berated by a man amid a confrontation with bystanders concerned about her wellbeing. Police said they received a report at about 10.30pm on Tuesday of a girl in school uniform being made to carry two bags containing numerous beer cans to a building at Fu Tai Estate in Tuen Mun. Officers attended the scene, but no arrests were made and...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T03:17:16+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "521kg of meth seized from Laos private jet bound for Manila, not Malaysia: police",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369969/521kg-meth-seized-laos-private-jet-bound-manila-not-malaysia-police?utm_source=rss_feed",
+        "summary": "The 521kg (1,148lbs) of suspected methamphetamine seized by Laotian authorities from a private jet was not sourced from Malaysia, with the drugs believed to have originated in Laos and been destined for Manila, the Philippines. Bukit Aman Narcotics Crime Investigation Department (NCID) director Hussein Omar Khan said police were informed by Laotian authorities on Tuesday that the cross-border smuggling attempt had been foiled at Luang Prabang International Airport last Thursday. Hussein said the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T02:30:22+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Chinese woman snaps up nearly 200 parking spaces to flip to neighbours for profit",
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3369958/chinese-woman-snaps-nearly-200-parking-spaces-flip-neighbours-profit?utm_source=rss_feed",
+        "summary": "A woman in central China invested 14 million yuan (US$2 million) to acquire 196 parking spaces in a residential community, later selling them at a significant mark-up, which led to furious residents suing her. The lawsuit centred around a residential block, the name of which was not disclosed, located in Changsha, Hunan province. The property project was completed and put on the market in 2018. At the time, many were sceptical about the community’s prospects due to a lack of essential public...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T02:00:10+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Malaysia’s Myanmar bet? Repatriations pave way for diplomacy",
+        "url": "https://www.scmp.com/week-asia/people/article/3369953/malaysias-myanmar-bet-repatriations-pave-way-diplomacy?utm_source=rss_feed",
+        "summary": "Malaysia’s repatriation of Myanmar nationals ahead of a visit to Kuala Lumpur by the war-torn country’s leader appears to mirror efforts by other Asean countries seeking to mend ties with Naypyidaw. Several members of the Association of Southeast Asian Nations have stepped up engagement with Myanmar at the bilateral level recently, raising questions about whether a gradual normalisation between the bloc and the country could undermine efforts to end its civil war, according to analysts. Nearly...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T01:30:13+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Hong Kong’s AI city brain must understand how people really speak",
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3369697/hong-kongs-ai-city-brain-must-understand-how-people-really-speak?utm_source=rss_feed",
+        "summary": "Chief Executive John Lee Ka-chiu’s vision of an “AI city brain” is bold and timely. An integrated system linking data across transport, public works, environmental monitoring and emergency response could help Hong Kong manage risks more proactively and coordinate services more effectively. The initiative is highly commendable. It also raises a critical question: can a city brain truly understand a city if it does not understand how its people communicate? The truth is that communication is...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T01:30:09+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "US military in Japan’s Okinawa imposes night curfew after marine’s arrest over murder",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3369968/us-military-japans-okinawa-imposes-night-curfew-after-marines-arrest-over-murder?utm_source=rss_feed",
+        "summary": "The US military in Okinawa will impose a curfew from midnight to 5am for a month starting Friday following the arrest of a marine on suspicion of robbing and murdering a local woman, its regional coordinator said on Tuesday. All US military personnel on Okinawa will also observe a 48-hour operational pause from noon on Wednesday, during which there will be “no off-base liberty, including a complete prohibition of alcohol consumption on or off base”, said Lieutenant General Benjamin Watson,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T01:03:35+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "China’s DeepZang AI aims to transform Tibetan language tech, promote ethnic unity",
+        "url": "https://www.scmp.com/news/china/politics/article/3369938/chinas-deepzang-ai-aims-transform-tibetan-language-tech-promote-ethnic-unity?utm_source=rss_feed",
+        "summary": "Creators of China’s first Tibetan-language AI model have pledged to speed up upgrades aimed at promoting ethnic integration. Approaches to advancing the large language model, DeepZang, were discussed at a seminar on Monday that brought together representatives from research institutes, universities and enterprises, according to state-run portal Chinanews.com. It said the event held in Hohhot, in China’s northern Inner Mongolia autonomous region, addressed issues such as improving Tibetan...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T01:00:07+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "As bear attacks rise in Japan, fearful residents change daily routines",
+        "url": "https://www.scmp.com/week-asia/health-environment/article/3369955/bear-attacks-rise-japan-fearful-residents-change-daily-routines?utm_source=rss_feed",
+        "summary": "Jeff Kingston used to take long walks with his dogs across the hills of Gunma in central Japan. But not this year. He has good reason. Kingston said he has encountered bears in those mountains more than 100 times over the years and been charged by aggressive bears around a dozen times. In 2014, a black bear knocked him down and attacked him across the skull with its claws, leaving a gash that required nine stitches. “This year, I have actively refrained from going into the hills precisely...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T00:00:28+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "US, WHO press Moscow over plague after death of Russian lab tech",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369967/trump-says-will-speak-putin-plague-after-death-russian-lab-tech?utm_source=rss_feed",
+        "summary": "US President Donald Trump said Tuesday he would speak very soon with Russian President Vladimir Putin over the reported plague death of a laboratory technician, as Washington and the United Nations called for transparency from Moscow. Russian authorities denied that they were imposing anti-plague measures and played down the reports of an incident at a plague research institute in Siberia’s Irkutsk region last week. But Washington is showing growing concern, with Secretary of State Marco Rubio...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-06T23:42:07+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Hong Kong’s first-store appeal grows as more Japanese, South Korean and Thai brands arrive",
+        "url": "https://www.scmp.com/business/article/3369937/hong-kongs-first-store-appeal-grows-more-japanese-south-korean-and-thai-brands-arrive?utm_source=rss_feed",
+        "summary": "Japanese, South Korean and Thai brands have increased their share of new entrants in Hong Kong’s retail property market by 7 percentage points to more than one-third in the first nine months of 2026, while the demand for shops from mainland Chinese brands has slipped, according to Cushman & Wakefield. A slew of new brands helped lift the combined share of Japanese, South Korean and Thai brands to a three-year high, according to Cushman, which said it expected the trend to continue. This year,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-06T23:00:08+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "US resident arrested in connection to Canada school shooting",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369966/us-resident-arrested-connection-canada-school-shooting?utm_source=rss_feed",
+        "summary": "US authorities arrested ⁠a person in Washington state on Tuesday ⁠who they accuse of providing advice and offering to live-stream a deadly mass shooting carried out earlier this year in Canada. James Cody Bryant, 30, was detained on a charge of conspiracy to murder people in a foreign country in connection to the shooting at ‌Tumbler Ridge, according to the Department of Justice. The charge carries a penalty of up to life in prison. Bryant was in repeated contact with the shooter, Jesse Van...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-06T22:43:44+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "China’s economy to slow as global growth stays solid, US think tank report says",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3369965/chinas-economy-slow-global-growth-stays-solid-us-think-tank-report-says?utm_source=rss_feed",
+        "summary": "China’s economic growth is expected to slow further next year as export strength fades and weak domestic demand persists, even as the global economy remains resilient, according to a new outlook from the Peterson Institute for International Economics (PIIE). The Washington-based think tank projects China’s GDP will grow 4.6 per cent this year and 4.3 per cent in 2027, down from 5 per cent growth in 2025, according to its semi-annual Global Economic Prospects report, released on Tuesday. The...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-06T22:40:48+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Ex-CIA official accused of stealing US$40 million in gold bars pleads guilty",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369964/ex-cia-official-accused-stealing-us40-million-gold-bars-pleads-guilty?utm_source=rss_feed",
+        "summary": "A former senior CIA official pleaded guilty Tuesday in Virginia to a charge that he abused his position and government funds to enrich himself by acquiring Florida real estate and hundreds of gold bars worth over US$40 million, according to court records. David Rush fabricated a “highly classified” government programme to justify the acquisition of luxury property in south Florida that he intended to resell for personal profit, according to a court filing. Rush separately concocted a bogus...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-06T22:09:50+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
         "title": "After cordial Xi-Trump summit, could China’s US dollar pivot cause tremors?",
         "url": "https://www.scmp.com/economy/global-economy/article/3369918/after-cordial-xi-trump-summit-could-chinas-us-dollar-pivot-cause-tremors?utm_source=rss_feed",
         "summary": "As President Xi Jinping and US President Donald Trump talked tariffs, agricultural quotas and critical minerals at last month’s closely watched summit in Washington, an “elephant in the room” loomed over the discussion: China’s efforts to gradually diversify away from US dollar assets. Beijing has gradually been cutting its holdings of US Treasuries while pushing to expand the yuan’s global use and developing alternative financial architecture. While these issues may not have featured in the...",
@@ -1180,9 +1336,9 @@
         "stream": "higher"
       },
       {
-        "title": "Christa Pike conscious and speaking after Tennessee failed execution",
+        "title": "Christa Pike conscious and speaking after botched execution in US",
         "url": "https://www.scmp.com/news/world/united-states-canada/article/3369962/christa-pike-conscious-and-speaking-after-tennessee-failed-execution?utm_source=rss_feed",
-        "summary": "Christa Pike, a Tennessee inmate who survived Tennessee’s attempt to execute her, is awake and speaking as she receives treatment at a hospital, her lawyers said on Tuesday. “Against all odds, Christa Pike is conscious, speaking and continues to receive critical medical care. “Despite the severe damage she endured to her arms, she is still handcuffed and shackled to the bed. Her recovery is medically unprecedented. Her prognosis remains unclear but, at a minimum, we expect a long recovery,”...",
+        "summary": "Tennessee death row inmate Christa Pike is awake and speaking at a hospital, her lawyers said Tuesday, six days after the state’s failed attempt to execute her by lethal injection left her unconscious and on a ventilator. Pike, 50, survived two doses of pentobarbital as executioners attempted to put her to death last Wednesday for the 1995 beating and stabbing death of classmate Colleen Slemmer. The lethal injection drug didn’t kill her, but her lawyers said her arms were left burned and...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-06T21:33:51+00:00",
         "region": "east_asia",
@@ -1218,7 +1374,7 @@
       {
         "title": "Trump says Iran could ‘take out’ Los Angeles or San Diego, drawing backlash",
         "url": "https://www.scmp.com/news/world/united-states-canada/article/3369961/trump-says-iran-could-take-out-los-angeles-or-san-diego-drawing-backlash?utm_source=rss_feed",
-        "summary": "US President Donald Trump suggested to a crowd of his supporters in Nebraska that Iran could “take out” a major US city like Los Angeles or San Diego, drawing a swift rebuke from California’s Democratic leaders and some fellow Republicans. Trump, speaking at a political rally in the state’s farm belt on Monday, discussed American wartime economic sacrifices and said he was determined to “see a tremendous victory, because it verifies all the things we did”. “And again, remember, with the ‌war,...",
+        "summary": "US President Donald Trump suggested to a crowd of his supporters in Nebraska that Iran could “take out” a major US city like Los Angeles or San Diego, drawing a swift rebuke from California’s Democratic leaders and some fellow Republicans. Trump, speaking at a political rally in the state’s farm belt on Monday, discussed American wartime economic sacrifices and said he was determined to “see a tremendous victory, because it verifies all the things we did”. “And again, remember, with the war,...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-06T17:34:35+00:00",
         "region": "east_asia",
@@ -1660,120 +1816,12 @@
         "stream": "higher"
       },
       {
-        "title": "Short trade truce can’t paper over realities of US-China relationship",
-        "url": "https://www.scmp.com/opinion/china-opinion/article/3369750/short-trade-truce-cant-paper-over-realities-us-china-relationship?utm_source=rss_feed",
-        "summary": "The recent US-China summit yielded a narrow, caution-filled outcome for bilateral trade: a two-month extension of the Kuala Lumpur trade truce, which now expires on January 10 next year. This reprieve eases fears of immediate tariff escalation and shows that head-of-state diplomacy can still curb spiralling confrontation. Yet the short timeline exposes the wide gulf separating the two sides’ priorities. China’s position has been unambiguous: removal of all punitive tariffs and restrictive...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T08:30:06+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "China’s Transsion, Africa’s top phone maker, targets US$500 million Hong Kong listing",
-        "url": "https://www.scmp.com/business/companies/article/3369908/chinas-transsion-africas-top-phone-maker-targets-us500-million-hong-kong-listing?utm_source=rss_feed",
-        "summary": "Shenzhen Transsion Holdings, the maker of Africa’s bestselling phones, aims to kick off its Hong Kong share offering on Wednesday to raise up to US$500 million ahead of a targeted October 15 listing, according to people familiar with the matter. The company, which already trades in Shanghai and has a market capitalisation of 62 billion yuan (US$9.24 billion), could offer up to 132 million offshore ordinary shares, according to approval documents from the China Securities Regulatory Commission...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T08:28:07+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Mox, BOCHK, ZA Bank and Citibank apps land among Asia-Pacific’s 10 best, study says",
-        "url": "https://www.scmp.com/business/banking-finance/article/3369900/mox-bochk-za-bank-and-citibank-apps-land-among-asia-pacifics-10-best-study-says?utm_source=rss_feed",
-        "summary": "Banking apps from Mox Bank, Bank of China (Hong Kong) (BOCHK), ZA Bank and Citibank Hong Kong are among the top 10 in Asia-Pacific, according to a study exclusively previewed by the South China Morning Post. Sia, an international consulting firm, assessed 145 banking apps in 20 markets in Europe, Asia and Australia using 100 criteria, including functionality, user experience and feedback, with each receiving a score from 0 to 100. The app from digital lender Mox Bank – backed by Standard...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T08:00:11+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "How Singapore’s local cafes compete with Chinese coffee giant Luckin",
-        "url": "https://www.scmp.com/week-asia/economics/article/3369889/how-singapores-local-cafes-compete-chinese-coffee-giant-luckin?utm_source=rss_feed",
-        "summary": "When Chinese coffee giant Luckin Coffee moved into the unit next to his neighbourhood cafe in Singapore, Folk Yard owner Chew Yit Shan grew nervous. Luckin launched with an aggressive promotional deal of S$1 (78 US cents) per cup, served in just two minutes. In the first few months following its arrival, Chew saw sales at his independent cafe drop by 15 per cent. But once the initial hype had died down and the promotions ended, Chew said regular patrons returned and coffee sales bounced...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T08:00:08+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Abby Choi called ex-father-in-law ‘old crook’ amid HK$72m flat row, court hears",
-        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369905/court-hears-laws-tried-turn-children-against-abby-choi-over-hk72m-flat?utm_source=rss_feed",
-        "summary": "Hong Kong socialite Abby Choi Tin-fung called her former father-in-law an “old crook” as she accused her ex-relatives of turning her children against her when she tried sell a HK$72 million (US$9.17 million) flat, a court has heard. Choi’s mother, Cheung Yin-fa, on Tuesday said her daughter had become hostile towards her former parents-in-law, Kwong Kau and Jenny Li Sui-heung, in the months before the influencer’s death in February 2023. Cheung wept in the witness box as she watched footage of...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T07:59:19+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Southeast Asia urged to step up war against AI-powered scams through data sharing",
-        "url": "https://www.scmp.com/week-asia/economics/article/3369903/southeast-asia-urged-step-war-against-ai-powered-scams-through-data-sharing?utm_source=rss_feed",
-        "summary": "Governments and financial institutions in Southeast Asia urgently need to find a way to safely and quickly share data if they hope to contain a surge in scams, cybersecurity experts warn, as artificial intelligence enables criminal operations in the region to expand their reach rapidly. Criminal enterprises stole as much as US$114 billion from victims across the Asia-Pacific in 2025, according to a United Nations report released in July, more than triple the amount from two years earlier, aided...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T07:50:04+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "From cabin crew to cockpit: Malaysian woman’s AirAsia pilot dreams take off",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369894/cabin-crew-cockpit-malaysian-womans-airasia-pilot-dreams-take?utm_source=rss_feed",
-        "summary": "She spent some of her teenage years helping her mother at a sundry shop in Malaysia after school, and throughout that period kept a dream of achieving something higher alive. Now, 36-year-old Suriati Sukardi is a pilot, flying AirAsia’s commercial A320 and A321 Airbus aircraft. Before that, she had landed a job as the airline’s flight attendant and served the company for eight years since 2017 while continuing to eye and seek an opportunity to climb further in her career. In 2019, her prayers...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T07:30:06+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "North Korea’s DMZ landmines sabotage the South’s peace push",
-        "url": "https://www.scmp.com/week-asia/politics/article/3369898/north-koreas-dmz-landmines-sabotage-souths-peace-push?utm_source=rss_feed",
-        "summary": "North Korea’s laying of landmines along its heavily fortified border with the South has laid bare how misaligned the two nations have become over their de facto land boundary, after three South Korean soldiers were wounded in an explosion last month. Seoul blames Pyongyang for the blast near the military demarcation line (MDL) on September 21, in which one soldier lost a foot. On Tuesday, its Foreign Ministry said in a statement it was preparing a response to force an apology for the blast,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T07:22:21+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
         "title": "A Doctorate at 33: Dr Given Selowa's Remarkable Academic Journey",
         "url": "https://www.ednews.africa/p/a-doctorate-at-33-dr-given-selowas",
         "summary": "He earned the Best First-Year Student award in 2013, Best Second-Year Student in 2014, and both Best Third-Year and Best Overall Student awards in 2015, claimed the Best B-Tech Student award in 2016.",
         "source": "EdNews Africa",
         "published": "2026-10-06T07:15:41+00:00",
         "region": "east_africa",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Nvidia-backed Reflection AI challenges Chinese dominance in open-weight models",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3369885/nvidia-backed-reflection-ai-challenges-chinese-dominance-open-weight-models?utm_source=rss_feed",
-        "summary": "An Nvidia-backed US start-up has unveiled an open-weight model to challenge China’s dominance in freely available artificial intelligence, releasing a system that early third-party testing suggests could be one of the most token-efficient open models in its class. Reflection AI on Monday debuted Beam, its first open-weight model built for coding, reasoning and agentic tasks. The US firm said Beam was “competitive” with GLM-5.2 from Z.ai – also known as Zhipu AI – and was “approaching” Alibaba...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T07:00:07+00:00",
-        "region": "east_asia",
         "streams": [
           "higher"
         ],
@@ -1870,54 +1918,6 @@
         "source": "Inside Higher Ed",
         "published": "2026-10-06T07:00:00+00:00",
         "region": "north_america",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "China tried 3 times to talk crime families out of scam business in Myanmar: state media",
-        "url": "https://www.scmp.com/news/china/politics/article/3369886/china-tried-3-times-talk-crime-families-out-scam-business-myanmar-state-media?utm_source=rss_feed",
-        "summary": "China tried three times to persuade powerful families in northern Myanmar to shut down scam operations before Myanmar police carried out large-scale arrests in 2023, according to a new documentary broadcast on Chinese state television. The three-part documentary, jointly produced by China’s Ministry of Public Security and state broadcaster CCTV, began airing on Monday. It shows obstacles faced by Chinese authorities in pursuing criminal networks and scam groups operating in northern Myanmar...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T06:44:14+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Ukraine attacks Moscow region with 650 drones as both sides step up strikes",
-        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3369888/ukraine-attacks-moscow-region-650-drones-both-sides-step-strikes?utm_source=rss_feed",
-        "summary": "A massive attack involving 650 drones targeted Moscow overnight, leaving at least two dead, Russian authorities said on Tuesday. Most of the drones were destroyed by air defences at long range, including 105 intercepted as they approached the capital, Moscow Mayor Sergei Sobyanin wrote on Telegram. Russian state news agency Tass reported it was the second-largest drone attack on the capital region in the past two years. The dead included a 71-year-old man pulled from under the rubble ‌of a house...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T06:44:01+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Japan PM Takaichi defends skipping G7 online meeting",
-        "url": "https://www.scmp.com/news/asia/east-asia/article/3369884/japan-pm-takaichi-defends-skipping-g7-online-meeting?utm_source=rss_feed",
-        "summary": "Japanese Prime Minister Sanae Takaichi defended her absence from a Group of Seven online meeting, responding over social media to some critics who questioned why she did not attend despite her apparently free schedule. “This was a last-minute meeting arranged by the chair, France, and allowed for substitute representatives. I understand that UK Prime Minister Burnham did not attend in person and had someone fill in for him, and that European Council president Costa was also absent,” she posted...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T06:24:08+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "John Lee promises ‘high-quality’ experience for Apec finance meeting guests",
-        "url": "https://www.scmp.com/news/hong-kong/politics/article/3369881/john-lee-promises-high-quality-experience-apec-finance-meeting-guests?utm_source=rss_feed",
-        "summary": "Hong Kong’s leader has pledged to provide guests attending this month’s Apec Finance Ministers’ Meeting with a “high-quality” experience, as the city works closely with Beijing to assist delegations with the registration process. About 500 guests, including finance ministers and senior officials from the 21 member economies, are expected to attend the annual meeting on October 20 and 21, which will be hosted by Hong Kong for the first time at the Convention and Exhibition Centre in Wan...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T05:59:31+00:00",
-        "region": "east_asia",
         "streams": [
           "higher"
         ],
@@ -2395,7 +2395,7 @@
         "url": "https://www.thehindu.com/education/rebel-aap-mlas-poser-on-education-revolution-in-punjab-a-reality-check/article71550187.ece",
         "summary": "AAP has since made school education a central part of its political identity. Its initiatives include the Schools of Eminence scheme, teacher training, foundational-learning programmes, and larger parent-teacher meetings.",
         "source": "The Hindu — Education",
-        "published": "2026-10-06T06:45:38+00:00",
+        "published": "2026-10-06T10:39:37+00:00",
         "region": "south_asia",
         "streams": [
           "teacher"
@@ -2705,6 +2705,18 @@
         "summary": "The humble pawn has a few tricks up its sleeve!",
         "source": "Duolingo — Blog",
         "published": "2026-10-06T12:00:54+00:00",
+        "region": "global",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
+      {
+        "title": "How Jump Trading is scaling quant research with ChatGPT",
+        "url": "https://openai.com/index/jump-trading",
+        "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+        "source": "OpenAI — News & Research",
+        "published": "2026-10-06T12:00:00+00:00",
         "region": "global",
         "streams": [
           "edtech"
@@ -3605,18 +3617,6 @@
           "edtech"
         ],
         "stream": "edtech"
-      },
-      {
-        "title": "What Makes Dual Enrollment Actually Work: Robust Student & Family Support & Career Connection",
-        "url": "https://www.gettingsmart.com/2026/09/21/what-makes-dual-enrollment-actually-work-robust-student-family-support-career-connection/",
-        "summary": "The third installment in our four-part series with Britebound moves beyond course design to ask a harder question: who is responsible when a student struggles? This post makes the case that robust dual enrollment requires named staff, early drop windows, family scaffolding, and mentors who open doors to careers students have never had reason to imagine. For district leaders building or scaling concurrent enrollment programs, this is the support infrastructure blueprint you have been looking for. The post What Makes Dual Enrollment Actually Work: Robust Student & Family Support & Career Connect",
-        "source": "Getting Smart",
-        "published": "2026-09-21T09:15:00+00:00",
-        "region": "north_america",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
       }
     ],
     "policy": [
@@ -3625,8 +3625,56 @@
         "url": "https://kathmandupost.com/world/2026/10/06/cornell-students-stage-anti-rape-rally-in-support-of-jane-doe",
         "summary": "Hundreds of students, faculty supporters and activists marched through campus, demanding an independent inquiry into the university’s handling of the alleged 2024 gang rape and stronger action against sexual violence.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-06T22:04:51.182942+00:00",
+        "published": "2026-10-07T03:34:28.939625+00:00",
         "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "People of All Ages Join French Student Protests, as Movement Broadens",
+        "url": "https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html",
+        "summary": "Union members, parents, teachers and others took part in mass demonstrations around the country, backing student demands that the government invest more in schools.",
+        "source": "New York Times — Education",
+        "published": "2026-10-07T03:04:08+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Nene Royal makes voice-acting debut in Disney's 'Hexed'",
+        "url": "https://www.bangkokpost.com/learning/easy/3332855/nene-royal-makes-voiceacting-debut-in-disneys-hexed",
+        "summary": "Nene Royal, the 16-year-old Thai rocker who won America's Got Talent 2026, will make her acting debut as the Thai voice of Billie Doe, the lead character in Disney's Hexed.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-10-07T01:03:00+00:00",
+        "region": "southeast_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Central Plains floods easing, risk moving South",
+        "url": "https://www.bangkokpost.com/learning/easy/3332853/central-plains-floods-easing-risk-moving-south",
+        "summary": "Floods continue to affect parts of Bangkok and 27 provinces, mostly in the Central Plains, but the risk is moving southwards with the approach of the annual northeast monsoon.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-10-07T00:53:00+00:00",
+        "region": "southeast_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Cornell Faculty Senate Plans No-Confidence Vote Over Handling of Sexual Assault Allegations",
+        "url": "https://www.nytimes.com/2026/10/06/nyregion/cornell-faculty-no-confidence.html",
+        "summary": "The faculty senate plans to vote on a rare resolution of no confidence over the handling of sexual assault allegations. On Tuesday, some faculty members criticized the university president’s latest comments.",
+        "source": "New York Times — Education",
+        "published": "2026-10-06T23:03:54+00:00",
+        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -3673,7 +3721,7 @@
         "url": "https://www.nytimes.com/2026/10/06/opinion/letters/cornell-rape-investigation.html",
         "summary": "Readers respond to The Times’s coverage of the Cornell rape investigation and the history of sexual assault on campuses.",
         "source": "New York Times — Education",
-        "published": "2026-10-06T19:25:22+00:00",
+        "published": "2026-10-06T19:25:23+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -3753,18 +3801,6 @@
         "stream": "policy"
       },
       {
-        "title": "People of All Ages Join French Student Protests, as Movement Broadens",
-        "url": "https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html",
-        "summary": "Union members, parents, teachers and others took part in mass demonstrations around the country, backing student demands that the government invest more in schools.",
-        "source": "New York Times — Education",
-        "published": "2026-10-06T16:14:08+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
         "title": "Student Protests in France",
         "url": "https://www.nytimes.com/2026/10/06/briefing/student-protests-in-france.html",
         "summary": "We also look at a demonstration on Cornell’s campus.",
@@ -3777,12 +3813,12 @@
         "stream": "policy"
       },
       {
-        "title": "Cornell Faculty Senate Plans No-Confidence Vote Over Handling of Sexual Assault Allegations",
-        "url": "https://www.nytimes.com/2026/10/06/nyregion/cornell-faculty-no-confidence.html",
-        "summary": "The faculty senate plans to vote on a rare resolution of no confidence over administrators’ handling of allegations of sexual assault by fraternity members in 2024.",
-        "source": "New York Times — Education",
-        "published": "2026-10-06T13:34:44+00:00",
-        "region": "north_america",
+        "title": "No classroom, no fans: inside a rural government school in Haryana",
+        "url": "https://www.thehindu.com/education/no-classroom-no-fans-inside-a-rural-government-school-in-haryana/article71550342.ece",
+        "summary": "Nearly half of all sanctioned teaching posts in Nuh’s government schools are vacant. Twenty-nine schools have no regular teacher, while 87 have just one. The district also has Haryana’s highest elementary dropout rate, at 12.84%.",
+        "source": "The Hindu — Education",
+        "published": "2026-10-06T13:07:47+00:00",
+        "region": "south_asia",
         "streams": [
           "policy"
         ],
@@ -3794,6 +3830,18 @@
         "summary": "In an exclusive interaction with ETEducation, Woodin discusses U of T’s expanding academic and research engagement with India, the role of AI and graduate mobility, and the university’s new C$100 million global PhD scholarship programme.",
         "source": "Economic Times — Education (India)",
         "published": "2026-10-06T11:37:54+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Toilets are now built in most schools; but maintenance lags behind: data",
+        "url": "https://www.thehindu.com/education/toilets-are-now-built-in-most-schools-but-maintanence-lags-behind-data/article71546382.ece",
+        "summary": "At the 12th anniversary of Swachh Bharat, nearly all schools in India have a toilet and access to drinking water; the greater challenge today is ensuring that these facilities remain functional, with girls facing the most significant risks.",
+        "source": "The Hindu — Education",
+        "published": "2026-10-06T11:27:07+00:00",
         "region": "south_asia",
         "streams": [
           "policy"
@@ -3891,18 +3939,6 @@
         "source": "Bangkok Post — Education (Thailand)",
         "published": "2026-10-06T01:31:00+00:00",
         "region": "southeast_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Toilets are now built in most schools; but maintanence lags behind: data",
-        "url": "https://www.thehindu.com/education/toilets-are-now-built-in-most-schools-but-maintanence-lags-behind-data/article71546382.ece",
-        "summary": "At the 12th anniversary of Swachh Bharat, nearly all schools in India have a toilet and access to drinking water; the greater challenge today is ensuring that these facilities remain functional, with girls facing the most significant risks.",
-        "source": "The Hindu — Education",
-        "published": "2026-10-05T19:19:12+00:00",
-        "region": "south_asia",
         "streams": [
           "policy"
         ],
@@ -4539,42 +4575,6 @@
         "source": "The 74 Million",
         "published": "2026-10-02T12:30:00+00:00",
         "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "UN Human Rights Council 63: UK Statement on the Interactive Dialogue on Haiti",
-        "url": "https://www.gov.uk/government/speeches/un-human-rights-council-63-uk-statement-on-the-interactive-dialogue-on-haiti",
-        "summary": "UK Statement on the Interactive Dialogue on Haiti. Delivered by the UK's Human Rights Ambassador, Eleanor Sanders.",
-        "source": "FCDO (UK) — Education & Development",
-        "published": "2026-10-02T12:23:03+00:00",
-        "region": "global",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Tariffs Are Making Instruments So Expensive, School Music Programs Are at Risk",
-        "url": "https://www.nytimes.com/2026/10/02/business/economy/tariffs-instruments-school-music-programs.html",
-        "summary": "When a single cello can cost $1,000 and a tuba $9,000, tariffs are straining meager band and orchestra budgets.",
-        "source": "New York Times — Education",
-        "published": "2026-10-02T09:03:00+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "‘No curfews, fix the streets instead’: Delhi students spotlight safety outside campus",
-        "url": "https://www.thehindu.com/education/no-curfews-fix-the-streets-instead-delhi-students-spotlight-safety-outside-campus/article71523144.ece",
-        "summary": "Women across Delhi’s colleges describe changing routes, travelling in groups, avoiding certain roads after dark, or leaving college early. Their concerns extend beyond the campus perimeter to the roads, parks, metro stations, and neighbourhoods that make up their daily commute.",
-        "source": "The Hindu — Education",
-        "published": "2026-10-02T06:26:26+00:00",
-        "region": "south_asia",
         "streams": [
           "policy"
         ],
@@ -5546,6 +5546,18 @@
     ],
     "funding": [
       {
+        "title": "Land sales offer only temporary relief for West Kowloon arts hub, experts warn",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3369960/land-sales-offer-only-temporary-relief-west-kowloon-arts-hub-experts-warn?utm_source=rss_feed",
+        "summary": "Hong Kong’s West Kowloon Cultural District is betting on property development to ease its financial pressures amid a widening operating deficit, but experts have warned that land sales will only provide temporary relief and cannot replace a sustainable long-term funding model for the arts hub. The warning comes as the West Kowloon Cultural District Authority prepares to tender a prime residential site in the first half of next year, a potentially lucrative project that property experts expect to...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T00:00:31+00:00",
+        "region": "east_asia",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
         "title": "Ernest May Fellowship in History and Policy 2027-2028 (stipend available)",
         "url": "https://opportunitydesk.org/2026/10/06/ernest-may-fellowship-in-history-and-policy-2027-2028/",
         "summary": "Deadline: December 1, 2026 Applications for the Ernest May Fellowship in History and Policy 2027-2028 are now open. The Ernest May Fellowships honor Ernest May, Charles Warren Professor of American History, a member of the Belfer Center’s board of directors, and a faculty affiliate of the Center’s International Security Program, who passed away in June [...]",
@@ -5612,18 +5624,6 @@
         "source": "Opportunity Desk — Scholarships & Fellowships",
         "published": "2026-10-06T10:04:32+00:00",
         "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "West Kowloon arts hub deficit widens to HK$998 million as operating costs rise",
-        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369906/west-kowloon-arts-hub-deficit-widens-hk998m-operating-costs-rise?utm_source=rss_feed",
-        "summary": "The authority managing Hong Kong’s arts hub in West Kowloon recorded a wider deficit in the 2025-26 financial year but expects to generate more income next year by putting a residential development project out to tender. The West Kowloon Cultural District Authority’s deficit ballooned to HK$998 million (US$127 million) in the year to March 31, from HK$769 million in the same period a year earlier. The increase was mainly due to higher operating costs as it prepared the new WestK Performing Arts...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T08:14:47+00:00",
-        "region": "east_asia",
         "streams": [
           "funding"
         ],
@@ -6264,7 +6264,7 @@
         "url": "https://kathmandupost.com/world/2026/10/06/cornell-students-stage-anti-rape-rally-in-support-of-jane-doe",
         "summary": "Hundreds of students, faculty supporters and activists marched through campus, demanding an independent inquiry into the university’s handling of the alleged 2024 gang rape and stronger action against sexual violence.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-06T22:04:51.182942+00:00",
+        "published": "2026-10-07T03:34:28.939625+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6276,7 +6276,19 @@
         "url": "https://kathmandupost.com/world/2026/10/06/students-and-teachers-march-in-france-on-biggest-day-of-high-school-protests",
         "summary": "Tuesday’s demonstrations come after a fortnight of protests which began in Paris’s deprived suburbs before spreading across the country.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-06T22:04:51.182394+00:00",
+        "published": "2026-10-07T03:34:28.938680+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "School protests sweeping France cause ‘heaviest toll in decades’",
+        "url": "https://kathmandupost.com/world/2026/10/07/school-protests-sweeping-france-cause-heaviest-toll-in-decades",
+        "summary": "More than 250,000 people join nationwide marches over school funding, staffing and poor conditions as clashes leave hundreds of students and staff injured.",
+        "source": "The Kathmandu Post — Nepal",
+        "published": "2026-10-07T03:34:28.937813+00:00",
         "stream": "school",
         "streams": [
           "school"
@@ -6296,6 +6308,18 @@
         "region": "south_asia"
       },
       {
+        "title": "No classroom, no fans: inside a rural government school in Haryana",
+        "url": "https://www.thehindu.com/education/no-classroom-no-fans-inside-a-rural-government-school-in-haryana/article71550342.ece",
+        "summary": "Nearly half of all sanctioned teaching posts in Nuh’s government schools are vacant. Twenty-nine schools have no regular teacher, while 87 have just one. The district also has Haryana’s highest elementary dropout rate, at 12.84%.",
+        "source": "The Hindu — Education",
+        "published": "2026-10-06T13:07:47+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
         "title": "Jio Institute partnership adds to University of Toronto’s India push; President Melanie Woodin on AI, talent and PhDs",
         "url": "https://education.economictimes.indiatimes.com/news/higher-education/jio-institute-partnership-adds-to-university-of-torontos-india-push-president-melanie-woodin-on-ai-talent-and-phds/134738948",
         "summary": "In an exclusive interaction with ETEducation, Woodin discusses U of T’s expanding academic and research engagement with India, the role of AI and graduate mobility, and the university’s new C$100 million global PhD scholarship programme.",
@@ -6304,6 +6328,30 @@
         "stream": "policy",
         "streams": [
           "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "Toilets are now built in most schools; but maintenance lags behind: data",
+        "url": "https://www.thehindu.com/education/toilets-are-now-built-in-most-schools-but-maintanence-lags-behind-data/article71546382.ece",
+        "summary": "At the 12th anniversary of Swachh Bharat, nearly all schools in India have a toilet and access to drinking water; the greater challenge today is ensuring that these facilities remain functional, with girls facing the most significant risks.",
+        "source": "The Hindu — Education",
+        "published": "2026-10-06T11:27:07+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "Rebel AAP MLA’s poser on ‘education revolution’ in Punjab: a reality check",
+        "url": "https://www.thehindu.com/education/rebel-aap-mlas-poser-on-education-revolution-in-punjab-a-reality-check/article71550187.ece",
+        "summary": "AAP has since made school education a central part of its political identity. Its initiatives include the Schools of Eminence scheme, teacher training, foundational-learning programmes, and larger parent-teacher meetings.",
+        "source": "The Hindu — Education",
+        "published": "2026-10-06T10:39:37+00:00",
+        "stream": "teacher",
+        "streams": [
+          "teacher"
         ],
         "region": "south_asia"
       },
@@ -6320,18 +6368,6 @@
         "region": "south_asia"
       },
       {
-        "title": "BISE Bannu, DI Khan postpone this week’s exams, citing suspension of communication services",
-        "url": "https://www.dawn.com/news/2035134/bise-bannu-di-khan-postpone-this-weeks-exams-citing-suspension-of-communication-services",
-        "summary": "BANNU: The Board of Intermediate and Secondary Education (BISE) Bannu has postponed the Secondary School Certificate (SSC) Annual-II/Oriental Languages Examination 2026 papers scheduled for October 7, 8, 9 and 10 due to the security situation in the region. According to a notification issued by the BISE Bannu chairman on October 3, the decision was taken in view of the prevailing security situation and the suspension of mobile phone and internet services within the board’s jurisdiction. The board said the suspension of communication services could cause serious inconvenience to students, paren",
-        "source": "Dawn — Pakistan",
-        "published": "2026-10-06T07:34:27+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
-        ],
-        "region": "south_asia"
-      },
-      {
         "title": "A look at the first Model Peace Summit held at King’s College India",
         "url": "https://www.thehindu.com/education/a-look-at-the-first-model-peace-summit-held-at-kings-college-india/article71547384.ece",
         "summary": "",
@@ -6340,18 +6376,6 @@
         "stream": "policy",
         "streams": [
           "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "Rebel AAP MLA’s poser on ‘education revolution’ in Punjab: a reality check",
-        "url": "https://www.thehindu.com/education/rebel-aap-mlas-poser-on-education-revolution-in-punjab-a-reality-check/article71550187.ece",
-        "summary": "AAP has since made school education a central part of its political identity. Its initiatives include the Schools of Eminence scheme, teacher training, foundational-learning programmes, and larger parent-teacher meetings.",
-        "source": "The Hindu — Education",
-        "published": "2026-10-06T06:45:38+00:00",
-        "stream": "teacher",
-        "streams": [
-          "teacher"
         ],
         "region": "south_asia"
       },
@@ -6373,18 +6397,6 @@
         "summary": "Finishing first is not always a sign of being good at Maths. What is important is the time taken to question, explore, make connections, and arrive at an answer",
         "source": "The Hindu — Education",
         "published": "2026-10-06T03:13:54+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "Toilets are now built in most schools; but maintanence lags behind: data",
-        "url": "https://www.thehindu.com/education/toilets-are-now-built-in-most-schools-but-maintanence-lags-behind-data/article71546382.ece",
-        "summary": "At the 12th anniversary of Swachh Bharat, nearly all schools in India have a toilet and access to drinking water; the greater challenge today is ensuring that these facilities remain functional, with girls facing the most significant risks.",
-        "source": "The Hindu — Education",
-        "published": "2026-10-05T19:19:12+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6514,7 +6526,7 @@
       {
         "title": "Some schools are full, others are struggling for students: What Girish Kumar Sachdev sees changing in India’s K-12 market",
         "url": "https://education.economictimes.indiatimes.com/news/school-education/some-schools-are-full-others-are-struggling-for-students-what-girish-kumar-sachdev-sees-changing-in-indias-k-12-market/134674770",
-        "summary": "Girish Kumar Sachdev, Member, Board of Management, DPS Indirapuram, oversees schools serving around 6000 students across junior and senior school. In a conversation with ETEducation, he discusses uneven demand across school markets, growing competition, international curricula, maintaining quality at scale and why schools need to rethink how they use technology and AI.",
+        "summary": "Girish Kumar Sachdev, Member, Board of Management, DPS Indirapuram, oversees schools serving around 12,500 students across DPS Indirapuram, DPS Raj Nagar Extension and Pacific World School. In a conversation with ETEducation, he discusses uneven demand across school markets, growing competition, international curricula, maintaining quality at scale and why schools need to rethink how they use technology and AI.",
         "source": "Economic Times — Education (India)",
         "published": "2026-10-05T00:30:00+00:00",
         "stream": "school",
@@ -6721,18 +6733,6 @@
         "summary": "Across fashion, products, graphics, automotive, animation and interiors, Indian designers are treating our native cultures as a source of ideas, methods and perhaps – an emerging design identity.",
         "source": "The Hindu — Education",
         "published": "2026-09-30T18:11:17+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "NCERT textbook revives debatable theory on Sengol handed to Nehru",
-        "url": "https://www.thehindu.com/education/ncert-textbook-revives-debatable-theory-on-sengol-handed-to-nehru/article71529216.ece",
-        "summary": "The Class 9 social science textbook links mottos such as Satyameva Jayate to Mundaka Upanishad and Supreme Court’s Yato Dharmastato Jayah to the epic Mahabharata",
-        "source": "The Hindu — Education",
-        "published": "2026-09-30T15:15:54+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -7191,6 +7191,30 @@
     "mena": [],
     "southeast_asia": [
       {
+        "title": "Nene Royal makes voice-acting debut in Disney's 'Hexed'",
+        "url": "https://www.bangkokpost.com/learning/easy/3332855/nene-royal-makes-voiceacting-debut-in-disneys-hexed",
+        "summary": "Nene Royal, the 16-year-old Thai rocker who won America's Got Talent 2026, will make her acting debut as the Thai voice of Billie Doe, the lead character in Disney's Hexed.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-10-07T01:03:00+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "southeast_asia"
+      },
+      {
+        "title": "Central Plains floods easing, risk moving South",
+        "url": "https://www.bangkokpost.com/learning/easy/3332853/central-plains-floods-easing-risk-moving-south",
+        "summary": "Floods continue to affect parts of Bangkok and 27 provinces, mostly in the Central Plains, but the risk is moving southwards with the approach of the annual northeast monsoon.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-10-07T00:53:00+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "southeast_asia"
+      },
+      {
         "title": "Bangkok canals being drained ahead of more rain",
         "url": "https://www.bangkokpost.com/learning/easy/3332193/bangkok-canals-being-drained-ahead-of-more-rain",
         "summary": "Flood drainage is being sped up in eastern areas of Bangkok ahead of heavy rain forecast over several days later this week.",
@@ -7280,30 +7304,6 @@
         "summary": "Prime Minister Anutin Charnvirakul has signed an order revoking the Thai citizenship of an Israeli-born man for failing to disclose and renounce other nationalities upon naturalisation.",
         "source": "Bangkok Post — Education (Thailand)",
         "published": "2026-10-02T01:53:00+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "southeast_asia"
-      },
-      {
-        "title": "Only 18% of 10,000-bag backlog cleared at Suvarnabhumi",
-        "url": "https://www.bangkokpost.com/learning/advanced/3329523/only-18-of-10000bag-backlog-cleared-at-suvarnabhumi",
-        "summary": "A total of 10,000 pieces of luggage piled up at Suvarnabhumi airport between Sept 26 and 28 as a result of flooding and operational failures by Thai Airways International, with only 18% cleared as of Wednesday, according to Transport Minister Phiphat Ratchakitprakarn.",
-        "source": "Bangkok Post — Education (Thailand)",
-        "published": "2026-10-01T01:04:00+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "southeast_asia"
-      },
-      {
-        "title": "PM defends handing out cash to flood victims",
-        "url": "https://www.bangkokpost.com/learning/easy/3329519/pm-defends-handing-out-cash-to-flood-victims",
-        "summary": "Prime Minister Anutin Charnvirakul was seen handing out cash to flood-hit residents of communities in Sai Mai district of Bangkok late on Tuesday, sparking online debate after footage was shared in a Facebook live stream.",
-        "source": "Bangkok Post — Education (Thailand)",
-        "published": "2026-10-01T00:47:00+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -7435,6 +7435,174 @@
     ],
     "east_asia": [
       {
+        "title": "Hong Kong police investigate case of girl, 10, made to carry bags of beer",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3369975/hong-kong-police-investigate-case-girl-10-made-carry-bags-beer?utm_source=rss_feed",
+        "summary": "Hong Kong police are investigating the case of a 10-year-old girl who was made to carry bags of beer after videos were posted online showing her being berated by a man amid a confrontation with bystanders concerned about her wellbeing. Police said they received a report at about 10.30pm on Tuesday of a girl in school uniform being made to carry two bags containing numerous beer cans to a building at Fu Tai Estate in Tuen Mun. Officers attended the scene, but no arrests were made and...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T03:17:16+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "521kg of meth seized from Laos private jet bound for Manila, not Malaysia: police",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369969/521kg-meth-seized-laos-private-jet-bound-manila-not-malaysia-police?utm_source=rss_feed",
+        "summary": "The 521kg (1,148lbs) of suspected methamphetamine seized by Laotian authorities from a private jet was not sourced from Malaysia, with the drugs believed to have originated in Laos and been destined for Manila, the Philippines. Bukit Aman Narcotics Crime Investigation Department (NCID) director Hussein Omar Khan said police were informed by Laotian authorities on Tuesday that the cross-border smuggling attempt had been foiled at Luang Prabang International Airport last Thursday. Hussein said the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T02:30:22+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Chinese woman snaps up nearly 200 parking spaces to flip to neighbours for profit",
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3369958/chinese-woman-snaps-nearly-200-parking-spaces-flip-neighbours-profit?utm_source=rss_feed",
+        "summary": "A woman in central China invested 14 million yuan (US$2 million) to acquire 196 parking spaces in a residential community, later selling them at a significant mark-up, which led to furious residents suing her. The lawsuit centred around a residential block, the name of which was not disclosed, located in Changsha, Hunan province. The property project was completed and put on the market in 2018. At the time, many were sceptical about the community’s prospects due to a lack of essential public...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T02:00:10+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Malaysia’s Myanmar bet? Repatriations pave way for diplomacy",
+        "url": "https://www.scmp.com/week-asia/people/article/3369953/malaysias-myanmar-bet-repatriations-pave-way-diplomacy?utm_source=rss_feed",
+        "summary": "Malaysia’s repatriation of Myanmar nationals ahead of a visit to Kuala Lumpur by the war-torn country’s leader appears to mirror efforts by other Asean countries seeking to mend ties with Naypyidaw. Several members of the Association of Southeast Asian Nations have stepped up engagement with Myanmar at the bilateral level recently, raising questions about whether a gradual normalisation between the bloc and the country could undermine efforts to end its civil war, according to analysts. Nearly...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T01:30:13+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Hong Kong’s AI city brain must understand how people really speak",
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3369697/hong-kongs-ai-city-brain-must-understand-how-people-really-speak?utm_source=rss_feed",
+        "summary": "Chief Executive John Lee Ka-chiu’s vision of an “AI city brain” is bold and timely. An integrated system linking data across transport, public works, environmental monitoring and emergency response could help Hong Kong manage risks more proactively and coordinate services more effectively. The initiative is highly commendable. It also raises a critical question: can a city brain truly understand a city if it does not understand how its people communicate? The truth is that communication is...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T01:30:09+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "US military in Japan’s Okinawa imposes night curfew after marine’s arrest over murder",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3369968/us-military-japans-okinawa-imposes-night-curfew-after-marines-arrest-over-murder?utm_source=rss_feed",
+        "summary": "The US military in Okinawa will impose a curfew from midnight to 5am for a month starting Friday following the arrest of a marine on suspicion of robbing and murdering a local woman, its regional coordinator said on Tuesday. All US military personnel on Okinawa will also observe a 48-hour operational pause from noon on Wednesday, during which there will be “no off-base liberty, including a complete prohibition of alcohol consumption on or off base”, said Lieutenant General Benjamin Watson,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T01:03:35+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "China’s DeepZang AI aims to transform Tibetan language tech, promote ethnic unity",
+        "url": "https://www.scmp.com/news/china/politics/article/3369938/chinas-deepzang-ai-aims-transform-tibetan-language-tech-promote-ethnic-unity?utm_source=rss_feed",
+        "summary": "Creators of China’s first Tibetan-language AI model have pledged to speed up upgrades aimed at promoting ethnic integration. Approaches to advancing the large language model, DeepZang, were discussed at a seminar on Monday that brought together representatives from research institutes, universities and enterprises, according to state-run portal Chinanews.com. It said the event held in Hohhot, in China’s northern Inner Mongolia autonomous region, addressed issues such as improving Tibetan...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T01:00:07+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Land sales offer only temporary relief for West Kowloon arts hub, experts warn",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3369960/land-sales-offer-only-temporary-relief-west-kowloon-arts-hub-experts-warn?utm_source=rss_feed",
+        "summary": "Hong Kong’s West Kowloon Cultural District is betting on property development to ease its financial pressures amid a widening operating deficit, but experts have warned that land sales will only provide temporary relief and cannot replace a sustainable long-term funding model for the arts hub. The warning comes as the West Kowloon Cultural District Authority prepares to tender a prime residential site in the first half of next year, a potentially lucrative project that property experts expect to...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T00:00:31+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "As bear attacks rise in Japan, fearful residents change daily routines",
+        "url": "https://www.scmp.com/week-asia/health-environment/article/3369955/bear-attacks-rise-japan-fearful-residents-change-daily-routines?utm_source=rss_feed",
+        "summary": "Jeff Kingston used to take long walks with his dogs across the hills of Gunma in central Japan. But not this year. He has good reason. Kingston said he has encountered bears in those mountains more than 100 times over the years and been charged by aggressive bears around a dozen times. In 2014, a black bear knocked him down and attacked him across the skull with its claws, leaving a gash that required nine stitches. “This year, I have actively refrained from going into the hills precisely...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-07T00:00:28+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "US, WHO press Moscow over plague after death of Russian lab tech",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369967/trump-says-will-speak-putin-plague-after-death-russian-lab-tech?utm_source=rss_feed",
+        "summary": "US President Donald Trump said Tuesday he would speak very soon with Russian President Vladimir Putin over the reported plague death of a laboratory technician, as Washington and the United Nations called for transparency from Moscow. Russian authorities denied that they were imposing anti-plague measures and played down the reports of an incident at a plague research institute in Siberia’s Irkutsk region last week. But Washington is showing growing concern, with Secretary of State Marco Rubio...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-06T23:42:07+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Hong Kong’s first-store appeal grows as more Japanese, South Korean and Thai brands arrive",
+        "url": "https://www.scmp.com/business/article/3369937/hong-kongs-first-store-appeal-grows-more-japanese-south-korean-and-thai-brands-arrive?utm_source=rss_feed",
+        "summary": "Japanese, South Korean and Thai brands have increased their share of new entrants in Hong Kong’s retail property market by 7 percentage points to more than one-third in the first nine months of 2026, while the demand for shops from mainland Chinese brands has slipped, according to Cushman & Wakefield. A slew of new brands helped lift the combined share of Japanese, South Korean and Thai brands to a three-year high, according to Cushman, which said it expected the trend to continue. This year,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-06T23:00:08+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "US resident arrested in connection to Canada school shooting",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369966/us-resident-arrested-connection-canada-school-shooting?utm_source=rss_feed",
+        "summary": "US authorities arrested ⁠a person in Washington state on Tuesday ⁠who they accuse of providing advice and offering to live-stream a deadly mass shooting carried out earlier this year in Canada. James Cody Bryant, 30, was detained on a charge of conspiracy to murder people in a foreign country in connection to the shooting at ‌Tumbler Ridge, according to the Department of Justice. The charge carries a penalty of up to life in prison. Bryant was in repeated contact with the shooter, Jesse Van...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-06T22:43:44+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "China’s economy to slow as global growth stays solid, US think tank report says",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3369965/chinas-economy-slow-global-growth-stays-solid-us-think-tank-report-says?utm_source=rss_feed",
+        "summary": "China’s economic growth is expected to slow further next year as export strength fades and weak domestic demand persists, even as the global economy remains resilient, according to a new outlook from the Peterson Institute for International Economics (PIIE). The Washington-based think tank projects China’s GDP will grow 4.6 per cent this year and 4.3 per cent in 2027, down from 5 per cent growth in 2025, according to its semi-annual Global Economic Prospects report, released on Tuesday. The...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-06T22:40:48+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Ex-CIA official accused of stealing US$40 million in gold bars pleads guilty",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369964/ex-cia-official-accused-stealing-us40-million-gold-bars-pleads-guilty?utm_source=rss_feed",
+        "summary": "A former senior CIA official pleaded guilty Tuesday in Virginia to a charge that he abused his position and government funds to enrich himself by acquiring Florida real estate and hundreds of gold bars worth over US$40 million, according to court records. David Rush fabricated a “highly classified” government programme to justify the acquisition of luxury property in south Florida that he intended to resell for personal profit, according to a court filing. Rush separately concocted a bogus...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-06T22:09:50+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
         "title": "After cordial Xi-Trump summit, could China’s US dollar pivot cause tremors?",
         "url": "https://www.scmp.com/economy/global-economy/article/3369918/after-cordial-xi-trump-summit-could-chinas-us-dollar-pivot-cause-tremors?utm_source=rss_feed",
         "summary": "As President Xi Jinping and US President Donald Trump talked tariffs, agricultural quotas and critical minerals at last month’s closely watched summit in Washington, an “elephant in the room” loomed over the discussion: China’s efforts to gradually diversify away from US dollar assets. Beijing has gradually been cutting its holdings of US Treasuries while pushing to expand the yuan’s global use and developing alternative financial architecture. While these issues may not have featured in the...",
@@ -7459,9 +7627,9 @@
         "region": "east_asia"
       },
       {
-        "title": "Christa Pike conscious and speaking after Tennessee failed execution",
+        "title": "Christa Pike conscious and speaking after botched execution in US",
         "url": "https://www.scmp.com/news/world/united-states-canada/article/3369962/christa-pike-conscious-and-speaking-after-tennessee-failed-execution?utm_source=rss_feed",
-        "summary": "Christa Pike, a Tennessee inmate who survived Tennessee’s attempt to execute her, is awake and speaking as she receives treatment at a hospital, her lawyers said on Tuesday. “Against all odds, Christa Pike is conscious, speaking and continues to receive critical medical care. “Despite the severe damage she endured to her arms, she is still handcuffed and shackled to the bed. Her recovery is medically unprecedented. Her prognosis remains unclear but, at a minimum, we expect a long recovery,”...",
+        "summary": "Tennessee death row inmate Christa Pike is awake and speaking at a hospital, her lawyers said Tuesday, six days after the state’s failed attempt to execute her by lethal injection left her unconscious and on a ventilator. Pike, 50, survived two doses of pentobarbital as executioners attempted to put her to death last Wednesday for the 1995 beating and stabbing death of classmate Colleen Slemmer. The lethal injection drug didn’t kill her, but her lawyers said her arms were left burned and...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-06T21:33:51+00:00",
         "stream": "higher",
@@ -7485,7 +7653,7 @@
       {
         "title": "Trump says Iran could ‘take out’ Los Angeles or San Diego, drawing backlash",
         "url": "https://www.scmp.com/news/world/united-states-canada/article/3369961/trump-says-iran-could-take-out-los-angeles-or-san-diego-drawing-backlash?utm_source=rss_feed",
-        "summary": "US President Donald Trump suggested to a crowd of his supporters in Nebraska that Iran could “take out” a major US city like Los Angeles or San Diego, drawing a swift rebuke from California’s Democratic leaders and some fellow Republicans. Trump, speaking at a political rally in the state’s farm belt on Monday, discussed American wartime economic sacrifices and said he was determined to “see a tremendous victory, because it verifies all the things we did”. “And again, remember, with the ‌war,...",
+        "summary": "US President Donald Trump suggested to a crowd of his supporters in Nebraska that Iran could “take out” a major US city like Los Angeles or San Diego, drawing a swift rebuke from California’s Democratic leaders and some fellow Republicans. Trump, speaking at a political rally in the state’s farm belt on Monday, discussed American wartime economic sacrifices and said he was determined to “see a tremendous victory, because it verifies all the things we did”. “And again, remember, with the war,...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-06T17:34:35+00:00",
         "stream": "higher",
@@ -7687,9 +7855,9 @@
         "region": "east_asia"
       },
       {
-        "title": "French school unrest: students, teachers march on biggest day of protests",
+        "title": "School protests sweep France in most violent student demonstrations in decades",
         "url": "https://www.scmp.com/news/world/europe/article/3369936/french-school-unrest-students-teachers-march-biggest-day-protests?utm_source=rss_feed",
-        "summary": "Police fired tear ⁠gas at protesters blockading French high schools on Tuesday as students, teachers and parents took to the streets on the biggest day of action in a wave of demonstrations against understaffed and dilapidated classrooms. In Marseille and Nantes, protesters held up signs marked with “The state has killed national education” and other messages, in largely peaceful rallies. In Toulouse, parents linked arms at the front of a march through the city. But in Strasbourg, Lyon and...",
+        "summary": "Demonstrations swept across France on Tuesday as teachers and parents took ⁠to the streets with high school pupils on the biggest day of what Prime Minister Sebastien Lecornu described as the most violent student demonstrations in decades. Police fired tear gas and water cannons to disperse violent groups on the fringes of marches in Paris, Strasbourg, Rennes and Toulouse, among other cities. The marches drew more than 250,000 people in dozens of cities, the interior ministry said, though...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-06T11:35:05+00:00",
         "stream": "school",
@@ -7740,174 +7908,6 @@
         "summary": "Indonesia’s President Prabowo Subianto is seeking to keep potential rivals in his inner circle as he faces growing political pressure by appointing influential figures from across the political establishment to a presidential advisory council, according to analysts. The council, which advises the president on the direction of government policy but has no power to set or control it, comprises allies of former presidents, political commentators and Muslim leaders. “These are figures who have...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-06T10:41:50+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Fire breaks out on rooftop of residential building in Hong Kong’s Mong Kok",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3369931/fire-breaks-out-rooftop-residential-building-hong-kongs-mong-kok?utm_source=rss_feed",
-        "summary": "Firefighters battled a fierce rooftop blaze at a residential building in Hong Kong’s Mong Kok district for around an hour on Tuesday before dousing the flames. The Fire Services Department received a report at about 5.20pm that items stored on the rooftop of the 26-storey Block B of Shun King Building on Nelson Street had caught fire. No casualties were reported, while 40 residents fled the building. Firefighters tackled the blaze with one water jet. Strong flames and thick black smoke could be...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T10:35:24+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Hong Kong’s Generation Y unhappiest amid housing and economic pressures, poll finds",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3369930/hong-kongs-generation-y-unhappiest-amid-housing-and-economic-pressures-poll-finds?utm_source=rss_feed",
-        "summary": "Hong Kong’s Generation Y residents – those aged 30 to 45 – are the city’s unhappiest age group, largely because of dissatisfaction with economic and housing conditions, a poll has found. The Hong Kong Happiness Index stood at 5.87 out of 10, according to a survey of 1,039 adults conducted by HK.WeCare, an initiative under non-profit organisation Wofoo Social Enterprises. The score remained below the passing level for a fourth consecutive year, despite an overall upward trend since 2024. More...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T10:28:45+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Construction worker jailed for life for killing bus driver after smoking dispute",
-        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369928/construction-worker-jailed-life-killing-bus-driver-after-smoking-dispute?utm_source=rss_feed",
-        "summary": "A construction worker has been sentenced to life in prison for murdering a man who confronted him about smoking while they were waiting for a lift at a private housing estate in Hong Kong. A High Court jury on Tuesday found Tam Yun-chiu, 52, guilty of killing Ho Lok-man after hearing that he repeatedly punched the victim in the face, knocked him to the ground and kicked his head on the podium floor of Amoy Gardens in Kowloon Bay on September 19, 2023. Ho, a 48-year-old bus driver, became...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T10:08:12+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Public outcry as China nurse dies after on-duty brain bleed, but death ruled not work-related",
-        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3369926/public-outcry-china-nurse-dies-after-duty-brain-bleed-death-ruled-not-work-related?utm_source=rss_feed",
-        "summary": "The death of a 30-year-old nurse in southwestern China from a brain haemorrhage while on duty sparked outrage after authorities refused to classify her death as work-related. Chen Jiajia, a supervising nurse in the medical imaging department at Guizhou Maotai Hospital in Zunyi, experienced a severe headache and began vomiting while working on August 4, according to Dafeng News. Her colleagues swiftly rushed her for emergency treatment, and she subsequently underwent a craniotomy after being...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T10:00:40+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "‘Neutrino Man’ Francis Halzen wins Nobel Prize in Physics",
-        "url": "https://www.scmp.com/news/world/europe/article/3369925/francis-halzen-wins-2026-nobel-prize-physics?utm_source=rss_feed",
-        "summary": "Belgian-American particle physicist Francis Halzen won the 2026 Nobel ⁠Prize in Physics for his work creating an Antarctic observatory of ice to detect high-energy neutrinos, elusive subatomic particles that can reveal otherwise inaccessible information about the cosmos. Halzen, 82, realised that pristine ice at the South Pole could be used to track such neutrinos, sometimes known as “ghost particles” for the way they pass through the Earth without a trace, only interacting with matter extremely...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T09:56:51+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Kenya reports first Ebola case imported from DR Congo after patient dies",
-        "url": "https://www.scmp.com/news/world/africa/article/3369923/kenya-reports-first-ebola-case-imported-dr-congo-after-patient-dies?utm_source=rss_feed",
-        "summary": "Kenya reported its first-ever Ebola death, the health minister said on Tuesday, after a Kenyan man who had been living in the Democratic Republic of Congo died after returning to the country. The DR Congo declared its 17th Ebola outbreak in May. The deadly disease has killed more than 15,000 people in Africa over the past 50 years. Kenya has never previously reported a case. Neighbouring Uganda recorded 20 – almost all people who had travelled from the DR Congo – and two deaths, before being...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T09:39:31+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Hong Kong remains world’s freest economy as Switzerland overtakes Singapore",
-        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369922/hong-kong-remains-worlds-freest-economy-switzerland-overtakes-singapore?utm_source=rss_feed",
-        "summary": "Hong Kong has retained its status as the world’s freest economy in the latest annual ranking by a top Canadian think tank, although its score has declined in recent years. Switzerland overtook Singapore to claim second place in 2026, pushing the city state down to third in the league table released by the Fraser Institute on Tuesday. The Economic Freedom of the World report, compiled by the Vancouver-based public policy research organisation using data from 2024, ranked Hong Kong first among 165...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T09:36:16+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Why India is getting serious about ending the Ukraine war",
-        "url": "https://www.scmp.com/week-asia/politics/article/3369911/why-india-getting-serious-about-ending-ukraine-war?utm_source=rss_feed",
-        "summary": "India’s recent push to become more involved in helping end the Russia-Ukraine war comes as the costs of the conflict continue to mount for New Delhi, amid the threat of US tariffs on major buyers of Russian energy and a recent drone attack on an Indian-owned pharmaceutical plant in Ukraine. Sunday morning’s drone attack destroyed a large part of Kusum Group’s factory in Sumy, killing one person and injuring several others. The company, which has manufactured generic medicines in Ukraine since...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T09:30:06+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Germany joins France in call for China trade defences",
-        "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3369919/germany-joins-france-call-china-trade-defences?utm_source=rss_feed",
-        "summary": "Germany and France, the European Union’s two largest economies, jointly called for tougher EU trade defences, as European and Chinese negotiators prepare for crunch talks this week under the shadow of a potential trade war. “The open and rules-based trade system is massively affected by weaponisation of trade, systemic market-distorting practices, and global macroeconomic imbalances,” German Chancellor Friedrich Merz and French President Emmanuel Macron said in an open letter. “We need urgent...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T09:19:20+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "8 public officers in Singapore referred to police after property review",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369917/8-public-officers-singapore-referred-police-after-property-review?utm_source=rss_feed",
-        "summary": "Eight public service officers have been referred to Singapore police after a review of 191 officers’ property transactions, Coordinating Minister for Public Services Chan Chun Sing has told parliament. The review followed a working paper by the US-based National Bureau of Economic Research, which identified 2007 to 2011 as the period of concern. The Public Service Division (PSD) extended the scope to 2014 as a matter of prudence, Chan said on Tuesday, because many new MRT station locations...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T09:13:29+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Short trade truce can’t paper over realities of US-China relationship",
-        "url": "https://www.scmp.com/opinion/china-opinion/article/3369750/short-trade-truce-cant-paper-over-realities-us-china-relationship?utm_source=rss_feed",
-        "summary": "The recent US-China summit yielded a narrow, caution-filled outcome for bilateral trade: a two-month extension of the Kuala Lumpur trade truce, which now expires on January 10 next year. This reprieve eases fears of immediate tariff escalation and shows that head-of-state diplomacy can still curb spiralling confrontation. Yet the short timeline exposes the wide gulf separating the two sides’ priorities. China’s position has been unambiguous: removal of all punitive tariffs and restrictive...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T08:30:06+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "China’s Transsion, Africa’s top phone maker, targets US$500 million Hong Kong listing",
-        "url": "https://www.scmp.com/business/companies/article/3369908/chinas-transsion-africas-top-phone-maker-targets-us500-million-hong-kong-listing?utm_source=rss_feed",
-        "summary": "Shenzhen Transsion Holdings, the maker of Africa’s bestselling phones, aims to kick off its Hong Kong share offering on Wednesday to raise up to US$500 million ahead of a targeted October 15 listing, according to people familiar with the matter. The company, which already trades in Shanghai and has a market capitalisation of 62 billion yuan (US$9.24 billion), could offer up to 132 million offshore ordinary shares, according to approval documents from the China Securities Regulatory Commission...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T08:28:07+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "West Kowloon arts hub deficit widens to HK$998 million as operating costs rise",
-        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369906/west-kowloon-arts-hub-deficit-widens-hk998m-operating-costs-rise?utm_source=rss_feed",
-        "summary": "The authority managing Hong Kong’s arts hub in West Kowloon recorded a wider deficit in the 2025-26 financial year but expects to generate more income next year by putting a residential development project out to tender. The West Kowloon Cultural District Authority’s deficit ballooned to HK$998 million (US$127 million) in the year to March 31, from HK$769 million in the same period a year earlier. The increase was mainly due to higher operating costs as it prepared the new WestK Performing Arts...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T08:14:47+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Mox, BOCHK, ZA Bank and Citibank apps land among Asia-Pacific’s 10 best, study says",
-        "url": "https://www.scmp.com/business/banking-finance/article/3369900/mox-bochk-za-bank-and-citibank-apps-land-among-asia-pacifics-10-best-study-says?utm_source=rss_feed",
-        "summary": "Banking apps from Mox Bank, Bank of China (Hong Kong) (BOCHK), ZA Bank and Citibank Hong Kong are among the top 10 in Asia-Pacific, according to a study exclusively previewed by the South China Morning Post. Sia, an international consulting firm, assessed 145 banking apps in 20 markets in Europe, Asia and Australia using 100 criteria, including functionality, user experience and feedback, with each receiving a score from 0 to 100. The app from digital lender Mox Bank – backed by Standard...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-06T08:00:11+00:00",
         "stream": "higher",
         "streams": [
           "higher"
@@ -8340,6 +8340,30 @@
     ],
     "north_america": [
       {
+        "title": "People of All Ages Join French Student Protests, as Movement Broadens",
+        "url": "https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html",
+        "summary": "Union members, parents, teachers and others took part in mass demonstrations around the country, backing student demands that the government invest more in schools.",
+        "source": "New York Times — Education",
+        "published": "2026-10-07T03:04:08+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Cornell Faculty Senate Plans No-Confidence Vote Over Handling of Sexual Assault Allegations",
+        "url": "https://www.nytimes.com/2026/10/06/nyregion/cornell-faculty-no-confidence.html",
+        "summary": "The faculty senate plans to vote on a rare resolution of no confidence over the handling of sexual assault allegations. On Tuesday, some faculty members criticized the university president’s latest comments.",
+        "source": "New York Times — Education",
+        "published": "2026-10-06T23:03:54+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
         "title": "Understanding France’s Polycrisis",
         "url": "https://www.nytimes.com/2026/10/06/world/france-student-protests-kenya-robots.html",
         "summary": "An autumn of discontent has gripped the country ahead of its presidential election.",
@@ -8380,7 +8404,7 @@
         "url": "https://www.nytimes.com/2026/10/06/opinion/letters/cornell-rape-investigation.html",
         "summary": "Readers respond to The Times’s coverage of the Cornell rape investigation and the history of sexual assault on campuses.",
         "source": "New York Times — Education",
-        "published": "2026-10-06T19:25:22+00:00",
+        "published": "2026-10-06T19:25:23+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8472,23 +8496,11 @@
         "region": "north_america"
       },
       {
-        "title": "People of All Ages Join French Student Protests, as Movement Broadens",
-        "url": "https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html",
-        "summary": "Union members, parents, teachers and others took part in mass demonstrations around the country, backing student demands that the government invest more in schools.",
-        "source": "New York Times — Education",
-        "published": "2026-10-06T16:14:08+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
         "title": "Protests Spread Across France, Growing From School Demonstrations",
         "url": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html",
         "summary": "The rallies are a test of the strength of the student-led protest movement that has escalated at French high schools since late September.",
         "source": "New York Times — Education",
-        "published": "2026-10-06T15:32:24+00:00",
+        "published": "2026-10-06T15:32:25+00:00",
         "stream": "school",
         "streams": [
           "school"
@@ -8516,18 +8528,6 @@
         "stream": "school",
         "streams": [
           "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Cornell Faculty Senate Plans No-Confidence Vote Over Handling of Sexual Assault Allegations",
-        "url": "https://www.nytimes.com/2026/10/06/nyregion/cornell-faculty-no-confidence.html",
-        "summary": "The faculty senate plans to vote on a rare resolution of no confidence over administrators’ handling of allegations of sexual assault by fraternity members in 2024.",
-        "source": "New York Times — Education",
-        "published": "2026-10-06T13:34:44+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "north_america"
       },
