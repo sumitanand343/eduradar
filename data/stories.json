@@ -283,6 +283,18 @@
     ],
     "school": [
       {
+        "title": "STAAR Rescoring Requests Triple After More Texas Schools Question Computer Grading",
+        "url": "https://www.the74million.org/article/staar-rescoring-requests-triple-after-more-texas-schools-question-computer-grading/",
+        "summary": "The number of requests to rescore students’ STAAR tests nearly tripled from last year as more Texas schools sought reviews of written responses on the reading exams, thousands of which were initially graded by computers. The Texas Education Agency began using an automated scoring engine in December 2023 to grade open-ended questions on the State […]",
+        "source": "The 74 Million",
+        "published": "2026-10-11T16:30:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
         "title": "How Libraries in PA Evolved from Subscription Clubs to Vital Public Institutions",
         "url": "https://www.the74million.org/article/how-libraries-in-pa-evolved-from-subscription-clubs-to-vital-public-institutions/",
         "summary": "As a librarian who researches and writes about library history in Pennsylvania, I was delighted to see the American Library Association’s efforts to celebrate its 150th anniversary this year, while making several mentions of Pennsylvania. The ALA highlighted its 1876 founding in Philadelphia; how Pittsburgh philanthropist Andrew Carnegie funded the construction of more than 1,600 library buildings throughout the United States; and Scranton’s Henry […]",
@@ -612,18 +624,6 @@
         "summary": "A state oversight board appointed to take over Memphis schools may soon take charge of Tennessee’s largest school district. U.S. District Court Judge Waverly Crenshaw said he is prepared to dissolve his order blocking the board from taking control of Memphis-Shelby County Schools. Crenshaw made the comment during a court hearing Friday in which he […]",
         "source": "The 74 Million",
         "published": "2026-10-06T16:30:00+00:00",
-        "region": "north_america",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "The Invisible Pedagogy: Jody LaShay Wood on the Art of Storytelling for Teachers",
-        "url": "https://www.the74million.org/article/the-invisible-pedagogy-jody-lashay-wood-on-the-art-of-storytelling-for-teachers/",
-        "summary": "Elementary school teachers are in the business of getting and keeping attention — the most valuable currency in the classroom. Storytelling is a timeless way to do that, but most schools of education don’t teach it as a distinct subject. The Clemmer College of Education and Human Development at East Tennessee State University is a […]",
-        "source": "The 74 Million",
-        "published": "2026-10-06T14:30:00+00:00",
         "region": "north_america",
         "streams": [
           "school"
@@ -1084,6 +1084,90 @@
     ],
     "higher": [
       {
+        "title": "11 dead, 27 injured after coach crashes into lorry in western Turkey, officials say",
+        "url": "https://www.scmp.com/news/world/europe/article/3370511/11-dead-27-injured-after-coach-crashes-lorry-western-turkey-officials-say?utm_source=rss_feed",
+        "summary": "Eleven people were killed and 27 injured in western Turkey on Sunday when a coach turned over after colliding with a lorry, authorities said. The coach crashed near the entry to a motorway between the city of Bursa and the seaside city of Izmir, the governor’s office of the local Manisa district said on social media, stating the death toll. Emergency services rushed to the scene, Turkey’s Interior Minister Mustafa Ciftci said. “We are closely following the situation, in coordination with all the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-11T16:54:09+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Trump says Russia, Ukraine agree to ‘energy ceasefire’",
+        "url": "https://www.scmp.com/news/world/europe/article/3370510/trump-says-russia-ukraine-agree-energy-ceasefire?utm_source=rss_feed",
+        "summary": "US President Donald Trump said in a brief statement on Sunday that Russia and Ukraine had agreed to halt strikes on each other’s energy infrastructure, prompting surprise from Ukraine’s leader, who said the announcement was “news for me”. There was no immediate comment from Russia on Trump’s claim. Russia has launched waves of attacks on Ukrainian energy infrastructure since invading in February 2022, knocking out power and heating to millions during freezing temperatures, while Ukraine has...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-11T15:12:04+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Wuhan’s Covid mayor Zhou Xianwang jailed for 14 years for corruption",
+        "url": "https://www.scmp.com/news/china/science/article/3370481/wuhans-covid-mayor-zhou-xianwang-jailed-14-years-corruption?utm_source=rss_feed",
+        "summary": "Zhou Xianwang, the former mayor of Wuhan widely criticised for the initial handling of the Covid-19 outbreak, has been sentenced to 14 years in prison for corruption. Zhou used various positions he held between 2003 and 2025 – including party secretary of Huangshi, mayor of Wuhan and vice-governor of Hubei province – to “provide assistance to companies and individuals in contracting projects, business operations and administrative approvals”, Shangqiu Intermediate People’s Court in Henan...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-11T14:00:16+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Pakistan imposes emergency rule over ex-PM Imran Khan’s provincial government",
+        "url": "https://www.scmp.com/news/asia/south-asia/article/3370508/pakistan-imposes-emergency-rule-over-ex-pm-imran-khans-provincial-government?utm_source=rss_feed",
+        "summary": "Pakistan’s president declared a state of emergency and suspended the provincial government of jailed former prime minister Imran Khan on Sunday, the president’s office said, following allegations it has failed to tackle Islamist militancy. The constitution allows the federal ‌government to take over some or all provincial government functions during an emergency. The provincial governor will take charge with an advisory council, Law Minister Azam Nazeer Tarar told a news conference in Islamabad,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-11T13:53:51+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "‘A Hawaiian son’: Honolulu honours Sun Yat-sen as his landmarks vanish",
+        "url": "https://www.scmp.com/news/us/article/3370412/hawaiian-son-honolulu-honours-sun-yat-sen-his-landmarks-vanish?utm_source=rss_feed",
+        "summary": "Eddie Flores pressed the button at a pedestrian crossing on King Street, then pointed across the road. In the spring of 1910, Chinese revolutionary Sun Yat-sen lodged over there, on the second floor of a shop owned by a friend and fellow party member. “It’s no longer there,” said Flores, chairman of the restaurant chain L&L Hawaiian Barbecue. “But we can more or less point out where the building is.” Much of Sun’s Honolulu has to be found this way. The church where he worshipped as a boy was...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-11T13:34:38+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Poland detains suspect in alleged assassination attempt on PM, defence minister",
+        "url": "https://www.scmp.com/news/world/europe/article/3370502/poland-probes-suspected-assassination-attempts-pm-defence-minister?utm_source=rss_feed",
+        "summary": "Polish Perime Minister Donald Tusk said on Sunday a man accused of threatening an assassination attack against him and his defence minister had been detained, following an earlier announcement of suspected threats from the interior ministry. “The man threatening an attack has been detained,” Tusk wrote on social media, praising the police for their “swift and decisive action”. Earlier, the interior ministry said Tusk and Defence Minister Wladyslaw Kosiniak-Kamysz may have been targeted by...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-11T12:18:31+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Leading Chinese mathematicians unite behind use of AI in research",
+        "url": "https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research?utm_source=rss_feed",
+        "summary": "Leading China’s mathematicians joined forces in Beijing on Sunday to launch an alliance aimed at integrating artificial intelligence into mathematical research. The Yau Laboratory Alliance for Mathematics and Artificial Intelligence is being spearheaded by Fields medallist Shing-Tung Yau, who warned that China was lagging behind the United States in using AI to advance frontier science. It will bring together eight leading institutions and aims to create a network of more than 1,000...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-11T12:00:07+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
         "title": "The EU’s China dilemma: how to counter Beijing without alienating friends",
         "url": "https://www.scmp.com/news/china/diplomacy/article/3370482/eus-china-dilemma-how-counter-beijing-without-alienating-friends?utm_source=rss_feed",
         "summary": "In September, the Jaecoo 7 – a budget SUV from China’s Chery Automobile – made headlines when it shifted more than 10,000 units to become Britain’s bestselling car. Christened the “Temu Range Rover” online, a nod to the cheap goods available on the Chinese online marketplace and the luxury 4X4 made by Jaguar Land Rover that it resembles, its success showed British drivers’ new-found taste for cut-price Chinese cars. Overall, 23 per cent of new cars bought in Britain last month were Chinese...",
@@ -1110,7 +1194,7 @@
       {
         "title": "Hong Kong hiker dies, Singaporean teen discharged after 2 trail emergencies",
         "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3370498/hong-kong-hiker-dies-singaporean-teen-discharged-after-2-trail-emergencies?utm_source=rss_feed",
-        "summary": "At least two people were airlifted to hospital in the past two days after falling ill while hiking in Hong Kong, with a 17-year-old Singaporean girl discharged and the other dying. The teenager was flown to Ruttonjee Hospital in Wan Chai on Saturday morning after vomiting and experiencing chills while hiking on Lion Rock, a 495-metre peak. In a separate incident, a middle-aged man suddenly felt unwell and collapsed while hiking with a friend of a similar age near Ha Miu Tin, Wu Kau Tang, in...",
+        "summary": "At least two people were airlifted to hospital in the past two days after falling ill while hiking in Hong Kong, with a middle-aged man dying and a 17-year-old Singaporean girl discharged. The teenager was flown to Ruttonjee Hospital in Wan Chai on Saturday morning after vomiting and experiencing chills while hiking on Lion Rock, a 495-metre (1,624-foot) peak. In a separate incident, a 66-year-old man suddenly felt unwell and collapsed while hiking with his nephew in Plover Cove Country Park in...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-11T10:56:25+00:00",
         "region": "east_asia",
@@ -1278,7 +1362,7 @@
       {
         "title": "Huanggang Port a ‘milestone’ for connecting Hong Kong, Greater Bay Area: John Lee",
         "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370474/huanggang-port-milestone-integrating-hong-kong-greater-bay-area-john-lee?utm_source=rss_feed",
-        "summary": "The revamped Huanggang checkpoint is a “critical milestone” for the connectivity of the Greater Bay Area, Hong Kong’s leader has said, as the city and Shenzhen count down to its launch on Monday. Speaking at a ceremony on Sunday, Chief Executive John Lee-Ka Chiu said the Huanggang control point was a “landmark project” built and shared through the joint efforts of Hong Kong and Shenzhen. “Hong Kong unveiled its first five-year plan last month to proactively align with the national 15th five-year...",
+        "summary": "The revamped Huanggang Port checkpoint is a “critical milestone” for the connectivity of the Greater Bay Area, Hong Kong’s leader has said, as the city and Shenzhen count down to its launch on Monday. Chief Executive John Lee Ka-chiu said at a ceremony on Sunday that the Huanggang control point was a “landmark project” built and shared through the joint efforts of Hong Kong and Shenzhen. “Hong Kong unveiled its first five-year plan last month to proactively align with the national 15th five-year...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-11T05:08:51+00:00",
         "region": "east_asia",
@@ -1605,90 +1689,6 @@
         "summary": "Russian strikes killed at least 20 people in Ukraine’s Zaporizhzhia region, Ukrainian officials said on Saturday, a day after US President Donald Trump announced a deal to buy Russian diesel that Kyiv warned would help bankroll Moscow’s war in Ukraine. Three children were among those killed when Russian aerial bombs hit residential buildings in Zaporizhzhia, Ukraine’s State Emergency Service said on Saturday. At least 18 people were wounded in the attack. Missiles also struck Kyiv in a daytime...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-10T12:25:26+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "127 arrested as Hong Kong police bust Vietnamese-led loan-sharking syndicate",
-        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370450/127-arrested-hong-kong-police-bust-vietnamese-led-loan-sharking-syndicate?utm_source=rss_feed",
-        "summary": "Hong Kong police have arrested 127 people in a six-month undercover operation against a Vietnamese-led crime syndicate accused of running loan-sharking rackets charging interest rates of up to 3,700 per cent, as well as illegal gambling and unlicensed bars in West Kowloon. The syndicate is also alleged to have helped illegal immigrants find shelter and work, with police raiding eight premises on October 8 and 9. Among those arrested were 10 alleged core members, including the suspected leader, a...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-10T12:02:09+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "China’s Zhejiang province calls to limit tech giants’ power over online traffic",
-        "url": "https://www.scmp.com/news/china/politics/article/3370443/chinas-zhejiang-province-calls-limit-tech-giants-power-over-online-traffic?utm_source=rss_feed",
-        "summary": "Communist Party officials in eastern China’s Zhejiang province have called for greater oversight of major internet platforms and their “traffic power”, warning that online traffic and algorithms had evolved into a force capable of shaping public discussion and sentiment. The publicity department of the Zhejiang provincial party committee published the commentary on social media on Thursday, saying traffic could no longer be viewed simply as a data resource. Zhejiang’s capital city, Hangzhou, is...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-10T12:00:07+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Senior civil servants could face disciplinary action over Tai Po fire if named in report",
-        "url": "https://www.scmp.com/news/hong-kong/politics/article/3370447/senior-civil-servants-could-face-disciplinary-action-over-tai-po-fire-if-named-report?utm_source=rss_feed",
-        "summary": "Senior public servants found accountable for last year’s deadly Tai Po fire could face disciplinary action if named in an investigation report that a government-appointed panel is expected to submit this month, Hong Kong’s civil service chief has said. Secretary for the Civil Service Ingrid Yeung Ho Poi-yan also said on Saturday that a support unit was being set up to assist the Public Service Commission if investigations into officials’ “administrative responsibilities” were eventually...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-10T11:54:07+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "2 men die in float festival accidents in Japan",
-        "url": "https://www.scmp.com/news/asia/east-asia/article/3370449/2-men-die-float-festival-accidents-japan?utm_source=rss_feed",
-        "summary": "Two men died and more than a dozen others were injured Saturday when floats overturned during annual festivals in Osaka Prefecture. In Izumisano, a 51-year-old man became trapped beneath a float that overturned while he was riding it with other participants, police said. He was later pronounced dead at a hospital, while seven others were injured. A float at a different event in Izumiotsu also toppled, killing a 48-year-old man who was among those trapped underneath, according to the prefectural...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-10T11:44:40+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Cracks in security? Qing dynasty ceramics damaged in British Museum display",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3370446/cracks-security-qing-dynasty-ceramics-damaged-british-museum-display?utm_source=rss_feed",
-        "summary": "Two Chinese ceramics at the British Museum have been damaged while on display and are being restored, sparking fresh debate over how museums should safely exhibit fragile cultural treasures. The museum confirmed on Friday that a bowl had fallen from its shelf and landed on a small box on the bottom shelf, damaging both pieces. “Both objects are already with our expert conservation team for complete restoration,” the museum said. The museum, which said the incident occurred on October 4, noted...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-10T11:02:16+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "3 injured in Poland’s third youth stabbing attack in 4 days",
-        "url": "https://www.scmp.com/news/world/europe/article/3370444/polands-police-detain-76-check-50000-schools-after-2-attacks?utm_source=rss_feed",
-        "summary": "Three people were injured in a ⁠stabbing attack at ⁠a further education ⁠college in Warsaw on Saturday, police said, the latest in a series of incidents that have stoked concerns in Poland about copycat violence among young people. On Friday, thousands of ‌police visited schools nationwide to try to reassure pupils after two stabbing sprees by teenagers in as many days sparked rumours of potential further attacks, fears that Saturday’s incident is likely to intensify. “At 12.30pm today, we...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-10T10:39:03+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Taiwanese leader welcomes talks between Washington and Beijing ‘to reduce risk of war’",
-        "url": "https://www.scmp.com/news/china/politics/article/3370442/taiwanese-leader-welcomes-talks-between-washington-and-beijing-reduce-risk-war?utm_source=rss_feed",
-        "summary": "Taiwanese leader William Lai Ching-te has welcomed talks between Washington and Beijing aimed at reducing the risk of conflict. Lai’s annual Double Tenth address on Saturday, marking the anniversary of the foundation of the Republic of China, Taiwan’s official name, also called for democracies to work together to safeguard regional peace and for the Taiwanese people’s right to exist to be respected. He also warned that mainland China was trying to put pressure on the island to change the status...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-10T10:09:31+00:00",
         "region": "east_asia",
         "streams": [
           "higher"
@@ -2614,6 +2614,18 @@
     ],
     "edtech": [
       {
+        "title": "Proving It Worked: How to Measure the Real ROI of Enterprise AI Adoption",
+        "url": "https://elearningindustry.com/proving-it-worked-how-to-measure-the-real-roi-of-enterprise-ai-adoption",
+        "summary": "Learn how to measure the real ROI of enterprise AI adoption by connecting usage, productivity, efficiency, and business outcomes to measurable results. This post was first published on eLearning Industry .",
+        "source": "eLearning Industry",
+        "published": "2026-10-11T17:00:04+00:00",
+        "region": "global",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
+      {
         "title": "World Mental Health Day 2026: An L&D Guide For The Workplace",
         "url": "https://elearningindustry.com/world-mental-health-day",
         "summary": "World Mental Health Day is October 10. Explore the 2026 theme and how L&D can turn awareness into safe, practical workplace learning and action. This post was first published on eLearning Industry .",
@@ -3323,18 +3335,6 @@
         "stream": "edtech"
       },
       {
-        "title": "iSpring L&D Launch Bootcamp: Practical Training For Real Challenges",
-        "url": "https://elearningindustry.com/elearning-events/ispring-ld-launch-bootcamp-practical-training-for-real-challenges-oct-2-2026",
-        "summary": "A free two-week bootcamp for L&D professionals working through real onboarding, deskless-worker training, and SME collaboration challenges, with workshops, templates, and peer networking. This post was first published on eLearning Industry .",
-        "source": "eLearning Industry",
-        "published": "2026-10-02T08:00:41+00:00",
-        "region": "global",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
-      },
-      {
         "title": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
         "url": "https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/",
         "summary": "Many stars bursting out of a laptop",
@@ -3581,11 +3581,11 @@
     ],
     "policy": [
       {
-        "title": "'No lesson learnt': KP emergency evokes grim October memories",
-        "url": "https://www.dawn.com/news/2036388/no-lesson-learnt-kp-emergency-evokes-grim-october-memories",
-        "summary": "Sunday, Oct 11, evoked grim memories for many in Pakistan, as the federal government imposed emergency and governor’s rule in Khyber Pakhtunkhwa. The cabinet was certain of the decision, but many others warned against repeating what they saw as an “ill-advised step”. Nevertheless, it happened, again. The threat of emergency and governor’s rule had been looming over the province for days, after the PTI announced its long march to Islamabad to demand the release of its jailed founder, Imran Khan. It materialised on Sunday. It began with a federal cabinet meeting where Prime Minister Shehbaz Shar",
-        "source": "Dawn — Pakistan",
-        "published": "2026-10-11T11:48:39+00:00",
+        "title": "No school, but a graduation cap for women dairy farmers",
+        "url": "https://kathmandupost.com/money/2026/10/11/no-school-but-a-graduation-cap-for-women-dairy-farmers",
+        "summary": "Fifty-six women farmers in Sindhuli have completed four years of training under a Korea-Nepal initiative. They learned modern dairy farming, animal care and financial management.",
+        "source": "The Kathmandu Post — Nepal",
+        "published": "2026-10-11T17:07:56.974264+00:00",
         "region": "south_asia",
         "streams": [
           "policy"
@@ -3593,11 +3593,23 @@
         "stream": "policy"
       },
       {
-        "title": "Four Hours and Three Minutes at Cornell",
+        "title": "'No lesson learnt': KP emergency evokes grim October memories",
+        "url": "https://www.dawn.com/news/2036388/no-lesson-learnt-kp-emergency-evokes-grim-october-memories",
+        "summary": "Sunday, Oct 11, evoked grim memories for many in Pakistan, as the federal government imposed emergency and governor’s rule in Khyber Pakhtunkhwa. The cabinet was certain of the decision, but many others warned against repeating what they saw as an “ill-advised step”. Nevertheless, it happened, again. The threat of emergency and governor’s rule had been looming over the province for days, after the PTI announced its long march to Islamabad to demand the release of its jailed founder, Imran Khan. It materialised on Sunday. It began with a federal cabinet meeting where Prime Minister Shehbaz Shar",
+        "source": "Dawn — Pakistan",
+        "published": "2026-10-11T15:34:51+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Four Hours and Three Minutes in Ithaca",
         "url": "https://www.nytimes.com/2026/10/11/opinion/cornell-jane-doe-vietnam-my-lai.html",
         "summary": "On the most traumatic night in a young woman’s life, a good man could not be found.",
         "source": "New York Times — Education",
-        "published": "2026-10-11T11:00:17+00:00",
+        "published": "2026-10-11T12:05:44+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -4522,18 +4534,6 @@
         "summary": "Ten years after full extent of problem was revealed, Guardian investigation finds schools facing uphill battle amid rapid societal changes Thousands of child-on-child sexual offences reported at schools in England and Wales It is 10 years since a report first revealed the epic scale of sexual bullying, harassment and abuse girls faced in England’s schools on a daily basis. The report , by MPs on the women and equalities committee, showed the horrifying normality of child-on-child abuse in schools. The need for government action was “overwhelming”, said the committee chair, Maria Miller. Ofsted",
         "source": "The Guardian — Education",
         "published": "2026-10-04T15:00:30+00:00",
-        "region": "global",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference",
-        "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Conservative leader tells the BBC the earnings threshold for government support stops people \"working harder\".",
-        "source": "BBC — Education",
-        "published": "2026-10-04T11:04:47+00:00",
         "region": "global",
         "streams": [
           "policy"
@@ -5714,6 +5714,18 @@
   "regions": {
     "global": [
       {
+        "title": "Proving It Worked: How to Measure the Real ROI of Enterprise AI Adoption",
+        "url": "https://elearningindustry.com/proving-it-worked-how-to-measure-the-real-roi-of-enterprise-ai-adoption",
+        "summary": "Learn how to measure the real ROI of enterprise AI adoption by connecting usage, productivity, efficiency, and business outcomes to measurable results. This post was first published on eLearning Industry .",
+        "source": "eLearning Industry",
+        "published": "2026-10-11T17:00:04+00:00",
+        "stream": "edtech",
+        "streams": [
+          "edtech"
+        ],
+        "region": "global"
+      },
+      {
         "title": "France’s other schools problem – the teens violently smashing up their old primaries: ‘They think it’s not worthy of respect – so they trash it’",
         "url": "https://www.theguardian.com/world/2026/oct/11/france-violent-attacks-trashings-schools-teenagers",
         "summary": "The phenomenon of pupils wrecking equipment and setting fire to classrooms predates the current crisis. Is it rooted in poverty, social media peer pressure – or just plain boredom? Like most French primaries on Wednesdays, Marcel Pagnol school, in the eastern suburbs of Lyon, was shut on 19 June 2024. But at 6.30pm that evening, two boys turned up late for school – by two years. Former pupils there, the 13-year-olds struggled to break through the crispy lattice of the front-door window with a garden fork and a broom. Using a window-breaker, they finally created an opening large enough to force",
@@ -6180,27 +6192,27 @@
           "research"
         ],
         "region": "global"
-      },
-      {
-        "title": "Development and internal validation of prediction models for ICU-level intervention and 14-day mortality at Medical Emergency Team activation: A retrospective cohort study",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360511",
-        "summary": "by Junji Shimauchi, Takuya Nishino, Kenta Shigeta, Hiroshi Mase, Takeshi Yamamoto, Shoji Yokobori, Masashi Ishikawa Background Medical Emergency Team (MET) activation represents acute clinical deterioration requiring rapid decisions regarding escalation of care. Previous post-MET prediction studies have evaluated outcomes including unplanned intensive care unit (ICU) admission and mortality; however, ICU admission is a location-based outcome that may be influenced by institutional factors. Prediction based on treatment intensity rather than location of care has received less attention. Methods",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-09T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
       }
     ],
     "south_asia": [
+      {
+        "title": "No school, but a graduation cap for women dairy farmers",
+        "url": "https://kathmandupost.com/money/2026/10/11/no-school-but-a-graduation-cap-for-women-dairy-farmers",
+        "summary": "Fifty-six women farmers in Sindhuli have completed four years of training under a Korea-Nepal initiative. They learned modern dairy farming, animal care and financial management.",
+        "source": "The Kathmandu Post — Nepal",
+        "published": "2026-10-11T17:07:56.974264+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
       {
         "title": "'No lesson learnt': KP emergency evokes grim October memories",
         "url": "https://www.dawn.com/news/2036388/no-lesson-learnt-kp-emergency-evokes-grim-october-memories",
         "summary": "Sunday, Oct 11, evoked grim memories for many in Pakistan, as the federal government imposed emergency and governor’s rule in Khyber Pakhtunkhwa. The cabinet was certain of the decision, but many others warned against repeating what they saw as an “ill-advised step”. Nevertheless, it happened, again. The threat of emergency and governor’s rule had been looming over the province for days, after the PTI announced its long march to Islamabad to demand the release of its jailed founder, Imran Khan. It materialised on Sunday. It began with a federal cabinet meeting where Prime Minister Shehbaz Shar",
         "source": "Dawn — Pakistan",
-        "published": "2026-10-11T11:48:39+00:00",
+        "published": "2026-10-11T15:34:51+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6657,18 +6669,6 @@
         "summary": "",
         "source": "The Hindu — Education",
         "published": "2026-10-06T06:57:12+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "Between empathy and social dominance: sensitising the IITs",
-        "url": "https://www.thehindu.com/education/between-empathy-and-social-dominance-sensitising-the-iits/article71546260.ece",
-        "summary": "",
-        "source": "The Hindu — Education",
-        "published": "2026-10-06T04:04:05+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -7371,6 +7371,90 @@
     ],
     "east_asia": [
       {
+        "title": "11 dead, 27 injured after coach crashes into lorry in western Turkey, officials say",
+        "url": "https://www.scmp.com/news/world/europe/article/3370511/11-dead-27-injured-after-coach-crashes-lorry-western-turkey-officials-say?utm_source=rss_feed",
+        "summary": "Eleven people were killed and 27 injured in western Turkey on Sunday when a coach turned over after colliding with a lorry, authorities said. The coach crashed near the entry to a motorway between the city of Bursa and the seaside city of Izmir, the governor’s office of the local Manisa district said on social media, stating the death toll. Emergency services rushed to the scene, Turkey’s Interior Minister Mustafa Ciftci said. “We are closely following the situation, in coordination with all the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-11T16:54:09+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Trump says Russia, Ukraine agree to ‘energy ceasefire’",
+        "url": "https://www.scmp.com/news/world/europe/article/3370510/trump-says-russia-ukraine-agree-energy-ceasefire?utm_source=rss_feed",
+        "summary": "US President Donald Trump said in a brief statement on Sunday that Russia and Ukraine had agreed to halt strikes on each other’s energy infrastructure, prompting surprise from Ukraine’s leader, who said the announcement was “news for me”. There was no immediate comment from Russia on Trump’s claim. Russia has launched waves of attacks on Ukrainian energy infrastructure since invading in February 2022, knocking out power and heating to millions during freezing temperatures, while Ukraine has...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-11T15:12:04+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Wuhan’s Covid mayor Zhou Xianwang jailed for 14 years for corruption",
+        "url": "https://www.scmp.com/news/china/science/article/3370481/wuhans-covid-mayor-zhou-xianwang-jailed-14-years-corruption?utm_source=rss_feed",
+        "summary": "Zhou Xianwang, the former mayor of Wuhan widely criticised for the initial handling of the Covid-19 outbreak, has been sentenced to 14 years in prison for corruption. Zhou used various positions he held between 2003 and 2025 – including party secretary of Huangshi, mayor of Wuhan and vice-governor of Hubei province – to “provide assistance to companies and individuals in contracting projects, business operations and administrative approvals”, Shangqiu Intermediate People’s Court in Henan...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-11T14:00:16+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Pakistan imposes emergency rule over ex-PM Imran Khan’s provincial government",
+        "url": "https://www.scmp.com/news/asia/south-asia/article/3370508/pakistan-imposes-emergency-rule-over-ex-pm-imran-khans-provincial-government?utm_source=rss_feed",
+        "summary": "Pakistan’s president declared a state of emergency and suspended the provincial government of jailed former prime minister Imran Khan on Sunday, the president’s office said, following allegations it has failed to tackle Islamist militancy. The constitution allows the federal ‌government to take over some or all provincial government functions during an emergency. The provincial governor will take charge with an advisory council, Law Minister Azam Nazeer Tarar told a news conference in Islamabad,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-11T13:53:51+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "‘A Hawaiian son’: Honolulu honours Sun Yat-sen as his landmarks vanish",
+        "url": "https://www.scmp.com/news/us/article/3370412/hawaiian-son-honolulu-honours-sun-yat-sen-his-landmarks-vanish?utm_source=rss_feed",
+        "summary": "Eddie Flores pressed the button at a pedestrian crossing on King Street, then pointed across the road. In the spring of 1910, Chinese revolutionary Sun Yat-sen lodged over there, on the second floor of a shop owned by a friend and fellow party member. “It’s no longer there,” said Flores, chairman of the restaurant chain L&L Hawaiian Barbecue. “But we can more or less point out where the building is.” Much of Sun’s Honolulu has to be found this way. The church where he worshipped as a boy was...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-11T13:34:38+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Poland detains suspect in alleged assassination attempt on PM, defence minister",
+        "url": "https://www.scmp.com/news/world/europe/article/3370502/poland-probes-suspected-assassination-attempts-pm-defence-minister?utm_source=rss_feed",
+        "summary": "Polish Perime Minister Donald Tusk said on Sunday a man accused of threatening an assassination attack against him and his defence minister had been detained, following an earlier announcement of suspected threats from the interior ministry. “The man threatening an attack has been detained,” Tusk wrote on social media, praising the police for their “swift and decisive action”. Earlier, the interior ministry said Tusk and Defence Minister Wladyslaw Kosiniak-Kamysz may have been targeted by...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-11T12:18:31+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Leading Chinese mathematicians unite behind use of AI in research",
+        "url": "https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research?utm_source=rss_feed",
+        "summary": "Leading China’s mathematicians joined forces in Beijing on Sunday to launch an alliance aimed at integrating artificial intelligence into mathematical research. The Yau Laboratory Alliance for Mathematics and Artificial Intelligence is being spearheaded by Fields medallist Shing-Tung Yau, who warned that China was lagging behind the United States in using AI to advance frontier science. It will bring together eight leading institutions and aims to create a network of more than 1,000...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-11T12:00:07+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
         "title": "The EU’s China dilemma: how to counter Beijing without alienating friends",
         "url": "https://www.scmp.com/news/china/diplomacy/article/3370482/eus-china-dilemma-how-counter-beijing-without-alienating-friends?utm_source=rss_feed",
         "summary": "In September, the Jaecoo 7 – a budget SUV from China’s Chery Automobile – made headlines when it shifted more than 10,000 units to become Britain’s bestselling car. Christened the “Temu Range Rover” online, a nod to the cheap goods available on the Chinese online marketplace and the luxury 4X4 made by Jaguar Land Rover that it resembles, its success showed British drivers’ new-found taste for cut-price Chinese cars. Overall, 23 per cent of new cars bought in Britain last month were Chinese...",
@@ -7397,7 +7481,7 @@
       {
         "title": "Hong Kong hiker dies, Singaporean teen discharged after 2 trail emergencies",
         "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3370498/hong-kong-hiker-dies-singaporean-teen-discharged-after-2-trail-emergencies?utm_source=rss_feed",
-        "summary": "At least two people were airlifted to hospital in the past two days after falling ill while hiking in Hong Kong, with a 17-year-old Singaporean girl discharged and the other dying. The teenager was flown to Ruttonjee Hospital in Wan Chai on Saturday morning after vomiting and experiencing chills while hiking on Lion Rock, a 495-metre peak. In a separate incident, a middle-aged man suddenly felt unwell and collapsed while hiking with a friend of a similar age near Ha Miu Tin, Wu Kau Tang, in...",
+        "summary": "At least two people were airlifted to hospital in the past two days after falling ill while hiking in Hong Kong, with a middle-aged man dying and a 17-year-old Singaporean girl discharged. The teenager was flown to Ruttonjee Hospital in Wan Chai on Saturday morning after vomiting and experiencing chills while hiking on Lion Rock, a 495-metre (1,624-foot) peak. In a separate incident, a 66-year-old man suddenly felt unwell and collapsed while hiking with his nephew in Plover Cove Country Park in...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-11T10:56:25+00:00",
         "stream": "higher",
@@ -7565,7 +7649,7 @@
       {
         "title": "Huanggang Port a ‘milestone’ for connecting Hong Kong, Greater Bay Area: John Lee",
         "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370474/huanggang-port-milestone-integrating-hong-kong-greater-bay-area-john-lee?utm_source=rss_feed",
-        "summary": "The revamped Huanggang checkpoint is a “critical milestone” for the connectivity of the Greater Bay Area, Hong Kong’s leader has said, as the city and Shenzhen count down to its launch on Monday. Speaking at a ceremony on Sunday, Chief Executive John Lee-Ka Chiu said the Huanggang control point was a “landmark project” built and shared through the joint efforts of Hong Kong and Shenzhen. “Hong Kong unveiled its first five-year plan last month to proactively align with the national 15th five-year...",
+        "summary": "The revamped Huanggang Port checkpoint is a “critical milestone” for the connectivity of the Greater Bay Area, Hong Kong’s leader has said, as the city and Shenzhen count down to its launch on Monday. Chief Executive John Lee Ka-chiu said at a ceremony on Sunday that the Huanggang control point was a “landmark project” built and shared through the joint efforts of Hong Kong and Shenzhen. “Hong Kong unveiled its first five-year plan last month to proactively align with the national 15th five-year...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-11T05:08:51+00:00",
         "stream": "higher",
@@ -7760,90 +7844,6 @@
         "summary": "A man died on Saturday after he entered the tiger enclosure at a wildlife park in northern England and was attacked by one of the animals, police said. Emergency medical personnel responded to the Yorkshire Wildlife Park near the city of Doncaster after the incident was reported at about 1.35pm, but the victim died at the scene, South Yorkshire Police said in a statement. The tiger was not injured and remained inside the enclosure during the incident, the force said. The wildlife park was...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-10T23:20:01+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "How a museum masterpiece’s life-size replica sparked rare US-China collaboration",
-        "url": "https://www.scmp.com/news/china/politics/article/3370434/how-museum-masterpieces-life-size-replica-sparked-rare-us-china-collaboration?utm_source=rss_feed",
-        "summary": "For anyone who has visited the Chinese galleries at the Metropolitan Museum of Art in New York, there is one work that stops them in their tracks. Stepping into Gallery 206, home to Chinese Buddhist art, visitors are met by a monumental wall – over 15 metres wide and 7.5 metres tall (nearly 50 feet by 25 feet) – covered in a Buddhist assembly so vast and majestic that it momentarily erases the Manhattan bustle outside. Here stands the Medicine Buddha, a 14th century Yuan dynasty (1279-1368)...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-10T22:00:12+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "In AI, India’s choice needn’t be between a US leash or Chinese hook",
-        "url": "https://www.scmp.com/opinion/asia-opinion/article/3369950/ai-indias-choice-neednt-be-between-us-leash-or-chinese-hook?utm_source=rss_feed",
-        "summary": "On June 12, two of the world’s most capable artificial intelligence models went dark. An American export directive barred foreigners from using Anthropic’s two flagship AI models, and because the company could not check every user’s nationality, it switched them off. Access returned on July 1 but the warning is clear: India’s AI future can be switched off from Washington. In September, Beijing came calling. At the Brics summit in New Delhi, Chinese President Xi Jinping promised China would “be a...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-10T21:30:07+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "9 dead, including children and pregnant woman, in shooting in Erie, Pennsylvania",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3370464/9-dead-including-children-and-pregnant-woman-shooting-erie-pennsylvania?utm_source=rss_feed",
-        "summary": "A man killed eight people including a pregnant woman, children and other relatives at his home in Erie, Pennsylvania, before taking his own life as well, authorities said on Saturday. Erie Police Chief Rick Lorah said the 45-year-old man was related to seven of the victims in the previous day’s shooting, while the eighth was a friend of the pregnant woman. Video and audio evidence recovered by investigators included muffled gunshot sounds coming from inside the home just before two “distressed”...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-10T21:25:34+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Isaias kills 4 in US, leaves 670,000 without power",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3370463/isaias-kills-4-us-leaves-670000-without-power?utm_source=rss_feed",
-        "summary": "Four people died after Hurricane Isaias made landfall early on Saturday, and about 670,000 residents in Florida, Alabama, Georgia and Mississippi were still without power as the storm weakened to a post-tropical cyclone, according to local authorities and electricity monitoring services. Two of the deaths resulted ‌from trees falling on homes, according to local media and authorities. Authorities in Florida had received no search and rescue requests shortly after landfall in a sign of limited...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-10T20:29:50+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Trump demands Ukraine get new president, lashes out at Zelensky",
-        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3370462/trump-demands-ukraine-get-new-president-lashes-out-zelensky?utm_source=rss_feed",
-        "summary": "US President Donald Trump has called for Ukraine to replace President Volodymyr Zelensky, accusing him of rejecting multiple opportunities to end the war with Russia. “I think it’s time for Ukraine to get a new president,” Trump told reporters at the White House on Saturday. “Zelensky could have settled this war many times, many many times, and he chooses not to,” Trump said. The US president suggested that Ukrainians should choose a new leader capable of negotiating an agreement to end the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-10T18:31:07+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Christa Pike out of hospital and back in prison after surviving US execution attempt",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3370456/christa-pike-out-hospital-and-back-prison-after-surviving-us-execution-attempt?utm_source=rss_feed",
-        "summary": "Christa Pike, who survived Tennessee’s attempt to execute her by lethal injection, has been moved back to prison, her lawyers said on Saturday. Pike, 50, was discharged from the hospital and is back at the Debra K. Johnson Rehabilitation Centre, the women’s prison where she was housed for 30 years, her lawyers said in a written statement. “She is grateful to the first responders and her medical team for their care in these extraordinary circumstances. She is continuing to receive medical care at...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-10T16:43:39+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Palestinian leader Abbas postpones elections to September 2027",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3370455/palestinian-leader-abbas-postpones-elections-september-2027?utm_source=rss_feed",
-        "summary": "Palestinian President Mahmoud Abbas on Saturday postponed legislative elections due next month until September 11, 2027, and called a presidential poll for the same date, blaming Israel and ‌the security situation in the Palestinian territories for the delay. Abbas’ decree cited “obstacles posed by Israeli measures” and the need to establish suitable political, security and on-the-ground conditions for “free, fair and inclusive elections”, the official Palestinian news agency WAFA reported. The...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-10T15:09:00+00:00",
         "stream": "higher",
         "streams": [
           "higher"
@@ -8276,11 +8276,23 @@
     ],
     "north_america": [
       {
-        "title": "Four Hours and Three Minutes at Cornell",
+        "title": "STAAR Rescoring Requests Triple After More Texas Schools Question Computer Grading",
+        "url": "https://www.the74million.org/article/staar-rescoring-requests-triple-after-more-texas-schools-question-computer-grading/",
+        "summary": "The number of requests to rescore students’ STAAR tests nearly tripled from last year as more Texas schools sought reviews of written responses on the reading exams, thousands of which were initially graded by computers. The Texas Education Agency began using an automated scoring engine in December 2023 to grade open-ended questions on the State […]",
+        "source": "The 74 Million",
+        "published": "2026-10-11T16:30:00+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Four Hours and Three Minutes in Ithaca",
         "url": "https://www.nytimes.com/2026/10/11/opinion/cornell-jane-doe-vietnam-my-lai.html",
         "summary": "On the most traumatic night in a young woman’s life, a good man could not be found.",
         "source": "New York Times — Education",
-        "published": "2026-10-11T11:00:17+00:00",
+        "published": "2026-10-11T12:05:44+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8737,18 +8749,6 @@
         "summary": "School climate and the importance of a student feeling valued in a classroom have become increasing priorities for states, district leaders and students. Recent polls show a sense of belonging influences how children view their education, and across the country, some states — such as Illinois, Connecticut and California — have begun to mandate school […]",
         "source": "The 74 Million",
         "published": "2026-10-07T16:30:00+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Low Test Scores: For Hawaiʻi High Schoolers, The Math Isn’t Mathing",
-        "url": "https://www.the74million.org/article/low-test-scores-for-hawai%ca%bbi-high-schoolers-the-math-isnt-mathing/",
-        "summary": "When Hawaiʻi elementary students are tested on division, multiplication and fractions — the fundamentals of math — about half of them score proficient on the state’s standardized tests. But later in high school, when they’re contending with more complex subjects such as algebra and geometry, their scores drastically fall. Fewer than a third pass. Educators […]",
-        "source": "The 74 Million",
-        "published": "2026-10-07T12:30:00+00:00",
         "stream": "school",
         "streams": [
           "school"
