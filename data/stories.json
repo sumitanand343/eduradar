@@ -2,6 +2,18 @@
   "streams": {
     "foundational": [
       {
+        "title": "Hong Kong loses record 40 kindergartens as birth rate drops, women wait to have kids",
+        "url": "https://www.scmp.com/news/hong-kong/education/article/3371049/hong-kong-loses-record-40-kindergartens-birth-rate-drops-women-wait-have-kids?utm_source=rss_feed",
+        "summary": "Hong Kong suffered a record net loss of 40 kindergartens this year amid a shrinking student population and as the median age of women giving birth to their first child rose to its highest yet, according to official figures. In its overview of preschools released on Thursday, the Education Bureau revealed that 930 kindergartens were currently operating in Hong Kong, down from roughly 970 in the previous school year. While some new kindergartens were launched, the net decrease stood at 40, the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T13:12:02+00:00",
+        "region": "east_asia",
+        "streams": [
+          "foundational"
+        ],
+        "stream": "foundational"
+      },
+      {
         "title": "Is numeracy an afterthought? What Pakistan’s District Data says about the Order We Teach In",
         "url": "https://www.norrageducation.org/is-numeracy-an-afterthought-what-pakistans-district-data-says-about-the-order-we-teach-in/",
         "summary": "In this blog post, Huma Zia Faran explores what Pakistan’s learning data reveals about the importance of early numeracy and considers how it can be better integrated into foundational learning efforts.” “Children should be able to read before they can learn anything else.” I have heard some version of that sentence in more meetings than... Read More The post Is numeracy an afterthought? What Pakistan’s District Data says about the Order We Teach In appeared first on NORRAG - .",
@@ -258,6 +270,30 @@
     ],
     "school": [
       {
+        "title": "Alix Earle Says She’s Never Read a Book",
+        "url": "https://www.the74million.org/article/alix-earle-says-shes-never-read-a-book/",
+        "summary": "",
+        "source": "The 74 Million",
+        "published": "2026-10-15T14:45:32+00:00",
+        "region": "north_america",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
+        "title": "Immigration Lawyer on Trump’s ‘Constellation of Attacks’ on Newcomer Children",
+        "url": "https://www.the74million.org/article/immigration-lawyer-on-trumps-constellation-of-attacks-on-newcomer-children/",
+        "summary": "Heather Yountz, senior immigration attorney with the Massachusetts Law Reform Institute, spent 13 years shepherding children and families through immigration court. She was mostly successful in helping them stay in the country, she said, adding that she stopped representing individual clients in 2021. What she’s seeing now — the targeting and deportation of the youngest immigrants […]",
+        "source": "The 74 Million",
+        "published": "2026-10-15T14:30:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
         "title": "Georgia’s Building Boom for Data Centers Comes With a Cost for Schools: $300M",
         "url": "https://www.the74million.org/article/georgias-building-boom-for-data-centers-comes-with-a-cost-for-schools-300m/",
         "summary": "This story was published in partnership with the Atlanta Journal-Constitution. Georgia has become a preferred destination for the multi-billion dollar, A.I.-fueled data center industry. This year, construction activity in the metro Atlanta area has even surpassed northern Virginia, which has the highest concentration of data centers in the world. But the state’s schools are helping […]",
@@ -288,18 +324,6 @@
         "source": "arXiv — cs.CY (Computers & Society)",
         "published": "2026-10-15T04:00:00+00:00",
         "region": "global",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "Hong Kong teen makes cents of finance, taps AI to tackle economic inequality",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3370901/hong-kong-teen-makes-cents-finance-taps-ai-tackle-economic-inequality?utm_source=rss_feed",
-        "summary": "At 17, Hong Kong secondary school student Agastya Rekhi has been teaching finance and economics to younger children for nearly three years. Meeting families struggling to understand how prices, investments and economic news impacted their daily lives during voluntary work convinced him that access to information was only part of the problem. How that information was communicated was just as important. Rekhi, a finalist for the Spirit of Youth Award in this year’s Spirit of Hong Kong Awards, has...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T02:15:06+00:00",
-        "region": "east_asia",
         "streams": [
           "school"
         ],
@@ -536,18 +560,6 @@
         "stream": "school"
       },
       {
-        "title": "Deadline review – shocking threat sends tremors through authoritarian school",
-        "url": "https://www.theguardian.com/film/2026/oct/12/deadline-review-shocking-threat-sends-tremors-through-authoritarian-school",
-        "summary": "Set in a dystopian private academy rife with surveillance and cut-throat competition, Kiwi Chow’s gripping drama cements his status as an important film-maker Filmed in Taiwan and set entirely inside a prestigious high school, Kiwi Chow’s gripping drama frames educational systems not merely as a preparation for the real world but as a microcosm of society at large. At this elite private institute, pupils studiously march in lines like obedient soldiers, their purple uniforms the only pop of colour in a grey building of glass and steel. The school’s operations have a touch of dystopian sci-fi: ",
-        "source": "The Guardian — Education",
-        "published": "2026-10-12T06:00:48+00:00",
-        "region": "global",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
         "title": "STAAR Rescoring Requests Triple After More Texas Schools Question Computer Grading",
         "url": "https://www.the74million.org/article/staar-rescoring-requests-triple-after-more-texas-schools-question-computer-grading/",
         "summary": "The number of requests to rescore students’ STAAR tests nearly tripled from last year as more Texas schools sought reviews of written responses on the reading exams, thousands of which were initially graded by computers. The Texas Education Agency began using an automated scoring engine in December 2023 to grade open-ended questions on the State […]",
@@ -662,30 +674,6 @@
         "source": "The Hindu — Education",
         "published": "2026-10-09T07:53:34+00:00",
         "region": "south_asia",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "Who Steps in When Parents Need Childcare Beyond 9-to-5",
-        "url": "https://www.the74million.org/article/who-steps-in-when-parents-need-childcare-beyond-9-to-5/",
-        "summary": "",
-        "source": "The 74 Million",
-        "published": "2026-10-08T20:04:22+00:00",
-        "region": "north_america",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "Opinion: What a Mom of Six Wants Schools to Understand About Attendance",
-        "url": "https://www.the74million.org/article/what-a-mom-of-six-wants-schools-to-understand-about-attendance/",
-        "summary": "Every morning, I have six boys to get out the door. Five of my children attend a charter school in Dallas, about an hour from our home. I also have a younger child to get to daycare and a job in education where I need to be on time myself. I know that getting to […]",
-        "source": "The 74 Million",
-        "published": "2026-10-08T18:30:00+00:00",
-        "region": "north_america",
         "streams": [
           "school"
         ],
@@ -1084,6 +1072,174 @@
     ],
     "higher": [
       {
+        "title": "Singapore weighs legal action against companies over worsening transboundary haze",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3371058/singapore-weighs-legal-action-against-companies-over-worsening-transboundary-haze?utm_source=rss_feed",
+        "summary": "Singapore is looking into which companies may be responsible for the forest and peatland fires in Indonesia that have caused the worsening haze, Prime Minister Lawrence Wong said on Thursday. “Where warranted, we will take action under Singapore’s Transboundary Haze Pollution Act, and explore joint action with other countries,” he said in a social media post. The haze situation was worsened by the extended dry period, Wong added. Singapore had offered its assistance to Indonesia and would...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T15:49:52+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Trump scraps livestream for Fort Hood shooter’s execution by firing squad",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3371056/trump-cancels-planned-pentagon-live-stream-fort-hood-shooters-firing-squad-execution?utm_source=rss_feed",
+        "summary": "US President Donald Trump on Thursday cancelled plans to livestream the execution of Fort Hood shooter Nidal Malik Hasan, reversing a Pentagon initiative that drew political and religious criticism. Trump said Hasan’s execution by firing squad would proceed as scheduled, but would not be broadcast. The Pentagon has set the execution for December 3. “He will die, as scheduled, by firing squad, but this event will not be streamed,” Trump wrote on his Truth Social platform. Hasan, a former US Army...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T14:50:07+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "China is a beacon of global embryo research, says scientist on return from US to lead lab",
+        "url": "https://www.scmp.com/news/china/science/article/3371014/china-beacon-global-embryo-research-says-scientist-return-us-lead-lab?utm_source=rss_feed",
+        "summary": "Leading life scientist Wu Jun, who recently left the United States to return to his homeland, believes many of the world’s top embryo researchers are now working in China. Wu, well known for his stem cell research, particularly related to the stem cell-derived embryo model, is speaking in an office at Westlake University, in Hangzhou in the eastern province of Zhejiang. Some of his belongings remain in bags placed haphazardly on a nearby cabinet, waiting to be unpacked. “This is just a temporary...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T14:00:13+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Blast simulation, university probes, robotics fine, AI spies: 7 US-China relations reads",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3370921/blast-simulation-university-probes-robotics-fine-ai-spies-7-us-china-relations-reads?utm_source=rss_feed",
+        "summary": "We have selected seven of the most interesting and important news stories covering US-China relations from the past few weeks. If you would like to see more of our reporting, please consider subscribing. 1. US investigates 9 universities over alleged visa fraud, with focus on China The Trump administration launched an investigation into nine US universities over alleged J-1 visa fraud, with officials raising concerns about Chinese scholars and the Chinese government. Read the full story...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T14:00:05+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Overseas student commencements fall 5% in Australian higher education",
+        "url": "https://thepienews.com/overseas-student-commencements-fall-5-in-australian-higher-education/",
+        "summary": "International student commencements at Australian higher education providers fell by almost 5% year-on-year in the first part of 2026, according to new preliminary government data. The post Overseas student commencements fall 5% in Australian higher education appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-10-15T13:06:07+00:00",
+        "region": "global",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "DeepSeek offers user refunds after suffering another major outage",
+        "url": "https://www.scmp.com/tech/big-tech/article/3371047/deepseek-offers-user-refunds-after-suffering-another-major-outage?utm_source=rss_feed",
+        "summary": "Chinese artificial intelligence firm DeepSeek apologised and promised compensation to users after its services suffered a nearly five-hour outage on Thursday. DeepSeek will issue users a full refund for any consumption between October 8 and October 14 in the form of credits, according to a notice posted on the Hangzhou-based start-up’s application programming interface (API) platform. DeepSeek’s namesake chatbot and API services for its V4 Pro and V4.1 Flash models went offline on Thursday...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T12:55:26+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Canada, Singapore reaffirm China trade ties amid global push for self-sufficiency",
+        "url": "https://www.scmp.com/economy/global-economy/article/3370999/canada-singapore-reaffirm-china-trade-ties-amid-global-push-self-sufficiency?utm_source=rss_feed",
+        "summary": "Canada and Singapore are among the countries that remain committed to strengthening trade ties with China, despite growing global fragmentation and a push by governments towards greater self-sufficiency, officials from both countries said on Wednesday at an economic forum in New Delhi. Canada’s minister of international trade Maninder Sidhu said China was the country’s second-largest trading partner and highlighted opportunities for cooperation in areas where the two economies had complementary...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T12:30:13+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Young Americans are key for the US to better understand China",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3370738/young-americans-are-key-us-better-understand-china?utm_source=rss_feed",
+        "summary": "When US President Donald Trump and Chinese President Xi Jinping meet again in Shenzhen next month, and then in Miami in December, the world will watch for signs of progress on trade, technology, security and other contentious issues. Such high-level diplomacy is indispensable. But the future of the US-China relationship also depends on something less visible: whether their people, especially the young, can still understand one another. As Washington and Beijing navigate intensifying strategic...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T12:30:10+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Laos private jet bust reveals how Mekong meth slips past borders",
+        "url": "https://www.scmp.com/week-asia/economics/article/3371043/laos-private-jet-bust-reveals-how-mekong-meth-slips-past-borders?utm_source=rss_feed",
+        "summary": "A private jet hired from Malaysia – seemingly destined for the Philippines – but stopped on the tarmac by Laos’ drug police who found suitcases stuffed with 512kg of crystal methamphetamine, has returned the spotlight to the unrelenting flow of narcotics from the Mekong’s drug laboratories. Cyberscams have dominated headlines and authorities’ attention across Southeast Asia for over a year as the leading criminal enterprise worth tens of billions of dollars annually. But methamphetamine – in its...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T12:17:17+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "China-led team hits 83% success rate anticipating earthquakes in ‘seismo-ripples’ study",
+        "url": "https://www.scmp.com/news/china/science/article/3371035/china-led-team-hits-83-success-rate-anticipating-earthquakes-seismo-ripples-study?utm_source=rss_feed",
+        "summary": "A China-led international team has reported a new pre-earthquake phenomenon that has shown strong predictive potential for major earthquakes since 2022 with minimal failures. The anomalous seismic, magnetic and ionospheric resonance signals they observed – termed “seismo-ripples” by the researchers – are ringlike disturbance patterns triggered before earthquakes happen. Their findings challenge the long-standing scientific belief that these events are unpredictable, opening up a promising new...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T12:00:09+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "South Africa wins big at the International Commission on Irrigation and Drainage conference in France",
+        "url": "https://www.ednews.africa/p/south-africa-wins-big-at-the-international",
+        "summary": "The awards recognise researchers behind some of the world’s outstanding and innovative work aimed at promoting efficient utilisation of water in agriculture, contributing to food and water security.",
+        "source": "EdNews Africa",
+        "published": "2026-10-15T11:55:17+00:00",
+        "region": "east_africa",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Hong Kong teenager pleads guilty to acid attack on Singaporean tourist",
+        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371038/hong-kong-teenager-pleads-guilty-acid-attack-singaporean-tourist?utm_source=rss_feed",
+        "summary": "A 19-year-old teenager has admitted splashing corrosive liquid on a Singaporean tourist in Hong Kong last year, leaving her with second-degree burns. The High Court on Thursday heard the guilty plea from Anson Kew, who was 17 when he threw a corrosive solution at 36-year-old Jiang Wen, who was visiting the city, on June 9 last year. Jiang was getting into a vehicle in Wan Chai when Kew, dressed in black and wearing a mask, ambushed her. She screamed in pain and collapsed after feeling an intense...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T11:10:42+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "US wants to ‘compete’ in Central Asia, ambassador says ahead of Rubio visit",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3371033/us-wants-compete-central-asia-ambassador-says-ahead-rubio-visit?utm_source=rss_feed",
+        "summary": "The US wants to “compete” in resource-rich Central Asia, a senior American official has said as Secretary of State Marco Rubio prepares to head to a region of growing Chinese influence. In New Delhi on Thursday, US ambassador to India Sergio Gor said this weekend’s C5+1 ministerial meeting between the five Central Asian countries and the US in Uzbekistan would be an opportunity to “showcase American ingenuity, American technology”. Rubio would be joined by representatives from more than 200...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T11:04:00+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "EU leaders clash over trillion-euro budget as fears grow over French election fallout",
+        "url": "https://www.scmp.com/news/world/europe/article/3371036/eu-leaders-clash-over-trillion-euro-budget-fears-grow-over-french-election-fallout?utm_source=rss_feed",
+        "summary": "EU leaders locked horns on Thursday over the bloc’s next long-term budget as they kicked off talks in Brussels under pressure to seal a deal before several high-stakes elections next year, most crucially in France. The 27-nation European Union wants an agreement by Christmas, worried that any future deal-making will be derailed by potential Eurosceptic wins across the bloc, including in France where the far-right’s Marine Le Pen is favoured in opinion polls. “We are facing very, very difficult...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T10:42:26+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
         "title": "UP raises R170 000 for Degrees Delivered Campaign through Gold Rhino Ballet",
         "url": "https://www.ednews.africa/p/up-raises-r170-000-for-degrees-delivered",
         "summary": "Launched in 2026, the campaign made headlines and has already raised more than R11 million, enabling nearly 200 graduates who had struggled with historical student debt to receive their qualifications",
@@ -1108,9 +1264,9 @@
         "stream": "higher"
       },
       {
-        "title": "Hong Kong police arrest suspect in HK$80,000 Tai Po gold necklace theft",
+        "title": "Hong Kong police arrest pair after HK$80,000 Tai Po gold necklace theft",
         "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371030/hong-kong-police-arrest-suspect-hk80000-tai-po-gold-necklace-theft?utm_source=rss_feed",
-        "summary": "Hong Kong police have arrested a suspect in less than 24 hours after he allegedly stole a gold necklace worth nearly HK$80,000 (US$10,193) from a Chow Sang Sang jewellery store in Tai Po, the South China Morning Post has learned. The suspect was tracked down in the same district on Thursday afternoon, but the stolen jewellery has not been recovered, a source said. The unemployed man, in his forties, entered the store on Kwong Fuk Road at about 3.10pm on Wednesday. The suspect, believed to be...",
+        "summary": "Hong Kong police have arrested a man and a woman after he allegedly stole a gold necklace worth nearly HK$80,000 (US$10,193) from a Chow Sang Sang jewellery store in Tai Po. The man was tracked down in the same district on Thursday afternoon, but only half of the necklace has been recovered. The unemployed 37-year-old entered the store on Kwong Fuk Road at about 3.10pm on Wednesday. Believed to be financially strapped, he carried out the theft without attempting to cover his face. After asking...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-15T10:13:14+00:00",
         "region": "east_asia",
@@ -1266,7 +1422,7 @@
       {
         "title": "Could Trump join Xi and Putin for 3-way meeting at next month’s Apec summit?",
         "url": "https://www.scmp.com/news/china/diplomacy/article/3371002/could-trump-join-xi-and-putin-three-way-meeting-next-months-apec-summit?utm_source=rss_feed",
-        "summary": "The foreign ministers of China and Russia have discussed their relations with the United States, paving the ground for a possible meeting between their respective leaders at next month’s Apec summit in Shenzhen. Chinese Foreign Minister Wang Yi and his Russian counterpart, Sergey Lavrov, met in Baku, the capital of Azerbaijan, on Thursday, where they discussed “relations with the United States and the developments involving the Ukraine and Iran crises as well”, according to Moscow. China did not...",
+        "summary": "The foreign ministers of China and Russia have discussed their relations with the United States, paving the ground for a possible meeting between their respective leaders at next month’s Apec summit in Shenzhen. Chinese Foreign Minister Wang Yi and his Russian counterpart, Sergey Lavrov, met in Baku, the capital of Azerbaijan, on Wednesday, where they discussed “relations with the United States and the developments involving the Ukraine and Iran crises as well”, according to Moscow. China did...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-15T09:00:47+00:00",
         "region": "east_asia",
@@ -1324,9 +1480,21 @@
         "stream": "higher"
       },
       {
-        "title": "28 dead, mostly pupils, in Pakistan after school roof collapses",
+        "title": "HSBC to double Hong Kong AI team to 300, outpacing Singapore plan",
+        "url": "https://www.scmp.com/business/banking-finance/article/3370997/hsbc-double-hong-kong-ai-team-300-outpacing-singapore-plan?utm_source=rss_feed",
+        "summary": "HSBC, Hong Kong’s biggest lender, said on Thursday it would double its artificial intelligence specialist team in the city to 300, a figure much larger than the workforce planned for its recently announced AI centre in Singapore. The announcement comes after Hong Kong’s regulators were reported to have raised concerns about the Singapore hub. The bank would double its AI specialist headcount in Hong Kong from 150 to 300 over the next two to three years, said David Liao Yi-chien, HSBC co-CEO for...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T08:37:19+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "33 dead, mostly pupils, in Pakistan after school roof collapse",
         "url": "https://www.scmp.com/news/asia/south-asia/article/3370995/28-dead-mostly-pupils-pakistan-after-school-roof-collapses?utm_source=rss_feed",
-        "summary": "Twenty-seven pupils and a teacher were killed on Thursday after a roof collapsed at a school in the northwest Pakistani city of Peshawar, a hospital official said. Asim Khan from Peshawar’s Lady Reading Hospital confirmed the toll, adding that over 30 people were injured, with six believed to be in a critical condition. The hospital declared an emergency as medical staff treated the wounded. A spokesman for the emergency rescue service in Khyber Pakhtunkhwa province said the schoolchildren were...",
+        "summary": "The roof of a school collapsed in Pakistan’s northwestern city of Peshawar, killing a teacher and 32 students, mostly aged under 14, health officials said on Thursday, as residents and rescuers scrambled to pull children from the rubble. Twenty more students were taken to hospital after the collapse, which authorities blamed on “weak infrastructure”. Others in the densely populated neighbourhood described a close call. Resident Sohail said “everyone began screaming in panic” after his niece...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-15T08:22:36+00:00",
         "region": "east_asia",
@@ -1350,7 +1518,7 @@
       {
         "title": "‘We’re done’: Ukraine resumes Russian refinery strikes, defying Trump",
         "url": "https://www.scmp.com/news/world/europe/article/3370993/were-done-ukraine-resumes-russian-refinery-strikes-zelensky-defies-trump?utm_source=rss_feed",
-        "summary": "Ukraine has resumed its attacks on Russian refineries with a strike at an installation in the Ryazan region, the regional governor said on Thursday, after Ukrainian President Volodymyr Zelensky voiced his anger at a “dangerous” withdrawal of US intelligence. Since ‌US President Donald Trump’s surprise announcement of an energy ceasefire between Russia and Ukraine on Sunday, Kyiv had refrained from attacking Russian refineries, which the US leader had blamed for raising diesel prices on global...",
+        "summary": "Ukraine struck ⁠a Russian oil refinery on Thursday, after President Volodymyr Zelensky said Kyiv was “done” supporting a ceasefire on energy targets announced by US President Donald Trump and ignored by Russia. Since Trump’s surprise announcement on Sunday that Russia and Ukraine had agreed to halt attacks on energy, Kyiv had suspended attacks on Russian refineries, which Trump blames for raising diesel prices on global markets. But in the days that followed, Russia rained down deadly missile...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-15T08:08:11+00:00",
         "region": "east_asia",
@@ -1372,9 +1540,9 @@
         "stream": "higher"
       },
       {
-        "title": "Abby Choi’s ex-father-in-law helped resolve partner’s HK$5m debt, court told",
+        "title": "Abby Choi’s partner says he never sought sexual relationship with her ex-husband",
         "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370987/abby-chois-partner-tells-court-her-ex-father-law-helped-resolve-his-hk5m-debt?utm_source=rss_feed",
-        "summary": "Slain Hong Kong socialite Abby Choi Tin-fung’s partner has acknowledged that her former father-in-law helped resolve a dispute over his HK$5 million (US$641,025) gambling debt but maintained he was not obliged to repay it because he believed the company he owed would fold. Chris Tam Fong-chun told the High Court on Thursday that he had refused to repay a loan he took out while gambling at a casino run by Suncity Group in August 2021, saying he thought it would be foolish to pay a company that...",
+        "summary": "The partner of slain Hong Kong socialite Abby Choi Tin-fung has denied seeking a sexual relationship with her ex-husband when they were young, saying he only remained in contact because their children shared the same mother. Testifying on Thursday, Chris Tam Fong-chun appeared surprised when a defence lawyer suggested he wanted a “romantic and sexual relationship” with Alex Kwong Kong-chi when they were studying at the same international school. “Definitely disagree,” Tam said after seeking...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-15T07:46:57+00:00",
         "region": "east_asia",
@@ -1384,9 +1552,9 @@
         "stream": "higher"
       },
       {
-        "title": "Over 1,000 Hongkongers to ride Baidu’s robotaxis in city-first public trial",
+        "title": "1,000 Hongkongers to ride Baidu’s autonomous vehicles in city-first public trial",
         "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370979/over-1000-hongkongers-ride-baidus-robotaxis-city-first-public-trial?utm_source=rss_feed",
-        "summary": "More than 1,000 residents are expected to ride in autonomous vehicles (AVs) after Chinese technology giant Baidu launches Hong Kong’s first large-scale public trial next week. Baidu’s robotaxi platform, Apollo, will run the trial in Tung Chung from October 21 to November 3, inviting more than 1,000 residents to take part. Iris Wong Man-hei, senior project and business development manager for Baidu’s intelligent driving group, described the trial as a “milestone” for the city’s autonomous driving...",
+        "summary": "More than 1,000 residents are expected to ride in autonomous vehicles (AVs) after Chinese technology giant Baidu launches Hong Kong’s first large-scale public trial next week. Baidu’s autonomous driving platform, Apollo, will run the trial in Tung Chung from October 21 to November 3, inviting more than 1,000 residents to take part. Iris Wong Man-hei, senior project and business development manager for Baidu’s intelligent driving group, described the trial as a “milestone” for the city’s...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-15T07:14:33+00:00",
         "region": "east_asia",
@@ -1672,174 +1840,6 @@
         "stream": "higher"
       },
       {
-        "title": "How a fuel crisis is threatening Bangladesh’s reform goals: ‘it hit our citizens hard’",
-        "url": "https://www.scmp.com/week-asia/economics/article/3370930/how-fuel-crisis-threatening-bangladeshs-reform-goals-it-hit-our-citizens-hard?utm_source=rss_feed",
-        "summary": "Faced with a fuel crisis beyond its control, Bangladesh’s government is spending the equivalent of hundreds of millions of US dollars each month to insulate its people from surging prices. But as growth slows and inflation rises, the new government’s reform plans are being tested before it has had much time to clean up the country’s troubled financial institutions or retool its young, abundant – but underemployed – workforce for the AI era. Prime Minister Tarique Rahman took office on February...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T03:00:12+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Longevity-first healthcare takes spotlight at Abu Dhabi Future Health Summit",
-        "url": "https://www.scmp.com/native/news/world/middle-east/topics/transforming-health-future/article/3370736/longevity-first-healthcare-takes-spotlight-abu-dhabi-future-health-summit?utm_source=rss_feed",
-        "summary": "Issues affecting ageing populations worldwide will form the core of discussions for policymakers and health industry leaders gathered at the Abu Dhabi Future Health Summit, with a particular emphasis on how practising prediction and prevention can help ensure life is lived to its fullest. The United Arab Emirates (UAE) has positioned itself as a global leader in transformative healthcare policy, and Dr Asma Al Mannaei, executive director of the health life science sector at the Department of...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T03:00:08+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Ancient Chinese families gave babies humble nicknames – ‘Dog’, ‘Pig’ – to ward off bad luck",
-        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3370937/ancient-chinese-families-gave-babies-humble-nicknames-dog-pig-ward-bad-luck?utm_source=rss_feed",
-        "summary": "Like people elsewhere in the world, Chinese people often have nicknames in addition to their official names. Some of these may surprise people from other cultures because they sound humble or even unflattering. Chinese parents have traditionally given their children humble, sometimes vulgar, nicknames – occasionally using animal names such as “Dog” or “Pig.” The practice dates back to ancient times. Parents believed that the humbler a nickname sounded, the better, as it might help ensure their...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T02:56:08+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Malaysian tycoon goes on Singapore property buying spree to ‘catch up with the rest’",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3370933/malaysian-tycoon-goes-singapore-property-buying-spree-catch-rest?utm_source=rss_feed",
-        "summary": "Malaysian property tycoon Lee Yeow Seng is making waves as one of the most aggressive buyers of commercial real estate in Singapore, and he is not done yet. His IOI Properties Group is in exclusive talks and due diligence to purchase two property assets – Chijmes, a retail venue inside a former Catholic convent in its civic district, and the nearby Capitol Kempinski hotel, CEO Lee said in an interview. He declined to disclose how much a final agreement will value the two assets at, citing...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T02:40:24+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "South Korea’s offender tracking under scrutiny after stabbing spree exposes ‘serious gaps’",
-        "url": "https://www.scmp.com/week-asia/people/article/3370927/south-koreas-offender-tracking-under-scrutiny-after-stabbing-spree-exposes-serious-gaps?utm_source=rss_feed",
-        "summary": "A stabbing rampage by a repeat violent offender wearing an electronic ankle monitor has raised questions about whether South Korea’s criminal justice system can adequately supervise those deemed high-risk and prevent attacks before they happen. The 59-year-old suspect told investigators he had become frustrated over what he perceived as mistreatment at a hospital, police said on Wednesday. Three criminal profilers were helping investigators establish the motive for Tuesday’s attack at a shopping...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T01:30:18+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Young Chinese are choosing healthy relationships over toxic filial piety",
-        "url": "https://www.scmp.com/opinion/china-opinion/article/3370667/young-chinese-are-choosing-healthy-relationships-over-toxic-filial-piety?utm_source=rss_feed",
-        "summary": "As the Chinese saying goes, “Even an upright judge finds it hard to settle family matters.” Whenever Chinese TV channels air reality shows that centre on couples or parent-child relationships, controversy is guaranteed. Heated debates ensue over who is right and who is wrong. Viewers examine every facial expression in microscopic detail and overanalyse every word before arriving at their verdict. Yet, that wasn’t the case with Zhang Jiaqi after the Olympic diving medallist and her mother, Xiao...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T01:30:08+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Singapore open to legal action against errant firms as haze crisis worsens",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3370929/singapore-open-legal-action-against-errant-firms-haze-crisis-worsens?utm_source=rss_feed",
-        "summary": "Singapore will “keep its options open” on taking legal action against errant companies as air quality in the city state significantly deteriorated this week due to choking haze stemming from Indonesian wildfires. The government is collecting data on the haze as it weighs possible action under its Transboundary Haze Pollution Act, Sustainability and Environment Minister Grace Fu told local media on Wednesday evening. The law, enacted in 2014, targets those responsible for causing or condoning...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T01:08:51+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "US and China race to shape AI agenda ahead of Xi-Trump talks in Shenzhen, sources say",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3370926/us-and-china-race-shape-ai-agenda-ahead-xi-trump-talks-shenzhen-sources-say?utm_source=rss_feed",
-        "summary": "The United States and China are in regular talks to iron out details of a framework announced last month for handling AI-related incidents and institutionalising bilateral dialogue, multiple sources told the South China Morning Post. The technical teams of the two countries aim to make AI cooperation a potential deliverable when presidents Xi Jinping and Donald Trump meet on the sidelines of the Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen next month – their third face-to-face...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T01:00:22+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Chinese scientists use open-source data to spot suspected Israeli electronic warfare units",
-        "url": "https://www.scmp.com/news/china/science/article/3370910/chinese-scientists-use-open-source-data-spot-suspected-israeli-electronic-warfare-units?utm_source=rss_feed",
-        "summary": "Chinese military scientists claim they have developed an algorithm that could help identify electronic warfare units using civil aviation flight data. The researchers said they had located two sources of interference that were spoofing their locations near Israel during the conflict with Iran. The team did not explain why they had focused on the Israeli military. The researchers estimated the locations of the two units as being near Haifa, with reported positioning errors between 10.9km and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T01:00:19+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "‘Not tailor-made for us’: Hongkong Post staff say transfer scheme too narrow",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3370916/not-tailor-made-us-hongkong-post-staff-say-transfer-scheme-too-narrow?utm_source=rss_feed",
-        "summary": "Hong Kong postal workers denied permanent contracts have criticised a special government transfer scheme as too narrow, calling for more pathways into roles that match their experience, such as workman and artisan positions. Several affected workers told the South China Morning Post on Wednesday that the concessions offered insufficient support and failed to reflect their skills or circumstances. One postal worker, who asked not to be named, said that while the government had offered priority...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T00:30:05+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "AI-armed hackers tear through corporate Japan’s neglected defences",
-        "url": "https://www.scmp.com/week-asia/economics/article/3370875/ai-armed-hackers-tear-through-corporate-japans-neglected-defences?utm_source=rss_feed",
-        "summary": "Japanese companies have faced a growing wave of cyberattacks in recent weeks, exposing millions of customers’ records as analysts warn that artificial intelligence is helping hackers exploit long-standing security weaknesses and overcome language barriers that once offered some protection. More than 500 breaches of corporate systems were reported in the year to this month, surpassing the total for all of 2025, the Yomiuri newspaper reported last week. On October 7, a ransomware attack on IDC...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T00:00:13+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Australia navy probes hidden camera found in women’s showers on ship",
-        "url": "https://www.scmp.com/news/asia/australasia/article/3370928/hidden-cameras-found-womens-showers-australian-navy-ship?utm_source=rss_feed",
-        "summary": "Australia’s navy said on Thursday it would audit bathrooms across its fleet after a video recording device was found in the cabin of one of its ships. Navy chief Matt Buckley has vowed a full investigation into the incident aboard the HMAS Leeuwin, a survey ship docked in the northeastern city of Cairns in the state of Queensland. A member of the armed forces has been identified as a “person of interest” and was assisting military police with enquiries, Australia’s defence ministry said in an...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-14T23:58:13+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "How Jardine Matheson’s street-shop sale reflects Hong Kong retail property’s struggles",
-        "url": "https://www.scmp.com/business/article/3370889/how-jardine-mathesons-street-shop-sale-reflects-hong-kong-retail-propertys-struggles?utm_source=rss_feed",
-        "summary": "Amid Hong Kong’s commercial property downturn, British conglomerate Jardine Matheson has sold a street shop in Causeway Bay for HK$80 million (US$10.2 million) after holding it for more than 50 years, accepting a price HK$10 million below its earlier valuation. The property, a ground-floor shop in H&S Building at 36 Leighton Road, with a gross floor area of about 11,727 square feet, was acquired by Uni Investment Development, according to Land Registry records. Jardine Matheson appointed an...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-14T23:00:06+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "‘China shock 3.0’ to be driven by AI, biotech and robot exports, economist says",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3370925/china-shock-30-be-driven-ai-biotech-and-robot-exports-economist-says?utm_source=rss_feed",
-        "summary": "The world is on the cusp of a “China shock 3.0” driven by exports of artificial intelligence (AI), biotechnology and robots, which could hit harder than the current wave, a leading economist on China has said. “We are already at the starting point of the China shock 3.0,” Alicia Garcia-Herrero, a senior fellow at Brussels-based think tank Bruegel and chief economist for Asia-Pacific at investment bank Natixis, told the South China Morning Post from Taipei after a virtual panel hosted by the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-14T22:00:47+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
         "title": "NRF Next Generation and Emerging Researchers Symposium 2026 challenged upcoming academics to put society at the heart of research",
         "url": "https://www.ednews.africa/p/nrf-next-generation-and-emerging",
         "summary": "“...the key question posed to symposium delegates was “How can research improve lives, address South Africa’s most pressing challenges and contribute to a more inclusive and prosperous future?”...",
@@ -2026,18 +2026,6 @@
         "source": "EdNews Africa",
         "published": "2026-10-12T22:29:33+00:00",
         "region": "east_africa",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "International security and defence: Is it time for universities to step up?",
-        "url": "https://thepienews.com/international-security-and-defence-is-it-time-for-universities-to-step-up/",
-        "summary": "In her latest column for The PIE, Diana Beech asks whether universities can keep their doors open to the world while guarding against growing security threats – and why getting that balance right has never mattered more. The post International security and defence: Is it time for universities to step up? appeared first on The PIE News .",
-        "source": "The PIE News",
-        "published": "2026-10-12T15:58:16+00:00",
-        "region": "global",
         "streams": [
           "higher"
         ],
@@ -2626,11 +2614,71 @@
     ],
     "edtech": [
       {
+        "title": "A First Look at Khan Academy Interim Assessments",
+        "url": "https://blog.khanacademy.org/introducing-khan-academy-interim-assessments/",
+        "summary": "Move from measuring progress to accelerating it. An interim assessment can tell a teacher where a student stands. ... Read more The post A First Look at Khan Academy Interim Assessments appeared first on Khan Academy Blog .",
+        "source": "Khan Academy — Blog",
+        "published": "2026-10-15T15:15:00+00:00",
+        "region": "global",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
+      {
+        "title": "Learning Data Shape Decisions: When Hidden Inferences Lead to Real Consequences",
+        "url": "https://elearningindustry.com/learning-data-shape-decisions-when-hidden-inferences-lead-to-real-consequences",
+        "summary": "Learning data do more than describe activity. This article examines what happens when inferred skills, readiness, or proficiency begin to shape pathways, profiles, and opportunities - and what buyers and learning leaders should ask before those inferences are given real authority. This post was first published on eLearning Industry .",
+        "source": "eLearning Industry",
+        "published": "2026-10-15T13:00:01+00:00",
+        "region": "global",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
+      {
+        "title": "Teaching students to think and learn through questions",
+        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+        "source": "OpenAI — News & Research",
+        "published": "2026-10-15T13:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
+      {
+        "title": "Strengthen your Chinese skills with new Component Sessions",
+        "url": "https://blog.duolingo.com/component-sessions/",
+        "summary": "Our new exercises help you unlock the hidden meanings behind Chinese characters!",
+        "source": "Duolingo — Blog",
+        "published": "2026-10-15T12:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
+      {
         "title": "Vibe coding: 3 easy steps to classroom magic",
         "url": "https://www.eschoolnews.com/digital-learning/2026/10/15/vibe-coding-3-easy-steps-to-classroom-magic/",
         "summary": "No matter where you turn today, it feels as though people just can’t stop talking about artificial intelligence (AI). Suddenly it’s become a part of our workspace, our entertainment, the tools we use for shopping and paying bills, but perhaps most notably, it’s quickly found its way into our classrooms.",
         "source": "eSchool News",
         "published": "2026-10-15T10:00:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
+      {
+        "title": "The Abundant City: Building a Coherent Public Education System",
+        "url": "https://www.gettingsmart.com/2026/10/15/the-abundant-city-building-an-efficient-public-education-system/",
+        "summary": "What if the crisis in urban public education is not a resource problem but a design problem? In this thought-provoking piece, Mason Pashia examines the history of mayoral control, the promise and peril of city-school mergers, and what an abundance mindset could mean for governance, financing, and who gets to learn. For education leaders navigating declining enrollment, strained budgets, and a public losing faith in the institutional model, this is both a diagnostic and a call to reimagine. The post The Abundant City: Building a Coherent Public Education System appeared first on Getting Smart .",
+        "source": "Getting Smart",
+        "published": "2026-10-15T09:15:00+00:00",
         "region": "north_america",
         "streams": [
           "edtech"
@@ -3155,18 +3203,6 @@
         "stream": "edtech"
       },
       {
-        "title": "Stop Borrowing Benchmarks: How L&D Teams Can Publish Their Own Numbers",
-        "url": "https://elearningindustry.com/stop-borrowing-benchmarks-how-ld-teams-can-publish-their-own-numbers",
-        "summary": "L&D teams quote industry completion rates and engagement averages they cannot verify, while sitting on far better data of their own. Running a small internal study is less work than it sounds, and the discipline it forces is worth more than the finding. This post was first published on eLearning Industry .",
-        "source": "eLearning Industry",
-        "published": "2026-10-06T13:00:20+00:00",
-        "region": "global",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
-      },
-      {
         "title": "What does en passant mean in chess?",
         "url": "https://blog.duolingo.com/en-passant/",
         "summary": "The humble pawn has a few tricks up its sleeve!",
@@ -3539,56 +3575,6 @@
           "edtech"
         ],
         "stream": "edtech"
-      },
-      {
-        "title": "Study: Edtech Is Rushing AI Integration Before Proving It Works",
-        "url": "https://edsurge.com/news/study-edtech-is-rushing-ai-integration-before-proving-it-works",
-        "summary": "As AI features flood K-12 curricula, educators are left to filter proven quality from marketing hype.",
-        "source": "EdSurge",
-        "published": "2026-09-29T00:00:00+00:00",
-        "region": "north_america",
-        "streams": [
-          "edtech",
-          "school"
-        ],
-        "stream": "edtech"
-      },
-      {
-        "title": "What E-Rate makes possible: Four lessons from our district",
-        "url": "https://www.eschoolnews.com/it-leadership/2026/09/28/what-e-rate-makes-possible-four-lessons-from-lenoir-city-schools/",
-        "summary": "For nearly three decades, E-Rate has helped school districts build and sustain the network infrastructure that supports teaching, learning, safety, and the many systems educators rely on every day.",
-        "source": "eSchool News",
-        "published": "2026-09-28T10:00:00+00:00",
-        "region": "north_america",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
-      },
-      {
-        "title": "Teachers weigh the realities of classroom technology in new national survey",
-        "url": "https://www.eschoolnews.com/innovative-teaching/2026/09/25/teachers-weigh-the-realities-of-classroom-technology-in-new-national-survey/",
-        "summary": "While classroom technology is nearly universal, educators are navigating a growing disconnect between how digital tools are mandated and how they actually function, according to Teaching for Tomorrow: Screen Wise, a new report from the Walton Family Foundation and Gallup, in partnership with the Joan Ganz Cooney Center.",
-        "source": "eSchool News",
-        "published": "2026-09-25T13:00:00+00:00",
-        "region": "north_america",
-        "streams": [
-          "teacher",
-          "edtech"
-        ],
-        "stream": "edtech"
-      },
-      {
-        "title": "Why is English spelling so tricky?",
-        "url": "https://blog.duolingo.com/why-is-english-spelling-so-tricky/",
-        "summary": "English is a *mélange* and a *smorgasbord* from lots of different languages!",
-        "source": "Duolingo — Blog",
-        "published": "2026-09-24T12:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
       }
     ],
     "policy": [
@@ -3597,7 +3583,7 @@
         "url": "https://kathmandupost.com/world/2026/10/15/at-least-33-killed-including-32-students-in-pakistan-school-roof-collapse",
         "summary": "The collapse at a school in Peshawar killed 32 children aged seven to 14 and a female teacher, prompting calls for a probe and safety audits of educational institutions across Khyber Pakhtunkhwa.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-15T10:38:23.354680+00:00",
+        "published": "2026-10-15T16:03:25.777185+00:00",
         "region": "south_asia",
         "streams": [
           "policy"
@@ -3605,11 +3591,95 @@
         "stream": "policy"
       },
       {
-        "title": "Teacher, 32 students killed in Peshawar school roof collapse",
-        "url": "https://www.dawn.com/news/2037299/teacher-32-students-killed-in-peshawar-school-roof-collapse",
-        "summary": "PESHAWAR: At least 33 people, including 32 students and a female teacher, were killed when a school roof collapsed in the provincial capital’s Afridi Abad area on Thursday. Lady Reading Hospital (LRH) spokesperson Muhammad Asim told Dawn that the death toll had risen to 33 from an earlier figure of 28. The deceased included 32 students aged between seven and 14 and a female teacher, he said. A total of 20 injured children were also brought to the hospital, most of whom have since been discharged. Three children who sustained serious head injuries remained under treatment, he added. Speaking to",
+        "title": "Teacher, 30 students killed in Peshawar school roof collapse",
+        "url": "https://www.dawn.com/news/2037299/teacher-30-students-killed-in-peshawar-school-roof-collapse",
+        "summary": "PESHAWAR: At least 31 people, including 30 students and a female teacher, were killed when a school roof collapsed in the provincial capital’s Afridi Abad area on Thursday. Lady Reading Hospital (LRH) spokesperson Muhammad Asim initially told Dawn that the death toll had risen to 33, including a female teachers and students aged between seven and 14 and a female teacher. Later, he said that 30 students students and a female teacher had been killed. According to the official list of casualties shared by LRH, a total of 61 people were brought to the facility, of which 30 were discharged after be",
         "source": "Dawn — Pakistan",
-        "published": "2026-10-15T10:30:34+00:00",
+        "published": "2026-10-15T15:17:44+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "French football body urges fans and students to keep politics out of stadiums",
+        "url": "https://www.aljazeera.com/sports/2026/10/15/french-football-body-urges-fans-and-students-to-keep-politics-out-of-stadia?traffic_source=rss",
+        "summary": "French Football Federation's ethics body calls for neutrality amid student protests.",
+        "source": "Al Jazeera — News (education-gated)",
+        "published": "2026-10-15T15:16:05+00:00",
+        "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Student's suicide case: Islamabad court grants interim bail to co-suspect",
+        "url": "https://www.dawn.com/news/2037366/students-suicide-case-islamabad-court-grants-interim-bail-to-co-suspect",
+        "summary": "ISLAMABAD: Additional District and Sessions Judge Muhammad Afzal Majoka on Thursday granted interim bail until Oct 20 to a co-suspect in a case pertaining to the alleged suicide of a 20-year-old student, who was allegedly defrauded of millions. Laiba Ijaz, a student at International Islamic University, is said to have been defrauded of Rs5 million, which she had paid to move to the United States for further studies. An agent is said to have handed her the travel documents that were later found to be fake. The main suspect in the case has been arrested and remanded in police custody. On Thursda",
+        "source": "Dawn — Pakistan",
+        "published": "2026-10-15T14:31:32+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "‘Boiling point’: Why students are protesting against Albania’s Edi Rama",
+        "url": "https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss",
+        "summary": "Experts say Albania’s protests reflect ignored student grievances and growing frustration.",
+        "source": "Al Jazeera — News (education-gated)",
+        "published": "2026-10-15T14:22:13+00:00",
+        "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "As Texas Schools Add Police Officers to Campuses, Some Students Are Facing Serious Charges",
+        "url": "https://www.nytimes.com/2026/10/15/us/texas-students-bad-behavior-criminal-charges.html",
+        "summary": "More students ages 10 to 13 are ending up in the justice system after vaping, making threats and lashing out at school.",
+        "source": "New York Times — Education",
+        "published": "2026-10-15T12:46:09+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+        "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+        "summary": "Discover-Tech’s Controlium software lets clients mass-profile internet users then covertly hack targets, say researchers at University of Toronto An Israeli advertising agency has been serving millions of online adverts that allow “zero-click” spyware to be used against targets, researchers at a Canadian university have said . Citizen Lab, a digital investigations research unit at the University of Toronto, said it believed dozens of devices at the Qatari broadcaster Al Jazeera had been compromised by spyware delivered through ads run by Discover-Tech, which describes itself as a specialised d",
+        "source": "The Guardian — Education",
+        "published": "2026-10-15T12:15:22+00:00",
+        "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Why is there opposition against setting up foreign universities in Tamil Nadu? | Explained",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/why-is-there-opposition-against-setting-up-foreign-universities-in-tamil-nadu-explained/article71586860.ece",
+        "summary": "The University of Western Australia has secured final approval from the UGC to set up its campus in Chennai; the Left parties and other organisations have said that this would lead to the commercialisation of education",
+        "source": "The Hindu — Education",
+        "published": "2026-10-15T11:41:23+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "School collapses in Pakistan: A timeline of incidents since 2021",
+        "url": "https://www.dawn.com/news/2037335/school-collapses-in-pakistan-a-timeline-of-incidents-since-2021",
+        "summary": "The roof of a private school in Peshawar’s Afridi Abad collapsed on Thursday, killing 33. The deceased included 32 students — between the ages of seven and 14 — and a female teacher. Pakistan has witnessed several incidents of structural collapses at educational institutions in recent years, resulting in the deaths and injuries of students, teachers and other staff members. Here is a timeline of reported incidents over the past five years. Sep 11, 2026 — Karachi, Sindh Five people were killed and two others injured when a wall of a dilapidated government school building collapsed on them in Or",
+        "source": "Dawn — Pakistan",
+        "published": "2026-10-15T11:06:36+00:00",
         "region": "south_asia",
         "streams": [
           "policy"
@@ -3635,66 +3705,6 @@
         "source": "New York Times — Education",
         "published": "2026-10-15T09:04:29+00:00",
         "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "As Texas Schools Add Police Officers to Campuses, Some Students Are Facing Serious Charges",
-        "url": "https://www.nytimes.com/2026/10/15/us/texas-students-bad-behavior-criminal-charges.html",
-        "summary": "More students ages 10 to 13 are ending up in the justice system after vaping, making threats and lashing out at school.",
-        "source": "New York Times — Education",
-        "published": "2026-10-15T09:01:40+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Why is there opposition against setting up foreign universities in Tamil Nadu? | Explained",
-        "url": "https://www.thehindu.com/news/national/tamil-nadu/why-is-there-opposition-against-setting-up-foreign-universities-in-tamil-nadu-explained/article71586860.ece",
-        "summary": "With the University of Western Australia having secured final approval from the UGC to set up its campus in Chennai, the Left parties and other organisations have said that this would lead to the commercialisation of education",
-        "source": "The Hindu — Education",
-        "published": "2026-10-15T08:59:24+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "School roof collapses in northwestern Pakistan, killing at least 29 people",
-        "url": "https://www.aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people?traffic_source=rss",
-        "summary": "At least 28 students and one teacher killed in incident at Al-Khair Education Centre, a private school in Peshawar.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-15T08:30:41+00:00",
-        "region": "global",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?",
-        "url": "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html",
-        "summary": "Katie Zacharia told The New York Times that the confusion over her legal credentials was the result of one big misunderstanding.",
-        "source": "New York Times — Education",
-        "published": "2026-10-15T08:00:08+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Albanian Ministry of Justice on fire as education protesters riot",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/albanian-ministry-of-justice-on-fire-as-education-protesters-riot?traffic_source=rss",
-        "summary": "Hundreds of students joined anti-government protests in Tirana, demanding education reforms.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-15T03:30:42+00:00",
-        "region": "global",
         "streams": [
           "policy"
         ],
@@ -3862,6 +3872,18 @@
         "summary": "In an interview with The New York Times, Michael Kotlikoff addressed his administration’s handling of sexual assault accusations brought by a former student.",
         "source": "New York Times — Education",
         "published": "2026-10-14T13:32:09+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Five Key Moments From The Times’s Interview With Cornell’s President",
+        "url": "https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-takeaways.html",
+        "summary": "Michael Kotlikoff addressed concerns over the university’s handling of a former student’s claims that she was gang-raped at a fraternity party.",
+        "source": "New York Times — Education",
+        "published": "2026-10-14T13:30:37+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -4043,6 +4065,18 @@
         "source": "The Guardian — Education",
         "published": "2026-10-13T23:01:37+00:00",
         "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Free Money",
+        "url": "https://www.nytimes.com/2026/10/13/briefing/free-money.html",
+        "summary": "We look at an experimental program.",
+        "source": "New York Times — Education",
+        "published": "2026-10-13T15:45:10+00:00",
+        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -4503,54 +4537,6 @@
           "policy"
         ],
         "stream": "policy"
-      },
-      {
-        "title": "At Cornell, a Sorority Finds Itself Sued by One of Its Own",
-        "url": "https://www.nytimes.com/2026/10/10/nyregion/at-cornell-a-sorority-finds-itself-sued-by-one-of-its-own.html",
-        "summary": "Some Delta Delta Delta members are asking if the sorority shares blame in the bombshell case — or if the group is a scapegoat.",
-        "source": "New York Times — Education",
-        "published": "2026-10-10T07:00:13+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Why India must rethink what education means",
-        "url": "https://www.thehindu.com/education/why-india-must-rethink-what-education-means/article71539804.ece",
-        "summary": "India requires classrooms that build knowledge, character, and the capacity to contribute",
-        "source": "The Hindu — Education",
-        "published": "2026-10-10T06:52:29+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Why education should move away from the label “slow learner”",
-        "url": "https://www.thehindu.com/education/why-education-should-move-away-from-the-label-slow-learner/article71549865.ece",
-        "summary": "Each student learns differently and teachers should adapt their approaches to suit diverse needs",
-        "source": "The Hindu — Education",
-        "published": "2026-10-10T06:51:46+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Ambedkar University Delhi’s administrative crisis",
-        "url": "https://www.thehindu.com/education/ambedkar-university-delhis-administrative-crisis/article71563088.ece",
-        "summary": "The unrest began with an official university order issued on July 31, 2026, titled Maintenance of Attendance-cum-Whereabouts Register for Ph.D. Scholars receiving Fellowship",
-        "source": "The Hindu — Education",
-        "published": "2026-10-10T04:42:39+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
       }
     ],
     "research": [
@@ -4905,6 +4891,30 @@
       {
         "title": "The relationship between positive childhood experiences and flourishing via self compassion and gratitude",
         "url": "https://www.nature.com/articles/s41598-026-72780-9",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-15T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "A historical and comparative analysis on homebound instruction for children with severe disabilities in China",
+        "url": "https://www.nature.com/articles/s41599-026-09200-w",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-15T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Grade- and programme-related differences in career planning competence among undergraduates at a Chinese university",
+        "url": "https://www.nature.com/articles/s41598-026-73006-8",
         "summary": "",
         "source": "Nature — Education",
         "published": "2026-10-15T00:00:00+00:00",
@@ -5489,33 +5499,69 @@
           "research"
         ],
         "stream": "research"
-      },
-      {
-        "title": "Formation mechanism of the digital literacy divide among farmers: a qualitative study from China",
-        "url": "https://www.nature.com/articles/s41599-026-09430-y",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-11T00:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Young children’s knowledge of ChatGPT and its relationship with their achievement in english as a second language",
-        "url": "https://www.nature.com/articles/s41598-026-73410-0",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-10T00:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
       }
     ],
     "funding": [
+      {
+        "title": "Toronto Metropolitan University Global Migration Institute Scholarships 2027-2028",
+        "url": "https://opportunitydesk.org/2026/10/15/tmu-global-migration-institute-scholarships-2027-2028/",
+        "summary": "Deadline: April 1, 2027 Applications are open for the Toronto Metropolitan University Global Migration Institute Scholarships 2027-2028. Every year, the Global Migration Institute offers a limited number of stipends through its Bridging Divides program, open to full-time Master’s and PhD students studying or applying to study at Toronto Metropolitan University on a topic related to [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-15T14:31:12+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Deutsche Welle (DW) Traineeship 2028-2029",
+        "url": "https://opportunitydesk.org/2026/10/15/dw-traineeship-2028-2029/",
+        "summary": "Deadline: November 17, 2026 Applications are open for the Deutsche Welle (DW) Traineeship 2028-2029. DW is looking for creative people, who are interested in a comprehensive, high-quality journalism program with an international broadcaster and who want to help shape the journalism of the future. The 18-month paid journalism program is considered one of the most [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-15T14:04:59+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "25 UN Administration and Facilities Management Jobs Currently Open – October 15, 2026",
+        "url": "https://opportunitydesk.org/2026/10/15/25-un-administration-and-facilities-management-jobs-currently-open-october-15-2026/",
+        "summary": "1. Programme Management Assistant, G-6 – United Nations Joint Staff Pension Fund, New York, USAThe United Nations Joint Staff Pension Fund is recruiting a Programme Management Assistant to support its pension administration activities. The position contributes to the coordination of programme work, the maintenance of accurate records, the preparation and tracking of documentation, and the [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-15T13:59:31+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "18 Global Opportunities for Women and Girls Currently Open – October 15, 2026",
+        "url": "https://opportunitydesk.org/2026/10/15/18-global-opportunities-for-women-and-girls-currently-open-october-15-2026/",
+        "summary": "1. African Female Artist Mentorship Program 2026–2027The Girl Child Art Foundation’s African Female Artist Mentorship Program connects emerging African women artists with experienced mentors who can help refine their creative practice and professional direction. The programme offers individualised guidance to artists who have clear learning goals and the commitment to develop their work. It is [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-15T13:31:37+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Call for Proposals – Rockefeller Foundation Cities Deliver: AI Solutions for Public Services 2026",
+        "url": "https://opportunitydesk.org/2026/10/15/rockefeller-foundation-cities-deliver-ai-solutions-for-public-services-2026/",
+        "summary": "Deadline: November 29, 2026 Proposals are invited for the Rockefeller Foundation Cities Deliver: AI Solutions for Public Services. Nearly half of the world’s population lives in cities. Public services shape those residents’ everyday lives. They affect whether they can get health care, find meaningful work, live safely, and have a voice in local decisions. City [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-15T11:35:21+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
       {
         "title": "Harrison Middleton University (HMU) Fellowship in Ideas 2027",
         "url": "https://opportunitydesk.org/2026/10/15/hmu-fellowship-in-ideas-2027/",
@@ -5589,71 +5635,11 @@
         "stream": "funding"
       },
       {
-        "title": "OD Impact Challenge 2026: Get Ready to Share Your Impact!",
-        "url": "https://opportunitydesk.org/2026/10/14/od-impact-challenge-2026-get-ready-to-share-your-impact/",
-        "summary": "Are you a young person making a difference in your community? Are you leading a project, building a social enterprise, or working on a solution that is improving people’s lives? Opportunity Desk is excited to announce that we will be hosting this year’s Opportunity Desk Impact Challenge-ODIC 2026! Young people across the world are responding [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-14T15:55:35+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "How to Stand Out and Win the OD Impact Challenge 2026: An Applicant’s Playbook",
-        "url": "https://opportunitydesk.org/2026/10/14/how-to-stand-out-and-win-the-od-impact-challenge-2026-an-applicants-playbook/",
-        "summary": "Every year, thousands of passionate young leaders submit their community work to the Opportunity Desk Impact Challenge. Many run remarkable initiatives, yet only a select few advance to the Top 12 finalists and walk away with the global spotlight and prize funding. The deciding factor is rarely who works the longest hours; it is who [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-14T15:35:23+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "From Rejections to ‘Congratulations’ : What to Do After Winning a Life-Changing Scholarship",
-        "url": "https://opportunitydesk.org/2026/10/14/from-rejections-to-congratulations-what-to-do-after-winning-a-life-changing-scholarship/",
-        "summary": "April 4, 2025, started like any ordinary workday until an email notification sound interrupted my routine. I looked at my screen, and the first word in bold font jumped out at me: “Dear Favour, Greetings from Edinburgh !bFollowing our recruitment process, we are delighted to offer you a Mastercard Foundation Scholarship at the University of Edinburgh to study” After 17 [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-14T15:15:16+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
         "title": "Study on radiation damage of tungsten-based targets induced by deuterium ions",
         "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360154",
         "summary": "by Yanli Zhang, Fei Zheng, Jiangping Feng, Zhongsheng Cao, Qingyun Meng The effects of homogeneously doped phases on the primary radiation damage of W-based targets were investigated by the Monte Carlo method in this paper. The results show that introducing homogeneously doped phases into W effectively reduces the energy localization of deuterium ions within the targets. Meanwhile, Under 100 keV deuterium ion irradiation, the ballistic distribution, the number of displacement collisions, and the vacancies of deuterium ions in homogeneously doped W targets are all lower than those in pure W. An",
         "source": "PLOS ONE — Education Research",
         "published": "2026-10-14T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "Call for Volunteers: Atlantic Dialogues Conference 2026",
-        "url": "https://opportunitydesk.org/2026/10/14/call-for-volunteers-atlantic-dialogues-2026/",
-        "summary": "Deadline: October 18, 2026 Apply now to volunteer for the Atlantic Dialogues 2026. The Policy Center for the New South (PCNS) is seeking volunteers to provide support at the 15th edition of the Atlantic Dialogues conference, which will take place in Rabat on December 10th – 12th, 2026. The Atlantic Dialogues (AD) is an annual, [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-14T12:11:24+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "World Economic Forum Technology Pioneers 2027",
-        "url": "https://opportunitydesk.org/2026/10/14/world-economic-forum-technology-pioneers-2027/",
-        "summary": "Deadline: January 31, 2027 Applications are open for the World Economic Forum Technology Pioneers 2027. The World Economic Forum’s Technology Pioneers community is composed of early-stage start-ups from around the world who are developing and deploying new technologies and innovations. Each year the Forum selects 100 companies to work with society’s foremost political, business and cultural [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-14T12:09:25+00:00",
         "region": "global",
         "streams": [
           "funding"
@@ -5761,6 +5747,162 @@
   "regions": {
     "global": [
       {
+        "title": "French football body urges fans and students to keep politics out of stadiums",
+        "url": "https://www.aljazeera.com/sports/2026/10/15/french-football-body-urges-fans-and-students-to-keep-politics-out-of-stadia?traffic_source=rss",
+        "summary": "French Football Federation's ethics body calls for neutrality amid student protests.",
+        "source": "Al Jazeera — News (education-gated)",
+        "published": "2026-10-15T15:16:05+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "A First Look at Khan Academy Interim Assessments",
+        "url": "https://blog.khanacademy.org/introducing-khan-academy-interim-assessments/",
+        "summary": "Move from measuring progress to accelerating it. An interim assessment can tell a teacher where a student stands. ... Read more The post A First Look at Khan Academy Interim Assessments appeared first on Khan Academy Blog .",
+        "source": "Khan Academy — Blog",
+        "published": "2026-10-15T15:15:00+00:00",
+        "stream": "edtech",
+        "streams": [
+          "edtech"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Toronto Metropolitan University Global Migration Institute Scholarships 2027-2028",
+        "url": "https://opportunitydesk.org/2026/10/15/tmu-global-migration-institute-scholarships-2027-2028/",
+        "summary": "Deadline: April 1, 2027 Applications are open for the Toronto Metropolitan University Global Migration Institute Scholarships 2027-2028. Every year, the Global Migration Institute offers a limited number of stipends through its Bridging Divides program, open to full-time Master’s and PhD students studying or applying to study at Toronto Metropolitan University on a topic related to [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-15T14:31:12+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "‘Boiling point’: Why students are protesting against Albania’s Edi Rama",
+        "url": "https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss",
+        "summary": "Experts say Albania’s protests reflect ignored student grievances and growing frustration.",
+        "source": "Al Jazeera — News (education-gated)",
+        "published": "2026-10-15T14:22:13+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Deutsche Welle (DW) Traineeship 2028-2029",
+        "url": "https://opportunitydesk.org/2026/10/15/dw-traineeship-2028-2029/",
+        "summary": "Deadline: November 17, 2026 Applications are open for the Deutsche Welle (DW) Traineeship 2028-2029. DW is looking for creative people, who are interested in a comprehensive, high-quality journalism program with an international broadcaster and who want to help shape the journalism of the future. The 18-month paid journalism program is considered one of the most [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-15T14:04:59+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "25 UN Administration and Facilities Management Jobs Currently Open – October 15, 2026",
+        "url": "https://opportunitydesk.org/2026/10/15/25-un-administration-and-facilities-management-jobs-currently-open-october-15-2026/",
+        "summary": "1. Programme Management Assistant, G-6 – United Nations Joint Staff Pension Fund, New York, USAThe United Nations Joint Staff Pension Fund is recruiting a Programme Management Assistant to support its pension administration activities. The position contributes to the coordination of programme work, the maintenance of accurate records, the preparation and tracking of documentation, and the [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-15T13:59:31+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "18 Global Opportunities for Women and Girls Currently Open – October 15, 2026",
+        "url": "https://opportunitydesk.org/2026/10/15/18-global-opportunities-for-women-and-girls-currently-open-october-15-2026/",
+        "summary": "1. African Female Artist Mentorship Program 2026–2027The Girl Child Art Foundation’s African Female Artist Mentorship Program connects emerging African women artists with experienced mentors who can help refine their creative practice and professional direction. The programme offers individualised guidance to artists who have clear learning goals and the commitment to develop their work. It is [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-15T13:31:37+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Overseas student commencements fall 5% in Australian higher education",
+        "url": "https://thepienews.com/overseas-student-commencements-fall-5-in-australian-higher-education/",
+        "summary": "International student commencements at Australian higher education providers fell by almost 5% year-on-year in the first part of 2026, according to new preliminary government data. The post Overseas student commencements fall 5% in Australian higher education appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-10-15T13:06:07+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Learning Data Shape Decisions: When Hidden Inferences Lead to Real Consequences",
+        "url": "https://elearningindustry.com/learning-data-shape-decisions-when-hidden-inferences-lead-to-real-consequences",
+        "summary": "Learning data do more than describe activity. This article examines what happens when inferred skills, readiness, or proficiency begin to shape pathways, profiles, and opportunities - and what buyers and learning leaders should ask before those inferences are given real authority. This post was first published on eLearning Industry .",
+        "source": "eLearning Industry",
+        "published": "2026-10-15T13:00:01+00:00",
+        "stream": "edtech",
+        "streams": [
+          "edtech"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Teaching students to think and learn through questions",
+        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+        "source": "OpenAI — News & Research",
+        "published": "2026-10-15T13:00:00+00:00",
+        "stream": "edtech",
+        "streams": [
+          "edtech"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+        "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+        "summary": "Discover-Tech’s Controlium software lets clients mass-profile internet users then covertly hack targets, say researchers at University of Toronto An Israeli advertising agency has been serving millions of online adverts that allow “zero-click” spyware to be used against targets, researchers at a Canadian university have said . Citizen Lab, a digital investigations research unit at the University of Toronto, said it believed dozens of devices at the Qatari broadcaster Al Jazeera had been compromised by spyware delivered through ads run by Discover-Tech, which describes itself as a specialised d",
+        "source": "The Guardian — Education",
+        "published": "2026-10-15T12:15:22+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Strengthen your Chinese skills with new Component Sessions",
+        "url": "https://blog.duolingo.com/component-sessions/",
+        "summary": "Our new exercises help you unlock the hidden meanings behind Chinese characters!",
+        "source": "Duolingo — Blog",
+        "published": "2026-10-15T12:00:00+00:00",
+        "stream": "edtech",
+        "streams": [
+          "edtech"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Call for Proposals – Rockefeller Foundation Cities Deliver: AI Solutions for Public Services 2026",
+        "url": "https://opportunitydesk.org/2026/10/15/rockefeller-foundation-cities-deliver-ai-solutions-for-public-services-2026/",
+        "summary": "Deadline: November 29, 2026 Proposals are invited for the Rockefeller Foundation Cities Deliver: AI Solutions for Public Services. Nearly half of the world’s population lives in cities. Public services shape those residents’ everyday lives. They affect whether they can get health care, find meaningful work, live safely, and have a voice in local decisions. City [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-15T11:35:21+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
         "title": "Dozens of children killed after roof collapses in Pakistani school",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss",
         "summary": "At least 29 people, mostly children, have been killed after the school collapsed on them in Pakistan’s Peshawar.",
@@ -5829,18 +5971,6 @@
         "stream": "funding",
         "streams": [
           "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "School roof collapses in northwestern Pakistan, killing at least 29 people",
-        "url": "https://www.aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people?traffic_source=rss",
-        "summary": "At least 28 students and one teacher killed in incident at Al-Khair Education Centre, a private school in Peshawar.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-15T08:30:41+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "global"
       },
@@ -6095,150 +6225,6 @@
           "research"
         ],
         "region": "global"
-      },
-      {
-        "title": "Structural Pass Analysis in Football: Learning Pass Archetypes and Tactical Impact from Spatio-Temporal Tracking Data",
-        "url": "https://arxiv.org/abs/2603.28916",
-        "summary": "arXiv:2603.28916v3 Announce Type: replace-cross Abstract: Passing actions are commonly evaluated through ball progression and attacking outcomes, yet their relationship with the spatial organisation of the opposition provides an additional perspective on passing behaviour. This study introduces an interpretable framework for describing passing structure using synchronised event and tracking data. Three complementary descriptors are proposed: Line Bypass Score (LBS), measuring the difference in goal-side opponent counts between passer and receiver; Space Gain Metric (SGM), comparing their neare",
-        "source": "arXiv — cs.CY (Computers & Society)",
-        "published": "2026-10-15T04:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Mapping data literacy trajectories in K-12 education",
-        "url": "https://arxiv.org/abs/2603.28317",
-        "summary": "arXiv:2603.28317v2 Announce Type: replace Abstract: Data literacy skills are fundamental in computer science education. However, understanding how data-driven systems work represents a paradigm shift from traditional rule-based programming. We conducted a systematic literature review of 84 studies to understand K-12 learners' engagement with data across disciplines and contexts. We propose the data paradigms framework that categorises learning activities along two dimensions: (i) logic (knowledge-based or data-driven systems), and (ii) explainability (transparent or opaque models). We further ",
-        "source": "arXiv — cs.CY (Computers & Society)",
-        "published": "2026-10-15T04:00:00+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Partitioning Israeli Municipalities into Politically Homogeneous Cantons: A Constrained Spatial Clustering Approach",
-        "url": "https://arxiv.org/abs/2603.11805",
-        "summary": "arXiv:2603.11805v2 Announce Type: replace Abstract: Israeli society has experienced significant political polarization in recent years, reflected in five Knesset elections held within a four-year period (2019-2022). Public discourse increasingly references hypothetical divisions of the country into politically homogeneous \"cantons.\" This paper develops a data-driven algorithmic approach to explore such divisions using publicly available municipality-level election results and geographic boundary data. We partition 255 Israeli municipalities, including the Israeli local authorities in Judea and",
-        "source": "arXiv — cs.CY (Computers & Society)",
-        "published": "2026-10-15T04:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness",
-        "url": "https://arxiv.org/abs/2603.09200",
-        "summary": "arXiv:2603.09200v2 Announce Type: replace-cross Abstract: Situational awareness, the capacity of an AI system to recognize its own nature, understand its training and deployment context, and reason strategically about its circumstances, is widely considered among the most dangerous emergent capabilities in advanced AI systems. Separately, a growing research effort seeks to improve the logical reasoning capabilities of large language models (LLMs) across deduction, induction, and abduction. In this paper, we argue that these two research trajectories are on a collision course. We introduce the ",
-        "source": "arXiv — cs.CY (Computers & Society)",
-        "published": "2026-10-15T04:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Albanian Ministry of Justice on fire as education protesters riot",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/albanian-ministry-of-justice-on-fire-as-education-protesters-riot?traffic_source=rss",
-        "summary": "Hundreds of students joined anti-government protests in Tirana, demanding education reforms.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-15T03:30:42+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Wales has an education crisis. Can it be fixed?",
-        "url": "https://www.bbc.co.uk/news/articles/cw240qv4ygzmo?at_medium=RSS&at_campaign=rss",
-        "summary": "Wales scores poorly on international test results but it is not clear a new curriculum will help.",
-        "source": "BBC — Education",
-        "published": "2026-10-15T00:01:46+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "The relationship between positive childhood experiences and flourishing via self compassion and gratitude",
-        "url": "https://www.nature.com/articles/s41598-026-72780-9",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-15T00:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Student protests in Albania turn violent as demonstrators clash with police",
-        "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
-        "summary": "Dozens of people detained after government building and two banks set on fire as tens of thousands march over education costs and corruption Tens of thousands of students have taken to the streets of Tirana, the Albanian capital, setting alight a government building and two banks and hurling stones at police during a protest over rising education costs and ⁠corruption. Police responded with water ⁠cannon and teargas to disperse protesters who started a fire at the ministry of education building, overturned bins and smashed the fronts of local businesses. A branch of Raiffeisen Bank near the ed",
-        "source": "The Guardian — Education",
-        "published": "2026-10-14T23:19:43+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Changemakers for Youth Programme 2027 (Stipend available)",
-        "url": "https://opportunitydesk.org/2026/10/14/changemakers-for-youth-programme-2027/",
-        "summary": "Deadline: November 9, 2026 Applications are open for the Changemakers for Youth 2027. Through Changemakers for Youth, they support, connect and amplify the work of social entrepreneurs based in Egypt, Germany, Jordan, Lebanon, Morocco, Palestine, Switzerland, or Tunisia who address pressing social, economic, and environmental challenges in their communities, while strengthening the agency and skills of [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-14T19:14:46+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Top 10 Secrets To Managing Client Expectations In eLearning Projects",
-        "url": "https://elearningindustry.com/managing-client-expectations",
-        "summary": "Learn how to manage client expectations in eLearning for clearer communication, stronger collaboration, and successful project outcomes. Explore tips here. This post was first published on eLearning Industry .",
-        "source": "eLearning Industry",
-        "published": "2026-10-14T19:00:09+00:00",
-        "stream": "edtech",
-        "streams": [
-          "edtech"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "France Excellence Eiffel Scholarship Program 2026-2027",
-        "url": "https://opportunitydesk.org/2026/10/14/france-excellence-eiffel-scholarship-program-2026-2027/",
-        "summary": "Deadline: Unspecified Applications are open for the France Excellence Eiffel Scholarship Program 2026-2027. Developed by the Ministry of Foreign Affairs, the France Excellence Eiffel Scholarship Program provides annual training for future foreign decisionmakers in the public and private sectors in degree programs at the Master’s and Doctoral levels. The two main disciplinary fields for the [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-14T17:21:26+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Tyler Prize Student Ambassador 2027",
-        "url": "https://opportunitydesk.org/2026/10/14/tyler-prize-student-ambassador-2027/",
-        "summary": "Deadline: October 30, 2026 Applications are open for the Tyler Prize Student Ambassador 2027. The Tyler Prize for Environmental Achievement is seeking passionate students from around the world to become Student Ambassadors for 2027! Do you have a passion for policy and institutions, energy, pollution, equality, and economics? As a Tyler Prize Student Ambassador, you [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-14T17:12:15+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
       }
     ],
     "south_asia": [
@@ -6247,7 +6233,7 @@
         "url": "https://kathmandupost.com/world/2026/10/15/at-least-33-killed-including-32-students-in-pakistan-school-roof-collapse",
         "summary": "The collapse at a school in Peshawar killed 32 children aged seven to 14 and a female teacher, prompting calls for a probe and safety audits of educational institutions across Khyber Pakhtunkhwa.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-15T10:38:23.354680+00:00",
+        "published": "2026-10-15T16:03:25.777185+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6255,11 +6241,23 @@
         "region": "south_asia"
       },
       {
-        "title": "Teacher, 32 students killed in Peshawar school roof collapse",
-        "url": "https://www.dawn.com/news/2037299/teacher-32-students-killed-in-peshawar-school-roof-collapse",
-        "summary": "PESHAWAR: At least 33 people, including 32 students and a female teacher, were killed when a school roof collapsed in the provincial capital’s Afridi Abad area on Thursday. Lady Reading Hospital (LRH) spokesperson Muhammad Asim told Dawn that the death toll had risen to 33 from an earlier figure of 28. The deceased included 32 students aged between seven and 14 and a female teacher, he said. A total of 20 injured children were also brought to the hospital, most of whom have since been discharged. Three children who sustained serious head injuries remained under treatment, he added. Speaking to",
+        "title": "Teacher, 30 students killed in Peshawar school roof collapse",
+        "url": "https://www.dawn.com/news/2037299/teacher-30-students-killed-in-peshawar-school-roof-collapse",
+        "summary": "PESHAWAR: At least 31 people, including 30 students and a female teacher, were killed when a school roof collapsed in the provincial capital’s Afridi Abad area on Thursday. Lady Reading Hospital (LRH) spokesperson Muhammad Asim initially told Dawn that the death toll had risen to 33, including a female teachers and students aged between seven and 14 and a female teacher. Later, he said that 30 students students and a female teacher had been killed. According to the official list of casualties shared by LRH, a total of 61 people were brought to the facility, of which 30 were discharged after be",
         "source": "Dawn — Pakistan",
-        "published": "2026-10-15T10:30:34+00:00",
+        "published": "2026-10-15T15:17:44+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "Student's suicide case: Islamabad court grants interim bail to co-suspect",
+        "url": "https://www.dawn.com/news/2037366/students-suicide-case-islamabad-court-grants-interim-bail-to-co-suspect",
+        "summary": "ISLAMABAD: Additional District and Sessions Judge Muhammad Afzal Majoka on Thursday granted interim bail until Oct 20 to a co-suspect in a case pertaining to the alleged suicide of a 20-year-old student, who was allegedly defrauded of millions. Laiba Ijaz, a student at International Islamic University, is said to have been defrauded of Rs5 million, which she had paid to move to the United States for further studies. An agent is said to have handed her the travel documents that were later found to be fake. The main suspect in the case has been arrested and remanded in police custody. On Thursda",
+        "source": "Dawn — Pakistan",
+        "published": "2026-10-15T14:31:32+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6269,9 +6267,21 @@
       {
         "title": "Why is there opposition against setting up foreign universities in Tamil Nadu? | Explained",
         "url": "https://www.thehindu.com/news/national/tamil-nadu/why-is-there-opposition-against-setting-up-foreign-universities-in-tamil-nadu-explained/article71586860.ece",
-        "summary": "With the University of Western Australia having secured final approval from the UGC to set up its campus in Chennai, the Left parties and other organisations have said that this would lead to the commercialisation of education",
+        "summary": "The University of Western Australia has secured final approval from the UGC to set up its campus in Chennai; the Left parties and other organisations have said that this would lead to the commercialisation of education",
         "source": "The Hindu — Education",
-        "published": "2026-10-15T08:59:24+00:00",
+        "published": "2026-10-15T11:41:23+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "School collapses in Pakistan: A timeline of incidents since 2021",
+        "url": "https://www.dawn.com/news/2037335/school-collapses-in-pakistan-a-timeline-of-incidents-since-2021",
+        "summary": "The roof of a private school in Peshawar’s Afridi Abad collapsed on Thursday, killing 33. The deceased included 32 students — between the ages of seven and 14 — and a female teacher. Pakistan has witnessed several incidents of structural collapses at educational institutions in recent years, resulting in the deaths and injuries of students, teachers and other staff members. Here is a timeline of reported incidents over the past five years. Sep 11, 2026 — Karachi, Sindh Five people were killed and two others injured when a wall of a dilapidated government school building collapsed on them in Or",
+        "source": "Dawn — Pakistan",
+        "published": "2026-10-15T11:06:36+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6697,33 +6707,21 @@
           "higher"
         ],
         "region": "south_asia"
-      },
-      {
-        "title": "What’s your next move?",
-        "url": "https://www.thehindu.com/education/careers/whats-your-next-move/article71555527.ece",
-        "summary": "Uncertain about your career options? Low on self-confidence? This column may help",
-        "source": "The Hindu — Education",
-        "published": "2026-10-10T10:25:16+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "Scholarships: October 10, 2026",
-        "url": "https://www.thehindu.com/education/scholarships-october-10-2026/article71498519.ece",
-        "summary": "Information on financial aid for students",
-        "source": "The Hindu — Education",
-        "published": "2026-10-10T07:06:47+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
       }
     ],
     "east_africa": [
+      {
+        "title": "South Africa wins big at the International Commission on Irrigation and Drainage conference in France",
+        "url": "https://www.ednews.africa/p/south-africa-wins-big-at-the-international",
+        "summary": "The awards recognise researchers behind some of the world’s outstanding and innovative work aimed at promoting efficient utilisation of water in agriculture, contributing to food and water security.",
+        "source": "EdNews Africa",
+        "published": "2026-10-15T11:55:17+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_africa"
+      },
       {
         "title": "UP raises R170 000 for Degrees Delivered Campaign through Gold Rhino Ballet",
         "url": "https://www.ednews.africa/p/up-raises-r170-000-for-degrees-delivered",
@@ -6970,18 +6968,6 @@
         "summary": "Using administrative tax records, researchers tracked millions of formal-sector workers and found that women earned, on average, 12% less than men.",
         "source": "EdNews Africa",
         "published": "2026-10-09T09:34:40+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_africa"
-      },
-      {
-        "title": "AI and the changing role of the university",
-        "url": "https://www.ednews.africa/p/ai-and-the-changing-role-of-the-university",
-        "summary": "When AI can produce a convincing answer in seconds, what does a university qualification actually certify? Prof. Joseph Sekhampu examines why judgement must become central to a graduate’s value.",
-        "source": "EdNews Africa",
-        "published": "2026-10-09T07:50:36+00:00",
         "stream": "higher",
         "streams": [
           "higher"
@@ -7430,6 +7416,162 @@
     ],
     "east_asia": [
       {
+        "title": "Singapore weighs legal action against companies over worsening transboundary haze",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3371058/singapore-weighs-legal-action-against-companies-over-worsening-transboundary-haze?utm_source=rss_feed",
+        "summary": "Singapore is looking into which companies may be responsible for the forest and peatland fires in Indonesia that have caused the worsening haze, Prime Minister Lawrence Wong said on Thursday. “Where warranted, we will take action under Singapore’s Transboundary Haze Pollution Act, and explore joint action with other countries,” he said in a social media post. The haze situation was worsened by the extended dry period, Wong added. Singapore had offered its assistance to Indonesia and would...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T15:49:52+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Trump scraps livestream for Fort Hood shooter’s execution by firing squad",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3371056/trump-cancels-planned-pentagon-live-stream-fort-hood-shooters-firing-squad-execution?utm_source=rss_feed",
+        "summary": "US President Donald Trump on Thursday cancelled plans to livestream the execution of Fort Hood shooter Nidal Malik Hasan, reversing a Pentagon initiative that drew political and religious criticism. Trump said Hasan’s execution by firing squad would proceed as scheduled, but would not be broadcast. The Pentagon has set the execution for December 3. “He will die, as scheduled, by firing squad, but this event will not be streamed,” Trump wrote on his Truth Social platform. Hasan, a former US Army...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T14:50:07+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "China is a beacon of global embryo research, says scientist on return from US to lead lab",
+        "url": "https://www.scmp.com/news/china/science/article/3371014/china-beacon-global-embryo-research-says-scientist-return-us-lead-lab?utm_source=rss_feed",
+        "summary": "Leading life scientist Wu Jun, who recently left the United States to return to his homeland, believes many of the world’s top embryo researchers are now working in China. Wu, well known for his stem cell research, particularly related to the stem cell-derived embryo model, is speaking in an office at Westlake University, in Hangzhou in the eastern province of Zhejiang. Some of his belongings remain in bags placed haphazardly on a nearby cabinet, waiting to be unpacked. “This is just a temporary...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T14:00:13+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Blast simulation, university probes, robotics fine, AI spies: 7 US-China relations reads",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3370921/blast-simulation-university-probes-robotics-fine-ai-spies-7-us-china-relations-reads?utm_source=rss_feed",
+        "summary": "We have selected seven of the most interesting and important news stories covering US-China relations from the past few weeks. If you would like to see more of our reporting, please consider subscribing. 1. US investigates 9 universities over alleged visa fraud, with focus on China The Trump administration launched an investigation into nine US universities over alleged J-1 visa fraud, with officials raising concerns about Chinese scholars and the Chinese government. Read the full story...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T14:00:05+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Hong Kong loses record 40 kindergartens as birth rate drops, women wait to have kids",
+        "url": "https://www.scmp.com/news/hong-kong/education/article/3371049/hong-kong-loses-record-40-kindergartens-birth-rate-drops-women-wait-have-kids?utm_source=rss_feed",
+        "summary": "Hong Kong suffered a record net loss of 40 kindergartens this year amid a shrinking student population and as the median age of women giving birth to their first child rose to its highest yet, according to official figures. In its overview of preschools released on Thursday, the Education Bureau revealed that 930 kindergartens were currently operating in Hong Kong, down from roughly 970 in the previous school year. While some new kindergartens were launched, the net decrease stood at 40, the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T13:12:02+00:00",
+        "stream": "foundational",
+        "streams": [
+          "foundational"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "DeepSeek offers user refunds after suffering another major outage",
+        "url": "https://www.scmp.com/tech/big-tech/article/3371047/deepseek-offers-user-refunds-after-suffering-another-major-outage?utm_source=rss_feed",
+        "summary": "Chinese artificial intelligence firm DeepSeek apologised and promised compensation to users after its services suffered a nearly five-hour outage on Thursday. DeepSeek will issue users a full refund for any consumption between October 8 and October 14 in the form of credits, according to a notice posted on the Hangzhou-based start-up’s application programming interface (API) platform. DeepSeek’s namesake chatbot and API services for its V4 Pro and V4.1 Flash models went offline on Thursday...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T12:55:26+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Canada, Singapore reaffirm China trade ties amid global push for self-sufficiency",
+        "url": "https://www.scmp.com/economy/global-economy/article/3370999/canada-singapore-reaffirm-china-trade-ties-amid-global-push-self-sufficiency?utm_source=rss_feed",
+        "summary": "Canada and Singapore are among the countries that remain committed to strengthening trade ties with China, despite growing global fragmentation and a push by governments towards greater self-sufficiency, officials from both countries said on Wednesday at an economic forum in New Delhi. Canada’s minister of international trade Maninder Sidhu said China was the country’s second-largest trading partner and highlighted opportunities for cooperation in areas where the two economies had complementary...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T12:30:13+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Young Americans are key for the US to better understand China",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3370738/young-americans-are-key-us-better-understand-china?utm_source=rss_feed",
+        "summary": "When US President Donald Trump and Chinese President Xi Jinping meet again in Shenzhen next month, and then in Miami in December, the world will watch for signs of progress on trade, technology, security and other contentious issues. Such high-level diplomacy is indispensable. But the future of the US-China relationship also depends on something less visible: whether their people, especially the young, can still understand one another. As Washington and Beijing navigate intensifying strategic...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T12:30:10+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Laos private jet bust reveals how Mekong meth slips past borders",
+        "url": "https://www.scmp.com/week-asia/economics/article/3371043/laos-private-jet-bust-reveals-how-mekong-meth-slips-past-borders?utm_source=rss_feed",
+        "summary": "A private jet hired from Malaysia – seemingly destined for the Philippines – but stopped on the tarmac by Laos’ drug police who found suitcases stuffed with 512kg of crystal methamphetamine, has returned the spotlight to the unrelenting flow of narcotics from the Mekong’s drug laboratories. Cyberscams have dominated headlines and authorities’ attention across Southeast Asia for over a year as the leading criminal enterprise worth tens of billions of dollars annually. But methamphetamine – in its...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T12:17:17+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "China-led team hits 83% success rate anticipating earthquakes in ‘seismo-ripples’ study",
+        "url": "https://www.scmp.com/news/china/science/article/3371035/china-led-team-hits-83-success-rate-anticipating-earthquakes-seismo-ripples-study?utm_source=rss_feed",
+        "summary": "A China-led international team has reported a new pre-earthquake phenomenon that has shown strong predictive potential for major earthquakes since 2022 with minimal failures. The anomalous seismic, magnetic and ionospheric resonance signals they observed – termed “seismo-ripples” by the researchers – are ringlike disturbance patterns triggered before earthquakes happen. Their findings challenge the long-standing scientific belief that these events are unpredictable, opening up a promising new...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T12:00:09+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Hong Kong teenager pleads guilty to acid attack on Singaporean tourist",
+        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371038/hong-kong-teenager-pleads-guilty-acid-attack-singaporean-tourist?utm_source=rss_feed",
+        "summary": "A 19-year-old teenager has admitted splashing corrosive liquid on a Singaporean tourist in Hong Kong last year, leaving her with second-degree burns. The High Court on Thursday heard the guilty plea from Anson Kew, who was 17 when he threw a corrosive solution at 36-year-old Jiang Wen, who was visiting the city, on June 9 last year. Jiang was getting into a vehicle in Wan Chai when Kew, dressed in black and wearing a mask, ambushed her. She screamed in pain and collapsed after feeling an intense...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T11:10:42+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "US wants to ‘compete’ in Central Asia, ambassador says ahead of Rubio visit",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3371033/us-wants-compete-central-asia-ambassador-says-ahead-rubio-visit?utm_source=rss_feed",
+        "summary": "The US wants to “compete” in resource-rich Central Asia, a senior American official has said as Secretary of State Marco Rubio prepares to head to a region of growing Chinese influence. In New Delhi on Thursday, US ambassador to India Sergio Gor said this weekend’s C5+1 ministerial meeting between the five Central Asian countries and the US in Uzbekistan would be an opportunity to “showcase American ingenuity, American technology”. Rubio would be joined by representatives from more than 200...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T11:04:00+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "EU leaders clash over trillion-euro budget as fears grow over French election fallout",
+        "url": "https://www.scmp.com/news/world/europe/article/3371036/eu-leaders-clash-over-trillion-euro-budget-fears-grow-over-french-election-fallout?utm_source=rss_feed",
+        "summary": "EU leaders locked horns on Thursday over the bloc’s next long-term budget as they kicked off talks in Brussels under pressure to seal a deal before several high-stakes elections next year, most crucially in France. The 27-nation European Union wants an agreement by Christmas, worried that any future deal-making will be derailed by potential Eurosceptic wins across the bloc, including in France where the far-right’s Marine Le Pen is favoured in opinion polls. “We are facing very, very difficult...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T10:42:26+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
         "title": "‘Booking overlap’ forces Hong Kong Pride Parade to cancel indoor market",
         "url": "https://www.scmp.com/news/hong-kong/society/article/3371031/booking-overlap-forces-hong-kong-pride-parade-cancel-indoor-market?utm_source=rss_feed",
         "summary": "The Hong Kong Pride Parade committee has cancelled an indoor event at Central Market next month after being told the venue is unavailable due to an “administrative error”. In a social media post on Thursday, the committee said its Rainbow Market, scheduled for November 14 at the revamped landmark, had been cancelled because the venue “could no longer host it”. The group said it approached Central Market, which is managed by Chinachem Group, in early June, confirmed the booking and paid a deposit...",
@@ -7442,9 +7584,9 @@
         "region": "east_asia"
       },
       {
-        "title": "Hong Kong police arrest suspect in HK$80,000 Tai Po gold necklace theft",
+        "title": "Hong Kong police arrest pair after HK$80,000 Tai Po gold necklace theft",
         "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371030/hong-kong-police-arrest-suspect-hk80000-tai-po-gold-necklace-theft?utm_source=rss_feed",
-        "summary": "Hong Kong police have arrested a suspect in less than 24 hours after he allegedly stole a gold necklace worth nearly HK$80,000 (US$10,193) from a Chow Sang Sang jewellery store in Tai Po, the South China Morning Post has learned. The suspect was tracked down in the same district on Thursday afternoon, but the stolen jewellery has not been recovered, a source said. The unemployed man, in his forties, entered the store on Kwong Fuk Road at about 3.10pm on Wednesday. The suspect, believed to be...",
+        "summary": "Hong Kong police have arrested a man and a woman after he allegedly stole a gold necklace worth nearly HK$80,000 (US$10,193) from a Chow Sang Sang jewellery store in Tai Po. The man was tracked down in the same district on Thursday afternoon, but only half of the necklace has been recovered. The unemployed 37-year-old entered the store on Kwong Fuk Road at about 3.10pm on Wednesday. Believed to be financially strapped, he carried out the theft without attempting to cover his face. After asking...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-15T10:13:14+00:00",
         "stream": "higher",
@@ -7576,7 +7718,7 @@
       {
         "title": "Could Trump join Xi and Putin for 3-way meeting at next month’s Apec summit?",
         "url": "https://www.scmp.com/news/china/diplomacy/article/3371002/could-trump-join-xi-and-putin-three-way-meeting-next-months-apec-summit?utm_source=rss_feed",
-        "summary": "The foreign ministers of China and Russia have discussed their relations with the United States, paving the ground for a possible meeting between their respective leaders at next month’s Apec summit in Shenzhen. Chinese Foreign Minister Wang Yi and his Russian counterpart, Sergey Lavrov, met in Baku, the capital of Azerbaijan, on Thursday, where they discussed “relations with the United States and the developments involving the Ukraine and Iran crises as well”, according to Moscow. China did not...",
+        "summary": "The foreign ministers of China and Russia have discussed their relations with the United States, paving the ground for a possible meeting between their respective leaders at next month’s Apec summit in Shenzhen. Chinese Foreign Minister Wang Yi and his Russian counterpart, Sergey Lavrov, met in Baku, the capital of Azerbaijan, on Wednesday, where they discussed “relations with the United States and the developments involving the Ukraine and Iran crises as well”, according to Moscow. China did...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-15T09:00:47+00:00",
         "stream": "higher",
@@ -7634,9 +7776,21 @@
         "region": "east_asia"
       },
       {
-        "title": "28 dead, mostly pupils, in Pakistan after school roof collapses",
+        "title": "HSBC to double Hong Kong AI team to 300, outpacing Singapore plan",
+        "url": "https://www.scmp.com/business/banking-finance/article/3370997/hsbc-double-hong-kong-ai-team-300-outpacing-singapore-plan?utm_source=rss_feed",
+        "summary": "HSBC, Hong Kong’s biggest lender, said on Thursday it would double its artificial intelligence specialist team in the city to 300, a figure much larger than the workforce planned for its recently announced AI centre in Singapore. The announcement comes after Hong Kong’s regulators were reported to have raised concerns about the Singapore hub. The bank would double its AI specialist headcount in Hong Kong from 150 to 300 over the next two to three years, said David Liao Yi-chien, HSBC co-CEO for...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-15T08:37:19+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "33 dead, mostly pupils, in Pakistan after school roof collapse",
         "url": "https://www.scmp.com/news/asia/south-asia/article/3370995/28-dead-mostly-pupils-pakistan-after-school-roof-collapses?utm_source=rss_feed",
-        "summary": "Twenty-seven pupils and a teacher were killed on Thursday after a roof collapsed at a school in the northwest Pakistani city of Peshawar, a hospital official said. Asim Khan from Peshawar’s Lady Reading Hospital confirmed the toll, adding that over 30 people were injured, with six believed to be in a critical condition. The hospital declared an emergency as medical staff treated the wounded. A spokesman for the emergency rescue service in Khyber Pakhtunkhwa province said the schoolchildren were...",
+        "summary": "The roof of a school collapsed in Pakistan’s northwestern city of Peshawar, killing a teacher and 32 students, mostly aged under 14, health officials said on Thursday, as residents and rescuers scrambled to pull children from the rubble. Twenty more students were taken to hospital after the collapse, which authorities blamed on “weak infrastructure”. Others in the densely populated neighbourhood described a close call. Resident Sohail said “everyone began screaming in panic” after his niece...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-15T08:22:36+00:00",
         "stream": "higher",
@@ -7648,7 +7802,7 @@
       {
         "title": "‘We’re done’: Ukraine resumes Russian refinery strikes, defying Trump",
         "url": "https://www.scmp.com/news/world/europe/article/3370993/were-done-ukraine-resumes-russian-refinery-strikes-zelensky-defies-trump?utm_source=rss_feed",
-        "summary": "Ukraine has resumed its attacks on Russian refineries with a strike at an installation in the Ryazan region, the regional governor said on Thursday, after Ukrainian President Volodymyr Zelensky voiced his anger at a “dangerous” withdrawal of US intelligence. Since ‌US President Donald Trump’s surprise announcement of an energy ceasefire between Russia and Ukraine on Sunday, Kyiv had refrained from attacking Russian refineries, which the US leader had blamed for raising diesel prices on global...",
+        "summary": "Ukraine struck ⁠a Russian oil refinery on Thursday, after President Volodymyr Zelensky said Kyiv was “done” supporting a ceasefire on energy targets announced by US President Donald Trump and ignored by Russia. Since Trump’s surprise announcement on Sunday that Russia and Ukraine had agreed to halt attacks on energy, Kyiv had suspended attacks on Russian refineries, which Trump blames for raising diesel prices on global markets. But in the days that followed, Russia rained down deadly missile...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-15T08:08:11+00:00",
         "stream": "higher",
@@ -7670,9 +7824,9 @@
         "region": "east_asia"
       },
       {
-        "title": "Abby Choi’s ex-father-in-law helped resolve partner’s HK$5m debt, court told",
+        "title": "Abby Choi’s partner says he never sought sexual relationship with her ex-husband",
         "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370987/abby-chois-partner-tells-court-her-ex-father-law-helped-resolve-his-hk5m-debt?utm_source=rss_feed",
-        "summary": "Slain Hong Kong socialite Abby Choi Tin-fung’s partner has acknowledged that her former father-in-law helped resolve a dispute over his HK$5 million (US$641,025) gambling debt but maintained he was not obliged to repay it because he believed the company he owed would fold. Chris Tam Fong-chun told the High Court on Thursday that he had refused to repay a loan he took out while gambling at a casino run by Suncity Group in August 2021, saying he thought it would be foolish to pay a company that...",
+        "summary": "The partner of slain Hong Kong socialite Abby Choi Tin-fung has denied seeking a sexual relationship with her ex-husband when they were young, saying he only remained in contact because their children shared the same mother. Testifying on Thursday, Chris Tam Fong-chun appeared surprised when a defence lawyer suggested he wanted a “romantic and sexual relationship” with Alex Kwong Kong-chi when they were studying at the same international school. “Definitely disagree,” Tam said after seeking...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-15T07:46:57+00:00",
         "stream": "higher",
@@ -7682,9 +7836,9 @@
         "region": "east_asia"
       },
       {
-        "title": "Over 1,000 Hongkongers to ride Baidu’s robotaxis in city-first public trial",
+        "title": "1,000 Hongkongers to ride Baidu’s autonomous vehicles in city-first public trial",
         "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370979/over-1000-hongkongers-ride-baidus-robotaxis-city-first-public-trial?utm_source=rss_feed",
-        "summary": "More than 1,000 residents are expected to ride in autonomous vehicles (AVs) after Chinese technology giant Baidu launches Hong Kong’s first large-scale public trial next week. Baidu’s robotaxi platform, Apollo, will run the trial in Tung Chung from October 21 to November 3, inviting more than 1,000 residents to take part. Iris Wong Man-hei, senior project and business development manager for Baidu’s intelligent driving group, described the trial as a “milestone” for the city’s autonomous driving...",
+        "summary": "More than 1,000 residents are expected to ride in autonomous vehicles (AVs) after Chinese technology giant Baidu launches Hong Kong’s first large-scale public trial next week. Baidu’s autonomous driving platform, Apollo, will run the trial in Tung Chung from October 21 to November 3, inviting more than 1,000 residents to take part. Iris Wong Man-hei, senior project and business development manager for Baidu’s intelligent driving group, described the trial as a “milestone” for the city’s...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-15T07:14:33+00:00",
         "stream": "higher",
@@ -7738,174 +7892,6 @@
         "stream": "higher",
         "streams": [
           "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "AI job losses set to rein in office demand in developed Asia-Pacific economies: report",
-        "url": "https://www.scmp.com/business/article/3370934/ai-job-losses-set-rein-office-demand-developed-asia-pacific-economies-report?utm_source=rss_feed",
-        "summary": "A mild displacement of jobs across the Asia-Pacific region as companies expand their use of AI would trim five percentage points off growth in office space demand in the next few years, according to property consultancy CBRE. In a report released on Thursday it said 3.9 per cent of office jobs were vulnerable to artificial intelligence-driven displacement in developed markets in the region, including Hong Kong, Singapore, Japan, South Korea, Taiwan, Australia and New Zealand. However, only 1.7...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T06:00:11+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "2 Hong Kong MTR disruptions may be linked, expert says",
-        "url": "https://www.scmp.com/news/hong-kong/transport/article/3370964/2-hong-kong-mtr-disruptions-may-be-linked-expert-says?utm_source=rss_feed",
-        "summary": "Two rush-hour disruptions at Hong Kong’s Lam Tin MTR station within 15 hours could be connected if they involved the same power supply circuit or exposed procedural shortcomings, an engineering expert has said, with a lawmaker urging the rail operator to offer more targeted compensation to affected passengers. The first disruption occurred on Tuesday evening, when an insulating rubber component in a track turnout caught fire, halting services for about an hour. The second struck on Wednesday...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T05:38:33+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "‘Witch hunt’ sweeps up Asian men misidentified in alleged Cornell gang rape",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3370961/witch-hunt-sweeps-asian-men-misidentified-alleged-cornell-gang-rape?utm_source=rss_feed",
-        "summary": "One message told him to “go to hell”. Others said he deserved to be imprisoned. Death threats poured in. Asians who share a name with one of the men accused of raping a US university student have faced a torrent of online abuse. The alleged 2024 gang rape of a Cornell University student, detailed in a recent lawsuit, has sparked an outpouring of outrage against the seven accused perpetrators. The case has sent internet sleuths scouring digital footprints for clues to track them down. All seven...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T05:24:01+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Emboldened by hybrid car deal, Europe coalesces around tougher China stance",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3370954/emboldened-hybrid-car-deal-europe-coalesces-around-tougher-china-stance?utm_source=rss_feed",
-        "summary": "The EU’s surprise deal with China on hybrid cars last week was supposed to ease the pressure on Beijing. Instead, Brussels is preparing to intensify its crackdown on Chinese trade practices, emboldened by the discovery that its threats are finally delivering results. Now, those driving trade policy for the bloc believe they have landed on a two-track formula. Intensive dialogue is seen to have yielded results and will continue. But so too will the European Union’s efforts to counter what they...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T04:46:28+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Spirit of Hong Kong Awards: veteran who keeps flame of Cantonese opera alive",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3370881/spirit-hong-kong-awards-veteran-who-keeps-flame-cantonese-opera-alive?utm_source=rss_feed",
-        "summary": "Veteran Cantonese opera teacher Leung Sum-yee does not expect every child who enters her classroom to become a performer. If they leave knowing what good Cantonese opera sounds and looks like, she considers that worthwhile too. “My purpose was not to train stars or idols. I wanted more people to understand Cantonese opera and to have more audiences,” she said. That approach has guided Leung through more than three decades of teaching and cultural advocacy. She founded an opera organisation in...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T04:15:05+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Filipino migrants torn between safety and survival risks amid Middle East dangers",
-        "url": "https://www.scmp.com/week-asia/people/article/3370917/filipino-migrants-torn-between-safety-and-survival-risks-amid-middle-east-dangers?utm_source=rss_feed",
-        "summary": "Lorelai Jacinto had worked as a domestic helper in Riyadh for two and a half years before she flew home to the Philippines on September 19, increasingly worried that the conflict in the Middle East was making it unsafe to stay. “When the conflict with Iran happened, I started feeling like it wasn’t safe there any more because I was right there in Riyadh myself, so the bombing, the missiles, were closer to us,” Jacinto told This Week in Asia. “I got worried, I got scared that maybe I wouldn’t be...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T04:00:12+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Costa Rica latest to adopt Bukele blueprint with new mega-prison",
-        "url": "https://www.scmp.com/news/world/americas/article/3370948/costa-rica-latest-adopt-bukele-blueprint-new-mega-prison?utm_source=rss_feed",
-        "summary": "Costa Rica, considered for decades a peaceful enclave in turbulent Central America, has now made fighting drug trafficking one of its main goals. And it is turning to one of its Central American neighbours for inspiration in its hardline crackdown. On Wednesday, President Laura Fernandez inaugurated a mega-prison that emulates the Terrorism Confinement Centre (CECOT) that has become a symbol of Salvadorean President Nayib Bukele’s security strategy. Bukele has managed to reduce murders to a...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T03:53:38+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "5 Guangdong-registered yachts to sail into Hong Kong as southbound scheme launches",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3370946/5-guangdong-registered-yachts-sail-hong-kong-southbound-scheme-launches?utm_source=rss_feed",
-        "summary": "Five Guangdong-registered yachts will sail into Hong Kong waters on Friday when the Southbound Yacht Travel Scheme launches, the city’s marine chief has said, adding that officers will step up patrols. A ceremony marking the scheme’s maiden voyages will also take place. The launch is a key step in the government’s plan to develop Hong Kong’s yacht economy, as outlined in the city’s first five-year plan and the latest policy address. Under the scheme, mainland Chinese vessels can register through...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T03:51:43+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "North Korea tests submarine-launched cruise missiles, heightening tensions with Seoul",
-        "url": "https://www.scmp.com/news/asia/east-asia/article/3370943/north-korea-tests-submarine-launched-cruise-missiles-heightening-tensions-seoul?utm_source=rss_feed",
-        "summary": "Pyongyang test-fired two types of cruise missile from a submarine, its state news agency said on Thursday, after weeks of friction with Seoul over a landmine explosion along their border. The missiles were fired into the East Sea, also known as the Sea of Japan, on Wednesday without “any adverse impact on the security of neighbouring countries”, the official Korean Central News Agency (KCNA) said. Relations between Pyongyang and Seoul have been further strained since the landmine blast on...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T03:38:54+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "How a fuel crisis is threatening Bangladesh’s reform goals: ‘it hit our citizens hard’",
-        "url": "https://www.scmp.com/week-asia/economics/article/3370930/how-fuel-crisis-threatening-bangladeshs-reform-goals-it-hit-our-citizens-hard?utm_source=rss_feed",
-        "summary": "Faced with a fuel crisis beyond its control, Bangladesh’s government is spending the equivalent of hundreds of millions of US dollars each month to insulate its people from surging prices. But as growth slows and inflation rises, the new government’s reform plans are being tested before it has had much time to clean up the country’s troubled financial institutions or retool its young, abundant – but underemployed – workforce for the AI era. Prime Minister Tarique Rahman took office on February...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T03:00:12+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Longevity-first healthcare takes spotlight at Abu Dhabi Future Health Summit",
-        "url": "https://www.scmp.com/native/news/world/middle-east/topics/transforming-health-future/article/3370736/longevity-first-healthcare-takes-spotlight-abu-dhabi-future-health-summit?utm_source=rss_feed",
-        "summary": "Issues affecting ageing populations worldwide will form the core of discussions for policymakers and health industry leaders gathered at the Abu Dhabi Future Health Summit, with a particular emphasis on how practising prediction and prevention can help ensure life is lived to its fullest. The United Arab Emirates (UAE) has positioned itself as a global leader in transformative healthcare policy, and Dr Asma Al Mannaei, executive director of the health life science sector at the Department of...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T03:00:08+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Ancient Chinese families gave babies humble nicknames – ‘Dog’, ‘Pig’ – to ward off bad luck",
-        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3370937/ancient-chinese-families-gave-babies-humble-nicknames-dog-pig-ward-bad-luck?utm_source=rss_feed",
-        "summary": "Like people elsewhere in the world, Chinese people often have nicknames in addition to their official names. Some of these may surprise people from other cultures because they sound humble or even unflattering. Chinese parents have traditionally given their children humble, sometimes vulgar, nicknames – occasionally using animal names such as “Dog” or “Pig.” The practice dates back to ancient times. Parents believed that the humbler a nickname sounded, the better, as it might help ensure their...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T02:56:08+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Malaysian tycoon goes on Singapore property buying spree to ‘catch up with the rest’",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3370933/malaysian-tycoon-goes-singapore-property-buying-spree-catch-rest?utm_source=rss_feed",
-        "summary": "Malaysian property tycoon Lee Yeow Seng is making waves as one of the most aggressive buyers of commercial real estate in Singapore, and he is not done yet. His IOI Properties Group is in exclusive talks and due diligence to purchase two property assets – Chijmes, a retail venue inside a former Catholic convent in its civic district, and the nearby Capitol Kempinski hotel, CEO Lee said in an interview. He declined to disclose how much a final agreement will value the two assets at, citing...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T02:40:24+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Hong Kong teen makes cents of finance, taps AI to tackle economic inequality",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3370901/hong-kong-teen-makes-cents-finance-taps-ai-tackle-economic-inequality?utm_source=rss_feed",
-        "summary": "At 17, Hong Kong secondary school student Agastya Rekhi has been teaching finance and economics to younger children for nearly three years. Meeting families struggling to understand how prices, investments and economic news impacted their daily lives during voluntary work convinced him that access to information was only part of the problem. How that information was communicated was just as important. Rekhi, a finalist for the Spirit of Youth Award in this year’s Spirit of Hong Kong Awards, has...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-15T02:15:06+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
         ],
         "region": "east_asia"
       }
@@ -8335,6 +8321,42 @@
     ],
     "north_america": [
       {
+        "title": "Alix Earle Says She’s Never Read a Book",
+        "url": "https://www.the74million.org/article/alix-earle-says-shes-never-read-a-book/",
+        "summary": "",
+        "source": "The 74 Million",
+        "published": "2026-10-15T14:45:32+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Immigration Lawyer on Trump’s ‘Constellation of Attacks’ on Newcomer Children",
+        "url": "https://www.the74million.org/article/immigration-lawyer-on-trumps-constellation-of-attacks-on-newcomer-children/",
+        "summary": "Heather Yountz, senior immigration attorney with the Massachusetts Law Reform Institute, spent 13 years shepherding children and families through immigration court. She was mostly successful in helping them stay in the country, she said, adding that she stopped representing individual clients in 2021. What she’s seeing now — the targeting and deportation of the youngest immigrants […]",
+        "source": "The 74 Million",
+        "published": "2026-10-15T14:30:00+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "As Texas Schools Add Police Officers to Campuses, Some Students Are Facing Serious Charges",
+        "url": "https://www.nytimes.com/2026/10/15/us/texas-students-bad-behavior-criminal-charges.html",
+        "summary": "More students ages 10 to 13 are ending up in the justice system after vaping, making threats and lashing out at school.",
+        "source": "New York Times — Education",
+        "published": "2026-10-15T12:46:09+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
         "title": "Georgia’s Building Boom for Data Centers Comes With a Cost for Schools: $300M",
         "url": "https://www.the74million.org/article/georgias-building-boom-for-data-centers-comes-with-a-cost-for-schools-300m/",
         "summary": "This story was published in partnership with the Atlanta Journal-Constitution. Georgia has become a preferred destination for the multi-billion dollar, A.I.-fueled data center industry. This year, construction activity in the metro Atlanta area has even surpassed northern Virginia, which has the highest concentration of data centers in the world. But the state’s schools are helping […]",
@@ -8359,35 +8381,23 @@
         "region": "north_america"
       },
       {
+        "title": "The Abundant City: Building a Coherent Public Education System",
+        "url": "https://www.gettingsmart.com/2026/10/15/the-abundant-city-building-an-efficient-public-education-system/",
+        "summary": "What if the crisis in urban public education is not a resource problem but a design problem? In this thought-provoking piece, Mason Pashia examines the history of mayoral control, the promise and peril of city-school mergers, and what an abundance mindset could mean for governance, financing, and who gets to learn. For education leaders navigating declining enrollment, strained budgets, and a public losing faith in the institutional model, this is both a diagnostic and a call to reimagine. The post The Abundant City: Building a Coherent Public Education System appeared first on Getting Smart .",
+        "source": "Getting Smart",
+        "published": "2026-10-15T09:15:00+00:00",
+        "stream": "edtech",
+        "streams": [
+          "edtech"
+        ],
+        "region": "north_america"
+      },
+      {
         "title": "Why Basketball Legends Are Coming to the Bronx",
         "url": "https://www.nytimes.com/2026/10/15/nyregion/bronx-charter-school-basketball-books.html",
         "summary": "A charter school named for Earl Monroe is dedicating a new building, which features a basketball-and-book-themed mural.",
         "source": "New York Times — Education",
         "published": "2026-10-15T09:04:29+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "As Texas Schools Add Police Officers to Campuses, Some Students Are Facing Serious Charges",
-        "url": "https://www.nytimes.com/2026/10/15/us/texas-students-bad-behavior-criminal-charges.html",
-        "summary": "More students ages 10 to 13 are ending up in the justice system after vaping, making threats and lashing out at school.",
-        "source": "New York Times — Education",
-        "published": "2026-10-15T09:01:40+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?",
-        "url": "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html",
-        "summary": "Katie Zacharia told The New York Times that the confusion over her legal credentials was the result of one big misunderstanding.",
-        "source": "New York Times — Education",
-        "published": "2026-10-15T08:00:08+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8683,6 +8693,18 @@
         "region": "north_america"
       },
       {
+        "title": "Five Key Moments From The Times’s Interview With Cornell’s President",
+        "url": "https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-takeaways.html",
+        "summary": "Michael Kotlikoff addressed concerns over the university’s handling of a former student’s claims that she was gang-raped at a fraternity party.",
+        "source": "New York Times — Education",
+        "published": "2026-10-14T13:30:37+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
         "title": "A Group of Boys Won’t Let My Granddaughter Play Soccer With Them. Help!",
         "url": "https://www.nytimes.com/2026/10/14/style/playground-exclusion-boys-girls.html",
         "summary": "The girl’s father is considering getting the school principal involved, but her grandmother is skeptical that foisting one’s company on others is ever the right move.",
@@ -8776,42 +8798,6 @@
         "stream": "research",
         "streams": [
           "research"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Oklahoma Charter Board Rejects Bid for Jewish School a Second Time",
-        "url": "https://www.the74million.org/article/oklahoma-charter-board-rejects-bid-for-jewish-school-a-second-time/",
-        "summary": "Oklahoma officials on Monday turned down an application for a Jewish charter school in spite of a recent federal court decision that paved the way for the school to open in the fall of 2027. The Oklahoma Statewide Charter School Board didn’t say why it denied the application, but a lack of interest from families […]",
-        "source": "The 74 Million",
-        "published": "2026-10-13T19:03:37+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Ohio’s Chronic Absenteeism Rate is Dropping, but Still Above Pre-Pandemic Rates",
-        "url": "https://www.the74million.org/article/ohios-chronic-absenteeism-rate-is-dropping-but-is-still-above-pre-pandemic-rates/",
-        "summary": "Ohio’s chronic absenteeism rate has been trending downward in recent years, but still remains higher than it was pre-pandemic. The statewide chronic absenteeism rate — missing 10% or more of school hours for any reason — was 23.7% for the 2025-26 school year, according to the Ohio Department of Education and Workforce. Ohio’s chronic absenteeism […]",
-        "source": "The 74 Million",
-        "published": "2026-10-13T16:30:00+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Why America Undervalues Mothers — and Care Work",
-        "url": "https://www.the74million.org/zero2eight/why-america-undervalues-mothers-and-care-work/",
-        "summary": "Our nation’s patchwork system of early care and education arose, in large part, in response to mothers entering the workforce. That shift reshaped the American family, and over the years it has fueled cultural debates over marriage, gender roles and who should care for young children. In her recent book “Motherhood Discounted: Care Work in […]",
-        "source": "The 74 Million",
-        "published": "2026-10-13T14:30:00+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
         ],
         "region": "north_america"
       }
