@@ -270,12 +270,49 @@
     ],
     "school": [
       {
+        "title": "Teacher Recruitment and Retention a Continuing Problem, Report Suggests",
+        "url": "https://www.the74million.org/article/teacher-recruitment-and-retention-a-continuing-problem-report-suggests/",
+        "summary": "To choose the teaching profession in New Hampshire is to navigate a series of financial trade-offs. The median salary for K-12 teachers in 2024 was $66,123 — enough to comfortably afford a $1,653 monthly rent, according to a 2025 New Hampshire Housing report. The median two-bedroom rent that year? $2,024 per month. And becoming a […]",
+        "source": "The 74 Million",
+        "published": "2026-10-17T16:30:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "teacher",
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
+        "title": "School Shooting in Bend, Ore., Has Heroes and Pain, But Few Answers",
+        "url": "https://www.nytimes.com/2026/10/16/us/bend-shooting-hero-teacher-dad.html",
+        "summary": "The city of Bend, Ore., is praising those who worked to stop the gunman at Silver Rail Elementary School. The authorities are searching for answers.",
+        "source": "New York Times — Education",
+        "published": "2026-10-17T15:21:21+00:00",
+        "region": "north_america",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
         "title": "How a Keralam teacher’s ‘portable chemistry lab’ is sparking students’ interest in experiments",
         "url": "https://www.thehindu.com/news/national/kerala/how-a-keralam-teachers-portable-chemistry-lab-is-sparking-students-interest-in-experiments/article71558644.ece",
         "summary": "Basic equipment and chemicals required in a chemistry lab are stocked in ‘Rasappetti’ designed by Abhilash Thiruvoth, a teacher at Government Vocational Higher Secondary School for Girls, Nadakkavu",
         "source": "The Hindu — Education",
         "published": "2026-10-17T03:02:28+00:00",
         "region": "south_asia",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
+        "title": "Teacher Killed in Oregon School Shooting Was Working Her ‘Dream Job,’ Family Says",
+        "url": "https://www.nytimes.com/2026/10/16/us/bend-school-shooting-victims-megan-lambert-rhoam-summer.html",
+        "summary": "Megan Lambert graduated from high school in the district where she taught. She died in a classroom with Rhoam Summer and two other children when a shooter attacked.",
+        "source": "New York Times — Education",
+        "published": "2026-10-17T01:12:39+00:00",
+        "region": "north_america",
         "streams": [
           "school"
         ],
@@ -627,18 +664,6 @@
         "region": "north_america",
         "streams": [
           "teacher",
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "STAAR Rescoring Requests Triple After More Texas Schools Question Computer Grading",
-        "url": "https://www.the74million.org/article/staar-rescoring-requests-triple-after-more-texas-schools-question-computer-grading/",
-        "summary": "The number of requests to rescore students’ STAAR tests nearly tripled from last year as more Texas schools sought reviews of written responses on the reading exams, thousands of which were initially graded by computers. The Texas Education Agency began using an automated scoring engine in December 2023 to grade open-ended questions on the State […]",
-        "source": "The 74 Million",
-        "published": "2026-10-11T16:30:00+00:00",
-        "region": "north_america",
-        "streams": [
           "school"
         ],
         "stream": "school"
@@ -1012,6 +1037,66 @@
     ],
     "higher": [
       {
+        "title": "Israeli settlers attack European diplomats, beat up French mayor in West Bank",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3371275/israeli-settlers-attack-european-diplomats-beat-french-mayor-west-bank?utm_source=rss_feed",
+        "summary": "Israeli settlers on Saturday attacked a convoy of European diplomats and beat up a visiting French mayor, in a new escalation of violence during the Palestinian olive harvest, witnesses and diplomats said. The 78-year-old mayor said masked settlers yelled defamatory comments about France, kicked him and hit him with iron bars as he joined Palestinian olive farmers in the West Bank alongside the top French and Belgian representatives in Jerusalem and Polish diplomats. “I think that if settlers...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-17T18:33:59+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "‘Cockroach’ party founder released by Indian police",
+        "url": "https://www.scmp.com/news/asia/south-asia/article/3371274/cockroach-party-founder-released-indian-police?utm_source=rss_feed",
+        "summary": "India’s youth-led Cockroach Janata Party founder Abhijeet Dipke was released from detention on Saturday, a day after his arrest during a police crackdown on protests against the election authority. Dipke, 31, was detained Friday in New Delhi as he headed to join a rally that the CJP protest movement had called in the capital’s central Connaught Place district. He walked out of a police station on Saturday afternoon waving to the media and giving a thumbs up as he was driven away. “Abhijeet Dipke...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-17T17:48:50+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "AA Calls for Fuel Levy Relief as Rising Costs Put Pressure on Families and Education",
+        "url": "https://www.ednews.africa/p/aa-calls-for-fuel-levy-relief-as",
+        "summary": "The Automobile Association warns that soaring fuel costs could deepen financial pressure on families, making transport to schools and universities increasingly unaffordable.",
+        "source": "EdNews Africa",
+        "published": "2026-10-17T16:50:25+00:00",
+        "region": "east_africa",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Albanian police fire rubber bullets as student protesters call for PM to quit",
+        "url": "https://www.scmp.com/news/world/europe/article/3371273/albanian-police-fire-rubber-bullets-student-protesters-call-pm-quit?utm_source=rss_feed",
+        "summary": "Police in Albania fired what appeared to be rubber bullets at protesters on Saturday, the fifth day of mass student protests demanding Prime Minister Edi Rama step down. Reuters video footage showed police firing a shotgun towards crowds outside the education ministry during clashes with protesters. Reuters reporters found rubber pellets on the ground and pellets hit two Reuters journalists ‌and several protesters, leaving round marks. The incident marks an escalation in a confrontation between...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-17T16:05:10+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Hong Kong orders lift contractors to review doors installed over past 10 years",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3371272/hong-kong-orders-lift-contractors-review-doors-installed-over-past-10-years?utm_source=rss_feed",
+        "summary": "Hong Kong authorities have ordered all lift contractors to review the design and construction of landing doors installed over the past 10 years, after a government investigation found missing fire-safety components in lifts in at least 78 private buildings and two public estates. The director of the Electrical and Mechanical Services Department issued the order in a letter following inspections into lift contractor Taizoom Elevator that revealed “serious deficiencies”. The company is under...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-17T15:57:09+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
         "title": "How Taiwan’s new AI satellite system aims to speed up early warning against PLA moves",
         "url": "https://www.scmp.com/news/china/military/article/3371252/how-taiwans-new-ai-satellite-system-aims-speed-early-warning-against-pla-moves?utm_source=rss_feed",
         "summary": "Taiwan will acquire an AI-powered satellite imagery system capable of rapidly identifying People’s Liberation Army ships, aircraft and missile launchers, as it seeks to boost early-warning capabilities in the face of growing military pressure from Beijing. The NT$46.55 million (US$1.45 million) system will use artificial intelligence (AI) to analyse satellite images covering 100 sq km (38.6 square miles) within minutes, potentially cutting the time and manpower needed to track changes in PLA...",
@@ -1122,7 +1207,7 @@
       {
         "title": "Pope Leo leaves hospital 4 days after lung cancer surgery",
         "url": "https://www.scmp.com/news/world/europe/article/3371256/pope-leo-leave-hospital-saturday-after-lung-cancer-surgery?utm_source=rss_feed",
-        "summary": "Pope Leo left hospital in Rome on Saturday afternoon to ‌return to the Vatican following surgery for lung cancer four days ago. The 71-year-old walked unaided to his waiting car, stopping to speak to well-wishers outside Rome’s Gemelli Hospital. His doctors had earlier said he was well ⁠enough to return home after they carried out the latest blood ‌tests and chest imaging. The pope, who had an operation on Tuesday to remove the lower lobe ‌of his right lung, will hold his first ⁠public...",
+        "summary": "Pope Leo left hospital in Rome on Saturday afternoon and returned to the Vatican four days after surgery for lung cancer, an illness that has prompted speculation about how it might affect his 17-month papacy. The 71-year-old walked unaided to his waiting car, stopping to speak to well-wishers outside Rome’s Gemelli Hospital. He was pictured smiling broadly and waving through an open window when his black SUV left the hospital. He waved again to crowds as he was driven back into the Vatican but...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-17T10:26:27+00:00",
         "region": "east_asia",
@@ -1134,7 +1219,7 @@
       {
         "title": "French police clash with protesters as thousands rally over cost of living",
         "url": "https://www.scmp.com/news/world/europe/article/3371255/french-protesters-take-streets-over-rising-prices-social-strain?utm_source=rss_feed",
-        "summary": "lashes ⁠broke out between police and protesters in cities across France on Saturday as tens of thousands of people took to the streets in some of the country’s most violent protests in years over rising costs and declining public services. Some 272 people had been arrested by mid-afternoon after violent incidents involving hooded individuals, including in Paris, Marseille in the south, Rennes in the northwest, Toulouse in the southwest ‌and Angers in the west, the Interior Ministry said. “Such...",
+        "summary": "Clashes ⁠broke out between police and protesters in cities across France on Saturday as tens of thousands of people took to the streets in some of the country’s most violent protests in years over rising costs and declining public services. Some 272 people had been arrested by mid-afternoon after violent incidents involving hooded individuals, including in Paris, Marseille in the south, Rennes in the northwest, Toulouse in the southwest ‌and Angers in the west, the Interior Ministry said. “Such...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-17T10:12:29+00:00",
         "region": "east_asia",
@@ -1312,9 +1397,9 @@
         "stream": "higher"
       },
       {
-        "title": "Hong Kong’s new Huanggang Port quiet ahead of expected holiday rush",
+        "title": "Hong Kong’s revamped Huanggang Port quiet ahead of expected holiday rush",
         "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371240/hong-kongs-new-huanggang-port-seemingly-quiet-ahead-expected-holiday-rush?utm_source=rss_feed",
-        "summary": "Hong Kong’s newly revamped Huanggang Port is expected to handle more than 100,000 passenger trips a day over the three-day Chung Yeung Festival holiday, although the departure hall was quiet on Saturday morning. Secretary for Security Chris Tang Ping-keung said the port had operated smoothly since opening on Monday, handling about 80,000 passenger trips a day, with the figure exceeding 92,000 on Friday. That represented a 1.5-fold to an almost twofold increase from the 30,000 to 40,000 trips...",
+        "summary": "Hong Kong’s revamped Huanggang Port is expected to handle more than 100,000 passenger trips a day over the Chung Yeung Festival long weekend, although its departure hall remained quiet on Saturday morning. Secretary for Security Chris Tang Ping-keung said the border crossing had operated smoothly since opening on Monday, handling about 80,000 passenger trips a day, with the figure exceeding 92,000 on Friday. That represented a 1.5-fold to almost twofold increase from the 30,000 to 40,000 trips...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-17T05:51:54+00:00",
         "region": "east_asia",
@@ -1593,54 +1678,6 @@
         "summary": "Beijing warned Brussels not to “fantasise” that taking a hard line will force it into concessions, as the bloc confirmed plans for a gung-ho new kill switch that will allow Brussels to “immediately” kick China out of the single market. Exactly a week after the two sides struck a surprise deal to restrict the volume of hybrid cars China ships to Europe, the flare-up suggests the threat of a trade war between two of the world’s three biggest economies has far from subsided. “The EU should not...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-16T22:30:02+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Oregon teen gunman was tackled by ‘heroic’ teacher then shot by students’ father",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3371216/oregon-teen-gunman-was-tackled-heroic-teacher-then-shot-parent-students?utm_source=rss_feed",
-        "summary": "A teacher threw her phone at the teenage gunman who killed four people at an Oregon junior school, then tackled and fought with him – probably saving lives before he was shot by a father who followed him into the building, police said Friday. Bend Police Chief Mike Krantz called the teacher’s actions “heroic” during a news conference and said she was not injured. He identified the attacker as 16-year-old Griffin J. John II and said all of the victims were shot in the same classroom. Authorities...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-16T22:22:36+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "New details emerge in US investigations of Chinese-American scientists over China links",
-        "url": "https://www.scmp.com/news/us/science-technology/article/3371154/new-details-emerge-us-investigations-chinese-american-scientists-over-china-links?utm_source=rss_feed",
-        "summary": "A US congressional committee has released details of investigations into dozens of researchers, many of them Chinese-American, revealing the scale of government scrutiny sweeping academia over alleged links to China. The documents – running to hundreds of pages – were released alongside a separate report by the House Select Committee on China. Titled “How to Stop China’s Theft of Taxpayer-Funded Research”, the report pushes back against arguments by universities and academic groups that tighter...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-16T22:00:16+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Sean ‘Diddy’ Combs moved to new prison after reports of luxury lifestyle behind bars",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3371215/sean-diddy-combs-moved-new-prison-after-reports-luxury-lifestyle-behind-bars?utm_source=rss_feed",
-        "summary": "Sean “Diddy” Combs has been moved to a federal prison in Pennsylvania after reports that the hip-hop mogul was living the high life and was injured in a fight at his New Jersey lock-up, a person familiar with the matter said on Friday. The federal Bureau of Prisons is transferring Combs, 56, from FCI Fort Dix to FCI Allenwood Low, a low-security facility south of Williamsport and about 250km (155 miles) west of New York, the person said. The person was not authorised to speak publicly and did so...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-16T21:55:02+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Paraguay’s tech minister defies Beijing sanctions, says Taiwan ties ‘not up for negotiation’",
-        "url": "https://www.scmp.com/news/china/article/3371214/paraguays-tech-minister-defies-beijing-sanctions-says-taiwan-ties-not-negotiation?utm_source=rss_feed",
-        "summary": "Paraguay’s technology minister said on Thursday that sanctions imposed on him by Beijing over his country’s ties with Taiwan would only accelerate joint projects with the island. Gustavo Villate, who heads the Ministry of Information and Communication Technologies, wrote in a lengthy social media post that the relationship with Taipei would “never be on the negotiating table”. He also suggested that Beijing had acted to protect Chinese telecoms suppliers kept out of Paraguay’s networks. “This...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-16T21:43:02+00:00",
         "region": "east_asia",
         "streams": [
           "higher"
@@ -1958,18 +1995,6 @@
           "higher"
         ],
         "stream": "higher"
-      },
-      {
-        "title": "Small steps, bigger possibilities: rethinking study abroad for Japanese nursing students",
-        "url": "https://thepienews.com/small-steps-bigger-possibilities-rethinking-study-abroad-for-japanese-nursing-students/",
-        "summary": "Japan's declining birth rate presents a challenge for international education providers seeking to attract students from Japan. One group deserves attention: nursing students. The post Small steps, bigger possibilities: rethinking study abroad for Japanese nursing students appeared first on The PIE News .",
-        "source": "The PIE News",
-        "published": "2026-10-15T09:49:28+00:00",
-        "region": "global",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
       }
     ],
     "tvet": [
@@ -2280,6 +2305,19 @@
       }
     ],
     "teacher": [
+      {
+        "title": "Teacher Recruitment and Retention a Continuing Problem, Report Suggests",
+        "url": "https://www.the74million.org/article/teacher-recruitment-and-retention-a-continuing-problem-report-suggests/",
+        "summary": "To choose the teaching profession in New Hampshire is to navigate a series of financial trade-offs. The median salary for K-12 teachers in 2024 was $66,123 — enough to comfortably afford a $1,653 monthly rent, according to a 2025 New Hampshire Housing report. The median two-bedroom rent that year? $2,024 per month. And becoming a […]",
+        "source": "The 74 Million",
+        "published": "2026-10-17T16:30:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "teacher",
+          "school"
+        ],
+        "stream": "teacher"
+      },
       {
         "title": "Media-based reflections to foster climate literacy in mathematics teacher education",
         "url": "https://www.nature.com/articles/s41599-026-09162-z",
@@ -3523,8 +3561,32 @@
         "url": "https://kathmandupost.com/national/2026/10/17/bhotekoshi-flood-displaced-777-students-nepal-plans-five-year-school-recovery",
         "summary": "Of the 57 educational institutions assessed in Rasuwa, Nuwakot, and Dhading districts, 28 were damaged and 15 were completely destroyed.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-17T14:44:54.864192+00:00",
+        "published": "2026-10-17T19:54:56.640242+00:00",
         "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "What to Know About the Violent Protests in Albania",
+        "url": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
+        "summary": "Student demonstrations over education converged with broader protests against rising living costs and a luxury development linked to Jared Kushner, President Trump’s son-in-law.",
+        "source": "New York Times — Education",
+        "published": "2026-10-17T18:57:34+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Craig Symonds, Prizewinning Military Historian, Is Dead",
+        "url": "https://www.nytimes.com/2026/10/17/obituaries/craig-symonds-dead.html",
+        "summary": "A U.S. Naval Academy professor and prolific author, he emphasized the strategic importance of naval superiority since the Civil War.",
+        "source": "New York Times — Education",
+        "published": "2026-10-17T17:28:10+00:00",
+        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -3559,7 +3621,19 @@
         "url": "https://www.nytimes.com/2026/10/17/opinion/cornell-jane-doe-title-ix.html",
         "summary": "Campus rape investigations are often riddled with problems — but eliminating them would be much worse.",
         "source": "New York Times — Education",
-        "published": "2026-10-17T12:46:01+00:00",
+        "published": "2026-10-17T12:46:02+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests",
+        "url": "https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html",
+        "summary": "Bally Bagayoko, the mayor of a working-class suburb near Paris, has been a regular presence at student demonstrations, prompting both applause and condemnation.",
+        "source": "New York Times — Education",
+        "published": "2026-10-17T12:23:26+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -3651,18 +3725,6 @@
         "stream": "policy"
       },
       {
-        "title": "Oregon school shooter was former special-needs student, police say",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss",
-        "summary": "Oregon school shooter was former special-needs student, police say",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-17T08:04:35+00:00",
-        "region": "global",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
         "title": "Why India must rethink what education means",
         "url": "https://www.thehindu.com/education/why-india-must-rethink-what-education-means/article71539804.ece",
         "summary": "India requires classrooms that build knowledge, character, and the capacity to contribute",
@@ -3740,6 +3802,18 @@
         "summary": "While the powerful board appeared to back campus administration, some students protested against the backdrop of homecoming weekend.",
         "source": "New York Times — Education",
         "published": "2026-10-17T01:43:39+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "David Sabatini, an M.I.T. Scientist, Wins $6 Million in Sexual Harassment Defamation Suit",
+        "url": "https://www.nytimes.com/2026/10/16/us/mit-scientist-sexual-harassment-defamation-lawsuit-david-sabatini.html",
+        "summary": "David Sabatini, once a prominent scientist at M.I.T., sued a former colleague who accused him of inappropriate behavior. A jury found in his favor.",
+        "source": "New York Times — Education",
+        "published": "2026-10-17T01:02:05+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -3855,18 +3929,6 @@
         "stream": "policy"
       },
       {
-        "title": "Robot trainers",
-        "url": "https://www.nytimes.com/2026/10/16/briefing/robot-trainers.html",
-        "summary": "Plus, young voters, Parisian schools and a lot of math.",
-        "source": "New York Times — Education",
-        "published": "2026-10-16T15:05:41+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
         "title": "A look at the first Model Peace Summit held at King’s College India",
         "url": "https://www.thehindu.com/education/a-look-at-the-first-model-peace-summit-held-at-kings-college-india/article71547384.ece",
         "summary": "",
@@ -3897,18 +3959,6 @@
         "source": "The Hindu — Education",
         "published": "2026-10-16T12:43:41+00:00",
         "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Handcuffs in Schools",
-        "url": "https://www.nytimes.com/2026/10/16/briefing/handcuffs-in-schools.html",
-        "summary": "Let’s look at what happens when school police arrest children.",
-        "source": "New York Times — Education",
-        "published": "2026-10-16T10:37:49+00:00",
-        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -4460,18 +4510,6 @@
         "summary": "A large part of Indian management education still operates under the belief that global legitimacy flows mainly from replicating Western institutional models, pedagogies, ranking and accreditation logic and intellectual frameworks.",
         "source": "The Hindu — Education",
         "published": "2026-10-14T11:26:14+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Slow start: foreign university campuses in India yet to see full intake",
-        "url": "https://www.thehindu.com/education/slow-start-foreign-university-campuses-in-india-yet-to-see-full-intake/article71582977.ece",
-        "summary": "According to information available from these universities, annual fees for a single programme for an undergraduate or postgraduate course range from ₹10 lakh to ₹20 lakh.",
-        "source": "The Hindu — Education",
-        "published": "2026-10-14T10:53:37+00:00",
         "region": "south_asia",
         "streams": [
           "policy"
@@ -5700,18 +5738,6 @@
         "region": "global"
       },
       {
-        "title": "Oregon school shooter was former special-needs student, police say",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss",
-        "summary": "Oregon school shooter was former special-needs student, police say",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-17T08:04:35+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "global"
-      },
-      {
         "title": "Plan to make firms pay more to train older workers than youth apprentices in England",
         "url": "https://www.theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england",
         "summary": "Exclusive: Ministers considering overhaul of apprenticeship funding scheme to tackle youth jobs crisis Employers in England are to be forced to pay more to train an older worker than a youth apprentice under plans being drawn up by the government to tackle the youth jobs crisis. The Guardian understands ministers plan to overhaul Labour’s apprenticeship funding scheme to increase the cost of training by 25% for a worker over the age of 25 in order to encourage businesses to train young people instead. Continue reading...",
@@ -6154,6 +6180,18 @@
           "research"
         ],
         "region": "global"
+      },
+      {
+        "title": "Measuring geographic proximity to family medicine and continuity of care in the last year of life: A population-level retrospective cohort study using Canadian health administrative data",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360638",
+        "summary": "by Shuaib Hafid, Lawrence Mbuagbaw, Bruce Newbold, Andrew Costa, Ana Gayowsky, Peter Gozdyra, Aaron Jones, Sarina R. Isenberg, Erin Gallagher, Michelle Howard Background Family physicians provide most outpatient care in patients’ last year of life, but it remains unclear how geographic distance between patients and their physicians affects continuity of care. Patients living farther from care providers may experience reduced access and more fragmented care. This study examined whether geographic proximity to a family physician is associated with relational continuity of outpatient care in the ",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-16T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
       }
     ],
     "south_asia": [
@@ -6162,7 +6200,7 @@
         "url": "https://kathmandupost.com/national/2026/10/17/bhotekoshi-flood-displaced-777-students-nepal-plans-five-year-school-recovery",
         "summary": "Of the 57 educational institutions assessed in Rasuwa, Nuwakot, and Dhading districts, 28 were damaged and 15 were completely destroyed.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-17T14:44:54.864192+00:00",
+        "published": "2026-10-17T19:54:56.640242+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6640,6 +6678,18 @@
     ],
     "east_africa": [
       {
+        "title": "AA Calls for Fuel Levy Relief as Rising Costs Put Pressure on Families and Education",
+        "url": "https://www.ednews.africa/p/aa-calls-for-fuel-levy-relief-as",
+        "summary": "The Automobile Association warns that soaring fuel costs could deepen financial pressure on families, making transport to schools and universities increasingly unaffordable.",
+        "source": "EdNews Africa",
+        "published": "2026-10-17T16:50:25+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_africa"
+      },
+      {
         "title": "The Kind of Universities South Africa Needs",
         "url": "https://www.ednews.africa/p/the-kind-of-universities-south-africa",
         "summary": "A national dialogue led by Minister Manamela highlights how AI, access, decolonisation and differentiated institutional missions must shape the future of higher education.",
@@ -6921,18 +6971,6 @@
         "summary": "Gwarube declares Class of 2026 and examination system fully prepared as DBE rolls out extensive security, support and quality measures for landmark NSC examinations",
         "source": "EdNews Africa",
         "published": "2026-10-11T19:37:03+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_africa"
-      },
-      {
-        "title": "Nigerian Higher Education: We Cannot Build World-Class Institutions with Closed Minds",
-        "url": "https://www.ednews.africa/p/nigerian-higher-education-we-cannot",
-        "summary": "Nigeria lacks the leadership courage to make many of those institutions globally respected.",
-        "source": "EdNews Africa",
-        "published": "2026-10-10T09:26:46+00:00",
         "stream": "higher",
         "streams": [
           "higher"
@@ -7345,6 +7383,54 @@
     ],
     "east_asia": [
       {
+        "title": "Israeli settlers attack European diplomats, beat up French mayor in West Bank",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3371275/israeli-settlers-attack-european-diplomats-beat-french-mayor-west-bank?utm_source=rss_feed",
+        "summary": "Israeli settlers on Saturday attacked a convoy of European diplomats and beat up a visiting French mayor, in a new escalation of violence during the Palestinian olive harvest, witnesses and diplomats said. The 78-year-old mayor said masked settlers yelled defamatory comments about France, kicked him and hit him with iron bars as he joined Palestinian olive farmers in the West Bank alongside the top French and Belgian representatives in Jerusalem and Polish diplomats. “I think that if settlers...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-17T18:33:59+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "‘Cockroach’ party founder released by Indian police",
+        "url": "https://www.scmp.com/news/asia/south-asia/article/3371274/cockroach-party-founder-released-indian-police?utm_source=rss_feed",
+        "summary": "India’s youth-led Cockroach Janata Party founder Abhijeet Dipke was released from detention on Saturday, a day after his arrest during a police crackdown on protests against the election authority. Dipke, 31, was detained Friday in New Delhi as he headed to join a rally that the CJP protest movement had called in the capital’s central Connaught Place district. He walked out of a police station on Saturday afternoon waving to the media and giving a thumbs up as he was driven away. “Abhijeet Dipke...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-17T17:48:50+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Albanian police fire rubber bullets as student protesters call for PM to quit",
+        "url": "https://www.scmp.com/news/world/europe/article/3371273/albanian-police-fire-rubber-bullets-student-protesters-call-pm-quit?utm_source=rss_feed",
+        "summary": "Police in Albania fired what appeared to be rubber bullets at protesters on Saturday, the fifth day of mass student protests demanding Prime Minister Edi Rama step down. Reuters video footage showed police firing a shotgun towards crowds outside the education ministry during clashes with protesters. Reuters reporters found rubber pellets on the ground and pellets hit two Reuters journalists ‌and several protesters, leaving round marks. The incident marks an escalation in a confrontation between...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-17T16:05:10+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Hong Kong orders lift contractors to review doors installed over past 10 years",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3371272/hong-kong-orders-lift-contractors-review-doors-installed-over-past-10-years?utm_source=rss_feed",
+        "summary": "Hong Kong authorities have ordered all lift contractors to review the design and construction of landing doors installed over the past 10 years, after a government investigation found missing fire-safety components in lifts in at least 78 private buildings and two public estates. The director of the Electrical and Mechanical Services Department issued the order in a letter following inspections into lift contractor Taizoom Elevator that revealed “serious deficiencies”. The company is under...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-17T15:57:09+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
         "title": "How Taiwan’s new AI satellite system aims to speed up early warning against PLA moves",
         "url": "https://www.scmp.com/news/china/military/article/3371252/how-taiwans-new-ai-satellite-system-aims-speed-early-warning-against-pla-moves?utm_source=rss_feed",
         "summary": "Taiwan will acquire an AI-powered satellite imagery system capable of rapidly identifying People’s Liberation Army ships, aircraft and missile launchers, as it seeks to boost early-warning capabilities in the face of growing military pressure from Beijing. The NT$46.55 million (US$1.45 million) system will use artificial intelligence (AI) to analyse satellite images covering 100 sq km (38.6 square miles) within minutes, potentially cutting the time and manpower needed to track changes in PLA...",
@@ -7443,7 +7529,7 @@
       {
         "title": "Pope Leo leaves hospital 4 days after lung cancer surgery",
         "url": "https://www.scmp.com/news/world/europe/article/3371256/pope-leo-leave-hospital-saturday-after-lung-cancer-surgery?utm_source=rss_feed",
-        "summary": "Pope Leo left hospital in Rome on Saturday afternoon to ‌return to the Vatican following surgery for lung cancer four days ago. The 71-year-old walked unaided to his waiting car, stopping to speak to well-wishers outside Rome’s Gemelli Hospital. His doctors had earlier said he was well ⁠enough to return home after they carried out the latest blood ‌tests and chest imaging. The pope, who had an operation on Tuesday to remove the lower lobe ‌of his right lung, will hold his first ⁠public...",
+        "summary": "Pope Leo left hospital in Rome on Saturday afternoon and returned to the Vatican four days after surgery for lung cancer, an illness that has prompted speculation about how it might affect his 17-month papacy. The 71-year-old walked unaided to his waiting car, stopping to speak to well-wishers outside Rome’s Gemelli Hospital. He was pictured smiling broadly and waving through an open window when his black SUV left the hospital. He waved again to crowds as he was driven back into the Vatican but...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-17T10:26:27+00:00",
         "stream": "higher",
@@ -7455,7 +7541,7 @@
       {
         "title": "French police clash with protesters as thousands rally over cost of living",
         "url": "https://www.scmp.com/news/world/europe/article/3371255/french-protesters-take-streets-over-rising-prices-social-strain?utm_source=rss_feed",
-        "summary": "lashes ⁠broke out between police and protesters in cities across France on Saturday as tens of thousands of people took to the streets in some of the country’s most violent protests in years over rising costs and declining public services. Some 272 people had been arrested by mid-afternoon after violent incidents involving hooded individuals, including in Paris, Marseille in the south, Rennes in the northwest, Toulouse in the southwest ‌and Angers in the west, the Interior Ministry said. “Such...",
+        "summary": "Clashes ⁠broke out between police and protesters in cities across France on Saturday as tens of thousands of people took to the streets in some of the country’s most violent protests in years over rising costs and declining public services. Some 272 people had been arrested by mid-afternoon after violent incidents involving hooded individuals, including in Paris, Marseille in the south, Rennes in the northwest, Toulouse in the southwest ‌and Angers in the west, the Interior Ministry said. “Such...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-17T10:12:29+00:00",
         "stream": "higher",
@@ -7621,9 +7707,9 @@
         "region": "east_asia"
       },
       {
-        "title": "Hong Kong’s new Huanggang Port quiet ahead of expected holiday rush",
+        "title": "Hong Kong’s revamped Huanggang Port quiet ahead of expected holiday rush",
         "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371240/hong-kongs-new-huanggang-port-seemingly-quiet-ahead-expected-holiday-rush?utm_source=rss_feed",
-        "summary": "Hong Kong’s newly revamped Huanggang Port is expected to handle more than 100,000 passenger trips a day over the three-day Chung Yeung Festival holiday, although the departure hall was quiet on Saturday morning. Secretary for Security Chris Tang Ping-keung said the port had operated smoothly since opening on Monday, handling about 80,000 passenger trips a day, with the figure exceeding 92,000 on Friday. That represented a 1.5-fold to an almost twofold increase from the 30,000 to 40,000 trips...",
+        "summary": "Hong Kong’s revamped Huanggang Port is expected to handle more than 100,000 passenger trips a day over the Chung Yeung Festival long weekend, although its departure hall remained quiet on Saturday morning. Secretary for Security Chris Tang Ping-keung said the border crossing had operated smoothly since opening on Monday, handling about 80,000 passenger trips a day, with the figure exceeding 92,000 on Friday. That represented a 1.5-fold to almost twofold increase from the 30,000 to 40,000 trips...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-17T05:51:54+00:00",
         "stream": "higher",
@@ -7770,54 +7856,6 @@
         "summary": "A man in southwestern China has sparked widespread criticism after holding a wedding with one woman and a celebration for his baby with another at the same venue on the same day. According to The Beijing News, Wu Linfeng, from Liupanshui, Guizhou province, held a wedding ceremony with Kong Sihan on the first floor of a restaurant while hosting a 100-day celebration for his son with his former girlfriend, Lin Si, on the second floor. One poster at the venue showed Wu and Kong in wedding attire...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-17T02:00:15+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Air rage incidents in Japan surge, led by late check-in ‘flashpoint’",
-        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371187/air-rage-incidents-japan-surge-led-late-check-flashpoint?utm_source=rss_feed",
-        "summary": "Airline employees in Japan are experiencing a surge in abuse incidents from customers linked to delays or cancellations of flights or from being refused boarding due to late check-in, according to a survey. Some 30 per cent of ground staff or cabin crew reported bearing the brunt of passengers’ anger over such matters in the past year, according to the survey by the Japan Federation of Aviation Industry Unions released last month, rising from 7 per cent in its previous survey in 2023. In...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-17T02:00:13+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Foreign banks trim China branch networks as low returns test strategy",
-        "url": "https://www.scmp.com/business/banking-finance/article/3370953/foreign-banks-trim-china-branch-networks-low-returns-test-strategy?utm_source=rss_feed",
-        "summary": "Almost two decades after gaining permission to conduct yuan business for local clients, foreign-funded banks are still refining their strategy in China, where the financial sector is dominated by state-owned lenders. While Citi exited its China retail banking business, other foreign banks have continued to close branches and sub-branches, focusing instead on digitalisation, wealth management and core clients to strengthen their foothold in the market. Deutsche Bank (China) announced the closure...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-17T02:00:10+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Philippines’ ‘China-free’ manufacturing strategy is a high-risk bet",
-        "url": "https://www.scmp.com/opinion/asia-opinion/article/3370775/philippines-china-free-manufacturing-strategy-high-risk-bet?utm_source=rss_feed",
-        "summary": "China and the Philippines recently traded accusations over the medical evacuation of a Philippine serviceman from a grounded naval vessel in the hotly disputed Second Thomas Shoal in the South China Sea. The incident has sparked renewed worries about potential armed skirmishes in a global artery of trade. But Philippine President Ferdinand Marcos Jnr was also quick to emphasise the economic dimensions of a major conflict. After a decade of rapid economic growth, the Philippines is facing...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-17T01:30:09+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Growing number of ex-officials enter race for Hong Kong Election Committee seats",
-        "url": "https://www.scmp.com/news/hong-kong/politics/article/3371204/growing-number-ex-officials-enter-race-hong-kong-election-committee-seats?utm_source=rss_feed",
-        "summary": "A growing number of former senior government officials have joined the race for seats on Hong Kong’s Election Committee, a trend observers say will enhance the prestige and legitimacy of the body tasked with choosing the city’s next leader. As the two-week nomination period draws to a close next Tuesday, the Registration and Electoral Office had received 1,115 nominations for 982 elected seats on the Election Committee as of Friday. The poll will be held on November 22 and the elected members...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-17T01:00:10+00:00",
         "stream": "higher",
         "streams": [
           "higher"
@@ -8250,11 +8288,72 @@
     ],
     "north_america": [
       {
+        "title": "What to Know About the Violent Protests in Albania",
+        "url": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
+        "summary": "Student demonstrations over education converged with broader protests against rising living costs and a luxury development linked to Jared Kushner, President Trump’s son-in-law.",
+        "source": "New York Times — Education",
+        "published": "2026-10-17T18:57:34+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Craig Symonds, Prizewinning Military Historian, Is Dead",
+        "url": "https://www.nytimes.com/2026/10/17/obituaries/craig-symonds-dead.html",
+        "summary": "A U.S. Naval Academy professor and prolific author, he emphasized the strategic importance of naval superiority since the Civil War.",
+        "source": "New York Times — Education",
+        "published": "2026-10-17T17:28:10+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Teacher Recruitment and Retention a Continuing Problem, Report Suggests",
+        "url": "https://www.the74million.org/article/teacher-recruitment-and-retention-a-continuing-problem-report-suggests/",
+        "summary": "To choose the teaching profession in New Hampshire is to navigate a series of financial trade-offs. The median salary for K-12 teachers in 2024 was $66,123 — enough to comfortably afford a $1,653 monthly rent, according to a 2025 New Hampshire Housing report. The median two-bedroom rent that year? $2,024 per month. And becoming a […]",
+        "source": "The 74 Million",
+        "published": "2026-10-17T16:30:00+00:00",
+        "stream": "teacher",
+        "streams": [
+          "teacher",
+          "school"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "School Shooting in Bend, Ore., Has Heroes and Pain, But Few Answers",
+        "url": "https://www.nytimes.com/2026/10/16/us/bend-shooting-hero-teacher-dad.html",
+        "summary": "The city of Bend, Ore., is praising those who worked to stop the gunman at Silver Rail Elementary School. The authorities are searching for answers.",
+        "source": "New York Times — Education",
+        "published": "2026-10-17T15:21:21+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "north_america"
+      },
+      {
         "title": "This Is One of the Saddest Facts About the Cornell Rape Case",
         "url": "https://www.nytimes.com/2026/10/17/opinion/cornell-jane-doe-title-ix.html",
         "summary": "Campus rape investigations are often riddled with problems — but eliminating them would be much worse.",
         "source": "New York Times — Education",
-        "published": "2026-10-17T12:46:01+00:00",
+        "published": "2026-10-17T12:46:02+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests",
+        "url": "https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html",
+        "summary": "Bally Bagayoko, the mayor of a working-class suburb near Paris, has been a regular presence at student demonstrations, prompting both applause and condemnation.",
+        "source": "New York Times — Education",
+        "published": "2026-10-17T12:23:26+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8279,6 +8378,30 @@
         "summary": "While the powerful board appeared to back campus administration, some students protested against the backdrop of homecoming weekend.",
         "source": "New York Times — Education",
         "published": "2026-10-17T01:43:39+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Teacher Killed in Oregon School Shooting Was Working Her ‘Dream Job,’ Family Says",
+        "url": "https://www.nytimes.com/2026/10/16/us/bend-school-shooting-victims-megan-lambert-rhoam-summer.html",
+        "summary": "Megan Lambert graduated from high school in the district where she taught. She died in a classroom with Rhoam Summer and two other children when a shooter attacked.",
+        "source": "New York Times — Education",
+        "published": "2026-10-17T01:12:39+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "David Sabatini, an M.I.T. Scientist, Wins $6 Million in Sexual Harassment Defamation Suit",
+        "url": "https://www.nytimes.com/2026/10/16/us/mit-scientist-sexual-harassment-defamation-lawsuit-david-sabatini.html",
+        "summary": "David Sabatini, once a prominent scientist at M.I.T., sued a former colleague who accused him of inappropriate behavior. A jury found in his favor.",
+        "source": "New York Times — Education",
+        "published": "2026-10-17T01:02:05+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8346,18 +8469,6 @@
         "region": "north_america"
       },
       {
-        "title": "Robot trainers",
-        "url": "https://www.nytimes.com/2026/10/16/briefing/robot-trainers.html",
-        "summary": "Plus, young voters, Parisian schools and a lot of math.",
-        "source": "New York Times — Education",
-        "published": "2026-10-16T15:05:41+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
         "title": "Opinion: Mamdani Wants to Empower Educators. Preparing Great Principals Is How It Happens",
         "url": "https://www.the74million.org/article/mamdani-wants-to-empower-educators-preparing-great-principals-is-how-it-happens/",
         "summary": "New York City is entering a new phase in its approach to public education. Under Mayor Zohran Mamdani, early signals point to a shift toward giving educators a stronger voice in schools and more opportunities to grow throughout their careers. Two priorities stand out. The first is inclusion. Mamdani has emphasized shifting decision-making closer to […]",
@@ -8378,18 +8489,6 @@
         "stream": "school",
         "streams": [
           "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Handcuffs in Schools",
-        "url": "https://www.nytimes.com/2026/10/16/briefing/handcuffs-in-schools.html",
-        "summary": "Let’s look at what happens when school police arrest children.",
-        "source": "New York Times — Education",
-        "published": "2026-10-16T10:37:49+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "north_america"
       },
@@ -8666,66 +8765,6 @@
         "stream": "school",
         "streams": [
           "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "‘This is the first time I’ve touched grass’: Inside the U.S. colleges pioneering social prescriptions",
-        "url": "https://hechingerreport.org/this-is-the-first-time-ive-touched-grass-inside-the-u-s-college-campuses-pioneering-social-prescriptions/",
-        "summary": "This story is being published in partnership with MindSite News, a national news organization that reports on mental health and sends out a daily newsletter available here. In 1984, while studying at Cornell University as a graduate student and going through a “difficult” time, Don Rakow remembers escaping to the campus gardens. “They were my […] The post ‘This is the first time I’ve touched grass’: Inside the U.S. colleges pioneering social prescriptions appeared first on The Hechinger Report .",
-        "source": "Hechinger Report",
-        "published": "2026-10-15T05:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "TEACHER VOICE: How I rethought disciplinary school in Texas",
-        "url": "https://hechingerreport.org/teacher-voice-how-i-rethought-disciplinary-school-in-texas/",
-        "summary": "I did not wait for my start date. My official first day as director of the Del Valle Independent School District’s Disciplinary Alternative Education Program was July 22, 2015. I walked onto campus weeks before then. I knew that if I waited, we would never be ready for the first day of school. In Texas, […] The post TEACHER VOICE: How I rethought disciplinary school in Texas appeared first on The Hechinger Report .",
-        "source": "Hechinger Report",
-        "published": "2026-10-15T05:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Sold a story: The remedy is always teaching",
-        "url": "https://hechingerreport.org/sold-a-story-the-remedy-is-always-teaching/",
-        "summary": "This podcast, Sold a Story, was produced by APM Reports and reprinted with permission. Sold a Story is an investigative podcast about how kids learn — what works in the classroom, the science behind those insights and why that research often doesn’t make it into schools. Season 1 revealed why so many kids are struggling […] The post Sold a story: The remedy is always teaching appeared first on The Hechinger Report .",
-        "source": "Hechinger Report",
-        "published": "2026-10-15T05:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Sold a story: It’s not just reading",
-        "url": "https://hechingerreport.org/sold-a-story-its-not-just-reading/",
-        "summary": "This podcast, Sold a Story, was produced by APM Reports and reprinted with permission. Sold a Story is an investigative podcast about how kids learn — what works in the classroom, the science behind those insights and why that research often doesn’t make it into schools. Season 1 revealed why so many kids are struggling […] The post Sold a story: It’s not just reading appeared first on The Hechinger Report .",
-        "source": "Hechinger Report",
-        "published": "2026-10-15T05:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "The Crisis Playbook for Universities in Trouble",
-        "url": "https://www.nytimes.com/2026/10/14/us/cornell-crisis-playbook-universities-colleges.html",
-        "summary": "Schools under scrutiny as Cornell is often follow a sort of public relations playbook, adding rules, hiring outside investigators and sometimes making leadership changes.",
-        "source": "New York Times — Education",
-        "published": "2026-10-15T03:09:05+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "north_america"
       }
