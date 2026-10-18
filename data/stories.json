@@ -270,6 +270,18 @@
     ],
     "school": [
       {
+        "title": "Colorado Officials Weighing Stricter Rules for Homeschool Enrichment Programs",
+        "url": "https://www.the74million.org/article/co-rejected-38-homeschool-enrichment-programs-officials-to-weigh-stricter-rules/",
+        "summary": "Over the summer, state officials said yes to only 14 of 54 homeschool enrichment programs that applied for approval. It was the first step in a broader effort to increase oversight of a controversial slice of the public education system that has seen massive growth in recent years. On Thursday, the nine-member State Board of […]",
+        "source": "The 74 Million",
+        "published": "2026-10-18T16:30:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
         "title": "Teacher Recruitment and Retention a Continuing Problem, Report Suggests",
         "url": "https://www.the74million.org/article/teacher-recruitment-and-retention-a-continuing-problem-report-suggests/",
         "summary": "To choose the teaching profession in New Hampshire is to navigate a series of financial trade-offs. The median salary for K-12 teachers in 2024 was $66,123 — enough to comfortably afford a $1,653 monthly rent, according to a 2025 New Hampshire Housing report. The median two-bedroom rent that year? $2,024 per month. And becoming a […]",
@@ -601,18 +613,6 @@
         "summary": "Evan Perez could be the face of a new movement. He’s a first-year student attending Babson College on a full scholarship, majoring in business with a concentration in entrepreneurship. He won awards for building an AI-related business at his career-focused public high school and cares deeply about what and how students learn. “We had an […] The post COLUMN: As careers, college and the workforce change rapidly, should high schools evolve? Help us find out appeared first on The Hechinger Report .",
         "source": "Hechinger Report",
         "published": "2026-10-13T06:00:00+00:00",
-        "region": "north_america",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "Indiana Starting Anonymous School Safety Tip Line in January",
-        "url": "https://www.the74million.org/article/indiana-starting-anonymous-school-safety-tip-line-in-january/",
-        "summary": "State officials are planning to launch an anonymous tip line regarding safety concerns that will be available for all K-12 schools starting in January. The line will be monitored 24 hours a day year-round as part of what will be a $1 million investment to ensure all schools have access to a platform for reporting […]",
-        "source": "The 74 Million",
-        "published": "2026-10-12T16:30:00+00:00",
         "region": "north_america",
         "streams": [
           "school"
@@ -999,6 +999,90 @@
       }
     ],
     "higher": [
+      {
+        "title": "2 dead, 11 injured after truck drives through Kansas football field during youth match",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3371330/2-dead-11-injured-after-truck-drives-through-kansas-football-field-during-youth-match?utm_source=rss_feed",
+        "summary": "A woman drove a truck through a football field during a youth match in Kansas on Saturday, killing two people and sending 11 other victims to the hospital, authorities said on Sunday. A six-year-old boy and a 35-year-old man were killed, Wichita Police Captain Aaron Moses said. The ages of the injured people ranged from five to 68. Moses said the driver, a 34-year-old, was in custody. He did not say whether authorities believe it was intentional. “We are still working to determine how this...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-18T19:48:46+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Zelensky speaks to US envoys amid Trump spat after warning US not to side with Russia",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371329/zelensky-speaks-us-envoys-amid-trump-spat-after-warning-us-not-side-russia?utm_source=rss_feed",
+        "summary": "Ukraine’s Volodymyr Zelensky spoke to US envoys Steve Witkoff and Jared Kushner in the midst of his spat with US President Donald Trump on Sunday, saying “a lot depends on America” as he earlier warned Washington not to side with Moscow in Europe’s worst conflict since World War II. The wartime leader spoke to the US officials as both Russia and Ukraine hit each other’s energy sites, with Moscow leaving thousands without power and Kyiv carrying out the largest drone attack on St Petersburg since...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-18T19:31:04+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "DR Congo’s fast-moving Ebola outbreak spreads to eighth province",
+        "url": "https://www.scmp.com/news/world/africa/article/3371328/dr-congos-fast-moving-ebola-outbreak-spreads-eighth-province?utm_source=rss_feed",
+        "summary": "The Ebola outbreak in Democratic Republic of Congo has spread to an eighth province in the country’s north, authorities said on Sunday. The Health Ministry has recorded two cases, including one death, in Nord-Ubangi province, bordering Central African Republic. The ministry said both patients were men in their 20s living in the Wapinda health zone, which borders Bas-Uele province, where Ebola cases have been reported previously. Authorities have recorded at least 9,400 cases, including more than...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-18T18:36:18+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Paris police in new battles with protesters and looters",
+        "url": "https://www.scmp.com/news/world/europe/article/3371327/paris-police-new-battles-protesters-and-looters?utm_source=rss_feed",
+        "summary": "French police battled protesters and looters for a second day on Sunday as French President Emmanuel Macron expressed the public’s “anger” and “shame” over nationwide protests against rising living costs and poor conditions in schools that have resulted in at least 1,800 arrests. Speaking in an address to the nation, Macron said: “Those who looted will have to pay back for the damage and those who sought to bring down the Republic will be held accountable.” He pointed to “unrestrained violence”...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-18T18:01:40+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Trump endorses ally Netanyahu in Israeli election, praising ‘great warrior prime minister’",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3371326/trump-endorses-ally-netanyahu-israeli-election-praising-great-warrior-prime-minister?utm_source=rss_feed",
+        "summary": "US President Donald Trump on ⁠Sunday endorsed his ally Benjamin Netanyahu ⁠as the long-time Israeli prime minister struggles for an edge in next week’s parliamentary election. Trump praised Netanyahu as a “great warrior prime minister” and peace partner, crediting him with joining the United States in launching strikes on Iran in February. The conflict, in ‌its seventh month, has disrupted energy markets globally and wreaked havoc across the Middle East, damaging critical infrastructure and...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-18T17:04:13+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Lifts at 74 more buildings serviced by Taizoom lack safety parts, taking total to 152",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3371325/lifts-74-more-buildings-serviced-taizoom-lack-safety-parts-taking-total-152?utm_source=rss_feed",
+        "summary": "Hong Kong authorities have said lifts at 74 more private buildings installed by Taizoom Elevator are missing crucial door frame components, taking the total of affected properties to 152. The Electrical and Mechanical Services Department provided the updated figures on Sunday night as citywide inspections of all lifts handled by Taizoom were carried out. The door frame components help protect lift occupants against flames and smoke in the event of a fire, an expert earlier explained. According...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-18T15:47:04+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Lithuanians take shelter, Nato jets scramble as suspected drone explodes",
+        "url": "https://www.scmp.com/news/world/europe/article/3371323/lithuanians-take-shelter-nato-jets-scramble-suspected-drone-explodes?utm_source=rss_feed",
+        "summary": "A suspected drone exploded over Lithuania ⁠after triggering an alert that forced residents in northern and central areas to seek shelter for an hour on Sunday morning, the president and other defence officials said. Ukraine’s Foreign Ministry said later it regretted the incident in Lithuania’s airspace, adding that it may have resulted from Russian ‌electronic warfare diverting drones off course. The object flew into Lithuania’s airspace from Poland, Lithuanian Defence Minister Robertas Kaunas...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-18T15:23:41+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
       {
         "title": "Hong Kong to review Peak lighting installation after outcry over felled trees",
         "url": "https://www.scmp.com/news/hong-kong/society/article/3371320/hong-kong-review-peak-lighting-installation-after-outcry-over-felled-trees?utm_source=rss_feed",
@@ -1444,9 +1528,9 @@
         "stream": "higher"
       },
       {
-        "title": "Canada says people killed after incident and fire at Alberta military base",
+        "title": "4 dead in fire at Alberta military base, Canadian PM Carney says",
         "url": "https://www.scmp.com/news/world/united-states-canada/article/3371281/fatalities-feared-fire-erupts-canadian-military-base-alberta?utm_source=rss_feed",
-        "summary": "Canada’s defence minister said on Saturday that people were killed and injured in an incident at a military base in Alberta that caused a major fire, while reports said that large numbers of injured people were transported to hospitals. Fire crews scrambled late into the night as fierce winds whipped flames beyond Canadian Forces Base Wainwright and into the surrounding rural area. It was not immediately clear how many people were killed or injured, but a doctor at a hospital in the city of...",
+        "summary": "Canadian Prime Minister Mark Carney said on Sunday that four service members were killed and dozens more seriously injured in a devastating fire at a military base in Alberta, describing it as one of the worst peacetime tragedies for Canada’s military on domestic soil. Carney said the families of those killed had been notified and that the situation was still evolving. The base, one of Canada’s largest, is about 210km (130 miles) east of Edmonton in Alberta, and National Defence Minister David...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-18T02:19:35+00:00",
         "region": "east_asia",
@@ -1540,54 +1624,6 @@
         "stream": "higher"
       },
       {
-        "title": "Trump’s second Asean summit presence comes at a price for region",
-        "url": "https://www.scmp.com/week-asia/economics/article/3371132/trumps-second-asean-summit-presence-comes-price-region?utm_source=rss_feed",
-        "summary": "US President Donald Trump is expected to drive hard bargains on tariffs and critical minerals in his return to the Asean summit in Manila next month, with Washington seeking greater economic and strategic concessions while remaining hawkish on China. The Philippines confirmed on Wednesday that Trump would fly in for the summit from November 16 to 18, before attending the Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen that same week. Trump’s second consecutive appearance at the forum...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-18T00:00:08+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Across US, ‘No Kings’ events seek to boost early voting and thwart Trump",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3371279/across-us-no-kings-events-seek-boost-early-voting?utm_source=rss_feed",
-        "summary": "Carrying an umbrella painted with the words “vote, power, people”, retired teacher Sabine Carlson said the lesson plan for Saturday’s “No King” marches was clear. “It’s great to voice your anger, and we have long lists of complaints, but the most important thing of all is to go and vote,” the 66-year-old Democrat from Washington’s suburbs said. At the demonstration near the country’s Capitol, Carlson joined one of the estimated 3,000 events organised by the prominent anti-Trump movement across...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-17T23:56:30+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "19 dead, 25 hurt in stampede at India religious festival",
-        "url": "https://www.scmp.com/news/asia/south-asia/article/3371278/19-dead-25-hurt-stampede-india-religious-festival?utm_source=rss_feed",
-        "summary": "At least 19 people were killed and two dozen more injured on Saturday in eastern India after a stampede that occurred during sudden rainfall at a Hindu religious gathering, officials and Indian media said. West Bengal’s Chief Minister Suvendhu Adhikari told reporters the fatalities included a seven-year-old girl, adding that 25 other people were injured outside a pavilion “in a stampede” at the Hindu festival of Durga Puja in the city of Kolkata. “Six bodies have so far been identified,”...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-17T23:31:57+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Beyond EVs and perception, how China is gaining ground in Central Asia",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3371232/beyond-evs-and-perception-how-china-gaining-ground-central-asia?utm_source=rss_feed",
-        "summary": "In Kazakhstan’s futuristic capital Astana, car dealer Auyez Kabdygali is planning a big change to his business as he switches from importing European cars to Chinese electric vehicles. Kabdygali says there is increasing demand for Chinese EVs both from locals and Russian customers due to their competitive price and quality. His grandfather is among the converts – he has an order in for a BYD Han, the carmaker’s flagship model, and plans to collect it from a terminal on the border with China and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-17T22:00:08+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
         "title": "2026 Mazda CX-5 Launch Drive: Refined, Roomier, and Ready for More",
         "url": "https://www.ednews.africa/p/2026-mazda-cx-5-launch-drive-refined",
         "summary": "The new Mazda CX-5 brings fresh styling, more space, and improved technology to an already popular family SUV.",
@@ -1600,48 +1636,12 @@
         "stream": "higher"
       },
       {
-        "title": "Israeli settlers attack European diplomats, beat up French mayor in West Bank",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3371275/israeli-settlers-attack-european-diplomats-beat-french-mayor-west-bank?utm_source=rss_feed",
-        "summary": "Israeli settlers attacked a convoy of European diplomats in the West Bank and beat up a visiting French mayor on Saturday, witnesses said, while US Secretary of State Marco Rubio warned against a brewing “crisis” in the territory a day after an American photojournalist was injured in a brutal attack. The 78-year-old mayor said masked settlers yelled defamatory comments about France, kicked him and hit him with iron bars as he joined Palestinian olive farmers in the West Bank alongside the top...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-17T18:33:59+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "‘Cockroach’ party founder released by Indian police",
-        "url": "https://www.scmp.com/news/asia/south-asia/article/3371274/cockroach-party-founder-released-indian-police?utm_source=rss_feed",
-        "summary": "India’s youth-led Cockroach Janata Party founder Abhijeet Dipke was released from detention on Saturday, a day after his arrest during a police crackdown on protests against the election authority. Dipke, 31, was detained Friday in New Delhi as he headed to join a rally that the CJP protest movement had called in the capital’s central Connaught Place district. He walked out of a police station on Saturday afternoon waving to the media and giving a thumbs up as he was driven away. “Abhijeet Dipke...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-17T17:48:50+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
         "title": "AA Calls for Fuel Levy Relief as Rising Costs Put Pressure on Families and Education",
         "url": "https://www.ednews.africa/p/aa-calls-for-fuel-levy-relief-as",
         "summary": "The Automobile Association warns that soaring fuel costs could deepen financial pressure on families, making transport to schools and universities increasingly unaffordable.",
         "source": "EdNews Africa",
         "published": "2026-10-17T16:50:25+00:00",
         "region": "east_africa",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Albanian police fire rubber bullets as student protesters call for PM to quit",
-        "url": "https://www.scmp.com/news/world/europe/article/3371273/albanian-police-fire-rubber-bullets-student-protesters-call-pm-quit?utm_source=rss_feed",
-        "summary": "Police in Albania fired what appeared to be rubber bullets at protesters on Saturday, the fifth day of mass student protests demanding Prime Minister Edi Rama step down. Reuters video footage showed police firing a shotgun towards crowds outside the education ministry during clashes with protesters. Reuters reporters found rubber pellets on the ground and pellets hit two Reuters journalists ‌and several protesters, leaving round marks. The incident marks an escalation in a confrontation between...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-17T16:05:10+00:00",
-        "region": "east_asia",
         "streams": [
           "higher"
         ],
@@ -3511,8 +3511,32 @@
         "url": "https://kathmandupost.com/national/2026/10/17/bhotekoshi-flood-displaced-777-students-nepal-plans-five-year-school-recovery",
         "summary": "Of the 57 educational institutions assessed in Rasuwa, Nuwakot, and Dhading districts, 28 were damaged and 15 were completely destroyed.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-18T15:10:32.899812+00:00",
+        "published": "2026-10-18T19:55:42.849018+00:00",
         "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "The Guardian view on schools: the hardest questions for Lucy Powell are about priorities | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/18/the-guardian-view-on-schools-the-hardest-questions-for-lucy-powell-are-about-priorities",
+        "summary": "The education secretary is right that her job is not to ‘polish the status quo’. Next, she must decide what to change first There is a good case to be made for the increased importance of speaking skills in our new age of machines. With the UK economy’s stronger-than-expected recent performance widely linked to AI investment, it is vital that people are equipped for the kinds of in-person, public-facing jobs that are least likely to be automated. A concerning decline in children’s language development, both in the UK and internationally, has been linked to high screen use. There is a grim iron",
+        "source": "The Guardian — Education",
+        "published": "2026-10-18T16:25:04+00:00",
+        "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
+        "url": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
+        "summary": "Riots broke out in several French cities alongside peaceful marches of tens of thousands of people demonstrating against rising living costs and poor school conditions.",
+        "source": "New York Times — Education",
+        "published": "2026-10-18T16:08:43+00:00",
+        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -3549,18 +3573,6 @@
         "source": "FAWE — African Women Educationalists",
         "published": "2026-10-18T13:09:37+00:00",
         "region": "east_africa",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Paris left reeling as student-led protests turn chaotic",
-        "url": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss",
-        "summary": "Some 1,800 people arrested and hundreds injured during nationwide demonstrations attended by hundreds of thousands.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-18T13:08:06+00:00",
-        "region": "global",
         "streams": [
           "policy"
         ],
@@ -3667,7 +3679,7 @@
         "url": "https://www.nytimes.com/2026/10/17/obituaries/craig-symonds-dead.html",
         "summary": "A U.S. Naval Academy professor and prolific author, he emphasized the strategic importance of naval superiority since the Civil War.",
         "source": "New York Times — Education",
-        "published": "2026-10-17T21:17:00+00:00",
+        "published": "2026-10-17T21:17:01+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -3812,18 +3824,6 @@
         "summary": "Campus rape investigations are often riddled with problems — but eliminating them would be much worse.",
         "source": "New York Times — Education",
         "published": "2026-10-17T12:46:02+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests",
-        "url": "https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html",
-        "summary": "Bally Bagayoko, the mayor of a working-class suburb near Paris, has been a regular presence at student demonstrations, prompting both applause and condemnation.",
-        "source": "New York Times — Education",
-        "published": "2026-10-17T12:23:26+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -5664,11 +5664,11 @@
   "regions": {
     "global": [
       {
-        "title": "Why have France’s school protests become a wider political crisis?",
-        "url": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss",
-        "summary": "The demonstrations have united students and ‘yellow vest’ supporters, exposing deeper anger over living standards.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-18T13:48:04+00:00",
+        "title": "The Guardian view on schools: the hardest questions for Lucy Powell are about priorities | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/18/the-guardian-view-on-schools-the-hardest-questions-for-lucy-powell-are-about-priorities",
+        "summary": "The education secretary is right that her job is not to ‘polish the status quo’. Next, she must decide what to change first There is a good case to be made for the increased importance of speaking skills in our new age of machines. With the UK economy’s stronger-than-expected recent performance widely linked to AI investment, it is vital that people are equipped for the kinds of in-person, public-facing jobs that are least likely to be automated. A concerning decline in children’s language development, both in the UK and internationally, has been linked to high screen use. There is a grim iron",
+        "source": "The Guardian — Education",
+        "published": "2026-10-18T16:25:04+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -5676,11 +5676,11 @@
         "region": "global"
       },
       {
-        "title": "Paris left reeling as student-led protests turn chaotic",
-        "url": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss",
-        "summary": "Some 1,800 people arrested and hundreds injured during nationwide demonstrations attended by hundreds of thousands.",
+        "title": "Why have France’s school protests become a wider political crisis?",
+        "url": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss",
+        "summary": "The demonstrations have united students and ‘yellow vest’ supporters, exposing deeper anger over living standards.",
         "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-18T13:08:06+00:00",
+        "published": "2026-10-18T13:48:04+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6150,7 +6150,7 @@
         "url": "https://kathmandupost.com/national/2026/10/17/bhotekoshi-flood-displaced-777-students-nepal-plans-five-year-school-recovery",
         "summary": "Of the 57 educational institutions assessed in Rasuwa, Nuwakot, and Dhading districts, 28 were damaged and 15 were completely destroyed.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-18T15:10:32.899812+00:00",
+        "published": "2026-10-18T19:55:42.849018+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -7333,6 +7333,90 @@
     ],
     "east_asia": [
       {
+        "title": "2 dead, 11 injured after truck drives through Kansas football field during youth match",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3371330/2-dead-11-injured-after-truck-drives-through-kansas-football-field-during-youth-match?utm_source=rss_feed",
+        "summary": "A woman drove a truck through a football field during a youth match in Kansas on Saturday, killing two people and sending 11 other victims to the hospital, authorities said on Sunday. A six-year-old boy and a 35-year-old man were killed, Wichita Police Captain Aaron Moses said. The ages of the injured people ranged from five to 68. Moses said the driver, a 34-year-old, was in custody. He did not say whether authorities believe it was intentional. “We are still working to determine how this...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-18T19:48:46+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Zelensky speaks to US envoys amid Trump spat after warning US not to side with Russia",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371329/zelensky-speaks-us-envoys-amid-trump-spat-after-warning-us-not-side-russia?utm_source=rss_feed",
+        "summary": "Ukraine’s Volodymyr Zelensky spoke to US envoys Steve Witkoff and Jared Kushner in the midst of his spat with US President Donald Trump on Sunday, saying “a lot depends on America” as he earlier warned Washington not to side with Moscow in Europe’s worst conflict since World War II. The wartime leader spoke to the US officials as both Russia and Ukraine hit each other’s energy sites, with Moscow leaving thousands without power and Kyiv carrying out the largest drone attack on St Petersburg since...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-18T19:31:04+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "DR Congo’s fast-moving Ebola outbreak spreads to eighth province",
+        "url": "https://www.scmp.com/news/world/africa/article/3371328/dr-congos-fast-moving-ebola-outbreak-spreads-eighth-province?utm_source=rss_feed",
+        "summary": "The Ebola outbreak in Democratic Republic of Congo has spread to an eighth province in the country’s north, authorities said on Sunday. The Health Ministry has recorded two cases, including one death, in Nord-Ubangi province, bordering Central African Republic. The ministry said both patients were men in their 20s living in the Wapinda health zone, which borders Bas-Uele province, where Ebola cases have been reported previously. Authorities have recorded at least 9,400 cases, including more than...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-18T18:36:18+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Paris police in new battles with protesters and looters",
+        "url": "https://www.scmp.com/news/world/europe/article/3371327/paris-police-new-battles-protesters-and-looters?utm_source=rss_feed",
+        "summary": "French police battled protesters and looters for a second day on Sunday as French President Emmanuel Macron expressed the public’s “anger” and “shame” over nationwide protests against rising living costs and poor conditions in schools that have resulted in at least 1,800 arrests. Speaking in an address to the nation, Macron said: “Those who looted will have to pay back for the damage and those who sought to bring down the Republic will be held accountable.” He pointed to “unrestrained violence”...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-18T18:01:40+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Trump endorses ally Netanyahu in Israeli election, praising ‘great warrior prime minister’",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3371326/trump-endorses-ally-netanyahu-israeli-election-praising-great-warrior-prime-minister?utm_source=rss_feed",
+        "summary": "US President Donald Trump on ⁠Sunday endorsed his ally Benjamin Netanyahu ⁠as the long-time Israeli prime minister struggles for an edge in next week’s parliamentary election. Trump praised Netanyahu as a “great warrior prime minister” and peace partner, crediting him with joining the United States in launching strikes on Iran in February. The conflict, in ‌its seventh month, has disrupted energy markets globally and wreaked havoc across the Middle East, damaging critical infrastructure and...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-18T17:04:13+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Lifts at 74 more buildings serviced by Taizoom lack safety parts, taking total to 152",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3371325/lifts-74-more-buildings-serviced-taizoom-lack-safety-parts-taking-total-152?utm_source=rss_feed",
+        "summary": "Hong Kong authorities have said lifts at 74 more private buildings installed by Taizoom Elevator are missing crucial door frame components, taking the total of affected properties to 152. The Electrical and Mechanical Services Department provided the updated figures on Sunday night as citywide inspections of all lifts handled by Taizoom were carried out. The door frame components help protect lift occupants against flames and smoke in the event of a fire, an expert earlier explained. According...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-18T15:47:04+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Lithuanians take shelter, Nato jets scramble as suspected drone explodes",
+        "url": "https://www.scmp.com/news/world/europe/article/3371323/lithuanians-take-shelter-nato-jets-scramble-suspected-drone-explodes?utm_source=rss_feed",
+        "summary": "A suspected drone exploded over Lithuania ⁠after triggering an alert that forced residents in northern and central areas to seek shelter for an hour on Sunday morning, the president and other defence officials said. Ukraine’s Foreign Ministry said later it regretted the incident in Lithuania’s airspace, adding that it may have resulted from Russian ‌electronic warfare diverting drones off course. The object flew into Lithuania’s airspace from Poland, Lithuanian Defence Minister Robertas Kaunas...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-18T15:23:41+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
         "title": "Hong Kong to review Peak lighting installation after outcry over felled trees",
         "url": "https://www.scmp.com/news/hong-kong/society/article/3371320/hong-kong-review-peak-lighting-installation-after-outcry-over-felled-trees?utm_source=rss_feed",
         "summary": "Hong Kong tourism authorities have pledged to review the roll-out of a lighting project along a trail on The Peak after mounting complaints that flowers and trees were chopped down to make way for the installations. But the Tourism Board defended the project, saying it had consulted local residents and sought advice from tree experts to minimise the impact on the surrounding environment. In a statement on Sunday, the board said it valued residents’ views and would now “conduct broader...",
@@ -7722,90 +7806,6 @@
         "summary": "The organiser of a forum that will bring together Hong Kong and overseas universities later this month has said it hopes to spark debate on the role of humanities programmes in an era increasingly dominated by artificial intelligence (AI). The Global University Presidents and Leaders Summit, organised by the Hong Kong Association for External Friendship, will be held on October 27 and 28 at the Convention and Exhibition Centre in Wan Chai. Presidents or senior management from more than 50...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-18T04:00:16+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Southeast Asia’s ethnic Chinese traders feel the China squeeze",
-        "url": "https://www.scmp.com/week-asia/economics/article/3371179/southeast-asias-ethnic-chinese-traders-feel-china-squeeze?utm_source=rss_feed",
-        "summary": "Almost every year, Kevin Stewart flies to China to find stock for his Indonesian businesses. But increasingly, the factories he visits are selling to his customers too, sometimes for less than they charge him. A data science manager in the tech sector by day, the Chinese-Indonesian entrepreneur also helps run home-living and pet-supply companies that sell to other businesses and direct to consumers, including through e-commerce platforms. Yet Chinese companies listing directly on Indonesian...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-18T04:00:13+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "New property purchase disclosure rule in Japan sparks fears it may curb foreign investment",
-        "url": "https://www.scmp.com/business/article/3371224/new-property-purchase-disclosure-rule-japan-sparks-fears-it-may-curb-foreign-investment?utm_source=rss_feed",
-        "summary": "Tokyo’s implementation of a rule that requires all property buyers to declare their nationality is raising concerns among investors, according to analysts. Japan’s shift from an ultra-loose monetary policy to gradual normalisation of its interest rates was also likely to force investors to reconsider whether real estate assets were still attractive, they added. “Japan has had a really strong run for the last seven or eight years,” said Neil Brookes, head of Asia-Pacific capital markets at...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-18T03:00:07+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Canada says people killed after incident and fire at Alberta military base",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3371281/fatalities-feared-fire-erupts-canadian-military-base-alberta?utm_source=rss_feed",
-        "summary": "Canada’s defence minister said on Saturday that people were killed and injured in an incident at a military base in Alberta that caused a major fire, while reports said that large numbers of injured people were transported to hospitals. Fire crews scrambled late into the night as fierce winds whipped flames beyond Canadian Forces Base Wainwright and into the surrounding rural area. It was not immediately clear how many people were killed or injured, but a doctor at a hospital in the city of...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-18T02:19:35+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "‘Outrageous’: Taiwan Mandopop band member allegedly assaulted by South Korean diver underwater",
-        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3371282/outrageous-taiwan-mandopop-band-member-assaulted-south-korean-diver-underwater?utm_source=rss_feed",
-        "summary": "Palau authorities are investigating an alleged underwater attack by a South Korean divemaster on Taiwanese musician Devon Song and his Bangladeshi divemaster. Song, a member of the music group Nan Quan Mama, posted on social media that he and his divemaster, Sobuj Patwary, were attacked by a South Korean divemaster known as “Romeo”. Song said they were diving at Siaes Corner, a popular site west of Koror, when Romeo suddenly charged at them from below, about 25 metres underwater. Romeo allegedly...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-18T02:19:35+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Spirit of Hong Kong Awards finalist bridges the gap in accessible dental care",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3371166/spirit-hong-kong-awards-finalist-bridges-gap-accessible-dental-care?utm_source=rss_feed",
-        "summary": "Hong Kong social worker Mark Cheung Kai-yuen is working to make dental care more accessible for cancer survivors, people with disabilities and children with special needs who often struggle to find suitable clinics. Through Smile Again, the social enterprise he co-founded with dentist Dr Ho Kwun-yin, Cheung has adapted both the facility and the way care is delivered, with wheelchair-friendly facilities, longer consultations and tailored communication approaches. Cheung is a finalist for the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-18T02:15:05+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Dino-mite treasures: inside Singapore’s ‘Fort Knox’ storing playthings of ultra-rich",
-        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371164/dino-mite-treasures-inside-singapores-fort-knox-storing-playthings-ultra-rich?utm_source=rss_feed",
-        "summary": "Stored in a climate-controlled environment within what is commonly known as the “Fort Knox of Singapore” rests the skull of a triceratops which once roamed the Earth 66 million years ago. The jagged edges of its frill and horns are largely intact, and according to its owner, Chaw Wei Yang, 26, it is one of the most complete triceratops skull fossils ever found. Chaw, who runs Fine Art Storage Services (FASS) located inside Le Freeport, formerly known as Singapore Freeport, along with his...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-18T02:00:07+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "China’s ‘golden week’ holidays come at a cost",
-        "url": "https://www.scmp.com/opinion/china-opinion/article/3370840/chinas-golden-week-holidays-come-cost?utm_source=rss_feed",
-        "summary": "For iPhone users in China, the calendar has long presented a small but recurring problem. On a Sunday designated as a make-up workday, an alarm might remain silent. On a regular Friday converted into a day off, it might ring anyway. Nearly 17 years after entering the Chinese market, Apple quietly updated its operating system in September to automatically recognise China’s official schedule of adjusted holidays and workdays. The fix is modest, but it points to a larger question: what happens when...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-18T01:30:06+00:00",
         "stream": "higher",
         "streams": [
           "higher"
@@ -8238,6 +8238,30 @@
     ],
     "north_america": [
       {
+        "title": "Colorado Officials Weighing Stricter Rules for Homeschool Enrichment Programs",
+        "url": "https://www.the74million.org/article/co-rejected-38-homeschool-enrichment-programs-officials-to-weigh-stricter-rules/",
+        "summary": "Over the summer, state officials said yes to only 14 of 54 homeschool enrichment programs that applied for approval. It was the first step in a broader effort to increase oversight of a controversial slice of the public education system that has seen massive growth in recent years. On Thursday, the nine-member State Board of […]",
+        "source": "The 74 Million",
+        "published": "2026-10-18T16:30:00+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
+        "url": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
+        "summary": "Riots broke out in several French cities alongside peaceful marches of tens of thousands of people demonstrating against rising living costs and poor school conditions.",
+        "source": "New York Times — Education",
+        "published": "2026-10-18T16:08:43+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
         "title": "I Teach at a Business School. It’s Time to Shut Them Down.",
         "url": "https://www.nytimes.com/2026/10/18/opinion/business-school-mba-harvard-cornell-cambridge.html",
         "summary": "Students come in with noble intentions and leave with flawed expertise.",
@@ -8278,7 +8302,7 @@
         "url": "https://www.nytimes.com/2026/10/17/obituaries/craig-symonds-dead.html",
         "summary": "A U.S. Naval Academy professor and prolific author, he emphasized the strategic importance of naval superiority since the Civil War.",
         "source": "New York Times — Education",
-        "published": "2026-10-17T21:17:00+00:00",
+        "published": "2026-10-17T21:17:01+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8316,18 +8340,6 @@
         "summary": "Campus rape investigations are often riddled with problems — but eliminating them would be much worse.",
         "source": "New York Times — Education",
         "published": "2026-10-17T12:46:02+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests",
-        "url": "https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html",
-        "summary": "Bally Bagayoko, the mayor of a working-class suburb near Paris, has been a regular presence at student demonstrations, prompting both applause and condemnation.",
-        "source": "New York Times — Education",
-        "published": "2026-10-17T12:23:26+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8698,18 +8710,6 @@
         "title": "TEACHER VOICE: How I rethought disciplinary school in Texas",
         "url": "https://hechingerreport.org/teacher-voice-how-i-rethought-disciplinary-school-in-texas/",
         "summary": "I did not wait for my start date. My official first day as director of the Del Valle Independent School District’s Disciplinary Alternative Education Program was July 22, 2015. I walked onto campus weeks before then. I knew that if I waited, we would never be ready for the first day of school. In Texas, […] The post TEACHER VOICE: How I rethought disciplinary school in Texas appeared first on The Hechinger Report .",
-        "source": "Hechinger Report",
-        "published": "2026-10-15T05:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Sold a story: The remedy is always teaching",
-        "url": "https://hechingerreport.org/sold-a-story-the-remedy-is-always-teaching/",
-        "summary": "This podcast, Sold a Story, was produced by APM Reports and reprinted with permission. Sold a Story is an investigative podcast about how kids learn — what works in the classroom, the science behind those insights and why that research often doesn’t make it into schools. Season 1 revealed why so many kids are struggling […] The post Sold a story: The remedy is always teaching appeared first on The Hechinger Report .",
         "source": "Hechinger Report",
         "published": "2026-10-15T05:00:00+00:00",
         "stream": "research",
