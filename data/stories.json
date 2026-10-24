@@ -308,6 +308,18 @@
     ],
     "school": [
       {
+        "title": "Ohio Spent More Than a Billion Dollars on Private School Vouchers This Year",
+        "url": "https://www.the74million.org/article/ohio-spent-more-than-a-billion-dollars-on-private-school-vouchers-this-year/",
+        "summary": "For the second year in a row, Ohio spent more than a billion dollars on private school vouchers, this time for the 2026 fiscal year. The total amount for Ohio’s five private school voucher programs was $1.173 billion, according to data from the Ohio Department of Education and Workforce. Nearly half of the money ($532.8 […]",
+        "source": "The 74 Million",
+        "published": "2026-10-24T10:30:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
         "title": "How a Small Student Protest Spread Across France",
         "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
         "summary": "A movement that began with a few high schools has broadened to encompass labor unions and other activists.",
@@ -716,18 +728,6 @@
         "region": "north_america",
         "streams": [
           "higher",
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "Growing Demand for Change: Transcending the Constraints of Existing School Models",
-        "url": "https://www.the74million.org/article/growing-demand-for-change-transcending-the-constraints-of-existing-school-models/",
-        "summary": "Class Disrupted is an education podcast featuring author Michael Horn and Futre’s Diane Tavenner in conversation with educators, school leaders, students and other members of school communities as they investigate the challenges facing the education system in the aftermath of the pandemic — and where we should go from here. Find every episode by bookmarking […]",
-        "source": "The 74 Million",
-        "published": "2026-10-19T16:30:00+00:00",
-        "region": "north_america",
-        "streams": [
           "school"
         ],
         "stream": "school"
@@ -1198,6 +1198,150 @@
     ],
     "higher": [
       {
+        "title": "Saudi strikes kill 11 in Yemen as Houthi missiles target Saudi cities",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3372035/saudi-strikes-kill-11-yemen-houthi-missiles-target-saudi-cities",
+        "summary": "Houthi media reported that Saudi strikes killed 11 people in Yemeni capital Sanaa on Saturday, shortly after the Saudi-led coalition fighting them said it had intercepted two missiles targeting Saudi cities. The Houthis’ Al-Masirah outlet reported a series of “Saudi enemy air strikes” targeting Sanaa, including one on a house that killed at least four people and wounded several others. A separate strike at a residence building for cement factory workers in the Sanaa governorate killed six women...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T14:33:12+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "2 projector stands removed from controversial Peak lighting project after outcry",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3372034/2-projector-stands-removed-controversial-peak-lighting-project-after-outcry",
+        "summary": "Parts of two installations in a controversial lighting project along a walking trail on The Peak have been removed, days after Hong Kong’s tourism authorities pledged to balance the community’s needs and said the scheme was not “set in stone”. The removals came hours after Commissioner for Tourism Ann Chan Wai-yan inspected the site on Saturday morning with a lawmaker and a district councillor, following an outcry from residents who accused the Hong Kong Tourism Board of removing trees and...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T14:27:49+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "China’s J-20 stealth jet designers plan to put powerful radar into aircraft wing",
+        "url": "https://www.scmp.com/news/china/science/article/3371706/chinas-j-20-stealth-jet-designers-plan-put-powerful-radar-aircraft-wing",
+        "summary": "Fighter jets typically house their main radars behind a radome in the nose, while conventional airborne early-warning aircraft often carry large radar arrays in prominent structures above the fuselage. Although aircraft wings offer a large surface area, their relatively thin cross-sections leave limited internal space for radar equipment. Top Chinese military aircraft designers have now proposed a revolutionary method to integrate large antenna arrays into aircraft wings, using flight manoeuvres...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T14:00:10+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Leading Chinese economic commentator Ren Zeping’s social media account restricted",
+        "url": "https://www.scmp.com/news/china/money-wealth/article/3372032/leading-chinese-economic-commentator-ren-zepings-social-media-account-restricted",
+        "summary": "A prominent Chinese economist’s social media channel has been restricted as Beijing steps up regulatory scrutiny of financial market influencers. Chinese internet users on Saturday noticed that the WeChat account of Ren Zeping, known for his outspoken comments on investments and policies, had been stopped from gaining new followers and a member of his team said posting had been suspended. Clicking the follow button generated a message saying “this account cannot be followed due to its violation...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T13:50:26+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "How Operation Santa Claus grew from Christmas donations to ‘engine’ of change",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3372027/how-operation-santa-claus-grew-christmas-donations-engine-change",
+        "summary": "Over nearly four decades, Operation Santa Claus (OSC) has grown from a quirky holiday fundraiser into an “engine” for community change in Hong Kong. For some beneficiaries, the journey was a full circle. Rachel Chow Chiu-yan learned about the fundraising drive in Young Post when she was a student, later pitched for funds on behalf of a group helping teenage girls and later joined the charity. “Ten to 20 years ago, Operation Santa Claus disbursed some funding to charities that saw it as seed...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T13:37:07+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "France on high alert as Paris march begins in uneasy calm",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3372031/france-high-alert-paris-march-begins-uneasy-calm",
+        "summary": "A sea of demonstrators packed the southern edge of Paris on Saturday as protests got under way in an uneasy festive mood, with early marches remaining peaceful even as heavily reinforced police braced for potential unrest across the country. Elsewhere in France, police began dispersing unauthorised gatherings in Lyon and Nice, firing tear gas in Lyon as demonstrators defied local protest bans. French authorities expect up to half a million people to hit the streets on Saturday across the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T13:17:24+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Chasing Gothic Lolita demand, Japanese businesses expand to Europe",
+        "url": "https://www.scmp.com/news/world/europe/article/3372030/chasing-gothic-lolita-demand-japanese-businesses-expand-europe",
+        "summary": "A Japanese fashion style inspired by historical European clothing is finding a growing following in Europe, where enthusiasts are embracing its elaborate designs and forming communities around their shared passion for lace, frills and intricate outfits. Gothic Lolita, often shortened to “Goth-Loli,” blends elements of European clothing styles with Japanese fashion sensibilities. Japanese brands are now looking to expand their presence in Europe, bringing the style back to the continent that...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T13:14:37+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Halloween comes early to Hong Kong as festivities draw crowds, lift bar business",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3372028/halloween-comes-early-hong-kong-festivities-draw-crowds-lift-bar-business",
+        "summary": "Halloween has arrived early in Hong Kong, with costumed revellers and families thronging the city’s streets a week early and some establishments seeing business increase by up to 20 per cent. The streets of Central were packed on Saturday as visitors and locals alike joined events held under the Tourism Board’s inaugural “Hong Kong Halloween Month”. The campaign, which started last Saturday, involves street celebrations in Central, including Lan Kwai Fong, Kai Tak, Mong Kok and Tsim Sha Tsui...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T12:47:39+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Ukraine’s Starlink woes should be a wake-up call for Taiwan, analysts say",
+        "url": "https://www.scmp.com/news/china/military/article/3372016/ukraines-starlink-woes-should-be-wake-call-taiwan-analysts-say",
+        "summary": "Taiwan should not rely on a single foreign satellite provider for critical wartime communications, analysts have warned, after sudden restrictions on the use of Elon Musk’s Starlink disrupted Ukrainian drone operations. The episode has renewed debate in Taiwan over the risks of entrusting essential communications to foreign commercial operators whose services could be restricted for political, military or business reasons. Analysts said this was particularly relevant as Taipei was trying to...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T12:00:14+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "North Korean leader Kim Jong-un pays unexpected visit to Chinese border city of Dandong",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-dandong",
+        "summary": "North Korean leader Kim Jong-un visited the Chinese border city of Dandong on Saturday, with both sides underlining their traditional friendship and calling to boost cooperation. The trip, Kim’s first visit to China in more than a year, comes ahead of next month’s Apec summit in the southern Chinese city of Shenzhen, where Donald Trump and other world leaders are expected to gather. He was welcomed and accompanied on his trip by Wang Huning, China’s fourth-ranked official, according to state...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T11:08:27+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Indonesia cuts gas to Singapore amid Borneo, Sumatra wildfire haze",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372025/indonesia-cuts-gas-singapore-amid-borneo-sumatra-wildfire-haze",
+        "summary": "Indonesia cut exports of natural gas to Singapore on Saturday to prioritise domestic demand, an official said, with the two countries at loggerheads over regional air pollution emanating from wildfires on the vast archipelago. The head of SKK Migas, a state agency supervising the oil and gas sector, said Indonesia would cut a total of 31 million standard cubic feet per day from its supply to Singapore. Fifteen million standard cubic feet per day was being cut from Natuna in Indonesia’s Riau...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T10:21:42+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Is Washington misreading Beijing? Decline in US visits to China sparks concern",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3371535/washington-misreading-beijing-decline-us-visits-china-sparks-concern",
+        "summary": "When Grant Newsham, a retired US Marine colonel and security analyst, sat down for an interview that aired last month, he called China’s economic rise illusory and said there were “600 million Chinese at least who live on US$5 a day or less”. His remarks quickly drew online criticism as well as accusations that he was using outdated figures from 2020 while ignoring differences in purchasing power. Some commenters argued that uneven development was common across countries. Others questioned how...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T10:03:53+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
         "title": "China study suggests animal sacrifice may have been part of ancient Sanxingdui rituals",
         "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372019/china-study-suggests-animal-sacrifice-may-have-been-part-ancient-sanxingdui-rituals",
         "summary": "Animal sacrifice has played a major role in human history, from mythological stories about Odysseus to modern rituals such as Nepal’s Gadhimai Festival. The tradition also dates back to ancient peoples we know little about. A research paper published in the Journal of Archaeological Science in late August suggests that the enigmatic Sanxingdui people likely practised animal sacrifice. To reach this conclusion, researchers identified what appeared to be a sacrificial pit based on the spatial...",
@@ -1224,7 +1368,7 @@
       {
         "title": "33 held in crackdown on credit card theft ring targeting Hongkongers in Shenzhen",
         "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372017/33-held-crackdown-credit-card-theft-ring-targeting-hongkongers-shenzhen",
-        "summary": "Hong Kong and mainland Chinese police have arrested 33 people in a joint operation to crack down on a suspected credit card theft syndicate targeting city residents who travel across the border for leisure, with losses exceeding HK$1.8 million (US$229,500). Superintendent Tsang Chun-kit of police’s crime Kowloon East Regional Headquarters said the syndicate had allegedly stolen Hongkongers’ credit cards in Shenzhen, and then immediately brought those cards back to the city to make purchases for...",
+        "summary": "Hong Kong and mainland Chinese police have arrested 33 people in a joint crackdown on a syndicate that allegedly stole credit cards from residents who had travelled north to Shenzhen, with losses exceeding HK$1.8 million (US$229,500). Superintendent Tsang Chun-kit of the Crime Kowloon East Regional Headquarters said on Saturday that “card carriers” then immediately crossed the border to buy mobile phones and resell them for cash, all before the victims could realise what had happened. “All the...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-24T09:00:43+00:00",
         "region": "east_asia",
@@ -1306,9 +1450,9 @@
         "stream": "higher"
       },
       {
-        "title": "Hong Kong must revive growth and drive reforms with government’s ‘visible hand’",
+        "title": "Hong Kong urged to revive growth, drive reforms with government’s ‘visible hand’",
         "url": "https://www.scmp.com/news/hong-kong/politics/article/3372011/hong-kong-must-revive-growth-and-drive-reforms-governments-visible-hand",
-        "summary": "Hong Kong authorities should act as a “visible hand” to break down barriers erected by vested interests and revive growth momentum through reform under its maiden five-year plan, a former Beijing official overseeing the city’s affairs has said. Deng Zhonghua, former deputy director of the State Council’s Hong Kong and Macau Affairs Office, also said on Saturday that Hong Kong had to empower emerging industries through deregulation and improve mechanisms for sharing the benefits of development in...",
+        "summary": "Hong Kong authorities should act as a “visible hand” to break down barriers erected by vested interests and revive growth momentum through reform under its maiden five-year plan, a former Beijing official overseeing the city’s affairs has said. Deng Zhonghua, former deputy director of the State Council’s Hong Kong and Macau Affairs Office, also said the city had to adopt a reform-oriented approach to empower emerging industries through deregulation. Hong Kong also needed to address “deep-rooted...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-24T07:04:50+00:00",
         "region": "east_asia",
@@ -1342,7 +1486,7 @@
         "stream": "higher"
       },
       {
-        "title": "How competition between Chinese and Indian firms could reshape Africa’s drug markets",
+        "title": "How competition between Chinese and Indian firms could reshape African drug markets",
         "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
         "summary": "China is challenging India’s long-held dominance of the African market for antimalarial drugs in 12 of the continent’s hardest-hit countries, according to a new study. Last year, Chinese exports of antimalarial drugs reached US$89.3 million, nearly matching India’s US$89.6 million, according to Indian market research company Sol Gravitas. The gap has closed significantly since 2021, when Indian exports stood at US$121 million compared with US$62.6 million for China. Separately, the study...",
         "source": "South China Morning Post — Education",
@@ -1642,42 +1786,6 @@
         "stream": "higher"
       },
       {
-        "title": "Melania Trump brokers ceasefire in Russian-occupied Ukraine city, White House says",
-        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371983/melania-trump-brokers-ceasefire-russian-occupied-ukraine-city-white-house-says",
-        "summary": "Ukraine’s top negotiator involved in a humanitarian mission led by US first lady Melania Trump has said that a local ceasefire with Russia will start on Tuesday – two days before the mission begins – and last several days. Ukrainian, Russian and US negotiators reached a deal on Friday to provide humanitarian aid in the Russian-occupied town of Oleshky, in the war-divided region of Kherson in southern Ukraine. Dmytro Lubinets, the Ukrainian ombudsman and his country’s chief negotiator in the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T16:26:41+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Rocket debris hitting US homeland is ‘embarrassing’ for China, says astronomer",
-        "url": "https://www.scmp.com/news/china/science/article/3371947/rocket-debris-hitting-us-homeland-embarrassing-china-says-astronomer",
-        "summary": "A scorched hunk of metal that turned up in a US farmer’s cornfield may have handed China an awkward moment and technically an “international incident”, according to a British astronomer who has tracked rocket launches for more than 30 years. The farmer found the bowl-shaped object, measuring about 3.35 metres (11 feet) across, while harvesting corn in west-central Minnesota on October 14. Online, some residents joked that aliens had landed, while Chinese internet users said it looked like a...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T15:00:07+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Meghan Markle ‘distressed’ as Philippines probes father over child sexual abuse images",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3371976/meghan-markle-distressed-philippines-probes-father-over-child-sexual-abuse-images",
-        "summary": "Authorities in the Philippines are investigating Thomas Markle, father of Meghan, the ⁠wife of Britain’s Prince ⁠Harry, the Philippine justice undersecretary said ⁠on Friday, after allegations he possessed child sexual abuse images. “Our Anti-Trafficking and Anti-OSAEC (online sexual abuse and exploitation of children) task force in Cebu is currently investigating the matter,” Nicholas Ty, Philippine justice undersecretary, said. Thomas Markle could not be immediately reached for comment but he...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T14:41:01+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
         "title": "Three signals shaping Australian international education ahead of AIEC 2026",
         "url": "https://thepienews.com/three-signals-shaping-australian-international-education-ahead-of-aiec-2026/",
         "summary": "From slowing student growth and tighter visa settings to the rise of transnational education, Australia's international education sector is entering a new phase. Ahead of AIEC 2026, The PIE looks at five shifts likely to shape conversations on the ground. The post Three signals shaping Australian international education ahead of AIEC 2026 appeared first on The PIE News .",
@@ -1690,120 +1798,12 @@
         "stream": "higher"
       },
       {
-        "title": "China warns against space arms race, urges equal rights for all in outer space",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3371975/china-warns-against-space-arms-race-urges-equal-rights-all-outer-space",
-        "summary": "China has unveiled a position paper on outer space governance, prioritising the prevention of space weaponisation while calling for a global framework to protect all nations’ legitimate rights beyond Earth. Addressing the inaugural Global Governance Forum near Beijing on Friday evening, Foreign Minister Wang Yi framed the document as one of eight key actions under Beijing’s Global Governance Initiative (GGI) – an overarching vision introduced by President Xi Jinping in September last year. “We...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T14:22:26+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "France deploys 70,000 police for new protests as Macron delays Africa trip",
-        "url": "https://www.scmp.com/news/world/europe/article/3371973/france-deploys-70000-police-new-protests-macron-delays-africa-trip",
-        "summary": "France will deploy some 70,000 police nationwide as it braces for new protests this weekend after some of the worst urban violence in years erupted on the sidelines of demonstrations a week ago, the government said on Friday. President Emmanuel Macron, who, according to aides, is postponing a visit later this month to Nigeria and Senegal amid the crisis, held a meeting of his defence council of top ministers and officials and was to meet security forces. He was also set to host for the first...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T14:01:39+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "France unrest sparks travel jitters for Southeast Asian tourists",
-        "url": "https://www.scmp.com/week-asia/economics/article/3371964/france-unrest-sparks-travel-jitters-southeast-asian-tourists",
-        "summary": "Fatimah Zainal had already paid for her flights and accommodation when videos of the unrest in France made her jittery about the Paris leg of her European holiday. “The videos definitely made me panic,” said Fatimah, who plans to visit the French capital solo from October 31 to November 3 after travelling through Belgium. The press officer for an international organisation said the Malaysian government’s travel advisory gave her second thoughts, and changing her flight would cost up to an...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T14:00:20+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "‘Opportunistic’: experts weigh Manila’s minilateral agenda ahead of Trump-Xi meeting",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3371952/opportunistic-experts-weigh-manilas-minilateral-agenda-ahead-trump-xi-meeting",
-        "summary": "The Philippines’ dual push for stronger “minilateral” defence links and a more robust Asean security role is dividing analysts, with one calling the move “opportunistic”. Some experts view Manila’s advocacy for the “Squad” alliance as a strategic opportunity to deepen core security partnerships while chairing the Association of Southeast Asian Nations. Others question how much actual weight is carried by this informal defence grouping – comprising the United States, the Philippines, Japan and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T14:00:14+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "URA tells owners to avoid hiring lift company at centre of fire safety probe",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3371969/ura-tells-owners-avoid-hiring-lift-company-centre-fire-safety-probe",
-        "summary": "Hong Kong’s Urban Renewal Authority has advised property owners under a subsidy scheme against hiring a contractor that failed to install fire safety components in lifts at hundreds of buildings, saying it had “lost confidence” in the company. The move came a day after the government suspended the performance rating for Taizoom Elevator, which was found to have failed to install required fire-resistant door frame components at 338 buildings as inspections of its work across the city are carried...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T13:40:46+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "What Indonesia’s warnings of energy cuts mean for Asean",
-        "url": "https://www.scmp.com/week-asia/economics/article/3371967/what-indonesias-warnings-energy-cuts-mean-asean",
-        "summary": "Indonesia’s warnings of curbing energy exports to countries it deems disrespectful amid regional tensions have put Singapore and other Southeast Asian buyers on notice, exposing the risks of relying on a neighbour increasingly protective of its resources. On Thursday, Coordinating Minister for Downstreaming and Energy Transition Bahlil Lahadalia said he would not hesitate to consider halting exports to countries that did not respect Indonesia. “Don’t come asking for help only when you’re in...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T13:22:20+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Hong Kong Legco to review tighter rules on access to land records amid concerns",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3371956/hong-kong-legco-review-tighter-rules-access-land-records-amid-concerns",
-        "summary": "Hong Kong’s legislature will set up a subcommittee to examine proposed restrictions on access to land records following widespread public concern. At a Legislative Council House Committee meeting on Friday, lawmakers endorsed establishing the subcommittee to study proposed requirements and procedures under the Land Titles Regulation. The move came after some legislators and the Hong Kong Journalists Association voiced objections on Wednesday after the government tabled eight pieces of subsidiary...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T13:05:36+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Europe considers new quotas and tariffs to stem Chinese imports",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3371962/france-certain-united-front-germany-pushed-china-hybrid-car-deal",
-        "summary": "The European Union may hit more Chinese industries with quotas or tariffs before further negotiations with Beijing, the bloc’s trade chief said on Friday, naming plastics as a sector in which investigations are advanced. Maros Sefcovic said that when the bloc needs to move quickly to protect its industries, it will consider safeguards, which allow emergency measures to curb surges in imports, instead of engaging in longer negotiations. “We clearly will have to put it in order, prioritise, and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T13:00:20+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
         "title": "From One Classroom to Another – Tackling Resource Shortages One Maths Box at a Time",
         "url": "https://www.ednews.africa/p/from-one-classroom-to-another-tackling",
         "summary": "Called From our classroom to theirs, the campaign invites pre-service teachers to donate resources they have created during their training so that other classrooms can benefit from them.",
         "source": "EdNews Africa",
         "published": "2026-10-23T12:39:22+00:00",
         "region": "east_africa",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "China, Europe should coordinate on carbon pricing, border tax: energy transition expert",
-        "url": "https://www.scmp.com/economy/china-economy/article/3371917/china-europe-should-coordinate-carbon-pricing-border-tax-energy-transition-expert",
-        "summary": "China and Europe should jointly introduce a system like the Carbon Border Adjustment Mechanism (CBAM), a levy on carbon-intensive imports designed to account for the carbon costs domestic producers face, which “applies against the rest of the world,” the co-chair of a global energy transition organisation says. “The biggest single thing which I would love China to do is to say, ‘We want to join with Europe in a climate club’,” said Adair Turner, co-chair of the Energy Transitions Commission,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T12:30:15+00:00",
-        "region": "east_asia",
         "streams": [
           "higher"
         ],
@@ -2160,6 +2160,18 @@
     ],
     "tvet": [
       {
+        "title": "EfVET 2026 Annual Conference “Global Citizenship Empowered by VET” concludes in Brussels",
+        "url": "https://efvet.org/efvet-2026-annual-conference-global-citizenship-empowered-by-vet-concludes-in-brussels/",
+        "summary": "[Brussels, Belgium – 23.10.2026] 600 participants, 35 countries, 70 learners including participants to the EfVET Youth Forum and volunteers from the GO! centre, 70 sessions, 9 study visits, 25 speakers – all together to co-create VET. The 2026 Annual EfVET Conference “Global Citizenship Empowered by VET” came to a close on 23 October at the […] The post EfVET 2026 Annual Conference “Global Citizenship Empowered by VET” concludes in Brussels appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-10-24T11:53:10+00:00",
+        "region": "europe",
+        "streams": [
+          "tvet"
+        ],
+        "stream": "tvet"
+      },
+      {
         "title": "Opinion: Career and Technical Ed Is Booming. Now Comes the Hard Part",
         "url": "https://www.the74million.org/article/career-and-technical-ed-is-booming-now-comes-the-hard-part/",
         "summary": "Career and technical education is one of the few bipartisan ideas in American K-12 schooling. Governors and legislators of both parties champion it. Parents, employers, and voters say they value it. Enrollment bears this out. The number of high school students taking CTE courses rose 10% between the 2022-23 and 2023-24 school years, from […]",
@@ -2322,18 +2334,6 @@
         "summary": "WordPress powers more than 40% of the web and is already part of digital learning in schools and colleges across Europe and beyond. We believe the open web starts in the classroom. That’s why we want to help educators and students learn with professional tools that reflect the skills used in the workplace. Through their […] The post WordPress.com Education: Employability and Digital Citizenship appeared first on EfVET .",
         "source": "EfVET — European Forum of VET",
         "published": "2026-09-30T07:52:10+00:00",
-        "region": "europe",
-        "streams": [
-          "tvet"
-        ],
-        "stream": "tvet"
-      },
-      {
-        "title": "The next step for European VET: turning AI competence into teacher practice",
-        "url": "https://efvet.org/the-next-step-for-european-vet-turning-ai-competence-into-teacher-practice/",
-        "summary": "Europe is not starting from zero. We already have strong foundations for digital competence, VET development and responsible technology. But as AI rapidly transforms both education and the workplace, a new challenge is becoming increasingly urgent: How do we turn these foundations into practical AI competence for VET teachers and trainers? Knowing how to use […] The post The next step for European VET: turning AI competence into teacher practice appeared first on EfVET .",
-        "source": "EfVET — European Forum of VET",
-        "published": "2026-09-29T08:02:30+00:00",
         "region": "europe",
         "streams": [
           "tvet"
@@ -2702,6 +2702,18 @@
       }
     ],
     "edtech": [
+      {
+        "title": "From Quiz Scores to Better Learning Decisions: A Practical Review Routine for Online Courses",
+        "url": "https://elearningindustry.com/from-quiz-scores-to-better-learning-decisions-a-practical-review-routine-for-online-courses",
+        "summary": "A question-level workflow for diagnosing errors, designing follow-up practice, and deciding what learners should do next. This post was first published on eLearning Industry .",
+        "source": "eLearning Industry",
+        "published": "2026-10-24T15:00:02+00:00",
+        "region": "global",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
       {
         "title": "Objective Of Learning: How To Write Clear Learning Objectives For Training",
         "url": "https://elearningindustry.com/learning-objectives-examples",
@@ -3474,18 +3486,6 @@
         "stream": "edtech"
       },
       {
-        "title": "AI literacy in student translation practices: evidence from ChatGPT use in Hong Kong",
-        "url": "https://www.nature.com/articles/s41599-026-09189-2",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-15T00:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
-      },
-      {
         "title": "Top 10 Secrets To Managing Client Expectations In eLearning Projects",
         "url": "https://elearningindustry.com/managing-client-expectations",
         "summary": "Learn how to manage client expectations in eLearning for clearer communication, stronger collaboration, and successful project outcomes. Explore tips here. This post was first published on eLearning Industry .",
@@ -3541,18 +3541,6 @@
         "source": "EdSurge",
         "published": "2026-10-14T00:00:00+00:00",
         "region": "north_america",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
-      },
-      {
-        "title": "IIM Online Courses For L&D Professionals: 7 Programs To Build Future-Ready Skills",
-        "url": "https://elearningindustry.com/iim-online-courses",
-        "summary": "Explore 7 IIM online courses for L&D professionals, including IIM Bangalore and IIM Ahmedabad programs in leadership, HR, AI, and digital transformation. This post was first published on eLearning Industry .",
-        "source": "eLearning Industry",
-        "published": "2026-10-13T19:00:39+00:00",
-        "region": "global",
         "streams": [
           "edtech"
         ],
@@ -3665,16 +3653,88 @@
           "edtech"
         ],
         "stream": "edtech"
+      },
+      {
+        "title": "E-Rate’s quiet impact on student success",
+        "url": "https://www.eschoolnews.com/it-leadership/2026/10/08/e-rates-quiet-impact-on-student-success/",
+        "summary": "When people think about technology in schools, they often think about devices in students' hands. What they don't always see is the infrastructure operating behind the scenes to make those tools available, or the funding that allows districts to build and maintain it.",
+        "source": "eSchool News",
+        "published": "2026-10-08T10:00:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
       }
     ],
     "policy": [
       {
-        "title": "Bolivian teachers strike over wages and education reform",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss",
-        "summary": "Bolivian teachers strike over wages and education reform",
+        "title": "Serbia elections test student movement demanding justice for 16 victims",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss",
+        "summary": "Serbia elections test student movement demanding justice for 16 victims",
         "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-24T08:56:54+00:00",
+        "published": "2026-10-24T12:18:06+00:00",
         "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "My mother donated her body to science. I really wasn’t prepared for what came next",
+        "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/24/body-donation-science",
+        "summary": "The process included a gala featuring medical students doing aerial yoga and singing Taylor Swift to donors’ families. In some way, it was absolutely perfect When my mother, Erin O’Connell, was diagnosed with a rare and aggressive cancer in late 2022, one of her first thoughts was: “What will I do if I can’t work?” At the time, she was 62 years old and working as a physical therapist in Portland, Oregon, where she had recently moved to live closer to me and my family. Reluctantly, she filed for short-term disability from her job and paused her training to become a volunteer search and rescue E",
+        "source": "The Guardian — Education",
+        "published": "2026-10-24T12:00:33+00:00",
+        "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "What’s at Stake in the Midterms",
+        "url": "https://www.nytimes.com/2026/10/24/opinion/midterms-trump-america.html",
+        "summary": "The fundamental issue is Trump’s shredding of the model that made America the world’s leading country.",
+        "source": "New York Times — Education",
+        "published": "2026-10-24T11:00:15+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "What Are the Best Ways to Fix Schools?",
+        "url": "https://www.nytimes.com/2026/10/24/opinion/fixing-schools.html",
+        "summary": "Readers analyze the 30 ideas presented in an Upshot article and offer some of their own.",
+        "source": "New York Times — Education",
+        "published": "2026-10-24T11:00:08+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "What’s next?",
+        "url": "https://www.thehindu.com/education/optimise-your-resume/article71603219.ece",
+        "summary": "Uncertain about your career options? Low on self-confidence? This column may help",
+        "source": "The Hindu — Education",
+        "published": "2026-10-24T10:12:55+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Why Management education needs Humanities and Social Sciences more than before",
+        "url": "https://www.thehindu.com/education/why-management-education-needs-humanities-and-social-sciences-more-than-before/article71603453.ece",
+        "summary": "As business schools confront societal challenges like human-AI interaction and widening inequality, exposure to HSS will be central to preparing effective managers",
+        "source": "The Hindu — Education",
+        "published": "2026-10-24T10:11:46+00:00",
+        "region": "south_asia",
         "streams": [
           "policy"
         ],
@@ -3687,6 +3747,18 @@
         "source": "BBC — Education",
         "published": "2026-10-24T05:45:25+00:00",
         "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Karnataka SIR: Teaching on the back burner",
+        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-sir-teaching-on-the-back-burner/article71606292.ece",
+        "summary": "Children in government and aided schools across Karnataka have not seen several of their teachers for months, for most of them have been assigned as Booth Level Officers for the Special Intensive Revision of electoral rolls. Students tell Rishita Khanna that what initially seemed like fun with many free hours, is now making them anxious...",
+        "source": "The Hindu — Education",
+        "published": "2026-10-24T02:24:10+00:00",
+        "region": "south_asia",
         "streams": [
           "policy"
         ],
@@ -3734,18 +3806,6 @@
         "summary": "The new president, Marvin Krislov, has led Pace University and Oberlin College. He replaces Leon Botstein, who retired and has faced scrutiny over ties to Jeffrey Epstein.",
         "source": "New York Times — Education",
         "published": "2026-10-23T17:10:58+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Is Everything Expensive?",
-        "url": "https://www.nytimes.com/2026/10/23/briefing/is-everything-expensive.html",
-        "summary": "We look at how much prices have risen.",
-        "source": "New York Times — Education",
-        "published": "2026-10-23T15:02:04+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -3806,18 +3866,6 @@
         "summary": "PhD enrollment in India rose from about 203,000 in 2019-20 to 344,000 in 2023-24, but the UGC awards the Junior Research Fellowship for only about 11,750 slots a year. Those left out live on far smaller stipends or none at all.",
         "source": "The Hindu — Education",
         "published": "2026-10-23T07:38:21+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Karnataka SIR: Teaching on the back burner",
-        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-sir-teaching-on-the-back-burner/article71606292.ece",
-        "summary": "Children in government and aided schools across Karnataka have not seen several of their teachers for months, for most of them have been assigned as Booth Level Officers for the Special Intensive Revision of electoral rolls. Students tell Rishita Khanna that what initially seemed like fun with many free hours, is now making them anxious...",
-        "source": "The Hindu — Education",
-        "published": "2026-10-23T07:36:44+00:00",
         "region": "south_asia",
         "streams": [
           "policy"
@@ -4221,18 +4269,6 @@
         "stream": "policy"
       },
       {
-        "title": "Youth services in parts of England in state of emergency, children’s commissioner says",
-        "url": "https://www.theguardian.com/society/2026/oct/19/children-services-state-of-emergency-hardest-places-england",
-        "summary": "Rachel de Souza names Middlesbrough and Hounslow among hardest places in which to grow up and says some children are being ‘radically failed’ Services for children in parts of England are in a “state of emergency”, according to a report that identifies what it claims to be the hardest places in the country for young people to grow up in. The children’s commissioner, Rachel de Souza, said in some local authorities individual service failures or systemic problems meant “no child could reasonably be expected to thrive and those that do thrive do so against the odds”. Continue reading...",
-        "source": "The Guardian — Education",
-        "published": "2026-10-19T12:11:45+00:00",
-        "region": "global",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
         "title": "What happened to Finnish education?",
         "url": "https://oecdedutoday.com/what-happened-to-finnish-education/",
         "summary": "By OECD Director for Education and Skills Andreas Schleicher For much of the first two decades of this century, if … More",
@@ -4591,48 +4627,72 @@
           "policy"
         ],
         "stream": "policy"
-      },
-      {
-        "title": "Education Ministry forms panel to investigate student’s death at IIIT Ranchi",
-        "url": "https://www.thehindu.com/news/national/jharkhand/three-member-panel-set-up-to-examine-death-of-student-at-iiit-ranchi-ministry-of-education/article71578780.ece",
-        "summary": "The Committee has been mandated to examine the circumstances surrounding the incident",
-        "source": "The Hindu — Education",
-        "published": "2026-10-17T17:51:17+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "MPSC paper leak: Bhimanwar on leave; Tukaram Mundhe to be secretary of committee for inquiry",
-        "url": "https://www.thehindu.com/news/national/maharashtra/tukaram-mundhe-appointed-secretary-of-panel-to-overhaul-mpsc-aspirants-end-agitation/article71573596.ece",
-        "summary": "Subsequently, Maharashtra Public Service Commission Chairman Vivek Bhimanwar announced that he had proceeded on leave till the inquiry was completed",
-        "source": "The Hindu — Education",
-        "published": "2026-10-17T15:00:54+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "The caste thread travels overseas",
-        "url": "https://www.thehindu.com/news/national/dalit-students-abroad-face-persistent-caste-discrimination/article71567399.ece",
-        "summary": "Dalit students studying abroad hope to escape oppressive caste hierarchies, only to find that the dominant-caste diaspora has exported its prejudice into classrooms and social settings across borders, reports Radheshyam Jadhav",
-        "source": "The Hindu — Education",
-        "published": "2026-10-17T14:00:14+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
       }
     ],
     "research": [
       {
+        "title": "The influence of transformational teacher leadership behaviours on student self-determination moderated by institutional support and classroom climate: a self-determination theory perspective",
+        "url": "https://www.nature.com/articles/s41599-026-09481-1",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-24T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Education-related polygenic scores show different associations with youth mental health in parent-offspring trios",
+        "url": "https://www.nature.com/articles/s41467-026-78790-5",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-24T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
         "title": "Assessing the impacts of scientific theatre on the audience",
         "url": "https://www.nature.com/articles/s44168-026-00441-8",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-24T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "An explainable machine learning and human-computer interaction analytical framework for predicting learning outcomes in public music education in minority regions",
+        "url": "https://www.nature.com/articles/s41598-026-76173-w",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-24T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Outcomes of a year 3 and year 4 STEM professional development program: teachers’ successes, challenges, and insights",
+        "url": "https://www.nature.com/articles/s41599-026-09480-2",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-24T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Haji Bushra of Gata and the making of Islamic education in nineteenth-century South Wollo, Ethiopia: institutional formation and community agency",
+        "url": "https://www.nature.com/articles/s41599-026-09405-z",
         "summary": "",
         "source": "Nature — Education",
         "published": "2026-10-24T00:00:00+00:00",
@@ -5388,54 +5448,6 @@
         "stream": "research"
       },
       {
-        "title": "Educating for a climate-changed future in India: diagnosing a mandate-without-mechanism condition",
-        "url": "https://www.nature.com/articles/s44168-026-00436-5",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-15T00:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Grade- and programme-related differences in career planning competence among undergraduates at a Chinese university",
-        "url": "https://www.nature.com/articles/s41598-026-73006-8",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-15T00:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Knowledge to action phenomenon beyond the healthcare discipline: a scoping review",
-        "url": "https://www.nature.com/articles/s41599-026-09102-x",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-15T00:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "The relationship between positive childhood experiences and flourishing via self-compassion and gratitude",
-        "url": "https://www.nature.com/articles/s41598-026-72780-9",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-15T00:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
         "title": "Technical solutions to political problems: Can development finally admit politics matters?",
         "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/10/14/technical-solutions-to-political-problems-can-development-finally-admit-politics-matters/",
         "summary": "Despite decades of investment and expanding technical knowledge, only 17% of SDG targets were on track in 2024. Progress on more than a third had stalled or reversed. Amid shrinking aid budgets and a strained multilateral system, Lennart Fleck argues that the development sector faces a critical test. Yet its response remains strikingly familiar: more … Continued The post Technical solutions to political problems: Can development finally admit politics matters? first appeared on LSE International Development .",
@@ -5578,101 +5590,16 @@
           "research"
         ],
         "stream": "research"
-      },
-      {
-        "title": "Connecting the dots to understand complex systems in education: A systematic review of psychological networks",
-        "url": "https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.70091?af=R",
-        "summary": "British Journal of Educational Technology, EarlyView.",
-        "source": "British Journal of Educational Technology (Wiley)",
-        "published": "2026-10-01T05:04:11+00:00",
-        "region": "global",
-        "streams": [
-          "research",
-          "edtech"
-        ],
-        "stream": "research"
       }
     ],
     "funding": [
       {
-        "title": "Global Changemakers Media Impact Academy 2026/2027",
-        "url": "https://opportunitydesk.org/2026/10/23/global-changemakers-media-impact-academy-2026-2027/",
-        "summary": "Deadline: Unspecified Applications for the Global Changemakers Media Impact Academy 2026/2027 are now open. The Media Impact Academy is a Nationwide initiative engaging 500 youth (ages 18–24) across the United States. Designed for young adults navigating early financial independence, this 90-day challenge equips you with practical financial skills, project management tools, and storytelling capabilities to [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-23T16:44:36+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "MATTER Groundwork Innovator Accelerator 2027",
-        "url": "https://opportunitydesk.org/2026/10/23/matter-groundwork-innovator-accelerator-2027/",
-        "summary": "Deadline: November 22, 2026 Applications are open for the MATTER Groundwork Innovator Accelerator 2027. Groundwork is MATTER’s newest offering — an 11-week accelerator program for digital health innovators at the earliest stages of developing their ideas and turning them into businesses. Designed to help entrepreneurs navigate the complexities of healthcare and lay the groundwork for [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-23T16:05:17+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "World Food Forum Youth Policy Board 2027-2028",
-        "url": "https://opportunitydesk.org/2026/10/23/world-food-forum-youth-policy-board-2027-2028/",
-        "summary": "Deadline: November 30, 2026 Applicationsn are open for the World Food Forum Youth Policy Board 2027-2028. The WFF Youth Policy Board (YPB) was launched in 2021 with the aim of providing a strategic youth-led vision to the policy-related activities carried out by the WFF Youth Initiative through the Youth Assembly. The YPB is an independent [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-23T15:52:53+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "PATH Global Health Strategy Internship 2026 (up to $1,000)",
-        "url": "https://opportunitydesk.org/2026/10/23/path-global-health-strategy-internship-2026/",
-        "summary": "Deadline: October 31, 2026 Applications are open for the PATH Global Health Strategy Internship 2026. Under the direction of the CEO & President, the Office of the President works to guide PATH’s strategic approach internally and at global and country levels. PATH has set out to expand the scope of their respectful partnerships with national [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-23T15:38:33+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "Columbia University Italian Academy Fellowship Program 2027-2028",
-        "url": "https://opportunitydesk.org/2026/10/23/columbia-university-italian-academy-fellowship-2027-2028/",
-        "summary": "Deadline: December 4, 2026 Applications are open for the Columbia University Italian Academy Fellowship Program 2027-2028. The multi-disciplinary Fellowship Program is the heart of the work of the Italian Academy. Fellowships are open to scholars who wish to devote a semester or a full academic year to genuinely innovative work in the humanities, sciences, or [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-23T14:55:57+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "Asia-Pacific Forum on Sustainable Development (APFSD) Youth Forum 2027",
-        "url": "https://opportunitydesk.org/2026/10/23/apfsd-youth-forum-2027/",
-        "summary": "Deadline: November 16, 2026 Applications are open for the Asia-Pacific Forum on Sustainable Development (APFSD) Youth Forum 2027. The Asia-Pacific Forum on Sustainable Development (APFSD) is an annual, inclusive, intergovernmental forum to support the follow-up and review of progress on the 2030 Agenda for Sustainable Development and the Sustainable Development Goals (SDGs) at the regional level. [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-23T14:36:42+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "Raisina Young Fellows Programme 2027 (Fully-funded)",
-        "url": "https://opportunitydesk.org/2026/10/23/raisina-young-fellows-programme-2027/",
-        "summary": "Deadline: November 2, 2026 Applications are open for the Raisina Young Fellows Programme 2027. The Raisina Young Fellows Programme convenes emerging leaders from around the world to discuss current political, economic, and social issues, with a particular focus on Asia. Fellows engage directly with senior political, business, and academic figures, gaining insights and building networks [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-23T07:54:48+00:00",
-        "region": "global",
+        "title": "Why the vacancies in senior faculty positions in Indian HEIs is a cause for concern",
+        "url": "https://www.thehindu.com/education/why-the-vacancies-in-senior-faculty-positions-in-indian-heis-is-a-cause-for-concern/article71600922.ece",
+        "summary": "A widening gap in senior faculty ranks threatens the mentoring, research abilities, and doctoral supervision that universities need to develop future scholars",
+        "source": "The Hindu — Education",
+        "published": "2026-10-24T10:11:00+00:00",
+        "region": "south_asia",
         "streams": [
           "funding"
         ],
@@ -5698,42 +5625,6 @@
         "source": "The 74 Million",
         "published": "2026-10-22T18:30:00+00:00",
         "region": "north_america",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "25 Hot Job Opportunities at Google and Apple Currently Open – October 22, 2026",
-        "url": "https://opportunitydesk.org/2026/10/22/25-hot-job-opportunities-at-google-and-apple/",
-        "summary": "1. Program Manager, Strategy and Operations, Google Arts and Culture (Goo gle)Google is recruiting for this Program Manager, Strategy and Operations, Google Arts and Culture position based in London, United Kingdom. Coordinate strategic planning, budgets, partnerships and operational performance for Google Arts & Culture, working with cultural institutions and cross-functional teams. This opportunity sits within [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-22T16:35:32+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "50 Scholarships, Grants, Fellowships and Other Opportunities Currently Open – October 22, 2026",
-        "url": "https://opportunitydesk.org/2026/10/22/50-scholarships-grants-fellowships-and-other-opportunities-currently-open-october-22-2026/",
-        "summary": "1. Maria Rosario Lazzati Niada Scholarship for Afghan Women 2027-2028 The Maria Rosario Lazzati Niada Scholarship supports Afghan women who already hold a university degree and want to pursue a two-year master’s programme at the Geneva Graduate Institute. The scholarship is designed to widen access to advanced study in international relations and development and create [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-22T16:01:34+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "What Is a Master’s by Research? Everything You Need to Know Before Applying",
-        "url": "https://opportunitydesk.org/2026/10/22/what-is-a-masters-by-research-everything-you-need-to-know-before-applying/",
-        "summary": "When most people think about studying for a master’s degree, they imagine attending lectures, completing assignments, taking examinations and writing a dissertation. But did you know that you can earn a master’s degree primarily through independent research? A Master’s by Research offers a different route to postgraduate education. Instead of spending most of your time in classrooms, [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-22T14:48:35+00:00",
-        "region": "global",
         "streams": [
           "funding"
         ],
@@ -5865,11 +5756,35 @@
   "regions": {
     "global": [
       {
-        "title": "Bolivian teachers strike over wages and education reform",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss",
-        "summary": "Bolivian teachers strike over wages and education reform",
+        "title": "From Quiz Scores to Better Learning Decisions: A Practical Review Routine for Online Courses",
+        "url": "https://elearningindustry.com/from-quiz-scores-to-better-learning-decisions-a-practical-review-routine-for-online-courses",
+        "summary": "A question-level workflow for diagnosing errors, designing follow-up practice, and deciding what learners should do next. This post was first published on eLearning Industry .",
+        "source": "eLearning Industry",
+        "published": "2026-10-24T15:00:02+00:00",
+        "stream": "edtech",
+        "streams": [
+          "edtech"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Serbia elections test student movement demanding justice for 16 victims",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss",
+        "summary": "Serbia elections test student movement demanding justice for 16 victims",
         "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-24T08:56:54+00:00",
+        "published": "2026-10-24T12:18:06+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "My mother donated her body to science. I really wasn’t prepared for what came next",
+        "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/24/body-donation-science",
+        "summary": "The process included a gala featuring medical students doing aerial yoga and singing Taylor Swift to donors’ families. In some way, it was absolutely perfect When my mother, Erin O’Connell, was diagnosed with a rare and aggressive cancer in late 2022, one of her first thoughts was: “What will I do if I can’t work?” At the time, she was 62 years old and working as a physical therapist in Portland, Oregon, where she had recently moved to live closer to me and my family. Reluctantly, she filed for short-term disability from her job and paused her training to become a volunteer search and rescue E",
+        "source": "The Guardian — Education",
+        "published": "2026-10-24T12:00:33+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -5891,6 +5806,66 @@
       {
         "title": "Assessing the impacts of scientific theatre on the audience",
         "url": "https://www.nature.com/articles/s44168-026-00441-8",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-24T00:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "The influence of transformational teacher leadership behaviours on student self-determination moderated by institutional support and classroom climate: a self-determination theory perspective",
+        "url": "https://www.nature.com/articles/s41599-026-09481-1",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-24T00:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Outcomes of a year 3 and year 4 STEM professional development program: teachers’ successes, challenges, and insights",
+        "url": "https://www.nature.com/articles/s41599-026-09480-2",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-24T00:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Haji Bushra of Gata and the making of Islamic education in nineteenth-century South Wollo, Ethiopia: institutional formation and community agency",
+        "url": "https://www.nature.com/articles/s41599-026-09405-z",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-24T00:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "An explainable machine learning and human-computer interaction analytical framework for predicting learning outcomes in public music education in minority regions",
+        "url": "https://www.nature.com/articles/s41598-026-76173-w",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-24T00:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Education-related polygenic scores show different associations with youth mental health in parent-offspring trios",
+        "url": "https://www.nature.com/articles/s41467-026-78790-5",
         "summary": "",
         "source": "Nature — Education",
         "published": "2026-10-24T00:00:00+00:00",
@@ -5937,54 +5912,6 @@
         "region": "global"
       },
       {
-        "title": "Global Changemakers Media Impact Academy 2026/2027",
-        "url": "https://opportunitydesk.org/2026/10/23/global-changemakers-media-impact-academy-2026-2027/",
-        "summary": "Deadline: Unspecified Applications for the Global Changemakers Media Impact Academy 2026/2027 are now open. The Media Impact Academy is a Nationwide initiative engaging 500 youth (ages 18–24) across the United States. Designed for young adults navigating early financial independence, this 90-day challenge equips you with practical financial skills, project management tools, and storytelling capabilities to [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-23T16:44:36+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "MATTER Groundwork Innovator Accelerator 2027",
-        "url": "https://opportunitydesk.org/2026/10/23/matter-groundwork-innovator-accelerator-2027/",
-        "summary": "Deadline: November 22, 2026 Applications are open for the MATTER Groundwork Innovator Accelerator 2027. Groundwork is MATTER’s newest offering — an 11-week accelerator program for digital health innovators at the earliest stages of developing their ideas and turning them into businesses. Designed to help entrepreneurs navigate the complexities of healthcare and lay the groundwork for [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-23T16:05:17+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "World Food Forum Youth Policy Board 2027-2028",
-        "url": "https://opportunitydesk.org/2026/10/23/world-food-forum-youth-policy-board-2027-2028/",
-        "summary": "Deadline: November 30, 2026 Applicationsn are open for the World Food Forum Youth Policy Board 2027-2028. The WFF Youth Policy Board (YPB) was launched in 2021 with the aim of providing a strategic youth-led vision to the policy-related activities carried out by the WFF Youth Initiative through the Youth Assembly. The YPB is an independent [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-23T15:52:53+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "PATH Global Health Strategy Internship 2026 (up to $1,000)",
-        "url": "https://opportunitydesk.org/2026/10/23/path-global-health-strategy-internship-2026/",
-        "summary": "Deadline: October 31, 2026 Applications are open for the PATH Global Health Strategy Internship 2026. Under the direction of the CEO & President, the Office of the President works to guide PATH’s strategic approach internally and at global and country levels. PATH has set out to expand the scope of their respectful partnerships with national [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-23T15:38:33+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
         "title": "LMS for Nonprofits: How to Scale Training with a Limited Budget",
         "url": "https://elearningindustry.com/lms-for-nonprofits-how-to-scale-training-with-a-limited-budget",
         "summary": "Nonprofits train staff, volunteers, and donors on a fraction of a corporate L&D budget. See what an LMS for nonprofits needs to scale training without adding admin work. This post was first published on eLearning Industry .",
@@ -5993,30 +5920,6 @@
         "stream": "edtech",
         "streams": [
           "edtech"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Columbia University Italian Academy Fellowship Program 2027-2028",
-        "url": "https://opportunitydesk.org/2026/10/23/columbia-university-italian-academy-fellowship-2027-2028/",
-        "summary": "Deadline: December 4, 2026 Applications are open for the Columbia University Italian Academy Fellowship Program 2027-2028. The multi-disciplinary Fellowship Program is the heart of the work of the Italian Academy. Fellowships are open to scholars who wish to devote a semester or a full academic year to genuinely innovative work in the humanities, sciences, or [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-23T14:55:57+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Asia-Pacific Forum on Sustainable Development (APFSD) Youth Forum 2027",
-        "url": "https://opportunitydesk.org/2026/10/23/apfsd-youth-forum-2027/",
-        "summary": "Deadline: November 16, 2026 Applications are open for the Asia-Pacific Forum on Sustainable Development (APFSD) Youth Forum 2027. The Asia-Pacific Forum on Sustainable Development (APFSD) is an annual, inclusive, intergovernmental forum to support the follow-up and review of progress on the 2030 Agenda for Sustainable Development and the Sustainable Development Goals (SDGs) at the regional level. [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-23T14:36:42+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
         ],
         "region": "global"
       },
@@ -6331,21 +6234,57 @@
           "research"
         ],
         "region": "global"
-      },
-      {
-        "title": "Shaping nursing identity: Empathy and personality in Chinese undergraduate education",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361110",
-        "summary": "by Jie Li, Qinghua Zhao, Zhongchen Luo, Fuying Li, Xia Li, Jiao Tang Background Professional identity is fundamental to nursing education and influences students’ academic development, clinical practice, and career commitment. This study examined the associations of empathy and Big Five personality traits with professional identity among Chinese undergraduate nursing students. Methods A cross-sectional observational study was conducted among undergraduate nursing students in Chongqing, China. Participants completed the Interpersonal Reactivity Index–Chinese version (IRI-C), Ten-Item Personalit",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-23T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
       }
     ],
     "south_asia": [
+      {
+        "title": "What’s next?",
+        "url": "https://www.thehindu.com/education/optimise-your-resume/article71603219.ece",
+        "summary": "Uncertain about your career options? Low on self-confidence? This column may help",
+        "source": "The Hindu — Education",
+        "published": "2026-10-24T10:12:55+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "Why Management education needs Humanities and Social Sciences more than before",
+        "url": "https://www.thehindu.com/education/why-management-education-needs-humanities-and-social-sciences-more-than-before/article71603453.ece",
+        "summary": "As business schools confront societal challenges like human-AI interaction and widening inequality, exposure to HSS will be central to preparing effective managers",
+        "source": "The Hindu — Education",
+        "published": "2026-10-24T10:11:46+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "Why the vacancies in senior faculty positions in Indian HEIs is a cause for concern",
+        "url": "https://www.thehindu.com/education/why-the-vacancies-in-senior-faculty-positions-in-indian-heis-is-a-cause-for-concern/article71600922.ece",
+        "summary": "A widening gap in senior faculty ranks threatens the mentoring, research abilities, and doctoral supervision that universities need to develop future scholars",
+        "source": "The Hindu — Education",
+        "published": "2026-10-24T10:11:00+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "Karnataka SIR: Teaching on the back burner",
+        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-sir-teaching-on-the-back-burner/article71606292.ece",
+        "summary": "Children in government and aided schools across Karnataka have not seen several of their teachers for months, for most of them have been assigned as Booth Level Officers for the Special Intensive Revision of electoral rolls. Students tell Rishita Khanna that what initially seemed like fun with many free hours, is now making them anxious...",
+        "source": "The Hindu — Education",
+        "published": "2026-10-24T02:24:10+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
       {
         "title": "AI-led universities must rethink teaching, assessment and faculty roles without losing human touch: Education leaders",
         "url": "https://education.economictimes.indiatimes.com/news/higher-education/ai-led-universities-must-rethink-teaching-assessment-and-faculty-roles-without-losing-human-touch-education-leaders/135143708",
@@ -6377,18 +6316,6 @@
         "summary": "PhD enrollment in India rose from about 203,000 in 2019-20 to 344,000 in 2023-24, but the UGC awards the Junior Research Fellowship for only about 11,750 slots a year. Those left out live on far smaller stipends or none at all.",
         "source": "The Hindu — Education",
         "published": "2026-10-23T07:38:21+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "Karnataka SIR: Teaching on the back burner",
-        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-sir-teaching-on-the-back-burner/article71606292.ece",
-        "summary": "Children in government and aided schools across Karnataka have not seen several of their teachers for months, for most of them have been assigned as Booth Level Officers for the Special Intensive Revision of electoral rolls. Students tell Rishita Khanna that what initially seemed like fun with many free hours, is now making them anxious...",
-        "source": "The Hindu — Education",
-        "published": "2026-10-23T07:36:44+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6785,42 +6712,6 @@
         "summary": "Before closing low-enrolment government schools, the administration must ask whether children are disappearing or merely choosing alternative institutions",
         "source": "The Hindu — Education",
         "published": "2026-10-18T02:10:36+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "The art of being kind.",
-        "url": "https://www.thehindu.com/children/the-art-of-being-kind/article71559139.ece",
-        "summary": "An ode to the thirteen-year-old version of me and many more out there who might be struggling and going to sleep crying everyday due to bullying",
-        "source": "The Hindu — Education",
-        "published": "2026-10-18T01:50:06+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "Student life of a homeschooled child",
-        "url": "https://www.thehindu.com/children/student-life-of-a-homeschooled-child/article71567647.ece",
-        "summary": "A path of education where learning is made flexible, and subjects come from choice. G.Nayanakshatra shares her story as a student at NIOS and the lessons she learnt along the way.",
-        "source": "The Hindu — Education",
-        "published": "2026-10-17T19:42:13+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "Beyond ‘Harvard Envy’: why Indian B-Schools must stop imitating the West",
-        "url": "https://www.thehindu.com/education/beyond-harvard-envy-why-indian-b-schools-must-stop-imitating-the-west/article71573988.ece",
-        "summary": "A large part of Indian management education still operates under the belief that global legitimacy flows mainly from replicating Western institutional models, pedagogies, ranking and accreditation logic and intellectual frameworks.",
-        "source": "The Hindu — Education",
-        "published": "2026-10-17T19:42:01+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -7524,6 +7415,150 @@
     ],
     "east_asia": [
       {
+        "title": "Saudi strikes kill 11 in Yemen as Houthi missiles target Saudi cities",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3372035/saudi-strikes-kill-11-yemen-houthi-missiles-target-saudi-cities",
+        "summary": "Houthi media reported that Saudi strikes killed 11 people in Yemeni capital Sanaa on Saturday, shortly after the Saudi-led coalition fighting them said it had intercepted two missiles targeting Saudi cities. The Houthis’ Al-Masirah outlet reported a series of “Saudi enemy air strikes” targeting Sanaa, including one on a house that killed at least four people and wounded several others. A separate strike at a residence building for cement factory workers in the Sanaa governorate killed six women...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T14:33:12+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "2 projector stands removed from controversial Peak lighting project after outcry",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3372034/2-projector-stands-removed-controversial-peak-lighting-project-after-outcry",
+        "summary": "Parts of two installations in a controversial lighting project along a walking trail on The Peak have been removed, days after Hong Kong’s tourism authorities pledged to balance the community’s needs and said the scheme was not “set in stone”. The removals came hours after Commissioner for Tourism Ann Chan Wai-yan inspected the site on Saturday morning with a lawmaker and a district councillor, following an outcry from residents who accused the Hong Kong Tourism Board of removing trees and...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T14:27:49+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "China’s J-20 stealth jet designers plan to put powerful radar into aircraft wing",
+        "url": "https://www.scmp.com/news/china/science/article/3371706/chinas-j-20-stealth-jet-designers-plan-put-powerful-radar-aircraft-wing",
+        "summary": "Fighter jets typically house their main radars behind a radome in the nose, while conventional airborne early-warning aircraft often carry large radar arrays in prominent structures above the fuselage. Although aircraft wings offer a large surface area, their relatively thin cross-sections leave limited internal space for radar equipment. Top Chinese military aircraft designers have now proposed a revolutionary method to integrate large antenna arrays into aircraft wings, using flight manoeuvres...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T14:00:10+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Leading Chinese economic commentator Ren Zeping’s social media account restricted",
+        "url": "https://www.scmp.com/news/china/money-wealth/article/3372032/leading-chinese-economic-commentator-ren-zepings-social-media-account-restricted",
+        "summary": "A prominent Chinese economist’s social media channel has been restricted as Beijing steps up regulatory scrutiny of financial market influencers. Chinese internet users on Saturday noticed that the WeChat account of Ren Zeping, known for his outspoken comments on investments and policies, had been stopped from gaining new followers and a member of his team said posting had been suspended. Clicking the follow button generated a message saying “this account cannot be followed due to its violation...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T13:50:26+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "How Operation Santa Claus grew from Christmas donations to ‘engine’ of change",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3372027/how-operation-santa-claus-grew-christmas-donations-engine-change",
+        "summary": "Over nearly four decades, Operation Santa Claus (OSC) has grown from a quirky holiday fundraiser into an “engine” for community change in Hong Kong. For some beneficiaries, the journey was a full circle. Rachel Chow Chiu-yan learned about the fundraising drive in Young Post when she was a student, later pitched for funds on behalf of a group helping teenage girls and later joined the charity. “Ten to 20 years ago, Operation Santa Claus disbursed some funding to charities that saw it as seed...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T13:37:07+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "France on high alert as Paris march begins in uneasy calm",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3372031/france-high-alert-paris-march-begins-uneasy-calm",
+        "summary": "A sea of demonstrators packed the southern edge of Paris on Saturday as protests got under way in an uneasy festive mood, with early marches remaining peaceful even as heavily reinforced police braced for potential unrest across the country. Elsewhere in France, police began dispersing unauthorised gatherings in Lyon and Nice, firing tear gas in Lyon as demonstrators defied local protest bans. French authorities expect up to half a million people to hit the streets on Saturday across the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T13:17:24+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Chasing Gothic Lolita demand, Japanese businesses expand to Europe",
+        "url": "https://www.scmp.com/news/world/europe/article/3372030/chasing-gothic-lolita-demand-japanese-businesses-expand-europe",
+        "summary": "A Japanese fashion style inspired by historical European clothing is finding a growing following in Europe, where enthusiasts are embracing its elaborate designs and forming communities around their shared passion for lace, frills and intricate outfits. Gothic Lolita, often shortened to “Goth-Loli,” blends elements of European clothing styles with Japanese fashion sensibilities. Japanese brands are now looking to expand their presence in Europe, bringing the style back to the continent that...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T13:14:37+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Halloween comes early to Hong Kong as festivities draw crowds, lift bar business",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3372028/halloween-comes-early-hong-kong-festivities-draw-crowds-lift-bar-business",
+        "summary": "Halloween has arrived early in Hong Kong, with costumed revellers and families thronging the city’s streets a week early and some establishments seeing business increase by up to 20 per cent. The streets of Central were packed on Saturday as visitors and locals alike joined events held under the Tourism Board’s inaugural “Hong Kong Halloween Month”. The campaign, which started last Saturday, involves street celebrations in Central, including Lan Kwai Fong, Kai Tak, Mong Kok and Tsim Sha Tsui...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T12:47:39+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Ukraine’s Starlink woes should be a wake-up call for Taiwan, analysts say",
+        "url": "https://www.scmp.com/news/china/military/article/3372016/ukraines-starlink-woes-should-be-wake-call-taiwan-analysts-say",
+        "summary": "Taiwan should not rely on a single foreign satellite provider for critical wartime communications, analysts have warned, after sudden restrictions on the use of Elon Musk’s Starlink disrupted Ukrainian drone operations. The episode has renewed debate in Taiwan over the risks of entrusting essential communications to foreign commercial operators whose services could be restricted for political, military or business reasons. Analysts said this was particularly relevant as Taipei was trying to...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T12:00:14+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "North Korean leader Kim Jong-un pays unexpected visit to Chinese border city of Dandong",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-dandong",
+        "summary": "North Korean leader Kim Jong-un visited the Chinese border city of Dandong on Saturday, with both sides underlining their traditional friendship and calling to boost cooperation. The trip, Kim’s first visit to China in more than a year, comes ahead of next month’s Apec summit in the southern Chinese city of Shenzhen, where Donald Trump and other world leaders are expected to gather. He was welcomed and accompanied on his trip by Wang Huning, China’s fourth-ranked official, according to state...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T11:08:27+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Indonesia cuts gas to Singapore amid Borneo, Sumatra wildfire haze",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372025/indonesia-cuts-gas-singapore-amid-borneo-sumatra-wildfire-haze",
+        "summary": "Indonesia cut exports of natural gas to Singapore on Saturday to prioritise domestic demand, an official said, with the two countries at loggerheads over regional air pollution emanating from wildfires on the vast archipelago. The head of SKK Migas, a state agency supervising the oil and gas sector, said Indonesia would cut a total of 31 million standard cubic feet per day from its supply to Singapore. Fifteen million standard cubic feet per day was being cut from Natuna in Indonesia’s Riau...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T10:21:42+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Is Washington misreading Beijing? Decline in US visits to China sparks concern",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3371535/washington-misreading-beijing-decline-us-visits-china-sparks-concern",
+        "summary": "When Grant Newsham, a retired US Marine colonel and security analyst, sat down for an interview that aired last month, he called China’s economic rise illusory and said there were “600 million Chinese at least who live on US$5 a day or less”. His remarks quickly drew online criticism as well as accusations that he was using outdated figures from 2020 while ignoring differences in purchasing power. Some commenters argued that uneven development was common across countries. Others questioned how...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T10:03:53+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
         "title": "China study suggests animal sacrifice may have been part of ancient Sanxingdui rituals",
         "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372019/china-study-suggests-animal-sacrifice-may-have-been-part-ancient-sanxingdui-rituals",
         "summary": "Animal sacrifice has played a major role in human history, from mythological stories about Odysseus to modern rituals such as Nepal’s Gadhimai Festival. The tradition also dates back to ancient peoples we know little about. A research paper published in the Journal of Archaeological Science in late August suggests that the enigmatic Sanxingdui people likely practised animal sacrifice. To reach this conclusion, researchers identified what appeared to be a sacrificial pit based on the spatial...",
@@ -7550,7 +7585,7 @@
       {
         "title": "33 held in crackdown on credit card theft ring targeting Hongkongers in Shenzhen",
         "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372017/33-held-crackdown-credit-card-theft-ring-targeting-hongkongers-shenzhen",
-        "summary": "Hong Kong and mainland Chinese police have arrested 33 people in a joint operation to crack down on a suspected credit card theft syndicate targeting city residents who travel across the border for leisure, with losses exceeding HK$1.8 million (US$229,500). Superintendent Tsang Chun-kit of police’s crime Kowloon East Regional Headquarters said the syndicate had allegedly stolen Hongkongers’ credit cards in Shenzhen, and then immediately brought those cards back to the city to make purchases for...",
+        "summary": "Hong Kong and mainland Chinese police have arrested 33 people in a joint crackdown on a syndicate that allegedly stole credit cards from residents who had travelled north to Shenzhen, with losses exceeding HK$1.8 million (US$229,500). Superintendent Tsang Chun-kit of the Crime Kowloon East Regional Headquarters said on Saturday that “card carriers” then immediately crossed the border to buy mobile phones and resell them for cash, all before the victims could realise what had happened. “All the...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-24T09:00:43+00:00",
         "stream": "higher",
@@ -7620,9 +7655,9 @@
         "region": "east_asia"
       },
       {
-        "title": "Hong Kong must revive growth and drive reforms with government’s ‘visible hand’",
+        "title": "Hong Kong urged to revive growth, drive reforms with government’s ‘visible hand’",
         "url": "https://www.scmp.com/news/hong-kong/politics/article/3372011/hong-kong-must-revive-growth-and-drive-reforms-governments-visible-hand",
-        "summary": "Hong Kong authorities should act as a “visible hand” to break down barriers erected by vested interests and revive growth momentum through reform under its maiden five-year plan, a former Beijing official overseeing the city’s affairs has said. Deng Zhonghua, former deputy director of the State Council’s Hong Kong and Macau Affairs Office, also said on Saturday that Hong Kong had to empower emerging industries through deregulation and improve mechanisms for sharing the benefits of development in...",
+        "summary": "Hong Kong authorities should act as a “visible hand” to break down barriers erected by vested interests and revive growth momentum through reform under its maiden five-year plan, a former Beijing official overseeing the city’s affairs has said. Deng Zhonghua, former deputy director of the State Council’s Hong Kong and Macau Affairs Office, also said the city had to adopt a reform-oriented approach to empower emerging industries through deregulation. Hong Kong also needed to address “deep-rooted...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-24T07:04:50+00:00",
         "stream": "higher",
@@ -7656,7 +7691,7 @@
         "region": "east_asia"
       },
       {
-        "title": "How competition between Chinese and Indian firms could reshape Africa’s drug markets",
+        "title": "How competition between Chinese and Indian firms could reshape African drug markets",
         "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
         "summary": "China is challenging India’s long-held dominance of the African market for antimalarial drugs in 12 of the continent’s hardest-hit countries, according to a new study. Last year, Chinese exports of antimalarial drugs reached US$89.3 million, nearly matching India’s US$89.6 million, according to Indian market research company Sol Gravitas. The gap has closed significantly since 2021, when Indian exports stood at US$121 million compared with US$62.6 million for China. Separately, the study...",
         "source": "South China Morning Post — Education",
@@ -7858,153 +7893,21 @@
           "higher"
         ],
         "region": "east_asia"
-      },
-      {
-        "title": "US-China strategic competition to keep escalating as world watches on, Rudd says",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3371990/us-china-strategic-competition-keep-escalating-world-watches-rudd-says",
-        "summary": "Kevin Rudd, president of the Asia Society and a former Australian prime minister, described US-China strategic competition as full-on and multidimensional at a Harvard Kennedy School Institute of Politics event on Friday. “There is a full-blown strategic competition under way in every dimension of national political power and influence, militarily, economically, trade and investment and technology, in foreign policy, in ideology,” said Rudd, a noted China scholar. “It’s across the world,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T22:29:03+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "US, allies and China vie for influence through Pacific security deals",
-        "url": "https://www.scmp.com/news/us/article/3371989/us-allies-and-china-vie-influence-through-pacific-security-deals",
-        "summary": "Strategic competition between China and the US and its allies is intensifying across the Pacific islands, with both sides pursuing a growing range of security agreements to expand their influence, according to an interactive mapping tool released this week by the Centre for Strategic and International Studies (CSIS), a Washington think tank. The tool details 56 security arrangements among 14 Pacific island countries and the US, Australia, New Zealand, mainland China and Taiwan in a bid to map...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T22:27:23+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "What will China’s fifth plenum mean for the root-and-branch corruption drive?",
-        "url": "https://www.scmp.com/news/china/politics/article/3371932/what-will-chinas-fifth-plenum-mean-root-and-branch-corruption-drive",
-        "summary": "Plenary sessions of the Central Committee, the upper echelon of China’s ruling Communist Party, are major events on the country’s political calendar. In the third part of this series, William Zheng and Alcott Wei examine how the fight against corruption is shaping the party’s future. When China’s political elites gather for a key conclave in Beijing later this month, the increasingly empty auditorium will speak loudly to the event’s theme – the ruling Communist Party’s strict self-discipline and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T22:00:09+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Why raising Asia’s fertility rate starts with giving people time to date",
-        "url": "https://www.scmp.com/opinion/asia-opinion/article/3371633/asias-baby-starved-governments-want-people-date-who-has-time",
-        "summary": "In late September, Singapore’s Reddit community erupted over the government’s new dating platform, FirstDate. Curious to get an insider’s perspective, I visited the site, connected to my Singpass account and watched as my name, age and marital status auto-populated the fields on the page. I entered my Gmail address and hit submit. The email field turned red: “Please sign up with your official work email. Personal email addresses will not be accepted.” I resubmitted the form with my work email,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T21:30:07+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Kenya reports second Ebola death, a close relative of first patient",
-        "url": "https://www.scmp.com/news/world/africa/article/3371988/kenya-reports-second-ebola-death-close-relative-first-patient",
-        "summary": "Kenya’s health ministry announced the country’s second Ebola death on Friday, saying a 65-year-old woman who was a close relative of the first patient died after developing symptoms while in quarantine. The woman began showing symptoms 10 days ago and began receiving supportive care at an infectious disease unit in the capital, Nairobi. The ministry said medical personnel “did everything possible to save her life”, but she died Friday evening. Her family was notified, and the ministry said it...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T21:19:15+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Zelensky hopes Beijing can use ‘influence’ over Moscow to help stop Ukraine war",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3371987/zelensky-hopes-beijing-can-use-influence-over-moscow-help-stop-ukraine-war",
-        "summary": "Ukrainian President Volodymyr Zelensky said on Friday that Beijing has “influence” over Moscow it should use to stop the war in Ukraine, and that a proposed summit meeting of the US, Chinese and Russian leaders must not lead to the division of his war-torn country. Speaking virtually at an event hosted by Washington-based Hudson Institute think tank, Zelensky said he did not know what would be discussed at the potential meeting between US President Donald Trump, Chinese President Xi Jinping and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T20:51:17+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Trump to cut some Canada tariffs to help Maine lawmaker’s re-election bid",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3371986/trump-lowers-some-canada-tariffs-help-maine-lawmakers-re-election-bid",
-        "summary": "The Trump administration is expanding tariff exemptions to more Canadian products, a move that may help boost Republican US Senator Susan Collins’ re-election campaign in Maine. Collins announced in a statement on Friday that the exemptions would apply to certain paper, plastic, machinery and seaweed products, saying they would help the state’s rural and coastal economy, including the blueberry, potato, apple and seaweed industries. “Many of our farmers and growers rely on specialised equipment,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T20:04:15+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Macron condemns ‘racist terrorist attack’ after deadly shooting near Paris",
-        "url": "https://www.scmp.com/news/world/europe/article/3371985/macron-condemns-racist-terrorist-attack-after-deadly-shooting-near-paris",
-        "summary": "A gunman firing from a car killed one person and wounded five – including a 12-year-old girl shot eight times – in the Paris suburbs on Friday, in what the French president called a “racist terrorist attack”. The man was “firing at random, wanting to cause a bloodbath” as he drove through the working-class town of Trappes southwest of Paris and neighbouring La Verriere, Trappes mayor Ali Rabeh said. Most of the victims were from foreign backgrounds and prosecutors are investigating whether the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T18:13:09+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Gunmen kill 7 at Jordan church, king vows retaliation",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3371984/gunmen-kill-7-jordan-church-king-vows-retaliation",
-        "summary": "Gunmen killed at least seven people and wounded dozens at a church in southern Jordan on Friday, with the king vowing retaliation for the rare attack on Christians in the majority Sunni Muslim kingdom. Assailants stormed the compound of a Greek Orthodox church in the village of Hammoud in Karak governorate and opened fire, authorities said. The gunmen got out of a vehicle and started shooting during a funeral procession, the public security directorate said in a statement, adding that a hunt was...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T17:17:41+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Melania Trump brokers ceasefire in Russian-occupied Ukraine city, White House says",
-        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371983/melania-trump-brokers-ceasefire-russian-occupied-ukraine-city-white-house-says",
-        "summary": "Ukraine’s top negotiator involved in a humanitarian mission led by US first lady Melania Trump has said that a local ceasefire with Russia will start on Tuesday – two days before the mission begins – and last several days. Ukrainian, Russian and US negotiators reached a deal on Friday to provide humanitarian aid in the Russian-occupied town of Oleshky, in the war-divided region of Kherson in southern Ukraine. Dmytro Lubinets, the Ukrainian ombudsman and his country’s chief negotiator in the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T16:26:41+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Rocket debris hitting US homeland is ‘embarrassing’ for China, says astronomer",
-        "url": "https://www.scmp.com/news/china/science/article/3371947/rocket-debris-hitting-us-homeland-embarrassing-china-says-astronomer",
-        "summary": "A scorched hunk of metal that turned up in a US farmer’s cornfield may have handed China an awkward moment and technically an “international incident”, according to a British astronomer who has tracked rocket launches for more than 30 years. The farmer found the bowl-shaped object, measuring about 3.35 metres (11 feet) across, while harvesting corn in west-central Minnesota on October 14. Online, some residents joked that aliens had landed, while Chinese internet users said it looked like a...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T15:00:07+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Meghan Markle ‘distressed’ as Philippines probes father over child sexual abuse images",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3371976/meghan-markle-distressed-philippines-probes-father-over-child-sexual-abuse-images",
-        "summary": "Authorities in the Philippines are investigating Thomas Markle, father of Meghan, the ⁠wife of Britain’s Prince ⁠Harry, the Philippine justice undersecretary said ⁠on Friday, after allegations he possessed child sexual abuse images. “Our Anti-Trafficking and Anti-OSAEC (online sexual abuse and exploitation of children) task force in Cebu is currently investigating the matter,” Nicholas Ty, Philippine justice undersecretary, said. Thomas Markle could not be immediately reached for comment but he...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T14:41:01+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
       }
     ],
     "europe": [
+      {
+        "title": "EfVET 2026 Annual Conference “Global Citizenship Empowered by VET” concludes in Brussels",
+        "url": "https://efvet.org/efvet-2026-annual-conference-global-citizenship-empowered-by-vet-concludes-in-brussels/",
+        "summary": "[Brussels, Belgium – 23.10.2026] 600 participants, 35 countries, 70 learners including participants to the EfVET Youth Forum and volunteers from the GO! centre, 70 sessions, 9 study visits, 25 speakers – all together to co-create VET. The 2026 Annual EfVET Conference “Global Citizenship Empowered by VET” came to a close on 23 October at the […] The post EfVET 2026 Annual Conference “Global Citizenship Empowered by VET” concludes in Brussels appeared first on EfVET .",
+        "source": "EfVET — European Forum of VET",
+        "published": "2026-10-24T11:53:10+00:00",
+        "stream": "tvet",
+        "streams": [
+          "tvet"
+        ],
+        "region": "europe"
+      },
       {
         "title": "Key Insights on Education for Planetary Futures",
         "url": "https://www.norrageducation.org/key-insights-on-education-for-planetary-futures-2/",
@@ -8366,18 +8269,6 @@
         "region": "europe"
       },
       {
-        "title": "The next step for European VET: turning AI competence into teacher practice",
-        "url": "https://efvet.org/the-next-step-for-european-vet-turning-ai-competence-into-teacher-practice/",
-        "summary": "Europe is not starting from zero. We already have strong foundations for digital competence, VET development and responsible technology. But as AI rapidly transforms both education and the workplace, a new challenge is becoming increasingly urgent: How do we turn these foundations into practical AI competence for VET teachers and trainers? Knowing how to use […] The post The next step for European VET: turning AI competence into teacher practice appeared first on EfVET .",
-        "source": "EfVET — European Forum of VET",
-        "published": "2026-09-29T08:02:30+00:00",
-        "stream": "tvet",
-        "streams": [
-          "tvet"
-        ],
-        "region": "europe"
-      },
-      {
         "title": "Book review: Emancipation and vocational education: Skills, Bildung and the subject",
         "url": "https://njvet.ep.liu.se/article/view/6719",
         "summary": "Book review Emancipation and vocational education: Skills, Bildung and the subject Bill Esmond, Johannes K. Schmees & Volker Wedekind Routledge, 2026 (https://doi.org/10.4324/9781003608141) Review by Eli Smeplass",
@@ -8439,6 +8330,42 @@
       }
     ],
     "north_america": [
+      {
+        "title": "What’s at Stake in the Midterms",
+        "url": "https://www.nytimes.com/2026/10/24/opinion/midterms-trump-america.html",
+        "summary": "The fundamental issue is Trump’s shredding of the model that made America the world’s leading country.",
+        "source": "New York Times — Education",
+        "published": "2026-10-24T11:00:15+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "What Are the Best Ways to Fix Schools?",
+        "url": "https://www.nytimes.com/2026/10/24/opinion/fixing-schools.html",
+        "summary": "Readers analyze the 30 ideas presented in an Upshot article and offer some of their own.",
+        "source": "New York Times — Education",
+        "published": "2026-10-24T11:00:08+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Ohio Spent More Than a Billion Dollars on Private School Vouchers This Year",
+        "url": "https://www.the74million.org/article/ohio-spent-more-than-a-billion-dollars-on-private-school-vouchers-this-year/",
+        "summary": "For the second year in a row, Ohio spent more than a billion dollars on private school vouchers, this time for the 2026 fiscal year. The total amount for Ohio’s five private school voucher programs was $1.173 billion, according to data from the Ohio Department of Education and Workforce. Nearly half of the money ($532.8 […]",
+        "source": "The 74 Million",
+        "published": "2026-10-24T10:30:00+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "north_america"
+      },
       {
         "title": "How a Small Student Protest Spread Across France",
         "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
@@ -8520,18 +8447,6 @@
         "stream": "school",
         "streams": [
           "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Is Everything Expensive?",
-        "url": "https://www.nytimes.com/2026/10/23/briefing/is-everything-expensive.html",
-        "summary": "We look at how much prices have risen.",
-        "source": "New York Times — Education",
-        "published": "2026-10-23T15:02:04+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "north_america"
       },
@@ -8894,30 +8809,6 @@
         "stream": "school",
         "streams": [
           "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Colorado Voters to Decide on Transgender Sports, Surgery Issues",
-        "url": "https://www.the74million.org/article/colorado-voters-to-decide-on-transgender-sports-surgery-issues/",
-        "summary": "Following six years of failed efforts to convince the Colorado General Assembly to eliminate protections for transgender children, a coalition of religious and ultra-conservative activists are taking their case directly to voters. On Nov. 3, Coloradans will vote on two separate ballot measures to enact laws prohibiting “any surgery to a minor for the purpose […]",
-        "source": "The 74 Million",
-        "published": "2026-10-21T10:30:00+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "What 500 doorsteps taught me about getting kids back to school",
-        "url": "https://www.eschoolnews.com/educational-leadership/2026/10/21/what-500-doorsteps-taught-me-about-getting-kids-back-to-school/",
-        "summary": "I know the feeling when a letter from school shows up at the house. Nobody opens one of those smiling. Most of the time, the letter tells a family something they already know and nothing about what they actually need.",
-        "source": "eSchool News",
-        "published": "2026-10-21T10:00:00+00:00",
-        "stream": "edtech",
-        "streams": [
-          "edtech"
         ],
         "region": "north_america"
       }
