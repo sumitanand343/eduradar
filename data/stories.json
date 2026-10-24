@@ -308,6 +308,18 @@
     ],
     "school": [
       {
+        "title": "Hong Kong private secondary sector expands as local universities’ reputation grows",
+        "url": "https://www.scmp.com/news/hong-kong/education/article/3371974/hong-kong-private-secondary-sector-expands-local-universities-reputation-grows",
+        "summary": "The number of private secondary schools in Hong Kong has risen by more than half in five years as demand for alternative curricula grows and new operators seek to attract families drawn by the city’s highly ranked universities, education authorities and principals have said. Between 2021-22 and 2025-26, the number of private secondary institutions increased from 16 to 25, a jump of 56.3 per cent, Education Bureau figures show. Leaders at schools offering alternative curriculum pathways said that...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T01:00:21+00:00",
+        "region": "east_asia",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
         "title": "School Board Members Can Be Deposed for Removing Library Books, Federal Court Rules",
         "url": "https://www.the74million.org/article/school-board-members-can-be-deposed-for-removing-library-books-federal-court-rules/",
         "summary": "A years-long legal battle over book removals in Escambia County has a new chapter. A federal appeals court ruled school members may be deposed about why they removed library books and classroom material. The lawsuit was brought by book publishers, parents, and the PEN American Center in 2023 after Escambia County officials voted to remove, […]",
@@ -1162,9 +1174,153 @@
     ],
     "higher": [
       {
-        "title": "Trump to lowers some Canada tariffs to help Maine lawmaker’s re-election bid",
+        "title": "French cooking schools fuel fine-dining dreams of India’s young chefs",
+        "url": "https://www.scmp.com/news/asia/south-asia/article/3371991/french-cooking-schools-fuel-fine-dining-dreams-indias-young-chefs",
+        "summary": "Fiercely proud of its culinary traditions, India is increasingly open to foreign influences, with French cooking schools attracting students eager to make their mark on the country’s growing fine-dining sector. “Ten or 15 years ago, there were far fewer young people dreaming of becoming chefs,” said Aabhas Jain, director of bakery and pastry training at Ecole Ducasse, a French culinary school also operating in India. “But with the rise of social media … today’s students have greater ambitions in...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T02:15:05+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Pet custody disputes draw increasing attention in China, where pets are treated as property",
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3371992/pet-custody-disputes-draw-increasing-attention-china-where-pets-are-treated-property",
+        "summary": "Pets in China have become deeply woven into people’s lives and romantic relationships, especially those of younger couples. When romance sours, deciding “who gets custody” is becoming a painful legal grey area for many couples. According to pet industry data, China’s urban dog and cat population reached 126 million in 2025, driven largely by Gen Z and millennial. Many young couples treat their pets like children, calling each other the “Mum” and “Dad” of their fur babies. “While love may fade,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T02:14:29+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Danger, death and devotion: Japan’s festivals face crisis after fatal accidents",
+        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371913/danger-death-and-devotion-japans-festivals-face-crisis-after-fatal-accidents",
+        "summary": "Japan’s centuries-old festivals are facing renewed scrutiny after a series of fatal accidents in recent weeks, raising questions over how communities can preserve their cultural traditions without putting lives at risk. Three people have been killed and more than a dozen injured in accidents at autumn festivals across the country in recent weeks. Meanwhile, organisers of another major festival, where two men died in February, have cancelled next year’s event, citing public safety concerns. The...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T01:30:16+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Why Hong Kong should rethink premiums for private recreation clubs",
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371499/why-hong-kong-should-rethink-premiums-private-recreation-clubs",
+        "summary": "Private recreation leases have a long and contentious history in Hong Kong. Complaints about the inequity of granting land leases to private clubs at a nominal premium for the exclusive enjoyment of a small number of members have been raised many times. This issue is increasingly pressing. Twenty-seven sites are involved and almost all the leases for these sites are set for renewal next year. In response to this perceived inequality, the government reviewed its policy for clubs with private...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T01:30:11+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "China’s AI compute surge heavily reliant on US chips, offshore cloud access: report",
+        "url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
+        "summary": "China’s access to artificial intelligence computing power will double next year, but US-designed chips will account for about 65 per cent of that capacity, an indication of its continued reliance on foreign hardware, according to new research. Total compute available to Chinese entities was expected to expand in 2027 from about 4.6 million to 8.8 million “H100-equivalents” – a metric benchmarked against Nvidia’s data-centre graphics processing units, according to a report by the Washington-based...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T01:00:11+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Big dreams, growing pains in Indonesia: Prabowo’s turbulent 2 years in power",
+        "url": "https://www.scmp.com/week-asia/people/article/3371953/big-dreams-growing-pains-indonesia-prabowos-turbulent-2-years-power",
+        "summary": "When 35-year-old Bekasi resident Ika Kartika voted for Prabowo Subianto in Indonesia’s 2024 presidential election, she hoped the former general would restore a “Suharto-like” era of stability, when everyday essentials were affordable and life felt more predictable. Growing up, she had often heard her parents reminisce about the “good old days” under the late strongman, whose rule had brought a sense of order to their lives. Two years into his presidency, however, rising food prices have left Ika...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T00:00:19+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "US-China strategic competition to keep escalating as world watches on, Rudd says",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3371990/us-china-strategic-competition-keep-escalating-world-watches-rudd-says",
+        "summary": "Kevin Rudd, president of the Asia Society and a former Australian prime minister, described US-China strategic competition as full-on and multidimensional at a Harvard Kennedy School Institute of Politics event on Friday. “There is a full-blown strategic competition under way in every dimension of national political power and influence, militarily, economically, trade and investment and technology, in foreign policy, in ideology,” said Rudd, a noted China scholar. “It’s across the world,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-23T22:29:03+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "US, allies and China vie for influence through Pacific security deals",
+        "url": "https://www.scmp.com/news/us/article/3371989/us-allies-and-china-vie-influence-through-pacific-security-deals",
+        "summary": "Strategic competition between China and the US and its allies is intensifying across the Pacific islands, with both sides pursuing a growing range of security agreements to expand their influence, according to an interactive mapping tool released this week by the Centre for Strategic and International Studies (CSIS), a Washington think tank. The tool details 56 security arrangements among 14 Pacific island countries and the US, Australia, New Zealand, mainland China and Taiwan in a bid to map...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-23T22:27:23+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "What will China’s fifth plenum mean for the root-and-branch corruption drive?",
+        "url": "https://www.scmp.com/news/china/politics/article/3371932/what-will-chinas-fifth-plenum-mean-root-and-branch-corruption-drive",
+        "summary": "Plenary sessions of the Central Committee, the upper echelon of China’s ruling Communist Party, are major events on the country’s political calendar. In the third part of this series, William Zheng and Alcott Wei examine how the fight against corruption is shaping the party’s future. When China’s political elites gather for a key conclave in Beijing later this month, the increasingly empty auditorium will speak loudly to the event’s theme – the ruling Communist Party’s strict self-discipline and...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-23T22:00:09+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Why raising Asia’s fertility rate starts with giving people time to date",
+        "url": "https://www.scmp.com/opinion/asia-opinion/article/3371633/asias-baby-starved-governments-want-people-date-who-has-time",
+        "summary": "In late September, Singapore’s Reddit community erupted over the government’s new dating platform, FirstDate. Curious to get an insider’s perspective, I visited the site, connected to my Singpass account and watched as my name, age and marital status auto-populated the fields on the page. I entered my Gmail address and hit submit. The email field turned red: “Please sign up with your official work email. Personal email addresses will not be accepted.” I resubmitted the form with my work email,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-23T21:30:07+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Kenya reports second Ebola death, a close relative of first patient",
+        "url": "https://www.scmp.com/news/world/africa/article/3371988/kenya-reports-second-ebola-death-close-relative-first-patient",
+        "summary": "Kenya’s health ministry announced the country’s second Ebola death on Friday, saying a 65-year-old woman who was a close relative of the first patient died after developing symptoms while in quarantine. The woman began showing symptoms 10 days ago and began receiving supportive care at an infectious disease unit in the capital, Nairobi. The ministry said medical personnel “did everything possible to save her life”, but she died Friday evening. Her family was notified, and the ministry said it...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-23T21:19:15+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Zelensky hopes Beijing can use ‘influence’ over Moscow to help stop Ukraine war",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3371987/zelensky-hopes-beijing-can-use-influence-over-moscow-help-stop-ukraine-war",
+        "summary": "Ukrainian President Volodymyr Zelensky said on Friday that Beijing has “influence” over Moscow it should use to stop the war in Ukraine, and that a proposed summit meeting of the US, Chinese and Russian leaders must not lead to the division of his war-torn country. Speaking virtually at an event hosted by Washington-based Hudson Institute think tank, Zelensky said he did not know what would be discussed at the potential meeting between US President Donald Trump, Chinese President Xi Jinping and...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-23T20:51:17+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Trump to cut some Canada tariffs to help Maine lawmaker’s re-election bid",
         "url": "https://www.scmp.com/news/world/united-states-canada/article/3371986/trump-lowers-some-canada-tariffs-help-maine-lawmakers-re-election-bid",
-        "summary": "The Trump administration is expanding tariff exemptions to more Canadian products, a move that may help boost Republican Senator Susan Collins’ re-election campaign in Maine. Collins announced in a statement on Friday that the exemptions would apply to certain paper, plastic, machinery and seaweed products, saying they would help the state’s rural and coastal economy, including the blueberry, potato, apple and seaweed industries. “Many of our farmers and growers rely on specialised equipment,...",
+        "summary": "The Trump administration is expanding tariff exemptions to more Canadian products, a move that may help boost Republican US Senator Susan Collins’ re-election campaign in Maine. Collins announced in a statement on Friday that the exemptions would apply to certain paper, plastic, machinery and seaweed products, saying they would help the state’s rural and coastal economy, including the blueberry, potato, apple and seaweed industries. “Many of our farmers and growers rely on specialised equipment,...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-23T20:04:15+00:00",
         "region": "east_asia",
@@ -1188,7 +1344,7 @@
       {
         "title": "Gunmen kill 7 at Jordan church, king vows retaliation",
         "url": "https://www.scmp.com/news/world/middle-east/article/3371984/gunmen-kill-7-jordan-church-king-vows-retaliation",
-        "summary": "Gunmen killed at least seven people and wounded dozens at a church in southern Jordan on Friday, authorities said, with the king vowing retaliation for the rare attack on Christians in the majority Sunni Muslim kingdom. Assailants stormed the compound of a Greek Orthodox church in the village of Hammoud in Karak governorate and opened fire, authorities said. The gunmen got out of a vehicle and started shooting during a funeral procession, the public security directorate said in a statement,...",
+        "summary": "Gunmen killed at least seven people and wounded dozens at a church in southern Jordan on Friday, with the king vowing retaliation for the rare attack on Christians in the majority Sunni Muslim kingdom. Assailants stormed the compound of a Greek Orthodox church in the village of Hammoud in Karak governorate and opened fire, authorities said. The gunmen got out of a vehicle and started shooting during a funeral procession, the public security directorate said in a statement, adding that a hunt was...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-23T17:17:41+00:00",
         "region": "east_asia",
@@ -1200,7 +1356,7 @@
       {
         "title": "Melania Trump brokers ceasefire in Russian-occupied Ukraine city, White House says",
         "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371983/melania-trump-brokers-ceasefire-russian-occupied-ukraine-city-white-house-says",
-        "summary": "US first lady Melania Trump has brokered a coming ceasefire between Russia and Ukraine in the war-ravaged Ukrainian city of Oleshky to allow for humanitarian aid and the evacuation of civilians, the White House announced on Friday. The localised ceasefire is set to begin Thursday, with the American first lady saying in a news release that the situation there is “on the brink of disaster”. The White House said Melania Trump had initiated the discussions and that she and a representative worked...",
+        "summary": "Ukraine’s top negotiator involved in a humanitarian mission led by US first lady Melania Trump said that a local ceasefire with Russia will start on Tuesday – two days before the mission begins – and last several days. Ukrainian, Russian and US negotiators reached a deal on Friday to provide humanitarian aid in the Russian-occupied town of Oleshky, in the war-divided region of Kherson in southern Ukraine. Dmytro Lubinets, the Ukrainian ombudsman and his country’s chief negotiator in the talks,...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-23T16:26:41+00:00",
         "region": "east_asia",
@@ -1654,18 +1810,6 @@
         "stream": "higher"
       },
       {
-        "title": "Hong Kong constable paralysed in 2005 knife attack laid to rest with full honours",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3371899/hong-kong-constable-paralysed-2005-knife-attack-laid-rest-full-honours",
-        "summary": "Hong Kong’s top government officials and police officers paid their final respects on Friday to a former constable who died 21 years after being left paralysed in an attack while on duty. Jacky Chu Chun-kwok, who died last month aged 52, was laid to rest following a service at the Universal Funeral Parlour in Hung Hom at 10.30am, which was attended by Chief Executive John Lee Ka-chiu and Secretary for Security Chris Tang Ping-keung. The mood was sombre as family members, friends, colleagues and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T07:42:51+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
         "title": "Aspiring Accreditor Approves First Institution",
         "url": "https://www.insidehighered.com/news/quick-takes/2026/10/23/aspiring-accreditor-approves-first-institution",
         "summary": "Aspiring Accreditor Approves First Institution sara.custer@in… Fri, 10/23/2026 - 03:00 AM Byline(s) Jessica Blake",
@@ -1792,150 +1936,6 @@
         "source": "EdNews Africa",
         "published": "2026-10-23T06:51:16+00:00",
         "region": "east_africa",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "WHO warns Africa faces ‘complex’ Ebola outbreak as virus reaches Nigeria",
-        "url": "https://www.scmp.com/news/world/africa/article/3371887/who-warns-africa-faces-complex-ebola-outbreak-virus-reaches-nigeria",
-        "summary": "The World Health Organization has warned that Africa faced a “complex” Ebola outbreak after the virus crossed from east Africa to Nigeria, marking the first case in the west of the continent. Nigeria on Tuesday had announced an imported case of the Bundibugyo strain, currently causing a major Ebola outbreak in the Democratic Republic of Congo. It was detected in the wife of a diplomat who had travelled from Uganda to the Nigerian capital Abuja. Health minister Muhammad Ali Pate said Thursday the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T06:49:24+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Typhoon Champi disrupts more than 70 flights between Hong Kong and Taiwan",
-        "url": "https://www.scmp.com/news/hong-kong/transport/article/3371885/super-typhoon-champi-disrupts-more-70-flights-between-hong-kong-and-taiwan",
-        "summary": "More than 70 flights between Hong Kong and Taiwan have been cancelled as Typhoon Champi approaches the island ahead of a possible landfall later on Friday. As of noon on Friday, more than 30 flights between the city and Taiwan Taoyuan International Airport had been cancelled, according to a South China Morning Post check of the Hong Kong airport’s website. Nine outbound flights to Kaohsiung International Airport and Taichung International Airport were also cancelled. The affected services were...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T06:39:58+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Indonesian wildfires threaten world’s oldest cave paintings in Sulawesi",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3371884/indonesian-wildfires-threaten-worlds-oldest-cave-paintings-sulawesi",
-        "summary": "The world’s oldest cave paintings on the Indonesian island ⁠of Sulawesi are under threat ⁠as heat and smoke from the ⁠country’s worst wildfires in more than a decade risk accelerating the deterioration of the more than 67,000-year-old works of art, according to researchers. Indonesia is battling its most intense forest and land fires since 2015 as a severe El Nino drives up temperatures and reduces ‌rainfall, leaving its forest and peatland vulnerable to fire. While the islands of Sumatra and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T06:31:38+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "DeepSeek, MiniMax secure open-source licences days after new China export rules: state media",
-        "url": "https://www.scmp.com/tech/policy/article/3371880/deepseek-minimax-secure-open-source-licenses-days-after-new-china-export-rules-state-media",
-        "summary": "Chinese artificial intelligence model developers DeepSeek and MiniMax have completed export registration procedures and proceeded with open-source releases and overseas licensing activities, according to Chinese state media, days after Beijing moved to tighten oversight on AI tech transfers. Yuyuan Tantian, an influential social media account affiliated with state broadcaster CCTV, reported on Thursday evening that the two AI companies had completed the required registrations after Beijing...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T06:00:25+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "2 women arrested over alleged child abuse after girl, 11, posts plea for help",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3371878/2-women-arrested-over-alleged-child-abuse-after-girl-11-posts-plea-help",
-        "summary": "Two women have been arrested on suspicion of child abuse in Hong Kong after an 11-year-old girl posted videos on social media pleading for help. Police arrested the girl’s 61-year-old grandmother and a 43-year-old domestic helper in Wong Tai Sin on Friday on suspicion of ill-treatment or neglect by those in charge of a child or young person. The girl, found with red and swollen limbs, was sent to Queen Elizabeth Hospital in Yau Ma Tei on Thursday and later transferred to the Hong Kong Children’s...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T05:52:18+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "France braces for more unrest as police face scrutiny over weapons and tactics",
-        "url": "https://www.scmp.com/news/world/europe/article/3371879/france-braces-more-unrest-police-tactics-and-weapons-face-scrutiny",
-        "summary": "Police across France are under pressure to maintain security during further protests expected in some cities, while facing scrutiny over their riot-control tactics used during previous unrest that left some teenagers seriously injured. Officers appeared outnumbered and overwhelmed during last weekend’s protests against rising living costs and poor conditions in schools. In response, France’s Interior Ministry said it would deploy 20 per cent more police this Saturday than last weekend, even as...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T05:50:08+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "North Korean silence signals Trump-Kim summit unlikely: US, South Korean officials",
-        "url": "https://www.scmp.com/news/asia/east-asia/article/3371876/north-korean-silence-signals-trump-kim-summit-unlikely-us-south-korean-officials",
-        "summary": "US and South Korean officials see the chances fading of ⁠a meeting between President Donald Trump and North Korean leader Kim Jong-un this year, according to five people with knowledge of the situation. Trump, the only US president to have met a North Korean leader, has been eager to jump-start talks with North Korea, but Pyongyang has shown little interest in diplomacy aimed at containing its nuclear programme. The US has received no response from North Korea on holding a Trump-Kim meeting, and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T05:30:41+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Hong Kong security chief vows accountability, reforms ahead of Tai Po fire report",
-        "url": "https://www.scmp.com/news/hong-kong/politics/article/3371874/security-chief-vows-accountability-reforms-ahead-tai-po-fire-reports-release",
-        "summary": "Hong Kong’s Fire Services Department will bear “ultimate responsibility” for following up on fire safety complaints across the city, the security chief has said, as an independent committee report is expected to identify the department as among those responsible for last year’s deadly Tai Po blaze. Secretary for Security Chris Tang Ping-keung made the pledge on Friday, a day after the judge-led committee submitted its final report to the government. The minister said a series of legal reforms...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T05:19:53+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "No bots: Japan drafts rules for social media platforms ahead of local elections",
-        "url": "https://www.scmp.com/news/asia/east-asia/article/3371871/no-bots-japan-drafts-rules-social-media-platforms-ahead-local-elections",
-        "summary": "Japan’s communications ministry on Friday unveiled draft guidelines outlining measures for 13 major social media operators to help reduce the impact of misinformation and disinformation that could undermine fairness during elections. The guidelines also include measures such as requiring operators to establish eligibility requirements and strict screening procedures for users of monetisation features, suspend monetisation when content that harms the fairness of elections is posted, and add...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T04:48:55+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "‘I am not resigning’: embattled leader digs in as Malaysia royal crisis deepens",
-        "url": "https://www.scmp.com/week-asia/politics/article/3371866/i-am-not-resigning-embattled-leader-digs-malaysia-royal-crisis-deepens",
-        "summary": "Embattled Negeri Sembilan chief minister Ismail Lasim has denied claims that he has resigned, as a constitutional crisis in the Malaysian state spiralled further following a move by his executive council to challenge their sacking by the state’s ruler in court. The state has been all but paralysed by a dispute that began in April over who has the right to sit on Negeri Sembilan’s throne, bringing down a state government aligned with Prime Minister Anwar Ibrahim’s ruling Pakatan Harapan (PH)...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T04:35:02+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Honduras squeezes Chinese firms; Super Typhoon Champi nears Taiwan: SCMP’s 7 highlights",
-        "url": "https://www.scmp.com/news/china/article/3371851/honduras-squeezes-chinese-firms-super-typhoon-champi-nears-taiwan-scmps-7-highlights",
-        "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Honduras targets Chinese shops, state builder as president sits on Taiwan pledge Honduran migration officials have summoned or placed under review 41 Chinese nationals after inspecting shops in the capital and a hospital being built...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T04:15:11+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "What do the protests in France look like from China? Internet users weigh in",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3371813/what-do-protests-france-look-china-internet-users-weigh",
-        "summary": "Internet users in China are watching the protests in France with a mix of geopolitical cynicism, domestic pride and sadness at the damage to French landmarks. The protests started in September, when students and teachers in southeastern Paris rallied against deteriorating school conditions. Those specific grievances quickly escalated into nationwide protests at the rising cost of living and declining public services. What began as peaceful marches has since dissolved into violence, with rioters...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T04:00:30+00:00",
-        "region": "east_asia",
         "streams": [
           "higher"
         ],
@@ -2116,6 +2116,18 @@
         "source": "The PIE News",
         "published": "2026-10-21T16:08:34+00:00",
         "region": "global",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Marikana Cruyff Court Puts the Next Generation in Play",
+        "url": "https://www.ednews.africa/p/marikana-cruyff-court-puts-the-next",
+        "summary": "New sports facility reaches more than 600 children and young people annually, bringing sport into a wider investment in education, personal development and future opportunities in a mining community.",
+        "source": "EdNews Africa",
+        "published": "2026-10-21T14:27:49+00:00",
+        "region": "east_africa",
         "streams": [
           "higher"
         ],
@@ -3619,6 +3631,42 @@
     ],
     "policy": [
       {
+        "title": "Jane Doe Can Remain Anonymous in Cornell Case, Judge Says",
+        "url": "https://www.nytimes.com/2026/10/23/nyregion/jane-doe-can-remain-anonymous-in-cornell-case-judge-says.html",
+        "summary": "The decision comes as both Jane Doe and the men she has accused of sexually assaulting her have faced online harassment and attempts to reveal identifying information.",
+        "source": "New York Times — Education",
+        "published": "2026-10-24T01:04:19+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Alpha School Claims to Teach Kids Twice as Fast. Many Don’t Make It.",
+        "url": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html",
+        "summary": "Alpha School, a private network, is spreading into public education. While its students’ test scores are high, some parents and educators say it doesn’t live up to the hype.",
+        "source": "New York Times — Education",
+        "published": "2026-10-24T01:00:40+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Britain's posh schools are heading to India for students and profits",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
+        "summary": "Half a dozen elite British schools are chasing growth in India amid a boom in its wealthy population.",
+        "source": "BBC — Education",
+        "published": "2026-10-23T23:02:25+00:00",
+        "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
         "title": "Should Horse-Drawn Carriages Be Banned in New York City?",
         "url": "https://www.nytimes.com/2026/10/23/opinion/horse-carriage-ban-new-york.html",
         "summary": "Readers react to the City Council’s vote to impose a ban after a passenger’s death. Also: Integrated schools.",
@@ -3635,20 +3683,8 @@
         "url": "https://www.nytimes.com/2026/10/23/us/bard-college-president-marvin-krislov.html",
         "summary": "The new president, Marvin Krislov, has led Pace University and Oberlin College. He replaces Leon Botstein, who retired and has faced scrutiny over ties to Jeffrey Epstein.",
         "source": "New York Times — Education",
-        "published": "2026-10-23T17:10:57+00:00",
+        "published": "2026-10-23T17:10:58+00:00",
         "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Israeli roadblocks disrupt schools and medical care in West Bank village",
-        "url": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
-        "summary": "Residents of Madama describe being cut off from hospitals, schools, and olive groves as Israeli forces blockade village.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-23T16:37:59+00:00",
-        "region": "global",
         "streams": [
           "policy"
         ],
@@ -3673,18 +3709,6 @@
         "source": "The Guardian — Education",
         "published": "2026-10-23T14:33:05+00:00",
         "region": "global",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Alpha School Claims to Teach Kids Twice as Fast. Many Don’t Make It.",
-        "url": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html",
-        "summary": "Alpha School, a private network, is spreading into public education. While its students’ test scores are high, some parents and educators say it doesn’t live up to the hype.",
-        "source": "New York Times — Education",
-        "published": "2026-10-23T12:31:23+00:00",
-        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -3817,18 +3841,6 @@
         "source": "Bangkok Post — Education (Thailand)",
         "published": "2026-10-23T00:46:00+00:00",
         "region": "southeast_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Bard College Hires Forensic Firm to Investigate a Damning Epstein Email",
-        "url": "https://www.nytimes.com/2026/10/22/us/bard-college-forensic-cybersecurity-epstein-email.html",
-        "summary": "The firm suggested the former Bard president’s email to Jeffrey Epstein about a young woman may have been fake. Congressional Democrats who publicized the message disagree.",
-        "source": "New York Times — Education",
-        "published": "2026-10-22T22:45:44+00:00",
-        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -5544,6 +5556,90 @@
     ],
     "funding": [
       {
+        "title": "Global Changemakers Media Impact Academy 2026/2027",
+        "url": "https://opportunitydesk.org/2026/10/23/global-changemakers-media-impact-academy-2026-2027/",
+        "summary": "Deadline: Unspecified Applications for the Global Changemakers Media Impact Academy 2026/2027 are now open. The Media Impact Academy is a Nationwide initiative engaging 500 youth (ages 18–24) across the United States. Designed for young adults navigating early financial independence, this 90-day challenge equips you with practical financial skills, project management tools, and storytelling capabilities to [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T16:44:36+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "MATTER Groundwork Innovator Accelerator 2027",
+        "url": "https://opportunitydesk.org/2026/10/23/matter-groundwork-innovator-accelerator-2027/",
+        "summary": "Deadline: November 22, 2026 Applications are open for the MATTER Groundwork Innovator Accelerator 2027. Groundwork is MATTER’s newest offering — an 11-week accelerator program for digital health innovators at the earliest stages of developing their ideas and turning them into businesses. Designed to help entrepreneurs navigate the complexities of healthcare and lay the groundwork for [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T16:05:17+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "World Food Forum Youth Policy Board 2027-2028",
+        "url": "https://opportunitydesk.org/2026/10/23/world-food-forum-youth-policy-board-2027-2028/",
+        "summary": "Deadline: November 30, 2026 Applicationsn are open for the World Food Forum Youth Policy Board 2027-2028. The WFF Youth Policy Board (YPB) was launched in 2021 with the aim of providing a strategic youth-led vision to the policy-related activities carried out by the WFF Youth Initiative through the Youth Assembly. The YPB is an independent [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T15:52:53+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "PATH Global Health Strategy Internship 2026 (up to $1,000)",
+        "url": "https://opportunitydesk.org/2026/10/23/path-global-health-strategy-internship-2026/",
+        "summary": "Deadline: October 31, 2026 Applications are open for the PATH Global Health Strategy Internship 2026. Under the direction of the CEO & President, the Office of the President works to guide PATH’s strategic approach internally and at global and country levels. PATH has set out to expand the scope of their respectful partnerships with national [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T15:38:33+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Columbia University Italian Academy Fellowship Program 2027-2028",
+        "url": "https://opportunitydesk.org/2026/10/23/columbia-university-italian-academy-fellowship-2027-2028/",
+        "summary": "Deadline: December 4, 2026 Applications are open for the Columbia University Italian Academy Fellowship Program 2027-2028. The multi-disciplinary Fellowship Program is the heart of the work of the Italian Academy. Fellowships are open to scholars who wish to devote a semester or a full academic year to genuinely innovative work in the humanities, sciences, or [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T14:55:57+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Asia-Pacific Forum on Sustainable Development (APFSD) Youth Forum 2027",
+        "url": "https://opportunitydesk.org/2026/10/23/apfsd-youth-forum-2027/",
+        "summary": "Deadline: November 16, 2026 Applications are open for the Asia-Pacific Forum on Sustainable Development (APFSD) Youth Forum 2027. The Asia-Pacific Forum on Sustainable Development (APFSD) is an annual, inclusive, intergovernmental forum to support the follow-up and review of progress on the 2030 Agenda for Sustainable Development and the Sustainable Development Goals (SDGs) at the regional level. [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T14:36:42+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Raisina Young Fellows Programme 2027 (Fully-funded)",
+        "url": "https://opportunitydesk.org/2026/10/23/raisina-young-fellows-programme-2027/",
+        "summary": "Deadline: November 2, 2026 Applications are open for the Raisina Young Fellows Programme 2027. The Raisina Young Fellows Programme convenes emerging leaders from around the world to discuss current political, economic, and social issues, with a particular focus on Asia. Fellows engage directly with senior political, business, and academic figures, gaining insights and building networks [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T07:54:48+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
         "title": "Most home-based child care is run by people over 50. Who is going to replace them?",
         "url": "https://hechingerreport.org/most-home-based-child-care-is-run-by-people-over-50-who-is-going-to-replace-them/",
         "summary": "For over 20 years, Sylvia Crews has worked in early childhood education, spending the last decade running her own home-based center. After buying a home in Washington, D.C., in 2015, she launched LTH Infants and Toddlers Center — an abbreviation for “loving, tender home” — shortly after. She is licensed to care for up to […] The post Most home-based child care is run by people over 50. Who is going to replace them? appeared first on The Hechinger Report .",
@@ -5563,6 +5659,42 @@
         "source": "The 74 Million",
         "published": "2026-10-22T18:30:00+00:00",
         "region": "north_america",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "25 Hot Job Opportunities at Google and Apple Currently Open – October 22, 2026",
+        "url": "https://opportunitydesk.org/2026/10/22/25-hot-job-opportunities-at-google-and-apple/",
+        "summary": "1. Program Manager, Strategy and Operations, Google Arts and Culture (Goo gle)Google is recruiting for this Program Manager, Strategy and Operations, Google Arts and Culture position based in London, United Kingdom. Coordinate strategic planning, budgets, partnerships and operational performance for Google Arts & Culture, working with cultural institutions and cross-functional teams. This opportunity sits within [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-22T16:35:32+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "50 Scholarships, Grants, Fellowships and Other Opportunities Currently Open – October 22, 2026",
+        "url": "https://opportunitydesk.org/2026/10/22/50-scholarships-grants-fellowships-and-other-opportunities-currently-open-october-22-2026/",
+        "summary": "1. Maria Rosario Lazzati Niada Scholarship for Afghan Women 2027-2028 The Maria Rosario Lazzati Niada Scholarship supports Afghan women who already hold a university degree and want to pursue a two-year master’s programme at the Geneva Graduate Institute. The scholarship is designed to widen access to advanced study in international relations and development and create [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-22T16:01:34+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "What Is a Master’s by Research? Everything You Need to Know Before Applying",
+        "url": "https://opportunitydesk.org/2026/10/22/what-is-a-masters-by-research-everything-you-need-to-know-before-applying/",
+        "summary": "When most people think about studying for a master’s degree, they imagine attending lectures, completing assignments, taking examinations and writing a dissertation. But did you know that you can earn a master’s degree primarily through independent research? A Master’s by Research offers a different route to postgraduate education. Instead of spending most of your time in classrooms, [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-22T14:48:35+00:00",
+        "region": "global",
         "streams": [
           "funding"
         ],
@@ -5694,6 +5826,18 @@
   "regions": {
     "global": [
       {
+        "title": "Britain's posh schools are heading to India for students and profits",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
+        "summary": "Half a dozen elite British schools are chasing growth in India amid a boom in its wealthy population.",
+        "source": "BBC — Education",
+        "published": "2026-10-23T23:02:25+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "global"
+      },
+      {
         "title": "Objective Of Learning: How To Write Clear Learning Objectives For Training",
         "url": "https://elearningindustry.com/learning-objectives-examples",
         "summary": "Master the secrets to writing clear learning objectives for training with practical frameworks, measurable action verbs, examples, and common mistakes to avoid. This post was first published on eLearning Industry .",
@@ -5718,14 +5862,50 @@
         "region": "global"
       },
       {
-        "title": "Israeli roadblocks disrupt schools and medical care in West Bank village",
-        "url": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
-        "summary": "Residents of Madama describe being cut off from hospitals, schools, and olive groves as Israeli forces blockade village.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-23T16:37:59+00:00",
-        "stream": "policy",
+        "title": "Global Changemakers Media Impact Academy 2026/2027",
+        "url": "https://opportunitydesk.org/2026/10/23/global-changemakers-media-impact-academy-2026-2027/",
+        "summary": "Deadline: Unspecified Applications for the Global Changemakers Media Impact Academy 2026/2027 are now open. The Media Impact Academy is a Nationwide initiative engaging 500 youth (ages 18–24) across the United States. Designed for young adults navigating early financial independence, this 90-day challenge equips you with practical financial skills, project management tools, and storytelling capabilities to [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T16:44:36+00:00",
+        "stream": "funding",
         "streams": [
-          "policy"
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "MATTER Groundwork Innovator Accelerator 2027",
+        "url": "https://opportunitydesk.org/2026/10/23/matter-groundwork-innovator-accelerator-2027/",
+        "summary": "Deadline: November 22, 2026 Applications are open for the MATTER Groundwork Innovator Accelerator 2027. Groundwork is MATTER’s newest offering — an 11-week accelerator program for digital health innovators at the earliest stages of developing their ideas and turning them into businesses. Designed to help entrepreneurs navigate the complexities of healthcare and lay the groundwork for [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T16:05:17+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "World Food Forum Youth Policy Board 2027-2028",
+        "url": "https://opportunitydesk.org/2026/10/23/world-food-forum-youth-policy-board-2027-2028/",
+        "summary": "Deadline: November 30, 2026 Applicationsn are open for the World Food Forum Youth Policy Board 2027-2028. The WFF Youth Policy Board (YPB) was launched in 2021 with the aim of providing a strategic youth-led vision to the policy-related activities carried out by the WFF Youth Initiative through the Youth Assembly. The YPB is an independent [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T15:52:53+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "PATH Global Health Strategy Internship 2026 (up to $1,000)",
+        "url": "https://opportunitydesk.org/2026/10/23/path-global-health-strategy-internship-2026/",
+        "summary": "Deadline: October 31, 2026 Applications are open for the PATH Global Health Strategy Internship 2026. Under the direction of the CEO & President, the Office of the President works to guide PATH’s strategic approach internally and at global and country levels. PATH has set out to expand the scope of their respectful partnerships with national [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T15:38:33+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
         ],
         "region": "global"
       },
@@ -5738,6 +5918,30 @@
         "stream": "edtech",
         "streams": [
           "edtech"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Columbia University Italian Academy Fellowship Program 2027-2028",
+        "url": "https://opportunitydesk.org/2026/10/23/columbia-university-italian-academy-fellowship-2027-2028/",
+        "summary": "Deadline: December 4, 2026 Applications are open for the Columbia University Italian Academy Fellowship Program 2027-2028. The multi-disciplinary Fellowship Program is the heart of the work of the Italian Academy. Fellowships are open to scholars who wish to devote a semester or a full academic year to genuinely innovative work in the humanities, sciences, or [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T14:55:57+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Asia-Pacific Forum on Sustainable Development (APFSD) Youth Forum 2027",
+        "url": "https://opportunitydesk.org/2026/10/23/apfsd-youth-forum-2027/",
+        "summary": "Deadline: November 16, 2026 Applications are open for the Asia-Pacific Forum on Sustainable Development (APFSD) Youth Forum 2027. The Asia-Pacific Forum on Sustainable Development (APFSD) is an annual, inclusive, intergovernmental forum to support the follow-up and review of progress on the 2030 Agenda for Sustainable Development and the Sustainable Development Goals (SDGs) at the regional level. [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T14:36:42+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
         ],
         "region": "global"
       },
@@ -6098,78 +6302,6 @@
         "stream": "research",
         "streams": [
           "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Do community pharmacies unnecessarily recommend oral emergency contraception? A nationwide mystery caller investigation in Germany",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361027",
-        "summary": "by Bernhard Langer, Anne Beck, Antonia M. Dreier, Rosa Gabrieljan, Hanna Hilgenhof, Johanna Latuske, Carolin Priepke, Katharina Schaihadinow, Helene Schwarz, Christian Kunow Background Since 2015, oral emergency contraceptives (ECs) have been available in German community pharmacies without prescription as over-the-counter medicines. Given the financial burden, unnecessary hormonal exposure and associated side effects, systematic information gathering is crucial to prevent unnecessary recommendations. This study aimed to determine whether pharmacy staff ask the checklist questions recommended ",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-23T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Decoding motor imagery EEG signals by a deep learning network integrating multiscale filtering and temporal-channel attention mechanisms",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361026",
-        "summary": "by Yong Zhu, Yongge Shi, Jianhua Wu, Qingguo Wei Due to their low signal-to-noise ratio and non-stationarity, accurately classifying EEG signals is still one of the main hindrances that limit the real-world applications of a brain-computer interface (BCI). Deep learning (DL) is a potential method for addressing the problem. However, how to create a suitable DL network for motor imagery (MI)-based BCIs poses severe challenges in the case of insufficient training data. In this paper, a DL network based on multiscale convolutional neural network (CNN) and temporal and channel attention mechanisms",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-23T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "15 Best Marketing Podcasts For B2B Leaders And Marketers In 2026",
-        "url": "https://elearningindustry.com/15-best-marketing-podcasts-for-b2b-leaders-and-marketers",
-        "summary": "There's a sea of B2B podcasts online, and we're certain you've listened to quite a few. However, are you sure you've discovered the best ones? We've done extensive research to discover 15 of the best marketing podcasts that can offer you insights and useful tips you can apply to your business. This post was first published on eLearning Industry .",
-        "source": "eLearning Industry",
-        "published": "2026-10-23T13:00:10+00:00",
-        "stream": "edtech",
-        "streams": [
-          "edtech"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Enroly: UK CAS issuance falls 24% as visa refusals jump 44%",
-        "url": "https://thepienews.com/enroly-uk-cas-issuance-falls-24-as-visa-refusals-jump-44/",
-        "summary": "International student recruitment at UK universities has taken another hit, with CAS issuance down almost a quarter year-on-year and visa refusals climbing sharply, new Enroly data suggests. The post Enroly: UK CAS issuance falls 24% as visa refusals jump 44% appeared first on The PIE News .",
-        "source": "The PIE News",
-        "published": "2026-10-23T10:05:18+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Is a job guarantee the solution to mass AI unemployment?",
-        "url": "https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment",
-        "summary": "An old idea springs anew as a chorus of influential voices predicts that AI may trigger crises of vast magnitude In a preface to his book Capitalism and Freedom, the American economist Milton Friedman famously observed that a crisis can propel once-fringe ideas into the political mainstream. “Only a crisis – actual or perceived – produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around,” he wrote. The job of intellectuals, thinktanks and economists, he argued, is to refine the quality of these ambient ideas, so that good ones are ready",
-        "source": "The Guardian — Technology",
-        "published": "2026-10-23T10:00:30+00:00",
-        "stream": "edtech",
-        "streams": [
-          "edtech"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Beyond the playing field: why sport matters in international higher education",
-        "url": "https://thepienews.com/beyond-the-playing-field-why-sport-matters-in-international-higher-education/",
-        "summary": "Sport has long been recognised as a powerful diplomatic catalyst. For universities, its potential to build international relationships, strengthen institutional reputation and create a sense of belonging deserves greater attention. The post Beyond the playing field: why sport matters in international higher education appeared first on The PIE News .",
-        "source": "The PIE News",
-        "published": "2026-10-23T09:02:15+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
         ],
         "region": "global"
       }
@@ -7352,9 +7484,165 @@
     ],
     "east_asia": [
       {
-        "title": "Trump to lowers some Canada tariffs to help Maine lawmaker’s re-election bid",
+        "title": "French cooking schools fuel fine-dining dreams of India’s young chefs",
+        "url": "https://www.scmp.com/news/asia/south-asia/article/3371991/french-cooking-schools-fuel-fine-dining-dreams-indias-young-chefs",
+        "summary": "Fiercely proud of its culinary traditions, India is increasingly open to foreign influences, with French cooking schools attracting students eager to make their mark on the country’s growing fine-dining sector. “Ten or 15 years ago, there were far fewer young people dreaming of becoming chefs,” said Aabhas Jain, director of bakery and pastry training at Ecole Ducasse, a French culinary school also operating in India. “But with the rise of social media … today’s students have greater ambitions in...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T02:15:05+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Pet custody disputes draw increasing attention in China, where pets are treated as property",
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3371992/pet-custody-disputes-draw-increasing-attention-china-where-pets-are-treated-property",
+        "summary": "Pets in China have become deeply woven into people’s lives and romantic relationships, especially those of younger couples. When romance sours, deciding “who gets custody” is becoming a painful legal grey area for many couples. According to pet industry data, China’s urban dog and cat population reached 126 million in 2025, driven largely by Gen Z and millennial. Many young couples treat their pets like children, calling each other the “Mum” and “Dad” of their fur babies. “While love may fade,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T02:14:29+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Danger, death and devotion: Japan’s festivals face crisis after fatal accidents",
+        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371913/danger-death-and-devotion-japans-festivals-face-crisis-after-fatal-accidents",
+        "summary": "Japan’s centuries-old festivals are facing renewed scrutiny after a series of fatal accidents in recent weeks, raising questions over how communities can preserve their cultural traditions without putting lives at risk. Three people have been killed and more than a dozen injured in accidents at autumn festivals across the country in recent weeks. Meanwhile, organisers of another major festival, where two men died in February, have cancelled next year’s event, citing public safety concerns. The...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T01:30:16+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Why Hong Kong should rethink premiums for private recreation clubs",
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371499/why-hong-kong-should-rethink-premiums-private-recreation-clubs",
+        "summary": "Private recreation leases have a long and contentious history in Hong Kong. Complaints about the inequity of granting land leases to private clubs at a nominal premium for the exclusive enjoyment of a small number of members have been raised many times. This issue is increasingly pressing. Twenty-seven sites are involved and almost all the leases for these sites are set for renewal next year. In response to this perceived inequality, the government reviewed its policy for clubs with private...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T01:30:11+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Hong Kong private secondary sector expands as local universities’ reputation grows",
+        "url": "https://www.scmp.com/news/hong-kong/education/article/3371974/hong-kong-private-secondary-sector-expands-local-universities-reputation-grows",
+        "summary": "The number of private secondary schools in Hong Kong has risen by more than half in five years as demand for alternative curricula grows and new operators seek to attract families drawn by the city’s highly ranked universities, education authorities and principals have said. Between 2021-22 and 2025-26, the number of private secondary institutions increased from 16 to 25, a jump of 56.3 per cent, Education Bureau figures show. Leaders at schools offering alternative curriculum pathways said that...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T01:00:21+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "China’s AI compute surge heavily reliant on US chips, offshore cloud access: report",
+        "url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
+        "summary": "China’s access to artificial intelligence computing power will double next year, but US-designed chips will account for about 65 per cent of that capacity, an indication of its continued reliance on foreign hardware, according to new research. Total compute available to Chinese entities was expected to expand in 2027 from about 4.6 million to 8.8 million “H100-equivalents” – a metric benchmarked against Nvidia’s data-centre graphics processing units, according to a report by the Washington-based...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T01:00:11+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Big dreams, growing pains in Indonesia: Prabowo’s turbulent 2 years in power",
+        "url": "https://www.scmp.com/week-asia/people/article/3371953/big-dreams-growing-pains-indonesia-prabowos-turbulent-2-years-power",
+        "summary": "When 35-year-old Bekasi resident Ika Kartika voted for Prabowo Subianto in Indonesia’s 2024 presidential election, she hoped the former general would restore a “Suharto-like” era of stability, when everyday essentials were affordable and life felt more predictable. Growing up, she had often heard her parents reminisce about the “good old days” under the late strongman, whose rule had brought a sense of order to their lives. Two years into his presidency, however, rising food prices have left Ika...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T00:00:19+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "US-China strategic competition to keep escalating as world watches on, Rudd says",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3371990/us-china-strategic-competition-keep-escalating-world-watches-rudd-says",
+        "summary": "Kevin Rudd, president of the Asia Society and a former Australian prime minister, described US-China strategic competition as full-on and multidimensional at a Harvard Kennedy School Institute of Politics event on Friday. “There is a full-blown strategic competition under way in every dimension of national political power and influence, militarily, economically, trade and investment and technology, in foreign policy, in ideology,” said Rudd, a noted China scholar. “It’s across the world,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-23T22:29:03+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "US, allies and China vie for influence through Pacific security deals",
+        "url": "https://www.scmp.com/news/us/article/3371989/us-allies-and-china-vie-influence-through-pacific-security-deals",
+        "summary": "Strategic competition between China and the US and its allies is intensifying across the Pacific islands, with both sides pursuing a growing range of security agreements to expand their influence, according to an interactive mapping tool released this week by the Centre for Strategic and International Studies (CSIS), a Washington think tank. The tool details 56 security arrangements among 14 Pacific island countries and the US, Australia, New Zealand, mainland China and Taiwan in a bid to map...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-23T22:27:23+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "What will China’s fifth plenum mean for the root-and-branch corruption drive?",
+        "url": "https://www.scmp.com/news/china/politics/article/3371932/what-will-chinas-fifth-plenum-mean-root-and-branch-corruption-drive",
+        "summary": "Plenary sessions of the Central Committee, the upper echelon of China’s ruling Communist Party, are major events on the country’s political calendar. In the third part of this series, William Zheng and Alcott Wei examine how the fight against corruption is shaping the party’s future. When China’s political elites gather for a key conclave in Beijing later this month, the increasingly empty auditorium will speak loudly to the event’s theme – the ruling Communist Party’s strict self-discipline and...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-23T22:00:09+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Why raising Asia’s fertility rate starts with giving people time to date",
+        "url": "https://www.scmp.com/opinion/asia-opinion/article/3371633/asias-baby-starved-governments-want-people-date-who-has-time",
+        "summary": "In late September, Singapore’s Reddit community erupted over the government’s new dating platform, FirstDate. Curious to get an insider’s perspective, I visited the site, connected to my Singpass account and watched as my name, age and marital status auto-populated the fields on the page. I entered my Gmail address and hit submit. The email field turned red: “Please sign up with your official work email. Personal email addresses will not be accepted.” I resubmitted the form with my work email,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-23T21:30:07+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Kenya reports second Ebola death, a close relative of first patient",
+        "url": "https://www.scmp.com/news/world/africa/article/3371988/kenya-reports-second-ebola-death-close-relative-first-patient",
+        "summary": "Kenya’s health ministry announced the country’s second Ebola death on Friday, saying a 65-year-old woman who was a close relative of the first patient died after developing symptoms while in quarantine. The woman began showing symptoms 10 days ago and began receiving supportive care at an infectious disease unit in the capital, Nairobi. The ministry said medical personnel “did everything possible to save her life”, but she died Friday evening. Her family was notified, and the ministry said it...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-23T21:19:15+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Zelensky hopes Beijing can use ‘influence’ over Moscow to help stop Ukraine war",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3371987/zelensky-hopes-beijing-can-use-influence-over-moscow-help-stop-ukraine-war",
+        "summary": "Ukrainian President Volodymyr Zelensky said on Friday that Beijing has “influence” over Moscow it should use to stop the war in Ukraine, and that a proposed summit meeting of the US, Chinese and Russian leaders must not lead to the division of his war-torn country. Speaking virtually at an event hosted by Washington-based Hudson Institute think tank, Zelensky said he did not know what would be discussed at the potential meeting between US President Donald Trump, Chinese President Xi Jinping and...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-23T20:51:17+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Trump to cut some Canada tariffs to help Maine lawmaker’s re-election bid",
         "url": "https://www.scmp.com/news/world/united-states-canada/article/3371986/trump-lowers-some-canada-tariffs-help-maine-lawmakers-re-election-bid",
-        "summary": "The Trump administration is expanding tariff exemptions to more Canadian products, a move that may help boost Republican Senator Susan Collins’ re-election campaign in Maine. Collins announced in a statement on Friday that the exemptions would apply to certain paper, plastic, machinery and seaweed products, saying they would help the state’s rural and coastal economy, including the blueberry, potato, apple and seaweed industries. “Many of our farmers and growers rely on specialised equipment,...",
+        "summary": "The Trump administration is expanding tariff exemptions to more Canadian products, a move that may help boost Republican US Senator Susan Collins’ re-election campaign in Maine. Collins announced in a statement on Friday that the exemptions would apply to certain paper, plastic, machinery and seaweed products, saying they would help the state’s rural and coastal economy, including the blueberry, potato, apple and seaweed industries. “Many of our farmers and growers rely on specialised equipment,...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-23T20:04:15+00:00",
         "stream": "higher",
@@ -7378,7 +7666,7 @@
       {
         "title": "Gunmen kill 7 at Jordan church, king vows retaliation",
         "url": "https://www.scmp.com/news/world/middle-east/article/3371984/gunmen-kill-7-jordan-church-king-vows-retaliation",
-        "summary": "Gunmen killed at least seven people and wounded dozens at a church in southern Jordan on Friday, authorities said, with the king vowing retaliation for the rare attack on Christians in the majority Sunni Muslim kingdom. Assailants stormed the compound of a Greek Orthodox church in the village of Hammoud in Karak governorate and opened fire, authorities said. The gunmen got out of a vehicle and started shooting during a funeral procession, the public security directorate said in a statement,...",
+        "summary": "Gunmen killed at least seven people and wounded dozens at a church in southern Jordan on Friday, with the king vowing retaliation for the rare attack on Christians in the majority Sunni Muslim kingdom. Assailants stormed the compound of a Greek Orthodox church in the village of Hammoud in Karak governorate and opened fire, authorities said. The gunmen got out of a vehicle and started shooting during a funeral procession, the public security directorate said in a statement, adding that a hunt was...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-23T17:17:41+00:00",
         "stream": "higher",
@@ -7390,7 +7678,7 @@
       {
         "title": "Melania Trump brokers ceasefire in Russian-occupied Ukraine city, White House says",
         "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371983/melania-trump-brokers-ceasefire-russian-occupied-ukraine-city-white-house-says",
-        "summary": "US first lady Melania Trump has brokered a coming ceasefire between Russia and Ukraine in the war-ravaged Ukrainian city of Oleshky to allow for humanitarian aid and the evacuation of civilians, the White House announced on Friday. The localised ceasefire is set to begin Thursday, with the American first lady saying in a news release that the situation there is “on the brink of disaster”. The White House said Melania Trump had initiated the discussions and that she and a representative worked...",
+        "summary": "Ukraine’s top negotiator involved in a humanitarian mission led by US first lady Melania Trump said that a local ceasefire with Russia will start on Tuesday – two days before the mission begins – and last several days. Ukrainian, Russian and US negotiators reached a deal on Friday to provide humanitarian aid in the Russian-occupied town of Oleshky, in the war-divided region of Kherson in southern Ukraine. Dmytro Lubinets, the Ukrainian ombudsman and his country’s chief negotiator in the talks,...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-23T16:26:41+00:00",
         "stream": "higher",
@@ -7669,162 +7957,6 @@
         "summary": "Japanese universities and other educational institutions more than doubled their applications for defence ministry research funding this year to a record 291, up from 123 last year, as Tokyo moves to strengthen its defences. The increase is the clearest sign yet that academia’s decades-long resistance to military-linked work is easing. The bids accounted for more than half the record 560 applications received by the ministry this year, up from 340 last year, with the rest coming from public...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-23T09:31:50+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Girl arrested after taking US$111 from Russia to poison Ukrainian troops",
-        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371930/girl-arrested-after-taking-us111-russia-poison-ukrainian-troops",
-        "summary": "Ukrainian police said on Friday they had detained a 17-year-old girl suspected of helping Russia’s security services to poison Ukrainian soldiers and that two had died. Ukraine and Russia have throughout their war since 2022 accused each other of recruiting minors for sabotage acts including poisoning. The girl, who was not named, is suspected of having packaged deadly drugs and sending them to Ukrainian soldiers she contacted by Telegram, a police statement said. She was arrested by police in...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T09:24:30+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "China party meeting, stocks slump, HSBC leads earnings",
-        "url": "https://www.scmp.com/plus/news/china/politics/article/3371921/china-party-meeting-stocks-slump-hsbc-leads-earnings",
-        "summary": "A key Communist Party meeting next week in Beijing is likely to be dominated by two themes – the renewal of President Xi Jinping’s long-standing anti-corruption drive and the hunt for clues about a looming leadership reshuffle. “Major issues related to advancing full and rigorous party self-governance” will top the agenda at the fifth plenum of the party’s Central Committee, which runs from Monday to Wednesday. Plenums, which usually take place once a year, draw about 300 delegates and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T09:06:52+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Former HSBC insurance veteran Edward Moncreiffe joins AIA in latest senior talent move",
-        "url": "https://www.scmp.com/business/banking-finance/article/3371907/former-hsbc-insurance-veteran-edward-moncreiffe-joins-aia-latest-senior-talent-move",
-        "summary": "Former HSBC Holdings global insurance head Edward Moncreiffe will join rival AIA Group as regional CEO from November 2, following a path taken by former HSBC Group chairman Mark Tucker, who returned to the Asia-Pacific region’s largest insurer as non-executive chairman last year. Moncreiffe will oversee AIA’s businesses in India, Sri Lanka, Australia and New Zealand, while serving on the group’s executive committee, according to a company statement issued on Friday. He will report to group CEO...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T09:00:10+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "How the Philippines’ energy crisis is opening doors for deeper US military ties",
-        "url": "https://www.scmp.com/week-asia/politics/article/3371877/how-philippines-energy-crisis-opening-doors-deeper-us-military-ties",
-        "summary": "The Philippines is turning to the United States to build its oil stockpile amid the global energy crunch, with observers saying the move could also serve Washington’s military interests and deepen strategic ties. A bilateral deal could deliver more immediate benefits than a broader Asean stockpile, which would entail coordination hurdles, analysts said, but questions remain over how quickly Manila could establish such a reserve and whether it would meaningfully reduce long-term dependence on...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T09:00:07+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Netanyahu orders West Bank closure after attack on Israelis ends in gun battle",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3371912/netanyahu-orders-west-bank-closure-after-deadly-checkpoint-shoot-out",
-        "summary": "Prime Minister Benjamin Netanyahu threatened a military operation in the occupied West Bank on a scale unseen in decades after Palestinian gunmen killed two Israeli soldiers on Friday in an attack near Hebron days before the national election. A first step would see residents displaced, homes searched and “terrorist infrastructure” destroyed, said Netanyahu, who is in the midst of a tight race for a new term in Tuesday’s vote. Militant group Hamas, without claiming responsibility, praised the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T08:29:22+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Hong Kong marks hottest ‘Frost’ solar term on record at 32.3 degrees Celsius",
-        "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3371910/hong-kong-marks-hottest-frost-solar-term-record-321-degrees-celsius",
-        "summary": "Hong Kong recorded its highest-ever temperature for the traditional Chinese calendar’s “Frost” solar term on Friday, with the weather forecaster warning of a very dry weekend ahead. The Hong Kong Observatory said the temperature at its headquarters in Tsim Sha Tsui reached 32.3 degrees Celsius by 3.30pm, the highest of the day. Frost, the 18th of the Chinese lunisolar calendar’s 24 solar terms, began on October 23. The terms mark natural phenomena and seasonal changes. Temperatures in the city...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T08:20:32+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Typhoon Champi grounds hundreds of Taiwan flights, threatens Shanghai and Japan",
-        "url": "https://www.scmp.com/news/china/politics/article/3371901/typhoon-champi-grounds-hundreds-flights-taiwan-threatens-eastern-mainland-china",
-        "summary": "Flight disruptions and cancellations surged across East Asia as Typhoon Champi approached Taiwan on Friday, prompting emergency precautions in eastern mainland China, including Shanghai, and in Japan during a large-scale joint military drill with the US. Taiwan’s transport ministry said 262 local flights and 715 international and cross-strait flights had been cancelled as of 10am on Friday. The island’s largest airports – Taiwan Taoyuan, Taipei Songshan, Kaohsiung and Taichung – faced widespread...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T08:00:39+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "China’s humanoid robots hunt for work in South Korea as Seoul bets on physical AI",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3371888/chinas-humanoid-robots-hunt-work-south-korea-seoul-bets-physical-ai",
-        "summary": "This article was first published by The Korea Times in a partnership with the South China Morning Post. Chinese humanoid robot makers are accelerating efforts to gain a foothold in South Korea, moving beyond dance performances and showroom displays to factory trials and commercial deployments, as Seoul ramps up investment in physical artificial intelligence. A growing number of Chinese robotics companies – including Hong Kong-listed UBTech Robotics, start-up Anyverse Dynamics, Shanghai-based...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T08:00:33+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Malaysia’s oil-rich Sarawak heads to polls, forcing Anwar into yet another federal test",
-        "url": "https://www.scmp.com/week-asia/politics/article/3371903/malaysias-oil-rich-sarawak-heads-polls-forcing-anwar-yet-another-federal-test",
-        "summary": "Malaysia’s oil-rich Sarawak state will dissolve its assembly on Monday in a test of political strength for a powerful regional coalition whose support has become crucial to Prime Minister Anwar Ibrahim’s government. Anwar is facing growing pressure following electoral setbacks for his own coalition in Peninsular Malaysia, while over in Borneo, ruling Gabungan Parti Sarawak (GPS) continues to press for greater autonomy and control over the state’s vast oil and gas resources. Sarawak Premier Abang...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T07:51:10+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "China’s head transplant advocate Ren Xiaoping completes landmark spinal surgery in Russia",
-        "url": "https://www.scmp.com/news/china/science/article/3371900/chinas-head-transplant-advocate-ren-xiaoping-completes-12-hour-landmark-surgery-russia",
-        "summary": "Ren Xiaoping, who once vowed to perform the world’s first human head transplant, has operated on a patient’s severed spinal cord in a 12-hour landmark operation in Moscow, according to the Chinese surgeon and Russian state sources. Ren said the procedure was carried out at the Sklifosovsky Research Institute for Emergency Medicine in Russia last week. “It was our Guangxi University of Chinese Medicine Second Affiliated Hospital and the Russian team working together,” Ren told the South China...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T07:44:22+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Hong Kong constable paralysed in 2005 knife attack laid to rest with full honours",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3371899/hong-kong-constable-paralysed-2005-knife-attack-laid-rest-full-honours",
-        "summary": "Hong Kong’s top government officials and police officers paid their final respects on Friday to a former constable who died 21 years after being left paralysed in an attack while on duty. Jacky Chu Chun-kwok, who died last month aged 52, was laid to rest following a service at the Universal Funeral Parlour in Hung Hom at 10.30am, which was attended by Chief Executive John Lee Ka-chiu and Secretary for Security Chris Tang Ping-keung. The mood was sombre as family members, friends, colleagues and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T07:42:51+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "WHO warns Africa faces ‘complex’ Ebola outbreak as virus reaches Nigeria",
-        "url": "https://www.scmp.com/news/world/africa/article/3371887/who-warns-africa-faces-complex-ebola-outbreak-virus-reaches-nigeria",
-        "summary": "The World Health Organization has warned that Africa faced a “complex” Ebola outbreak after the virus crossed from east Africa to Nigeria, marking the first case in the west of the continent. Nigeria on Tuesday had announced an imported case of the Bundibugyo strain, currently causing a major Ebola outbreak in the Democratic Republic of Congo. It was detected in the wife of a diplomat who had travelled from Uganda to the Nigerian capital Abuja. Health minister Muhammad Ali Pate said Thursday the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T06:49:24+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Typhoon Champi disrupts more than 70 flights between Hong Kong and Taiwan",
-        "url": "https://www.scmp.com/news/hong-kong/transport/article/3371885/super-typhoon-champi-disrupts-more-70-flights-between-hong-kong-and-taiwan",
-        "summary": "More than 70 flights between Hong Kong and Taiwan have been cancelled as Typhoon Champi approaches the island ahead of a possible landfall later on Friday. As of noon on Friday, more than 30 flights between the city and Taiwan Taoyuan International Airport had been cancelled, according to a South China Morning Post check of the Hong Kong airport’s website. Nine outbound flights to Kaohsiung International Airport and Taichung International Airport were also cancelled. The affected services were...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T06:39:58+00:00",
         "stream": "higher",
         "streams": [
           "higher"
@@ -8268,6 +8400,30 @@
     ],
     "north_america": [
       {
+        "title": "Jane Doe Can Remain Anonymous in Cornell Case, Judge Says",
+        "url": "https://www.nytimes.com/2026/10/23/nyregion/jane-doe-can-remain-anonymous-in-cornell-case-judge-says.html",
+        "summary": "The decision comes as both Jane Doe and the men she has accused of sexually assaulting her have faced online harassment and attempts to reveal identifying information.",
+        "source": "New York Times — Education",
+        "published": "2026-10-24T01:04:19+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Alpha School Claims to Teach Kids Twice as Fast. Many Don’t Make It.",
+        "url": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html",
+        "summary": "Alpha School, a private network, is spreading into public education. While its students’ test scores are high, some parents and educators say it doesn’t live up to the hype.",
+        "source": "New York Times — Education",
+        "published": "2026-10-24T01:00:40+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
         "title": "Should Horse-Drawn Carriages Be Banned in New York City?",
         "url": "https://www.nytimes.com/2026/10/23/opinion/horse-carriage-ban-new-york.html",
         "summary": "Readers react to the City Council’s vote to impose a ban after a passenger’s death. Also: Integrated schools.",
@@ -8296,7 +8452,7 @@
         "url": "https://www.nytimes.com/2026/10/23/us/bard-college-president-marvin-krislov.html",
         "summary": "The new president, Marvin Krislov, has led Pace University and Oberlin College. He replaces Leon Botstein, who retired and has faced scrutiny over ties to Jeffrey Epstein.",
         "source": "New York Times — Education",
-        "published": "2026-10-23T17:10:57+00:00",
+        "published": "2026-10-23T17:10:58+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8336,18 +8492,6 @@
         "stream": "school",
         "streams": [
           "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Alpha School Claims to Teach Kids Twice as Fast. Many Don’t Make It.",
-        "url": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html",
-        "summary": "Alpha School, a private network, is spreading into public education. While its students’ test scores are high, some parents and educators say it doesn’t live up to the hype.",
-        "source": "New York Times — Education",
-        "published": "2026-10-23T12:31:23+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "north_america"
       },
@@ -8541,18 +8685,6 @@
         "streams": [
           "funding",
           "foundational"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Bard College Hires Forensic Firm to Investigate a Damning Epstein Email",
-        "url": "https://www.nytimes.com/2026/10/22/us/bard-college-forensic-cybersecurity-epstein-email.html",
-        "summary": "The firm suggested the former Bard president’s email to Jeffrey Epstein about a young woman may have been fake. Congressional Democrats who publicized the message disagree.",
-        "source": "New York Times — Education",
-        "published": "2026-10-22T22:45:44+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "north_america"
       },
