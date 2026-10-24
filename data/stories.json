@@ -308,6 +308,18 @@
     ],
     "school": [
       {
+        "title": "New Accreditation Rule Downgrades Dozens of Oklahoma Districts for Academics",
+        "url": "https://www.the74million.org/article/new-accreditation-rule-downgrades-dozens-of-oklahoma-districts-for-academics/",
+        "summary": "OKLAHOMA CITY — Fifty-nine school districts, including the three largest in the state, have had their accreditation status downgraded over poor reading and math test scores. The Oklahoma State Board of Education voted Thursday to designate the districts as “accredited with warning” along with eight others that had non-academic deficiencies. Accredited with warning is defined […]",
+        "source": "The 74 Million",
+        "published": "2026-10-24T16:30:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
         "title": "Ohio Spent More Than a Billion Dollars on Private School Vouchers This Year",
         "url": "https://www.the74million.org/article/ohio-spent-more-than-a-billion-dollars-on-private-school-vouchers-this-year/",
         "summary": "For the second year in a row, Ohio spent more than a billion dollars on private school vouchers, this time for the 2026 fiscal year. The total amount for Ohio’s five private school voucher programs was $1.173 billion, according to data from the Ohio Department of Education and Workforce. Nearly half of the money ($532.8 […]",
@@ -324,7 +336,7 @@
         "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
         "summary": "A movement that began with a few high schools has broadened to encompass labor unions and other activists.",
         "source": "New York Times — Education",
-        "published": "2026-10-24T09:46:49+00:00",
+        "published": "2026-10-24T09:46:50+00:00",
         "region": "north_america",
         "streams": [
           "school"
@@ -350,6 +362,18 @@
         "source": "South China Morning Post — Education",
         "published": "2026-10-24T01:00:21+00:00",
         "region": "east_asia",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
+        "title": "Empowering elementary school leaders for inclusive learning: integrating cultural diversity, digital competence, and academic optimism",
+        "url": "https://www.nature.com/articles/s41599-026-09527-4",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-24T00:00:00+00:00",
+        "region": "global",
         "streams": [
           "school"
         ],
@@ -702,18 +726,6 @@
         "source": "BBC — Education",
         "published": "2026-10-20T05:22:34+00:00",
         "region": "global",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "State Officials Consider Returning to Paper Exams for NYC",
-        "url": "https://www.the74million.org/article/state-officials-consider-returning-to-paper-exams-for-nyc/",
-        "summary": "Will state officials soon allow New York City to return to paper-and-pencil standardized tests in grades 3-8? The state Education Department isn’t ruling it out after more than half of New York City Council members signed a letter this week urging state officials to grant an analog option for state testing — just months after […]",
-        "source": "The 74 Million",
-        "published": "2026-10-19T18:30:00+00:00",
-        "region": "north_america",
         "streams": [
           "school"
         ],
@@ -1198,6 +1210,42 @@
     ],
     "higher": [
       {
+        "title": "Ukraine’s Starlink speeds restored after week of frontline disruption",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372040/ukraines-starlink-speeds-restored-after-week-frontline-disruption",
+        "summary": "Ukraine’s access to Starlink and Starshield satellite links has been restored to the speeds it had before restrictions that disrupted frontline operations for more than a week, Ukrainian President Volodymyr Zelensky said on Saturday. “The speeds are now where they need to be,” Zelensky said on social media, adding that restoration began overnight and was sufficient by Saturday morning, improving frontline logistics and defence against Russian jet-powered Shahed drones. The restoration follows a...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T18:00:35+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "German man detained after fire wrecks Hitler’s ‘Eagle’s Nest’ mountain retreat",
+        "url": "https://www.scmp.com/news/world/europe/article/3372039/german-man-detained-after-fire-wrecks-hitlers-eagles-nest-mountain-retreat",
+        "summary": "Firefighters battled on Saturday to put out flames that tore through Adolf Hitler’s “Eagle’s Nest” mountain retreat while police detained a suspect who investigators said may have psychiatric problems. The alarm was raised late on Friday at the former guest house for top Nazi officials, 1,834 metres (6,000 feet) high in the Bavarian Alps. As snow fell on the Alpine peak, the Eagle’s Nest was still engulfed in flames at dawn on Saturday, and fire chief Michael Brandl told a press conference the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T16:35:33+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Man arrested over suspected rat poison in stray cat food at Kowloon park",
+        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372037/man-arrested-over-suspected-rat-poison-stray-cat-food-kowloon-park",
+        "summary": "Police have arrested a 34-year-old man who allegedly mixed rat poison into food left for stray cats in a Kowloon park and was found in possession of a knife. The force said it received a report at around 3.30am on Saturday that a man was suspected of putting poison in cat food that animal welfare volunteers had placed near tennis courts in Shek Kip Mei Park. Officers arrived at the scene and seized a packet of suspected rat poison and a fruit knife measuring around 14cm (5.5 inches) in length...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T15:47:48+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
         "title": "Saudi strikes kill 11 in Yemen as Houthi missiles target Saudi cities",
         "url": "https://www.scmp.com/news/world/middle-east/article/3372035/saudi-strikes-kill-11-yemen-houthi-missiles-target-saudi-cities",
         "summary": "Houthi media reported that Saudi strikes killed 11 people in Yemeni capital Sanaa on Saturday, shortly after the Saudi-led coalition fighting them said it had intercepted two missiles targeting Saudi cities. The Houthis’ Al-Masirah outlet reported a series of “Saudi enemy air strikes” targeting Sanaa, including one on a house that killed at least four people and wounded several others. A separate strike at a residence building for cement factory workers in the Sanaa governorate killed six women...",
@@ -1258,9 +1306,9 @@
         "stream": "higher"
       },
       {
-        "title": "France on high alert as Paris march begins in uneasy calm",
+        "title": "Small clashes erupt at Paris protests, as police remain on high alert",
         "url": "https://www.scmp.com/news/china/diplomacy/article/3372031/france-high-alert-paris-march-begins-uneasy-calm",
-        "summary": "A sea of demonstrators packed the southern edge of Paris on Saturday as protests got under way in an uneasy festive mood, with early marches remaining peaceful even as heavily reinforced police braced for potential unrest across the country. Elsewhere in France, police began dispersing unauthorised gatherings in Lyon and Nice, firing tear gas in Lyon as demonstrators defied local protest bans. French authorities expect up to half a million people to hit the streets on Saturday across the...",
+        "summary": "Protests across France were largely peaceful on Saturday, despite heightened tensions and sporadic clashes between protesters and the police, but authorities remained on high alert as night fell. The French Interior Ministry counted 410,000 people who hit the streets across the country on Saturday, down from the 550,000 who protested last weekend. The October 17 demonstrations descended into looting and the worst urban rioting France had seen in years. 249 protests took place in France on...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-24T13:17:24+00:00",
         "region": "east_asia",
@@ -1440,7 +1488,7 @@
       {
         "title": "4 pilots killed in mid-air collision of Philippine military planes",
         "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372014/4-pilots-killed-mid-air-collision-philippine-military-planes",
-        "summary": "Two Philippine Air ⁠Force ⁠aircraft crashed during ⁠a training flight at an air base south of the capital Manila, killing four pilots, the military said on Saturday. The aviation accident on Friday involved two SF-260 aircraft at the Fernando Air Base in Batangas province, the Philippine Air Force said in ⁠a statement. “Both aircraft went down within the base perimeter, with no other casualties reported,” Philippine Air Force spokesman Colonel Alvin Capinguian said in a statement. An...",
+        "summary": "Two Philippine air force planes collided during a training flight and crashed at an airbase south of Manila, killing all four pilots on board, Philippine officials said on Saturday. The two SF-260 aircraft collided while flying at a low altitude on Friday afternoon then crashed at Fernando Air Base in Lipa city in the coastal province of Batangas south of the capital. There were no injuries on the ground, the officials said. The air force did not provide details of what it called an accidental...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-24T07:42:50+00:00",
         "region": "east_asia",
@@ -1743,42 +1791,6 @@
         "summary": "Ukrainian President Volodymyr Zelensky said on Friday that Beijing has “influence” over Moscow it should use to stop the war in Ukraine, and that a proposed summit meeting of the US, Chinese and Russian leaders must not lead to the division of his war-torn country. Speaking virtually at an event hosted by Washington-based Hudson Institute think tank, Zelensky said he did not know what would be discussed at the potential meeting between US President Donald Trump, Chinese President Xi Jinping and...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-23T20:51:17+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Trump to cut some Canada tariffs to help Maine lawmaker’s re-election bid",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3371986/trump-lowers-some-canada-tariffs-help-maine-lawmakers-re-election-bid",
-        "summary": "The Trump administration is expanding tariff exemptions to more Canadian products, a move that may help boost Republican US Senator Susan Collins’ re-election campaign in Maine. Collins announced in a statement on Friday that the exemptions would apply to certain paper, plastic, machinery and seaweed products, saying they would help the state’s rural and coastal economy, including the blueberry, potato, apple and seaweed industries. “Many of our farmers and growers rely on specialised equipment,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T20:04:15+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Macron condemns ‘racist terrorist attack’ after deadly shooting near Paris",
-        "url": "https://www.scmp.com/news/world/europe/article/3371985/macron-condemns-racist-terrorist-attack-after-deadly-shooting-near-paris",
-        "summary": "A gunman firing from a car killed one person and wounded five – including a 12-year-old girl shot eight times – in the Paris suburbs on Friday, in what the French president called a “racist terrorist attack”. The man was “firing at random, wanting to cause a bloodbath” as he drove through the working-class town of Trappes southwest of Paris and neighbouring La Verriere, Trappes mayor Ali Rabeh said. Most of the victims were from foreign backgrounds and prosecutors are investigating whether the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T18:13:09+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Gunmen kill 7 at Jordan church, king vows retaliation",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3371984/gunmen-kill-7-jordan-church-king-vows-retaliation",
-        "summary": "Gunmen killed at least seven people and wounded dozens at a church in southern Jordan on Friday, with the king vowing retaliation for the rare attack on Christians in the majority Sunni Muslim kingdom. Assailants stormed the compound of a Greek Orthodox church in the village of Hammoud in Karak governorate and opened fire, authorities said. The gunmen got out of a vehicle and started shooting during a funeral procession, the public security directorate said in a statement, adding that a hunt was...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T17:17:41+00:00",
         "region": "east_asia",
         "streams": [
           "higher"
@@ -3669,11 +3681,35 @@
     ],
     "policy": [
       {
-        "title": "Serbia elections test student movement demanding justice for 16 victims",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss",
-        "summary": "Serbia elections test student movement demanding justice for 16 victims",
+        "title": "Violent Protests Resurface in Albania: What to Know",
+        "url": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
+        "summary": "Thousands have marched in student demonstrations over education, the cost of living, and a project linked to Jared Kushner, President Trump’s son-in-law.",
+        "source": "New York Times — Education",
+        "published": "2026-10-24T18:50:20+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "None of This Is Normal",
+        "url": "https://www.nytimes.com/2026/10/24/opinion/midterms-trump-america.html",
+        "summary": "The fundamental issue is Trump’s shredding of the model that made America the world’s leading country.",
+        "source": "New York Times — Education",
+        "published": "2026-10-24T17:52:31+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Serbian elections: A country where students may actually take power",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss",
+        "summary": "Serbia is voting in an early election, where the most powerful politician in the country, has a serious rival.",
         "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-24T12:18:06+00:00",
+        "published": "2026-10-24T16:36:44+00:00",
         "region": "global",
         "streams": [
           "policy"
@@ -3687,18 +3723,6 @@
         "source": "The Guardian — Education",
         "published": "2026-10-24T12:00:33+00:00",
         "region": "global",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "What’s at Stake in the Midterms",
-        "url": "https://www.nytimes.com/2026/10/24/opinion/midterms-trump-america.html",
-        "summary": "The fundamental issue is Trump’s shredding of the model that made America the world’s leading country.",
-        "source": "New York Times — Education",
-        "published": "2026-10-24T11:00:15+00:00",
-        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -3769,7 +3793,7 @@
         "url": "https://www.nytimes.com/2026/10/23/nyregion/jane-doe-can-remain-anonymous-in-cornell-case-judge-says.html",
         "summary": "The decision comes as both Jane Doe and the men she has accused of sexually assaulting her have faced online harassment and attempts to reveal identifying information.",
         "source": "New York Times — Education",
-        "published": "2026-10-24T01:04:19+00:00",
+        "published": "2026-10-24T01:04:20+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -3783,18 +3807,6 @@
         "source": "BBC — Education",
         "published": "2026-10-23T23:02:25+00:00",
         "region": "global",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Should Horse-Drawn Carriages Be Banned in New York City?",
-        "url": "https://www.nytimes.com/2026/10/23/opinion/horse-carriage-ban-new-york.html",
-        "summary": "Readers react to the City Council’s vote to impose a ban after a passenger’s death. Also: Integrated schools.",
-        "source": "New York Times — Education",
-        "published": "2026-10-23T18:48:47+00:00",
-        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -4593,18 +4605,6 @@
         "stream": "policy"
       },
       {
-        "title": "What to Know About the Violent Protests in Albania",
-        "url": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
-        "summary": "Student demonstrations over education converged with broader protests against rising living costs and a luxury development linked to Jared Kushner, President Trump’s son-in-law.",
-        "source": "New York Times — Education",
-        "published": "2026-10-17T18:57:34+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
         "title": "How Samacheer Kalvi came to existence in Tamil Nadu",
         "url": "https://www.thehindu.com/news/national/tamil-nadu/the-fight-for-an-equitable-education-how-samacheer-kalvi-came-to-existence-in-tamil-nadu/article71581326.ece",
         "summary": "In 2011, the transition to the uniform system of school education in Tamil Nadu faced a political hurdle when the AIADMK came to power",
@@ -4622,6 +4622,18 @@
         "summary": "Information on colleges, admissions, scholarships, events, MoUs, and more",
         "source": "The Hindu — Education",
         "published": "2026-10-17T18:05:12+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Education Ministry forms panel to investigate student’s death at IIIT Ranchi",
+        "url": "https://www.thehindu.com/news/national/jharkhand/three-member-panel-set-up-to-examine-death-of-student-at-iiit-ranchi-ministry-of-education/article71578780.ece",
+        "summary": "The Committee has been mandated to examine the circumstances surrounding the incident",
+        "source": "The Hindu — Education",
+        "published": "2026-10-17T17:51:17+00:00",
         "region": "south_asia",
         "streams": [
           "policy"
@@ -5436,18 +5448,6 @@
         "stream": "research"
       },
       {
-        "title": "A historical and comparative analysis on homebound instruction for children with severe disabilities in China",
-        "url": "https://www.nature.com/articles/s41599-026-09200-w",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-15T00:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
         "title": "Technical solutions to political problems: Can development finally admit politics matters?",
         "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/10/14/technical-solutions-to-political-problems-can-development-finally-admit-politics-matters/",
         "summary": "Despite decades of investment and expanding technical knowledge, only 17% of SDG targets were on track in 2024. Progress on more than a third had stalled or reversed. Amid shrinking aid budgets and a strained multilateral system, Lennart Fleck argues that the development sector faces a critical test. Yet its response remains strikingly familiar: more … Continued The post Technical solutions to political problems: Can development finally admit politics matters? first appeared on LSE International Development .",
@@ -5590,9 +5590,82 @@
           "research"
         ],
         "stream": "research"
+      },
+      {
+        "title": "Connecting the dots to understand complex systems in education: A systematic review of psychological networks",
+        "url": "https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.70091?af=R",
+        "summary": "British Journal of Educational Technology, EarlyView.",
+        "source": "British Journal of Educational Technology (Wiley)",
+        "published": "2026-10-01T05:04:11+00:00",
+        "region": "global",
+        "streams": [
+          "research",
+          "edtech"
+        ],
+        "stream": "research"
       }
     ],
     "funding": [
+      {
+        "title": "IDM-Africa Fellowship Programme 2027",
+        "url": "https://opportunitydesk.org/2026/10/24/idm-africa-fellowship-programme-2027/",
+        "summary": "Deadline: October 30, 2026 Applications are open for the IDM-Africa Fellowship Programme 2027. IDM-Africa invites applications from early- and mid-career scientists in sub-Saharan Africa (SSA) for its annual Fellowship Programme in infectious-disease modelling. The Fellowship supports scientists who already have foundational training and practical experience in infectious-disease modelling to develop an applied, policy-relevant modelling project [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-24T16:15:44+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Anthropic STEM Fellowship 2027 (up to $167,000)",
+        "url": "https://opportunitydesk.org/2026/10/24/anthropic-stem-fellowship-2027/",
+        "summary": "Deadline: October 28, 2026 Applications are open for the Anthropic STEM Fellowship 2027. The Anthropic STEM Fellows Program brings researchers and experts from across science and engineering into Anthropic for four months to take on the grand challenges of their fields with Claude. Working in small pods of Fellows from related fields, you will pair [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-24T16:03:54+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Atlantic Council GeoEconomics Center Young Global Professionals Program – Spring 2027",
+        "url": "https://opportunitydesk.org/2026/10/24/geoeconomics-center-young-global-professionals-program-spring-2027/",
+        "summary": "Deadline: November 8, 2026 Applications are open for the Atlantic Council GeoEconomics Center Young Global Professionals Program – Spring 2027. At the intersection of economics, finance, and foreign policy, the GeoEconomics Center (GeoEcon Center) is a translation hub with the goal of helping shape a better global economic future. Their interns are an integral part [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-24T15:25:44+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Congressional Coalition on Adoption Institute (CCAI) Foster Youth Internship Program 2027",
+        "url": "https://opportunitydesk.org/2026/10/24/ccai-foster-youth-internship-program-2027/",
+        "summary": "Deadline: November 1, 2026 Applications are open for the Congressional Coalition on Adoption Institute (CCAI) Foster Youth Internship Program 2027. The CCAI Foster Youth Internship (FYI) Program is a competitive national internship for students and recent graduates with lived experience in foster care who are interested in federal policy and advocacy. Participants write a federal [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-24T14:47:03+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Swedish Institute Pioneering Women in STEM Scholarship 2027 (Fully-funded)",
+        "url": "https://opportunitydesk.org/2026/10/24/si-pioneering-women-in-stem-scholarship-2027/",
+        "summary": "Deadline: January 15, 2027 Applications are open for the Swedish Institute Pioneering Women in STEM Scholarship 2027. The Pioneering Women in STEM scholarship supports women who want to lead innovation, strengthen their professional capacity, tackle complex challenges, and contribute to more inclusive and sustainable societies. The scholarship is awarded for master’s studies in Sweden to [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-24T14:38:23+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
       {
         "title": "Why the vacancies in senior faculty positions in Indian HEIs is a cause for concern",
         "url": "https://www.thehindu.com/education/why-the-vacancies-in-senior-faculty-positions-in-indian-heis-is-a-cause-for-concern/article71600922.ece",
@@ -5600,6 +5673,66 @@
         "source": "The Hindu — Education",
         "published": "2026-10-24T10:11:00+00:00",
         "region": "south_asia",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Global Changemakers Media Impact Academy 2026/2027",
+        "url": "https://opportunitydesk.org/2026/10/23/global-changemakers-media-impact-academy-2026-2027/",
+        "summary": "Deadline: Unspecified Applications for the Global Changemakers Media Impact Academy 2026/2027 are now open. The Media Impact Academy is a Nationwide initiative engaging 500 youth (ages 18–24) across the United States. Designed for young adults navigating early financial independence, this 90-day challenge equips you with practical financial skills, project management tools, and storytelling capabilities to [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T16:44:36+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "MATTER Groundwork Innovator Accelerator 2027",
+        "url": "https://opportunitydesk.org/2026/10/23/matter-groundwork-innovator-accelerator-2027/",
+        "summary": "Deadline: November 22, 2026 Applications are open for the MATTER Groundwork Innovator Accelerator 2027. Groundwork is MATTER’s newest offering — an 11-week accelerator program for digital health innovators at the earliest stages of developing their ideas and turning them into businesses. Designed to help entrepreneurs navigate the complexities of healthcare and lay the groundwork for [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T16:05:17+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "World Food Forum Youth Policy Board 2027-2028",
+        "url": "https://opportunitydesk.org/2026/10/23/world-food-forum-youth-policy-board-2027-2028/",
+        "summary": "Deadline: November 30, 2026 Applicationsn are open for the World Food Forum Youth Policy Board 2027-2028. The WFF Youth Policy Board (YPB) was launched in 2021 with the aim of providing a strategic youth-led vision to the policy-related activities carried out by the WFF Youth Initiative through the Youth Assembly. The YPB is an independent [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T15:52:53+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "PATH Global Health Strategy Internship 2026 (up to $1,000)",
+        "url": "https://opportunitydesk.org/2026/10/23/path-global-health-strategy-internship-2026/",
+        "summary": "Deadline: October 31, 2026 Applications are open for the PATH Global Health Strategy Internship 2026. Under the direction of the CEO & President, the Office of the President works to guide PATH’s strategic approach internally and at global and country levels. PATH has set out to expand the scope of their respectful partnerships with national [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T15:38:33+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Columbia University Italian Academy Fellowship Program 2027-2028",
+        "url": "https://opportunitydesk.org/2026/10/23/columbia-university-italian-academy-fellowship-2027-2028/",
+        "summary": "Deadline: December 4, 2026 Applications are open for the Columbia University Italian Academy Fellowship Program 2027-2028. The multi-disciplinary Fellowship Program is the heart of the work of the Italian Academy. Fellowships are open to scholars who wish to devote a semester or a full academic year to genuinely innovative work in the humanities, sciences, or [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T14:55:57+00:00",
+        "region": "global",
         "streams": [
           "funding"
         ],
@@ -5756,6 +5889,54 @@
   "regions": {
     "global": [
       {
+        "title": "Serbian elections: A country where students may actually take power",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss",
+        "summary": "Serbia is voting in an early election, where the most powerful politician in the country, has a serious rival.",
+        "source": "Al Jazeera — News (education-gated)",
+        "published": "2026-10-24T16:36:44+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "IDM-Africa Fellowship Programme 2027",
+        "url": "https://opportunitydesk.org/2026/10/24/idm-africa-fellowship-programme-2027/",
+        "summary": "Deadline: October 30, 2026 Applications are open for the IDM-Africa Fellowship Programme 2027. IDM-Africa invites applications from early- and mid-career scientists in sub-Saharan Africa (SSA) for its annual Fellowship Programme in infectious-disease modelling. The Fellowship supports scientists who already have foundational training and practical experience in infectious-disease modelling to develop an applied, policy-relevant modelling project [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-24T16:15:44+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Anthropic STEM Fellowship 2027 (up to $167,000)",
+        "url": "https://opportunitydesk.org/2026/10/24/anthropic-stem-fellowship-2027/",
+        "summary": "Deadline: October 28, 2026 Applications are open for the Anthropic STEM Fellowship 2027. The Anthropic STEM Fellows Program brings researchers and experts from across science and engineering into Anthropic for four months to take on the grand challenges of their fields with Claude. Working in small pods of Fellows from related fields, you will pair [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-24T16:03:54+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Atlantic Council GeoEconomics Center Young Global Professionals Program – Spring 2027",
+        "url": "https://opportunitydesk.org/2026/10/24/geoeconomics-center-young-global-professionals-program-spring-2027/",
+        "summary": "Deadline: November 8, 2026 Applications are open for the Atlantic Council GeoEconomics Center Young Global Professionals Program – Spring 2027. At the intersection of economics, finance, and foreign policy, the GeoEconomics Center (GeoEcon Center) is a translation hub with the goal of helping shape a better global economic future. Their interns are an integral part [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-24T15:25:44+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
         "title": "From Quiz Scores to Better Learning Decisions: A Practical Review Routine for Online Courses",
         "url": "https://elearningindustry.com/from-quiz-scores-to-better-learning-decisions-a-practical-review-routine-for-online-courses",
         "summary": "A question-level workflow for diagnosing errors, designing follow-up practice, and deciding what learners should do next. This post was first published on eLearning Industry .",
@@ -5768,14 +5949,26 @@
         "region": "global"
       },
       {
-        "title": "Serbia elections test student movement demanding justice for 16 victims",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss",
-        "summary": "Serbia elections test student movement demanding justice for 16 victims",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-24T12:18:06+00:00",
-        "stream": "policy",
+        "title": "Congressional Coalition on Adoption Institute (CCAI) Foster Youth Internship Program 2027",
+        "url": "https://opportunitydesk.org/2026/10/24/ccai-foster-youth-internship-program-2027/",
+        "summary": "Deadline: November 1, 2026 Applications are open for the Congressional Coalition on Adoption Institute (CCAI) Foster Youth Internship Program 2027. The CCAI Foster Youth Internship (FYI) Program is a competitive national internship for students and recent graduates with lived experience in foster care who are interested in federal policy and advocacy. Participants write a federal [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-24T14:47:03+00:00",
+        "stream": "funding",
         "streams": [
-          "policy"
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Swedish Institute Pioneering Women in STEM Scholarship 2027 (Fully-funded)",
+        "url": "https://opportunitydesk.org/2026/10/24/si-pioneering-women-in-stem-scholarship-2027/",
+        "summary": "Deadline: January 15, 2027 Applications are open for the Swedish Institute Pioneering Women in STEM Scholarship 2027. The Pioneering Women in STEM scholarship supports women who want to lead innovation, strengthen their professional capacity, tackle complex challenges, and contribute to more inclusive and sustainable societies. The scholarship is awarded for master’s studies in Sweden to [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-24T14:38:23+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
         ],
         "region": "global"
       },
@@ -5812,6 +6005,18 @@
         "stream": "research",
         "streams": [
           "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Empowering elementary school leaders for inclusive learning: integrating cultural diversity, digital competence, and academic optimism",
+        "url": "https://www.nature.com/articles/s41599-026-09527-4",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-24T00:00:00+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
         ],
         "region": "global"
       },
@@ -5912,6 +6117,54 @@
         "region": "global"
       },
       {
+        "title": "Global Changemakers Media Impact Academy 2026/2027",
+        "url": "https://opportunitydesk.org/2026/10/23/global-changemakers-media-impact-academy-2026-2027/",
+        "summary": "Deadline: Unspecified Applications for the Global Changemakers Media Impact Academy 2026/2027 are now open. The Media Impact Academy is a Nationwide initiative engaging 500 youth (ages 18–24) across the United States. Designed for young adults navigating early financial independence, this 90-day challenge equips you with practical financial skills, project management tools, and storytelling capabilities to [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T16:44:36+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "MATTER Groundwork Innovator Accelerator 2027",
+        "url": "https://opportunitydesk.org/2026/10/23/matter-groundwork-innovator-accelerator-2027/",
+        "summary": "Deadline: November 22, 2026 Applications are open for the MATTER Groundwork Innovator Accelerator 2027. Groundwork is MATTER’s newest offering — an 11-week accelerator program for digital health innovators at the earliest stages of developing their ideas and turning them into businesses. Designed to help entrepreneurs navigate the complexities of healthcare and lay the groundwork for [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T16:05:17+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "World Food Forum Youth Policy Board 2027-2028",
+        "url": "https://opportunitydesk.org/2026/10/23/world-food-forum-youth-policy-board-2027-2028/",
+        "summary": "Deadline: November 30, 2026 Applicationsn are open for the World Food Forum Youth Policy Board 2027-2028. The WFF Youth Policy Board (YPB) was launched in 2021 with the aim of providing a strategic youth-led vision to the policy-related activities carried out by the WFF Youth Initiative through the Youth Assembly. The YPB is an independent [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T15:52:53+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "PATH Global Health Strategy Internship 2026 (up to $1,000)",
+        "url": "https://opportunitydesk.org/2026/10/23/path-global-health-strategy-internship-2026/",
+        "summary": "Deadline: October 31, 2026 Applications are open for the PATH Global Health Strategy Internship 2026. Under the direction of the CEO & President, the Office of the President works to guide PATH’s strategic approach internally and at global and country levels. PATH has set out to expand the scope of their respectful partnerships with national [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T15:38:33+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
         "title": "LMS for Nonprofits: How to Scale Training with a Limited Budget",
         "url": "https://elearningindustry.com/lms-for-nonprofits-how-to-scale-training-with-a-limited-budget",
         "summary": "Nonprofits train staff, volunteers, and donors on a fraction of a corporate L&D budget. See what an LMS for nonprofits needs to scale training without adding admin work. This post was first published on eLearning Industry .",
@@ -5920,6 +6173,18 @@
         "stream": "edtech",
         "streams": [
           "edtech"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Columbia University Italian Academy Fellowship Program 2027-2028",
+        "url": "https://opportunitydesk.org/2026/10/23/columbia-university-italian-academy-fellowship-2027-2028/",
+        "summary": "Deadline: December 4, 2026 Applications are open for the Columbia University Italian Academy Fellowship Program 2027-2028. The multi-disciplinary Fellowship Program is the heart of the work of the Italian Academy. Fellowships are open to scholars who wish to devote a semester or a full academic year to genuinely innovative work in the humanities, sciences, or [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-23T14:55:57+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
         ],
         "region": "global"
       },
@@ -6095,138 +6360,6 @@
         "title": "Thoracic kyphosis is associated with somatosensory dependence and postural control in adolescent idiopathic scoliosis",
         "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361226",
         "summary": "by Wenjun Jiang, Ningnan Zhu, Peng Zhang, Jiahuan Wu, Sheng Wang, Xueliang Wu Background The contribution of sagittal spinal alignment to sensorimotor function in adolescent idiopathic scoliosis (AIS) remains unclear. We examined whether thoracic kyphosis (TK) is associated with sensory integration and postural balance in patients with AIS, independent of coronal structural misalignment. Methods Forty-five AIS patients (Cobb angle ≥ 10°) were consecutively recruited from the outpatient rehabilitation clinic of a university-affiliated hospital (median age 11.0 years, IQR 10.0–13.0; 33 female). ",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-23T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "The detection paradox: How COVID-19 surveillance patterns shifted from lower-income to more affluent neighborhoods in Miami-Dade County",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361211",
-        "summary": "by Levente Juhász, Nana Aisha Garba, Imelda K. Moise, Prasad B. Bhoite, Christopher Clark, Rachel D. Clarke, Nicole Kikuchi Stuver, David R. Brown Passive disease surveillance systems may systematically undercount burden in low-resource minority neighborhoods, yet fine-scale evidence of this phenomenon remains limited. We examined spatiotemporal patterns of reported COVID-19 cases across Miami-Dade County's diverse neighborhoods and investigated which socioeconomic and demographic characteristics predicted areas of elevated and suppressed case rates. In an ecological, cross-sectional analysis ",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-23T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "How unequal is unequal? Turn-taking simulation for benchmarking participation and opportunity inequality in small-group collaboration",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361205",
-        "summary": "by Liru Hu, Jiajun Wu, Feng Yu, Deliang Wang, Song An, Ying Zhang Participation equity is essential for ensuring that students gain cognitive and social benefits from collaborative learning, yet there is a lack of quantitative benchmarks for interpreting participation and opportunity distributions in small-group collaboration. This study focuses on two turn-based analytical dimensions of participation equity: participation equality, measured by students’ shares of speaking turns, and opportunity equality, measured by students’ shares of addressed opportunities. Using the standard deviation of ",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-23T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Lens dislocation, OCTA, and archived FBN1 reports: An exploratory study",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361193",
-        "summary": "by Muhammer Özgür Çevik, Metehan Simsek, Sadik Gorkem Cevik, Irfan Perente Purpose Lens dislocation (ectopia lentis) is a recognized anterior-segment manifestation of fibrillinopathy. This exploratory phenotype-first study compared macular optical coherence tomography angiography (OCTA) parameters between participants with and without documented lens dislocation and descriptively reviewed available archived clinical FBN1 reports. Methods This retrospective, availability-based study included 16 participants classified by verified current or historical lens-dislocation status. Participant-level ",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-23T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Precancerous cervical lesions and associated factors among HIV-positive women in Southern and Eastern African countries: A systematic review and meta-analysis",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361185",
-        "summary": "by Gebrie Getu Alemu, Astewil Moges Bazezew, Amlaku Nigusie Yirsaw, Wubet Tazeb Wondie, Berihun Agegn Mengistie, Tenagnework Eseyneh Dagnaw, Mekuriaw Nibret Aweke, Nebebe Demis Baykemagn, Gebeyehu Lakew, Bisrat Tewelde Gebretsadkan Background Women living with HIV (WLHIV) face a sixfold increased risk of cervical cancer compared to HIV-negative women. Most WLHIV residing in the Southern and Eastern African regions have a substantial HIV-related cervical cancer burden. Studies on precancerous cervical lesions (PCCL) and associated factors in WLHIV from these regions have inconsistent and inconc",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-23T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Efficient phenotyping of banana ( Musa spp.) germplasm for resistance to five biotic constraints using Partially replicated (P-rep) design",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361182",
-        "summary": "by Reagan Kanaabi, Gerald Mwanje, Charles Serebe, Happyness Mpanda, Kennedy Jomanga, Brigitte Uwimana, Marnik Vuylsteke, Allan Brown, Rony Swennen, Gloria Valentine Nakato Banana breeding programs prioritize improving yield with resistance to biotic stresses while maintaining fruit quality. This study focused on identifying genotypes with resistance to five major biotic constraints including Cosmopolites sordidus , Radopholus similis , banana Xanthomonas wilt, Fusarium oxysporum f. sp. cubense – Race 1 and Pseudocercospora fijiensis . A diverse set of diploid and tetraploid genotypes was pheno",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-23T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Factors influencing elderly people’s intentions to use smartphone mHealth apps: Quantitative research",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361137",
-        "summary": "by Tianyang Huang, Wenqin Cai Smartphone mHealth apps (mHealth apps) have played a highly positive role in medical services, which provides a new direction for users’ medical services and health management. Although smartphone mHealth apps provide many benefits for users, people know little about the factors that drive elderly users to adopt this new service platform in the context of an aging population. This study aims to learn the factors that affect elderly people’s intentions to adopt smartphone mHealth apps, and use the technology acceptance model as a theoretical basis to integrate perc",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-23T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Immunoinformatics and reverse vaccinology design of self-amplifying RNA vaccine against marburg virus with structural dynamics and immune simulation analysis",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361136",
-        "summary": "by Md. Aftabur Rahman, Lamyea Kabir, Nadia Ahmed, Atish Barua, Mohammad Hasan, Ahmad Abdullah Mahdeen Marburg virus disease (MVD), a deadly zoonotic illness in humans, is caused by the Marburg virus (MARV), a single-stranded RNA virus belonging to the Orthomarburgvirus genus of the Filoviridae family. There are currently no approved vaccines or efficient antiviral therapies for MARV, despite high morbidity and fatality rates of the virus, particularly in Africa. Recognizing its epidemic potential and its inclusion on the WHO list of blueprint priority pathogens, an immunoinformatics approach w",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-23T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Robust acoustic representation of Japanese vowels under phonation variability using dynamic spectral analysis",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361125",
-        "summary": "by Yanlong Zhang, Tianxiang Cao, Yueheng Liu Phonation-induced acoustic variability, particularly in whispered speech, poses persistent challenges for stable vowel representation. Conventional static formant-based descriptors often fail to capture the dynamic spectral behavior of vowels under such conditions. This study evaluates the robustness of acoustic feature representations for Japanese vowels across normal and whispered phonation, comparing static formant measures with dynamic spectral features derived from Vowel Inherent Spectral Change (VISC). Dynamic features are used to characterize",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-23T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Multi-horizon forecasting for decision support in a thermally delayed biomass-fired boiler system",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361121",
-        "summary": "by Sunyong Park, Jiwook Yang, Sungyeol Kim, Kyojung Hwang, JaeJung Lee, Sunhwa Ryu Thermally delayed biomass-boiler systems exhibit heterogeneous temporal responses that complicate forecasting and operational warning. This study analysed long-term field data from a biomass-fired boiler system to characterise thermal-response lags and evaluate multi-horizon forecasting of the P1 thermal-storage-tank temperature at 60-, 120-, and 180-min horizons. Robust cross-correlation analysis showed statistically detectable but weak associations between P1 temperature and the combustion-related operational ",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-23T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "The applications of artificial intelligence in liver transplantation: A comprehensive scoping review",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361120",
-        "summary": "by Aditya Borakati, Joshua Agilinko, Jack Wu, Samora Hunter, Anwar Alhaq, Farid Froghi, James Teo, William Bernal, Chris Callaghan, Miriam Cortes-Cerisuelo, David Wallace Liver transplantation (LT) is a complex surgical intervention, with intricate decision-making and risks at all stages before, during and after the procedure itself. Artificial intelligence (AI) may assist the process but has seen limited use. This scoping review assessed primary articles reporting on clinical AI in LT in MEDLINE and Embase from 2000 to September 2026. 196 articles were identified: focusing on the pre-operativ",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-23T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Pharmacokinetic diversity of baloxavir marboxil across rare avian species",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361119",
-        "summary": "by Yo Shimazu, Ryo Daniel Obara, Mariko Miki, Hiromi Osaki, Yuto Yoshimoto, Marina Hayashi, Kosuke Toyoda, Miki Ozaki, Ikumi Hanada, Rei Matsumoto, Kaori Ota, Ayumi Yamaguchi, Kosuke Toda, Junko Ishii, Tsuneo Kizaki, Yuzo Hirano, Yuma Sugimoto, Yukiko Watanabe, Keisuke Saito, Masato Kaku, Izumi Ide, Akihiro Sado, Hidefumi Sakai, Kyohei Nishimura, Mayumi Endo, Takahiro Hiono, Norikazu Isoda, Takao Shishido, Yoshinori Ikenaka, Yoshihiro Sakoda High pathogenicity avian influenza virus (HPAIV) poses a serious threat to captive rare birds. Because effective countermeasures are limited, the use of h",
         "source": "PLOS ONE — Education Research",
         "published": "2026-10-23T14:00:00+00:00",
         "stream": "research",
@@ -7415,6 +7548,42 @@
     ],
     "east_asia": [
       {
+        "title": "Ukraine’s Starlink speeds restored after week of frontline disruption",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372040/ukraines-starlink-speeds-restored-after-week-frontline-disruption",
+        "summary": "Ukraine’s access to Starlink and Starshield satellite links has been restored to the speeds it had before restrictions that disrupted frontline operations for more than a week, Ukrainian President Volodymyr Zelensky said on Saturday. “The speeds are now where they need to be,” Zelensky said on social media, adding that restoration began overnight and was sufficient by Saturday morning, improving frontline logistics and defence against Russian jet-powered Shahed drones. The restoration follows a...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T18:00:35+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "German man detained after fire wrecks Hitler’s ‘Eagle’s Nest’ mountain retreat",
+        "url": "https://www.scmp.com/news/world/europe/article/3372039/german-man-detained-after-fire-wrecks-hitlers-eagles-nest-mountain-retreat",
+        "summary": "Firefighters battled on Saturday to put out flames that tore through Adolf Hitler’s “Eagle’s Nest” mountain retreat while police detained a suspect who investigators said may have psychiatric problems. The alarm was raised late on Friday at the former guest house for top Nazi officials, 1,834 metres (6,000 feet) high in the Bavarian Alps. As snow fell on the Alpine peak, the Eagle’s Nest was still engulfed in flames at dawn on Saturday, and fire chief Michael Brandl told a press conference the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T16:35:33+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Man arrested over suspected rat poison in stray cat food at Kowloon park",
+        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372037/man-arrested-over-suspected-rat-poison-stray-cat-food-kowloon-park",
+        "summary": "Police have arrested a 34-year-old man who allegedly mixed rat poison into food left for stray cats in a Kowloon park and was found in possession of a knife. The force said it received a report at around 3.30am on Saturday that a man was suspected of putting poison in cat food that animal welfare volunteers had placed near tennis courts in Shek Kip Mei Park. Officers arrived at the scene and seized a packet of suspected rat poison and a fruit knife measuring around 14cm (5.5 inches) in length...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T15:47:48+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
         "title": "Saudi strikes kill 11 in Yemen as Houthi missiles target Saudi cities",
         "url": "https://www.scmp.com/news/world/middle-east/article/3372035/saudi-strikes-kill-11-yemen-houthi-missiles-target-saudi-cities",
         "summary": "Houthi media reported that Saudi strikes killed 11 people in Yemeni capital Sanaa on Saturday, shortly after the Saudi-led coalition fighting them said it had intercepted two missiles targeting Saudi cities. The Houthis’ Al-Masirah outlet reported a series of “Saudi enemy air strikes” targeting Sanaa, including one on a house that killed at least four people and wounded several others. A separate strike at a residence building for cement factory workers in the Sanaa governorate killed six women...",
@@ -7475,9 +7644,9 @@
         "region": "east_asia"
       },
       {
-        "title": "France on high alert as Paris march begins in uneasy calm",
+        "title": "Small clashes erupt at Paris protests, as police remain on high alert",
         "url": "https://www.scmp.com/news/china/diplomacy/article/3372031/france-high-alert-paris-march-begins-uneasy-calm",
-        "summary": "A sea of demonstrators packed the southern edge of Paris on Saturday as protests got under way in an uneasy festive mood, with early marches remaining peaceful even as heavily reinforced police braced for potential unrest across the country. Elsewhere in France, police began dispersing unauthorised gatherings in Lyon and Nice, firing tear gas in Lyon as demonstrators defied local protest bans. French authorities expect up to half a million people to hit the streets on Saturday across the...",
+        "summary": "Protests across France were largely peaceful on Saturday, despite heightened tensions and sporadic clashes between protesters and the police, but authorities remained on high alert as night fell. The French Interior Ministry counted 410,000 people who hit the streets across the country on Saturday, down from the 550,000 who protested last weekend. The October 17 demonstrations descended into looting and the worst urban rioting France had seen in years. 249 protests took place in France on...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-24T13:17:24+00:00",
         "stream": "higher",
@@ -7645,7 +7814,7 @@
       {
         "title": "4 pilots killed in mid-air collision of Philippine military planes",
         "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372014/4-pilots-killed-mid-air-collision-philippine-military-planes",
-        "summary": "Two Philippine Air ⁠Force ⁠aircraft crashed during ⁠a training flight at an air base south of the capital Manila, killing four pilots, the military said on Saturday. The aviation accident on Friday involved two SF-260 aircraft at the Fernando Air Base in Batangas province, the Philippine Air Force said in ⁠a statement. “Both aircraft went down within the base perimeter, with no other casualties reported,” Philippine Air Force spokesman Colonel Alvin Capinguian said in a statement. An...",
+        "summary": "Two Philippine air force planes collided during a training flight and crashed at an airbase south of Manila, killing all four pilots on board, Philippine officials said on Saturday. The two SF-260 aircraft collided while flying at a low altitude on Friday afternoon then crashed at Fernando Air Base in Lipa city in the coastal province of Batangas south of the capital. There were no injuries on the ground, the officials said. The air force did not provide details of what it called an accidental...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-24T07:42:50+00:00",
         "stream": "higher",
@@ -7852,42 +8021,6 @@
         "summary": "Private recreation leases have a long and contentious history in Hong Kong. Complaints about the inequity of granting land leases to private clubs at a nominal premium for the exclusive enjoyment of a small number of members have been raised many times. This issue is increasingly pressing. Twenty-seven sites are involved and almost all the leases for these sites are set for renewal next year. In response to this perceived inequality, the government reviewed its policy for clubs with private...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-24T01:30:11+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Hong Kong private secondary sector expands as local universities’ reputation grows",
-        "url": "https://www.scmp.com/news/hong-kong/education/article/3371974/hong-kong-private-secondary-sector-expands-local-universities-reputation-grows",
-        "summary": "The number of private secondary schools in Hong Kong has risen by more than half in five years as demand for alternative curricula grows and new operators seek to attract families drawn by the city’s highly ranked universities, education authorities and principals have said. Between 2021-22 and 2025-26, the number of private secondary institutions increased from 16 to 25, a jump of 56.3 per cent, Education Bureau figures show. Leaders at schools offering alternative curriculum pathways said that...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T01:00:21+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "China’s AI compute surge heavily reliant on US chips, offshore cloud access: report",
-        "url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
-        "summary": "China’s access to artificial intelligence computing power will double next year, but US-designed chips will account for about 65 per cent of that capacity, an indication of its continued reliance on foreign hardware, according to new research. Total compute available to Chinese entities was expected to expand in 2027 from about 4.6 million to 8.8 million “H100-equivalents” – a metric benchmarked against Nvidia’s data-centre graphics processing units, according to a report by the Washington-based...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T01:00:11+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Big dreams, growing pains in Indonesia: Prabowo’s turbulent 2 years in power",
-        "url": "https://www.scmp.com/week-asia/people/article/3371953/big-dreams-growing-pains-indonesia-prabowos-turbulent-2-years-power",
-        "summary": "When 35-year-old Bekasi resident Ika Kartika voted for Prabowo Subianto in Indonesia’s 2024 presidential election, she hoped the former general would restore a “Suharto-like” era of stability, when everyday essentials were affordable and life felt more predictable. Growing up, she had often heard her parents reminisce about the “good old days” under the late strongman, whose rule had brought a sense of order to their lives. Two years into his presidency, however, rising food prices have left Ika...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T00:00:19+00:00",
         "stream": "higher",
         "streams": [
           "higher"
@@ -8331,14 +8464,38 @@
     ],
     "north_america": [
       {
-        "title": "What’s at Stake in the Midterms",
-        "url": "https://www.nytimes.com/2026/10/24/opinion/midterms-trump-america.html",
-        "summary": "The fundamental issue is Trump’s shredding of the model that made America the world’s leading country.",
+        "title": "Violent Protests Resurface in Albania: What to Know",
+        "url": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
+        "summary": "Thousands have marched in student demonstrations over education, the cost of living, and a project linked to Jared Kushner, President Trump’s son-in-law.",
         "source": "New York Times — Education",
-        "published": "2026-10-24T11:00:15+00:00",
+        "published": "2026-10-24T18:50:20+00:00",
         "stream": "policy",
         "streams": [
           "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "None of This Is Normal",
+        "url": "https://www.nytimes.com/2026/10/24/opinion/midterms-trump-america.html",
+        "summary": "The fundamental issue is Trump’s shredding of the model that made America the world’s leading country.",
+        "source": "New York Times — Education",
+        "published": "2026-10-24T17:52:31+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "New Accreditation Rule Downgrades Dozens of Oklahoma Districts for Academics",
+        "url": "https://www.the74million.org/article/new-accreditation-rule-downgrades-dozens-of-oklahoma-districts-for-academics/",
+        "summary": "OKLAHOMA CITY — Fifty-nine school districts, including the three largest in the state, have had their accreditation status downgraded over poor reading and math test scores. The Oklahoma State Board of Education voted Thursday to designate the districts as “accredited with warning” along with eight others that had non-academic deficiencies. Accredited with warning is defined […]",
+        "source": "The 74 Million",
+        "published": "2026-10-24T16:30:00+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
         ],
         "region": "north_america"
       },
@@ -8371,7 +8528,7 @@
         "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
         "summary": "A movement that began with a few high schools has broadened to encompass labor unions and other activists.",
         "source": "New York Times — Education",
-        "published": "2026-10-24T09:46:49+00:00",
+        "published": "2026-10-24T09:46:50+00:00",
         "stream": "school",
         "streams": [
           "school"
@@ -8395,19 +8552,7 @@
         "url": "https://www.nytimes.com/2026/10/23/nyregion/jane-doe-can-remain-anonymous-in-cornell-case-judge-says.html",
         "summary": "The decision comes as both Jane Doe and the men she has accused of sexually assaulting her have faced online harassment and attempts to reveal identifying information.",
         "source": "New York Times — Education",
-        "published": "2026-10-24T01:04:19+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Should Horse-Drawn Carriages Be Banned in New York City?",
-        "url": "https://www.nytimes.com/2026/10/23/opinion/horse-carriage-ban-new-york.html",
-        "summary": "Readers react to the City Council’s vote to impose a ban after a passenger’s death. Also: Integrated schools.",
-        "source": "New York Times — Education",
-        "published": "2026-10-23T18:48:47+00:00",
+        "published": "2026-10-24T01:04:20+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8794,18 +8939,6 @@
         "summary": "America’s children cannot wait for education to become a national priority again. As candidates prepare for elections at every level, from governors’ races to the next presidential campaign, we have a simple challenge: Tell parents how you’ll deliver the schools kids deserve. Not slogans. Not culture-war distractions. Not more finger-pointing. A real plan to help […]",
         "source": "The 74 Million",
         "published": "2026-10-21T14:30:00+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "‘Just Aren’t Enough Kids’: Choice Schools Feel Effects of Low Birth Rates, Too",
-        "url": "https://www.the74million.org/article/just-arent-enough-kids-choice-schools-feel-effects-of-low-birth-rates-too/",
-        "summary": "When the Atlanta Public Schools announced last year that it would close 16 schools with declining enrollment, district buildings weren’t the only ones on the list. The plans to “repurpose” facilities swept up two KIPP charters, Soul Primary and Soul Academy, which shared a campus in a predominantly Black community on the west side. Affected […]",
-        "source": "The 74 Million",
-        "published": "2026-10-21T12:30:00+00:00",
         "stream": "school",
         "streams": [
           "school"
