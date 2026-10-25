@@ -308,6 +308,18 @@
     ],
     "school": [
       {
+        "title": "School bullying cases in Hong Kong rise 32% to nearly 500 a year",
+        "url": "https://www.scmp.com/news/hong-kong/education/article/3372020/school-bullying-cases-hong-kong-rise-32-nearly-500-year",
+        "summary": "Hong Kong schools handled an average of 496 bullying cases each academic year from 2022 to 2025 – a 32 per cent jump compared with the previous three years, according to the Education Bureau. A youth group attributed the increase to greater reporting driven by heightened mental health awareness, but also students struggling to distinguish playful jokes from bullying. According to the bureau, public primary and secondary schools recorded an average of 496 bullying cases each year between 2022 and...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T01:00:17+00:00",
+        "region": "east_asia",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
         "title": "New Accreditation Rule Downgrades Dozens of Oklahoma Districts for Academics",
         "url": "https://www.the74million.org/article/new-accreditation-rule-downgrades-dozens-of-oklahoma-districts-for-academics/",
         "summary": "OKLAHOMA CITY — Fifty-nine school districts, including the three largest in the state, have had their accreditation status downgraded over poor reading and math test scores. The Oklahoma State Board of Education voted Thursday to designate the districts as “accredited with warning” along with eight others that had non-academic deficiencies. Accredited with warning is defined […]",
@@ -350,18 +362,6 @@
         "source": "New York Times — Education",
         "published": "2026-10-24T07:00:11+00:00",
         "region": "north_america",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "Hong Kong private secondary sector expands as local universities’ reputation grows",
-        "url": "https://www.scmp.com/news/hong-kong/education/article/3371974/hong-kong-private-secondary-sector-expands-local-universities-reputation-grows",
-        "summary": "The number of private secondary schools in Hong Kong has risen by more than half in five years as demand for alternative curricula grows and new operators seek to attract families drawn by the city’s highly ranked universities, education authorities and principals have said. Between 2021-22 and 2025-26, the number of private secondary institutions increased from 16 to 25, a jump of 56.3 per cent, Education Bureau figures show. Leaders at schools offering alternative curriculum pathways said that...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T01:00:21+00:00",
-        "region": "east_asia",
         "streams": [
           "school"
         ],
@@ -1210,9 +1210,117 @@
     ],
     "higher": [
       {
-        "title": "Ukraine’s Starlink speeds restored after week of frontline disruption",
+        "title": "‘Mum, good’: Chinese woman wakes vegetative daughter-in-law after 17 years of care",
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372043/mum-good-chinese-woman-wakes-vegetative-daughter-law-after-17-years-care",
+        "summary": "A woman in eastern China has been devotedly caring for her daughter-in-law for 17 years, ever since she fell into a vegetative state, moving social media users. The younger woman, surnamed Xu, fell into a vegetative state in 2009 after being struck by a truck in her village in Qingyun county, Shandong province. The accident happened just one month after she got married, Shandian News reported. Since then, her mother-in-law, Xuan Fengying, has cared for her around the clock. “She married my son,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T02:15:07+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Fandom vs flag: why young Chinese embrace Japanese pop culture but reject war-era symbols",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3372036/fandom-vs-flag-why-young-chinese-embrace-japanese-pop-culture-reject-war-era-symbols",
+        "summary": "Young Chinese people enjoy Japanese pop culture such as anime and music, but many draw a firm line at symbols of Japanese militarism. That line was tested recently at Moscow State University, where Chinese students confronted a classmate wearing Japan’s rising sun flag in class and called for his repatriation, state-run newspaper Global Times reported on Sunday. Many countries, including China, view the flag as a symbol of Japanese militarism and aggression. Japan’s Self-Defence Forces still use...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T02:00:16+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Why more Japanese women are choosing ‘silver divorce’ after decades of marriage",
+        "url": "https://www.scmp.com/week-asia/people/article/3371898/why-more-japanese-women-are-choosing-silver-divorce-after-decades-marriage",
+        "summary": "Ayumi lives alone in a spacious suburban house originally bought to raise a family, her two cats now her only full-time companions. Her two daughters have grown up and left home, and her husband of more than two decades moved out nearly a year ago as they finalise a divorce. For the 62-year-old Kawasaki resident, who spoke on condition that her surname be withheld, this was not how she envisioned her later years. “He worked very long hours, including on weekends, and I was always busy taking...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T02:00:13+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Hong Kong needs a civil service fit for a changed world",
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371777/hong-kong-needs-civil-service-fit-changed-world",
+        "summary": "Hong Kong’s civil service has long enjoyed a reputation for efficiency, professionalism and probity. It has also been a pillar of stability, particularly during the transition from British to Chinese rule. Outside the general and administrative grades, many civil servants spend much of their careers in relatively specialised areas of responsibility. This allows them to develop deep expertise and makes them dependable regulators and administrators. However, it can also make it harder to adapt...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T01:30:09+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Singapore embraces AI for cyber defence, with one caveat: breach transparency",
+        "url": "https://www.scmp.com/week-asia/politics/article/3371950/singapore-embraces-ai-cyber-defence-one-caveat-breach-transparency",
+        "summary": "Singapore is turning to major technology firms to strengthen its cyber defences, even as it presses them for greater transparency over security breaches – a balancing act facing regional governments as they seek to harness artificial intelligence while guarding against the risks it introduces. Those risks were highlighted by an AI agent linked to OpenAI that gained unauthorised access to files on an Australian government website earlier this year, raising questions over how quickly companies...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T00:00:14+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3372042/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-democrats",
+        "summary": "Former US president Barack Obama delivered a scathing critique of his successor, Donald Trump, at a rally in Ohio on Saturday to support Democratic candidates ahead of the November 3 midterm elections. “After two years of chaos and cruelty and corruption and incompetence, the likes of which we have not seen in the modern era, you get a chance to say, ‘Enough is enough,’” Obama declared in Cleveland. “We are voting for change right here in Ohio.” The 65-year-old Democrat blamed the Trump...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T22:50:31+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "China’s next generation of leaders waiting in the wings for more senior roles",
+        "url": "https://www.scmp.com/news/china/politics/article/3372013/chinas-next-generation-leaders-waiting-wings-more-senior-roles",
+        "summary": "Plenary sessions of the Central Committee, the upper echelon of China’s ruling Communist Party, are major events on the country’s political calendar. In the fourth part of this series, William Zheng looks at how the next generation of the party is being formed. When China’s political elites gather behind closed doors in Beijing for the Communist Party’s fifth plenum on Monday, much of the attention will be on the quiet preparations for allocating hundreds of pivotal roles in next year’s 21st...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T22:00:28+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Trump, a critic of early voting, votes early in Florida",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3372041/trump-critic-early-voting-votes-early-florida",
+        "summary": "US President Donald Trump cast his ballot for the midterm elections in Palm Beach on Saturday, opting to vote early in his adopted home state of Florida. At rallies ahead of Election Day on November 3, Trump has been urging Republicans to cast their ballots early, reversing course on a practice he has long decried in a bid to mobilise the party’s base in an election that threatens to end their control of Congress. Asked by reporters if he voted for the party line, he said: “Very much so.” The...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T21:58:09+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "How to share AI wealth? Neither the US nor Asia has the answer",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3371822/how-share-ai-wealth-neither-us-nor-asia-has-answer",
+        "summary": "On October 18, Anthropic, the artificial intelligence (AI) laboratory preparing one of the largest listings in history, committed 5 per cent of its shares to a public benefit fund. The next day, Elon Musk promised one SpaceX share, next year, for “every kid in America” – about US$10.6 billion for some 73 million children. The offers differ in who holds the shares. Anthropic’s will sit in an entity the company owns, spent on the public’s behalf; Musk’s would land, by a route he has not explained,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T21:30:06+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Musk admits he throttled Ukraine’s Starlink speeds, as access is restored",
         "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372040/ukraines-starlink-speeds-restored-after-week-frontline-disruption",
-        "summary": "Ukraine’s access to Starlink and Starshield satellite links has been restored to the speeds it had before restrictions that disrupted frontline operations for more than a week, Ukrainian President Volodymyr Zelensky said on Saturday. “The speeds are now where they need to be,” Zelensky said on social media, adding that restoration began overnight and was sufficient by Saturday morning, improving frontline logistics and defence against Russian jet-powered Shahed drones. The restoration follows a...",
+        "summary": "Elon Musk said on Saturday that his company SpaceX had throttled the Starlink satellite internet service in Ukraine, disrupting operations that the country relies on to defend itself against Russia. Musk’s admission on social media came after Ukrainian President Volodymyr Zelensky said that Ukraine’s access to Starlink and Starshield satellite links has been restored to the speeds it had before restrictions that disrupted frontline operations for more than a week. Questions have persisted since...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-24T18:00:35+00:00",
         "region": "east_asia",
@@ -1683,114 +1791,6 @@
         "summary": "Japan’s centuries-old festivals are facing renewed scrutiny after a series of fatal accidents in recent weeks, raising questions over how communities can preserve their cultural traditions without putting lives at risk. Three people have been killed and more than a dozen injured in accidents at autumn festivals across the country in recent weeks. Meanwhile, organisers of another major festival, where two men died in February, have cancelled next year’s event, citing public safety concerns. The...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-24T01:30:16+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Why Hong Kong should rethink premiums for private recreation clubs",
-        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371499/why-hong-kong-should-rethink-premiums-private-recreation-clubs",
-        "summary": "Private recreation leases have a long and contentious history in Hong Kong. Complaints about the inequity of granting land leases to private clubs at a nominal premium for the exclusive enjoyment of a small number of members have been raised many times. This issue is increasingly pressing. Twenty-seven sites are involved and almost all the leases for these sites are set for renewal next year. In response to this perceived inequality, the government reviewed its policy for clubs with private...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T01:30:11+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "China’s AI compute surge heavily reliant on US chips, offshore cloud access: report",
-        "url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
-        "summary": "China’s access to artificial intelligence computing power will double next year, but US-designed chips will account for about 65 per cent of that capacity, an indication of its continued reliance on foreign hardware, according to new research. Total compute available to Chinese entities was expected to expand in 2027 from about 4.6 million to 8.8 million “H100-equivalents” – a metric benchmarked against Nvidia’s data-centre graphics processing units, according to a report by the Washington-based...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T01:00:11+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Big dreams, growing pains in Indonesia: Prabowo’s turbulent 2 years in power",
-        "url": "https://www.scmp.com/week-asia/people/article/3371953/big-dreams-growing-pains-indonesia-prabowos-turbulent-2-years-power",
-        "summary": "When 35-year-old Bekasi resident Ika Kartika voted for Prabowo Subianto in Indonesia’s 2024 presidential election, she hoped the former general would restore a “Suharto-like” era of stability, when everyday essentials were affordable and life felt more predictable. Growing up, she had often heard her parents reminisce about the “good old days” under the late strongman, whose rule had brought a sense of order to their lives. Two years into his presidency, however, rising food prices have left Ika...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T00:00:19+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "US-China strategic competition to keep escalating as world watches on, Rudd says",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3371990/us-china-strategic-competition-keep-escalating-world-watches-rudd-says",
-        "summary": "Kevin Rudd, president of the Asia Society and a former Australian prime minister, described US-China strategic competition as full-on and multidimensional at a Harvard Kennedy School Institute of Politics event on Friday. “There is a full-blown strategic competition under way in every dimension of national political power and influence, militarily, economically, trade and investment and technology, in foreign policy, in ideology,” said Rudd, a noted China scholar. “It’s across the world,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T22:29:03+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "US, allies and China vie for influence through Pacific security deals",
-        "url": "https://www.scmp.com/news/us/article/3371989/us-allies-and-china-vie-influence-through-pacific-security-deals",
-        "summary": "Strategic competition between China and the US and its allies is intensifying across the Pacific islands, with both sides pursuing a growing range of security agreements to expand their influence, according to an interactive mapping tool released this week by the Centre for Strategic and International Studies (CSIS), a Washington think tank. The tool details 56 security arrangements among 14 Pacific island countries and the US, Australia, New Zealand, mainland China and Taiwan in a bid to map...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T22:27:23+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "What will China’s fifth plenum mean for the root-and-branch corruption drive?",
-        "url": "https://www.scmp.com/news/china/politics/article/3371932/what-will-chinas-fifth-plenum-mean-root-and-branch-corruption-drive",
-        "summary": "Plenary sessions of the Central Committee, the upper echelon of China’s ruling Communist Party, are major events on the country’s political calendar. In the third part of this series, William Zheng and Alcott Wei examine how the fight against corruption is shaping the party’s future. When China’s political elites gather for a key conclave in Beijing later this month, the increasingly empty auditorium will speak loudly to the event’s theme – the ruling Communist Party’s strict self-discipline and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T22:00:09+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Why raising Asia’s fertility rate starts with giving people time to date",
-        "url": "https://www.scmp.com/opinion/asia-opinion/article/3371633/asias-baby-starved-governments-want-people-date-who-has-time",
-        "summary": "In late September, Singapore’s Reddit community erupted over the government’s new dating platform, FirstDate. Curious to get an insider’s perspective, I visited the site, connected to my Singpass account and watched as my name, age and marital status auto-populated the fields on the page. I entered my Gmail address and hit submit. The email field turned red: “Please sign up with your official work email. Personal email addresses will not be accepted.” I resubmitted the form with my work email,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T21:30:07+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Kenya reports second Ebola death, a close relative of first patient",
-        "url": "https://www.scmp.com/news/world/africa/article/3371988/kenya-reports-second-ebola-death-close-relative-first-patient",
-        "summary": "Kenya’s health ministry announced the country’s second Ebola death on Friday, saying a 65-year-old woman who was a close relative of the first patient died after developing symptoms while in quarantine. The woman began showing symptoms 10 days ago and began receiving supportive care at an infectious disease unit in the capital, Nairobi. The ministry said medical personnel “did everything possible to save her life”, but she died Friday evening. Her family was notified, and the ministry said it...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T21:19:15+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Zelensky hopes Beijing can use ‘influence’ over Moscow to help stop Ukraine war",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3371987/zelensky-hopes-beijing-can-use-influence-over-moscow-help-stop-ukraine-war",
-        "summary": "Ukrainian President Volodymyr Zelensky said on Friday that Beijing has “influence” over Moscow it should use to stop the war in Ukraine, and that a proposed summit meeting of the US, Chinese and Russian leaders must not lead to the division of his war-torn country. Speaking virtually at an event hosted by Washington-based Hudson Institute think tank, Zelensky said he did not know what would be discussed at the potential meeting between US President Donald Trump, Chinese President Xi Jinping and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-23T20:51:17+00:00",
         "region": "east_asia",
         "streams": [
           "higher"
@@ -3681,11 +3681,23 @@
     ],
     "policy": [
       {
+        "title": "Students like new tenancy freedoms - but landlords warn of higher rents",
+        "url": "https://www.bbc.co.uk/news/articles/cqx29lnzr48po?at_medium=RSS&at_campaign=rss",
+        "summary": "The Renters' Rights Act gives greater flexibility to leave a tenancy but the changes have posed challenges for student landlords.",
+        "source": "BBC — Education",
+        "published": "2026-10-25T01:35:40+00:00",
+        "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
         "title": "Violent Protests Resurface in Albania: What to Know",
         "url": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
         "summary": "Thousands have marched in student demonstrations over education, the cost of living, and a project linked to Jared Kushner, President Trump’s son-in-law.",
         "source": "New York Times — Education",
-        "published": "2026-10-24T18:50:20+00:00",
+        "published": "2026-10-24T21:54:36+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -3719,7 +3731,7 @@
       {
         "title": "My mother donated her body to science. I really wasn’t prepared for what came next",
         "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/24/body-donation-science",
-        "summary": "The process included a gala featuring medical students doing aerial yoga and singing Taylor Swift to donors’ families. In some way, it was absolutely perfect When my mother, Erin O’Connell, was diagnosed with a rare and aggressive cancer in late 2022, one of her first thoughts was: “What will I do if I can’t work?” At the time, she was 62 years old and working as a physical therapist in Portland, Oregon, where she had recently moved to live closer to me and my family. Reluctantly, she filed for short-term disability from her job and paused her training to become a volunteer search and rescue E",
+        "summary": "The process included a gala featuring medical students doing aerial yoga and singing Taylor Swift to donors’ families. In some ways, it was absolutely perfect When my mother, Erin O’Connell, was diagnosed with a rare and aggressive cancer in late 2022, one of her first thoughts was: “What will I do if I can’t work?” At the time, she was 62 years old and working as a physical therapist in Portland, Oregon, where she had recently moved to live closer to me and my family. Reluctantly, she filed for short-term disability from her job and paused her training to become a volunteer search and rescue ",
         "source": "The Guardian — Education",
         "published": "2026-10-24T12:00:33+00:00",
         "region": "global",
@@ -4299,18 +4311,6 @@
         "source": "New York Times — Education",
         "published": "2026-10-19T09:04:03+00:00",
         "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "History and Identity in an Indo-Pak Conflict",
-        "url": "https://blogs.lse.ac.uk/southasia/2026/10/19/history-and-identity-in-an-indo-pak-conflict/",
-        "summary": "Military conflicts between Pakistan and India bring minority communities in both nations to greater attention than in other times. As Zaheer Ali shows, January 2025 was no different, and the increased use of social media gave this ‘post-modern’ conflict a particular profile. * Have you ever been in a situation where you have been … Continued The post History and Identity in an Indo-Pak Conflict first appeared on South Asia @ LSE .",
-        "source": "LSE South Asia Blog",
-        "published": "2026-10-19T08:02:28+00:00",
-        "region": "south_asia",
         "streams": [
           "policy"
         ],
@@ -5196,18 +5196,6 @@
         "stream": "research"
       },
       {
-        "title": "What Safeena Husain taught me about localised development",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/10/20/what-safeena-husain-taught-me-about-localised-development/",
-        "summary": "Localisation has three parts: delivery, money and decision-making. LSE alumna Safeena Husain, Founder of Educate Girls, has built an Indian non-profit that works with governments and communities to improve girls’ education in marginalised regions. Its experience shows how far a programme can go when delivery is truly local, while its impact bond raises questions regarding … Continued The post What Safeena Husain taught me about localised development first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-10-20T14:42:39+00:00",
-        "region": "europe",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
         "title": "Research on the evolutionary characteristics of hot topics in online public opinion of Chinese universities based on Weibo texts",
         "url": "https://www.nature.com/articles/s41599-026-09469-x",
         "summary": "",
@@ -5304,18 +5292,6 @@
         "stream": "research"
       },
       {
-        "title": "Making hope normal again (and again, and again): Nine months working for a Green Party MP",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/10/16/making-hope-normal-again-and-again-and-again-nine-months-working-for-a-green-party-mp/",
-        "summary": "Bahrathi Keeping, MSc Economic Policy for International Development, reflects on her experience completing an LSE Parliamentary Internship in 2025/26. Nine months in Parliament as a Policy Assistant to Dr Ellie Chowns MP taught me more than I could ever have expected about the workings of our political system. Swept up by the socialist tidal wave … Continued The post Making hope normal again (and again, and again): Nine months working for a Green Party MP first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-10-16T12:58:26+00:00",
-        "region": "europe",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
         "title": "Shaping gender equality through education: a diachronic analysis of occupational roles in German language textbooks in Turkey (1940–2023)",
         "url": "https://www.nature.com/articles/s41599-026-09341-y",
         "summary": "",
@@ -5370,18 +5346,6 @@
         "source": "Nature — Education",
         "published": "2026-10-16T00:00:00+00:00",
         "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Temperatures and tensions continue to rise: UNEP and COP31",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/10/15/temperatures-and-tensions-continue-to-rise-unep-and-cop31/",
-        "summary": "In this blog, the September 2026 UN Environment Programme (UNEP) Report “Limiting Overshoot – Navigating exceedance of 1.5° C and pathways towards return” is understood and applied to the goals and framework presented for the November COP 31 in Antalya, Türkiye. With political and social development working for and against actors across the world, Katia … Continued The post Temperatures and tensions continue to rise: UNEP and COP31 first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-10-15T10:10:25+00:00",
-        "region": "europe",
         "streams": [
           "research"
         ],
@@ -5448,18 +5412,6 @@
         "stream": "research"
       },
       {
-        "title": "Technical solutions to political problems: Can development finally admit politics matters?",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/10/14/technical-solutions-to-political-problems-can-development-finally-admit-politics-matters/",
-        "summary": "Despite decades of investment and expanding technical knowledge, only 17% of SDG targets were on track in 2024. Progress on more than a third had stalled or reversed. Amid shrinking aid budgets and a strained multilateral system, Lennart Fleck argues that the development sector faces a critical test. Yet its response remains strikingly familiar: more … Continued The post Technical solutions to political problems: Can development finally admit politics matters? first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-10-14T14:27:38+00:00",
-        "region": "europe",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
         "title": "Child Protective Services Contact Linked to Higher Absenteeism, Study Finds",
         "url": "https://edsurge.com/news/child-protective-services-contact-linked-to-higher-absenteeism-study-finds",
         "summary": "Researchers say school connectedness and targeted support can keep vulnerable students in class.",
@@ -5490,18 +5442,6 @@
         "source": "Hewlett Foundation — Education",
         "published": "2026-10-12T23:39:29+00:00",
         "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Cutting-Edge Issues in Development – Who owns the future your health data is building?",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/10/08/cutting-edge-issues-in-development-who-owns-the-future-your-health-data-is-building/",
-        "summary": "On Friday 2 October, the Cutting-Edge Issues in Development Thinking and Practice 2026/27 series launched with a lecture by Professor Sharifah Sekalala on The Role of Law in African Health Data Futures. Sonali Silva, a PhD candidate in Demography in LSE’s Department of Methodology, joined as discussant, and the event was chaired by Dr Myfanwy … Continued The post Cutting-Edge Issues in Development – Who owns the future your health data is building? first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-10-08T13:09:59+00:00",
-        "region": "europe",
         "streams": [
           "research"
         ],
@@ -5601,6 +5541,66 @@
         "streams": [
           "research",
           "edtech"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "CIPPEC presentó la evaluación de la Boleta Única de Papel ante la Cámara Nacional Electoral",
+        "url": "https://www.cippec.org/cippec-presento-la-evaluacion-de-la-boleta-unica-de-papel-ante-la-camara-nacional-electoral/",
+        "summary": "CIPPEC mantuvo una reunión de trabajo con Sebastián Schimmel y otros integrantes de la Cámara Nacional Electoral (CNE) para presentar los principales hallazgos de la evaluación de la Boleta Única de Papel en las elecciones nacionales de 2025. El estudio se desarrolla con el apoyo de la cooperación alemana, a través de la Embajada de […] La entrada CIPPEC presentó la evaluación de la Boleta Única de Papel ante la Cámara Nacional Electoral se publicó primero en CIPPEC .",
+        "source": "CIPPEC — Education (Argentina)",
+        "published": "2026-09-30T20:08:42+00:00",
+        "region": "latin_america",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Resultados de la evaluación de la Boleta Única de Papel",
+        "url": "https://www.cippec.org/resultados-de-la-evaluacion-de-la-boleta-unica-de-papel/",
+        "summary": "El martes 22 de septiembre, el equipo del Programa de Estado y Gobierno de CIPPEC mantuvo una reunión de trabajo en la Dirección Nacional Electoral (DINE) para presentar los principales resultados de la evaluación de la primera implementación nacional de la Boleta Única de Papel (BUP). El estudio forma parte de un proyecto desarrollado por […] La entrada Resultados de la evaluación de la Boleta Única de Papel se publicó primero en CIPPEC .",
+        "source": "CIPPEC — Education (Argentina)",
+        "published": "2026-09-25T15:01:18+00:00",
+        "region": "latin_america",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "En el foro “LATAM Sin Barreras” (Bogotá), presentamos nuestro estudio para mejorar el clima de negocios en ciudades",
+        "url": "https://www.cippec.org/en-el-foro-latam-sin-barreras-bogota-presentamos-nuestro-estudio-para-mejorar-el-clima-de-negocios-en-ciudades/",
+        "summary": "El 17 de septiembre, en Bogotá (Colombia), se realizó “LATAM sin barreras: foro regional sobre libertades económicas”, una iniciativa de Center for International Private Enterprise (CIPE), que reunió a think tanks, expertos, representantes del sector privado e instituciones para abordar, desde el conocimiento y la evidencia, los desafíos comunes de América Latina en materia de libertad económica. En […] La entrada En el foro “LATAM Sin Barreras” (Bogotá), presentamos nuestro estudio para mejorar el clima de negocios en ciudades se publicó primero en CIPPEC .",
+        "source": "CIPPEC — Education (Argentina)",
+        "published": "2026-09-25T13:11:36+00:00",
+        "region": "latin_america",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "What it takes to embed nurturing care in primary health care",
+        "url": "https://r4d.org/blog/what-it-takes-to-embed-nurturing-care-in-primary-health-care/",
+        "summary": "The post What it takes to embed nurturing care in primary health care appeared first on Results for Development .",
+        "source": "Results for Development (R4D)",
+        "published": "2026-09-25T13:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "CIPPEC lanza RaDAr, la primera plataforma dedicada a fortalecer la docencia",
+        "url": "https://www.cippec.org/radar-educacion/",
+        "summary": "Argentina atraviesa una crisis educativa que compromete su futuro. Los últimos resultados de pruebas escolares revelan déficits alarmantes: 60% de los estudiantes se encuentran por debajo del nivel básico en lectura y ciencias; y el 80%, en matemática (Pisa 2025). La experiencia internacional demostró que los países que lograron mejoras educativas sostenidas apostaron por la […] La entrada CIPPEC lanza RaDAr, la primera plataforma dedicada a fortalecer la docencia se publicó primero en CIPPEC .",
+        "source": "CIPPEC — Education (Argentina)",
+        "published": "2026-09-24T12:49:25+00:00",
+        "region": "latin_america",
+        "streams": [
+          "research"
         ],
         "stream": "research"
       }
@@ -5889,6 +5889,18 @@
   "regions": {
     "global": [
       {
+        "title": "Students like new tenancy freedoms - but landlords warn of higher rents",
+        "url": "https://www.bbc.co.uk/news/articles/cqx29lnzr48po?at_medium=RSS&at_campaign=rss",
+        "summary": "The Renters' Rights Act gives greater flexibility to leave a tenancy but the changes have posed challenges for student landlords.",
+        "source": "BBC — Education",
+        "published": "2026-10-25T01:35:40+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "global"
+      },
+      {
         "title": "Serbian elections: A country where students may actually take power",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss",
         "summary": "Serbia is voting in an early election, where the most powerful politician in the country, has a serious rival.",
@@ -5975,7 +5987,7 @@
       {
         "title": "My mother donated her body to science. I really wasn’t prepared for what came next",
         "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/24/body-donation-science",
-        "summary": "The process included a gala featuring medical students doing aerial yoga and singing Taylor Swift to donors’ families. In some way, it was absolutely perfect When my mother, Erin O’Connell, was diagnosed with a rare and aggressive cancer in late 2022, one of her first thoughts was: “What will I do if I can’t work?” At the time, she was 62 years old and working as a physical therapist in Portland, Oregon, where she had recently moved to live closer to me and my family. Reluctantly, she filed for short-term disability from her job and paused her training to become a volunteer search and rescue E",
+        "summary": "The process included a gala featuring medical students doing aerial yoga and singing Taylor Swift to donors’ families. In some ways, it was absolutely perfect When my mother, Erin O’Connell, was diagnosed with a rare and aggressive cancer in late 2022, one of her first thoughts was: “What will I do if I can’t work?” At the time, she was 62 years old and working as a physical therapist in Portland, Oregon, where she had recently moved to live closer to me and my family. Reluctantly, she filed for short-term disability from her job and paused her training to become a volunteer search and rescue ",
         "source": "The Guardian — Education",
         "published": "2026-10-24T12:00:33+00:00",
         "stream": "policy",
@@ -6355,18 +6367,6 @@
           "research"
         ],
         "region": "global"
-      },
-      {
-        "title": "Thoracic kyphosis is associated with somatosensory dependence and postural control in adolescent idiopathic scoliosis",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361226",
-        "summary": "by Wenjun Jiang, Ningnan Zhu, Peng Zhang, Jiahuan Wu, Sheng Wang, Xueliang Wu Background The contribution of sagittal spinal alignment to sensorimotor function in adolescent idiopathic scoliosis (AIS) remains unclear. We examined whether thoracic kyphosis (TK) is associated with sensory integration and postural balance in patients with AIS, independent of coronal structural misalignment. Methods Forty-five AIS patients (Cobb angle ≥ 10°) were consecutively recruited from the outpatient rehabilitation clinic of a university-affiliated hospital (median age 11.0 years, IQR 10.0–13.0; 33 female). ",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-23T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
       }
     ],
     "south_asia": [
@@ -6636,18 +6636,6 @@
         "region": "south_asia"
       },
       {
-        "title": "History and Identity in an Indo-Pak Conflict",
-        "url": "https://blogs.lse.ac.uk/southasia/2026/10/19/history-and-identity-in-an-indo-pak-conflict/",
-        "summary": "Military conflicts between Pakistan and India bring minority communities in both nations to greater attention than in other times. As Zaheer Ali shows, January 2025 was no different, and the increased use of social media gave this ‘post-modern’ conflict a particular profile. * Have you ever been in a situation where you have been … Continued The post History and Identity in an Indo-Pak Conflict first appeared on South Asia @ LSE .",
-        "source": "LSE South Asia Blog",
-        "published": "2026-10-19T08:02:28+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
         "title": "What does ‘take umbrage’ mean?",
         "url": "https://www.thehindu.com/education/what-does-take-umbrage-mean/article71600969.ece",
         "summary": "",
@@ -6845,6 +6833,18 @@
         "summary": "Before closing low-enrolment government schools, the administration must ask whether children are disappearing or merely choosing alternative institutions",
         "source": "The Hindu — Education",
         "published": "2026-10-18T02:10:36+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "The art of being kind.",
+        "url": "https://www.thehindu.com/children/the-art-of-being-kind/article71559139.ece",
+        "summary": "An ode to the thirteen-year-old version of me and many more out there who might be struggling and going to sleep crying everyday due to bullying",
+        "source": "The Hindu — Education",
+        "published": "2026-10-18T01:50:06+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -7548,9 +7548,129 @@
     ],
     "east_asia": [
       {
-        "title": "Ukraine’s Starlink speeds restored after week of frontline disruption",
+        "title": "‘Mum, good’: Chinese woman wakes vegetative daughter-in-law after 17 years of care",
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372043/mum-good-chinese-woman-wakes-vegetative-daughter-law-after-17-years-care",
+        "summary": "A woman in eastern China has been devotedly caring for her daughter-in-law for 17 years, ever since she fell into a vegetative state, moving social media users. The younger woman, surnamed Xu, fell into a vegetative state in 2009 after being struck by a truck in her village in Qingyun county, Shandong province. The accident happened just one month after she got married, Shandian News reported. Since then, her mother-in-law, Xuan Fengying, has cared for her around the clock. “She married my son,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T02:15:07+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Fandom vs flag: why young Chinese embrace Japanese pop culture but reject war-era symbols",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3372036/fandom-vs-flag-why-young-chinese-embrace-japanese-pop-culture-reject-war-era-symbols",
+        "summary": "Young Chinese people enjoy Japanese pop culture such as anime and music, but many draw a firm line at symbols of Japanese militarism. That line was tested recently at Moscow State University, where Chinese students confronted a classmate wearing Japan’s rising sun flag in class and called for his repatriation, state-run newspaper Global Times reported on Sunday. Many countries, including China, view the flag as a symbol of Japanese militarism and aggression. Japan’s Self-Defence Forces still use...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T02:00:16+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Why more Japanese women are choosing ‘silver divorce’ after decades of marriage",
+        "url": "https://www.scmp.com/week-asia/people/article/3371898/why-more-japanese-women-are-choosing-silver-divorce-after-decades-marriage",
+        "summary": "Ayumi lives alone in a spacious suburban house originally bought to raise a family, her two cats now her only full-time companions. Her two daughters have grown up and left home, and her husband of more than two decades moved out nearly a year ago as they finalise a divorce. For the 62-year-old Kawasaki resident, who spoke on condition that her surname be withheld, this was not how she envisioned her later years. “He worked very long hours, including on weekends, and I was always busy taking...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T02:00:13+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Hong Kong needs a civil service fit for a changed world",
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371777/hong-kong-needs-civil-service-fit-changed-world",
+        "summary": "Hong Kong’s civil service has long enjoyed a reputation for efficiency, professionalism and probity. It has also been a pillar of stability, particularly during the transition from British to Chinese rule. Outside the general and administrative grades, many civil servants spend much of their careers in relatively specialised areas of responsibility. This allows them to develop deep expertise and makes them dependable regulators and administrators. However, it can also make it harder to adapt...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T01:30:09+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "School bullying cases in Hong Kong rise 32% to nearly 500 a year",
+        "url": "https://www.scmp.com/news/hong-kong/education/article/3372020/school-bullying-cases-hong-kong-rise-32-nearly-500-year",
+        "summary": "Hong Kong schools handled an average of 496 bullying cases each academic year from 2022 to 2025 – a 32 per cent jump compared with the previous three years, according to the Education Bureau. A youth group attributed the increase to greater reporting driven by heightened mental health awareness, but also students struggling to distinguish playful jokes from bullying. According to the bureau, public primary and secondary schools recorded an average of 496 bullying cases each year between 2022 and...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T01:00:17+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Singapore embraces AI for cyber defence, with one caveat: breach transparency",
+        "url": "https://www.scmp.com/week-asia/politics/article/3371950/singapore-embraces-ai-cyber-defence-one-caveat-breach-transparency",
+        "summary": "Singapore is turning to major technology firms to strengthen its cyber defences, even as it presses them for greater transparency over security breaches – a balancing act facing regional governments as they seek to harness artificial intelligence while guarding against the risks it introduces. Those risks were highlighted by an AI agent linked to OpenAI that gained unauthorised access to files on an Australian government website earlier this year, raising questions over how quickly companies...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T00:00:14+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3372042/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-democrats",
+        "summary": "Former US president Barack Obama delivered a scathing critique of his successor, Donald Trump, at a rally in Ohio on Saturday to support Democratic candidates ahead of the November 3 midterm elections. “After two years of chaos and cruelty and corruption and incompetence, the likes of which we have not seen in the modern era, you get a chance to say, ‘Enough is enough,’” Obama declared in Cleveland. “We are voting for change right here in Ohio.” The 65-year-old Democrat blamed the Trump...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T22:50:31+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "China’s next generation of leaders waiting in the wings for more senior roles",
+        "url": "https://www.scmp.com/news/china/politics/article/3372013/chinas-next-generation-leaders-waiting-wings-more-senior-roles",
+        "summary": "Plenary sessions of the Central Committee, the upper echelon of China’s ruling Communist Party, are major events on the country’s political calendar. In the fourth part of this series, William Zheng looks at how the next generation of the party is being formed. When China’s political elites gather behind closed doors in Beijing for the Communist Party’s fifth plenum on Monday, much of the attention will be on the quiet preparations for allocating hundreds of pivotal roles in next year’s 21st...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T22:00:28+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Trump, a critic of early voting, votes early in Florida",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3372041/trump-critic-early-voting-votes-early-florida",
+        "summary": "US President Donald Trump cast his ballot for the midterm elections in Palm Beach on Saturday, opting to vote early in his adopted home state of Florida. At rallies ahead of Election Day on November 3, Trump has been urging Republicans to cast their ballots early, reversing course on a practice he has long decried in a bid to mobilise the party’s base in an election that threatens to end their control of Congress. Asked by reporters if he voted for the party line, he said: “Very much so.” The...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T21:58:09+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "How to share AI wealth? Neither the US nor Asia has the answer",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3371822/how-share-ai-wealth-neither-us-nor-asia-has-answer",
+        "summary": "On October 18, Anthropic, the artificial intelligence (AI) laboratory preparing one of the largest listings in history, committed 5 per cent of its shares to a public benefit fund. The next day, Elon Musk promised one SpaceX share, next year, for “every kid in America” – about US$10.6 billion for some 73 million children. The offers differ in who holds the shares. Anthropic’s will sit in an entity the company owns, spent on the public’s behalf; Musk’s would land, by a route he has not explained,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-24T21:30:06+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Musk admits he throttled Ukraine’s Starlink speeds, as access is restored",
         "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372040/ukraines-starlink-speeds-restored-after-week-frontline-disruption",
-        "summary": "Ukraine’s access to Starlink and Starshield satellite links has been restored to the speeds it had before restrictions that disrupted frontline operations for more than a week, Ukrainian President Volodymyr Zelensky said on Saturday. “The speeds are now where they need to be,” Zelensky said on social media, adding that restoration began overnight and was sufficient by Saturday morning, improving frontline logistics and defence against Russian jet-powered Shahed drones. The restoration follows a...",
+        "summary": "Elon Musk said on Saturday that his company SpaceX had throttled the Starlink satellite internet service in Ukraine, disrupting operations that the country relies on to defend itself against Russia. Musk’s admission on social media came after Ukrainian President Volodymyr Zelensky said that Ukraine’s access to Starlink and Starshield satellite links has been restored to the speeds it had before restrictions that disrupted frontline operations for more than a week. Questions have persisted since...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-24T18:00:35+00:00",
         "stream": "higher",
@@ -7906,126 +8026,6 @@
           "higher"
         ],
         "region": "east_asia"
-      },
-      {
-        "title": "Kim Jong-un urges North Korean military to become ‘strongest armed forces in the world’",
-        "url": "https://www.scmp.com/news/asia/east-asia/article/3372003/kim-jong-un-urges-north-korean-military-become-strongest-armed-forces-world",
-        "summary": "North Korean leader Kim Jong-un urged his military to train to become the strongest in the world at a two-day meeting of company commanders in Pyongyang, state media said on Saturday. Kim’s call for what he dubbed a “Korean-style military revolution” came the same week Seoul’s military proposed talks to clarify the border after an explosion inside the heavily fortified demilitarised zone (DMZ) further strained inter-Korean ties. Seoul and Pyongyang remain technically at war as the 1950-53 Korean...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T05:45:05+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Israeli election campaign turns ugly with jibes, attacks against candidates",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3371998/israeli-election-campaign-turns-ugly-jibes-attacks-against-candidates",
-        "summary": "Days ahead of close-fought Israeli elections, campaigns have gone into overdrive with poor-taste jibes and inflammatory attacks against candidates, sometimes crossing red lines. Fuelled in part by a boom in AI-generated images flooding social media, candidates and activists are seeking to portray their opponents as weak, untrustworthy or damaging for the country as they play on stereotypes and fears to sway public opinion. The electioneering has at times turned personal, with some candidates who...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T04:30:10+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Overseas Filipinos feel heartache over missing parcels for loved ones, demand answers",
-        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371982/overseas-filipinos-feel-heartache-over-missing-parcels-loved-ones-demand-answers",
-        "summary": "At this time of year, Fatima Ramos would normally be preparing her balikbayan boxes. Overseas Filipinos typically fill these boxes with gifts, clothes, food and household items to send to their loved ones back home in the Philippines for Christmas. Ramos has previously sent the tax-exempt parcels to her family and Philippine charity organisations from Abu Dhabi, where she is a domestic worker. Now back in the Philippines, Ramos is seeking answers about the parcels she sent last year, some of...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T04:00:20+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "China carries out in-depth investigation of Turkey’s largest rare earth deposit",
-        "url": "https://www.scmp.com/news/china/science/article/3371800/china-carries-out-depth-investigation-turkeys-largest-rare-earth-deposit",
-        "summary": "Chinese researchers have mapped the complex geological evolution of Turkey’s Kizilcaoren deposit, offering fresh insights into the country’s most significant known rare earth reserve while dampening expectations over its commercial potential. Although the findings shed light on how rare earth elements accumulate in carbonatite-related formations, the researchers concluded that the site was unlikely to emerge as a major global alternative to existing producers any time soon. Lead scientist...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T04:00:11+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Some Parisians buy pepper spray, tear gas for self-defence during protests",
-        "url": "https://www.scmp.com/news/world/europe/article/3371994/some-parisians-buy-pepper-spray-tear-gas-self-defence-during-protests",
-        "summary": "Parisians are buying tear-gas canisters and pepper sprays to defend themselves and their property during protests, which are expected to continue over the weekend, the owner of a weapons shop in the French capital has said. France was hit by its worst social unrest in years last weekend as nationwide protests over high prices and declining public services erupted into riots. A town hall was torched, shops pillaged ‌and buildings covered in graffiti as violent groups clashed with police in cities...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T03:30:17+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Revised law to maintain Japan’s imperial family size takes effect",
-        "url": "https://www.scmp.com/news/asia/east-asia/article/3371993/revised-law-maintain-japans-imperial-family-size-takes-effect",
-        "summary": "A revised Imperial House Law took effect on Saturday to address Japan’s shrinking imperial family while retaining the traditional male-only succession system despite public support for female emperors. The legislation, enacted in July in the first major revision of the 1947 law, allows the imperial family to adopt males aged 15 or older from 11 former imperial branch families who are descended from emperors through the male line. The revised law also allows female members to retain their...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T03:30:15+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "French cooking schools fuel fine-dining dreams of India’s young chefs",
-        "url": "https://www.scmp.com/news/asia/south-asia/article/3371991/french-cooking-schools-fuel-fine-dining-dreams-indias-young-chefs",
-        "summary": "Fiercely proud of its culinary traditions, India is increasingly open to foreign influences, with French cooking schools attracting students eager to make their mark on the country’s growing fine-dining sector. “Ten or 15 years ago, there were far fewer young people dreaming of becoming chefs,” said Aabhas Jain, director of bakery and pastry training at Ecole Ducasse, a French culinary school also operating in India. “But with the rise of social media … today’s students have greater ambitions in...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T02:15:05+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Pet custody disputes draw increasing attention in China, where pets are treated as property",
-        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3371992/pet-custody-disputes-draw-increasing-attention-china-where-pets-are-treated-property",
-        "summary": "Pets in China have become deeply woven into people’s lives and romantic relationships, especially those of younger couples. When romance sours, deciding “who gets custody” is becoming a painful legal grey area for many couples. According to pet industry data, China’s urban dog and cat population reached 126 million in 2025, driven largely by Gen Z and millennial. Many young couples treat their pets like children, calling each other the “Mum” and “Dad” of their fur babies. “While love may fade,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T02:14:29+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Danger, death and devotion: Japan’s festivals face crisis after fatal accidents",
-        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371913/danger-death-and-devotion-japans-festivals-face-crisis-after-fatal-accidents",
-        "summary": "Japan’s centuries-old festivals are facing renewed scrutiny after a series of fatal accidents in recent weeks, raising questions over how communities can preserve their cultural traditions without putting lives at risk. Three people have been killed and more than a dozen injured in accidents at autumn festivals across the country in recent weeks. Meanwhile, organisers of another major festival, where two men died in February, have cancelled next year’s event, citing public safety concerns. The...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T01:30:16+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Why Hong Kong should rethink premiums for private recreation clubs",
-        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371499/why-hong-kong-should-rethink-premiums-private-recreation-clubs",
-        "summary": "Private recreation leases have a long and contentious history in Hong Kong. Complaints about the inequity of granting land leases to private clubs at a nominal premium for the exclusive enjoyment of a small number of members have been raised many times. This issue is increasingly pressing. Twenty-seven sites are involved and almost all the leases for these sites are set for renewal next year. In response to this perceived inequality, the government reviewed its policy for clubs with private...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T01:30:11+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
       }
     ],
     "europe": [
@@ -8090,18 +8090,6 @@
         "region": "europe"
       },
       {
-        "title": "What Safeena Husain taught me about localised development",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/10/20/what-safeena-husain-taught-me-about-localised-development/",
-        "summary": "Localisation has three parts: delivery, money and decision-making. LSE alumna Safeena Husain, Founder of Educate Girls, has built an Indian non-profit that works with governments and communities to improve girls’ education in marginalised regions. Its experience shows how far a programme can go when delivery is truly local, while its impact bond raises questions regarding … Continued The post What Safeena Husain taught me about localised development first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-10-20T14:42:39+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "europe"
-      },
-      {
         "title": "Rethinking care careers: EfVET brings regional perspectives to gender equality, skills and wellbeing at EURegionsWeek 2026",
         "url": "https://efvet.org/rethinking-care-careers-efvet-brings-regional-perspectives-to-gender-equality-skills-and-wellbeing-at-euregionsweek-2026/",
         "summary": "On 14 October 2026, EfVET co-organised the workshop “Rethinking Care Careers: Gender, Skills and Wellbeing for Stronger Regions” in Brussels as part of the European Week of Regions and Cities. The discussion connected European policy with regional practice, exploring how lifelong learning, fair working conditions and gender equality can strengthen the care workforce. The workshop […] The post Rethinking care careers: EfVET brings regional perspectives to gender equality, skills and wellbeing at EURegionsWeek 2026 appeared first on EfVET .",
@@ -8119,30 +8107,6 @@
         "summary": "As part of the Learning Planet Festival 2027, taking place from 25 to 29 January 2027, the Festival is joining forces with Pass Kindness Forward, a global movement aiming to inspire one billion acts of kindness during Global Kindness Season, from 1 November 2026 to 31 January 2027. The movement was born in Puerto Rico... Read More The post Join Global Kindness Season with the Learning Planet Festival 2027 appeared first on NORRAG - .",
         "source": "NORRAG — Education & Development",
         "published": "2026-10-19T09:59:10+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "europe"
-      },
-      {
-        "title": "Making hope normal again (and again, and again): Nine months working for a Green Party MP",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/10/16/making-hope-normal-again-and-again-and-again-nine-months-working-for-a-green-party-mp/",
-        "summary": "Bahrathi Keeping, MSc Economic Policy for International Development, reflects on her experience completing an LSE Parliamentary Internship in 2025/26. Nine months in Parliament as a Policy Assistant to Dr Ellie Chowns MP taught me more than I could ever have expected about the workings of our political system. Swept up by the socialist tidal wave … Continued The post Making hope normal again (and again, and again): Nine months working for a Green Party MP first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-10-16T12:58:26+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "europe"
-      },
-      {
-        "title": "Temperatures and tensions continue to rise: UNEP and COP31",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/10/15/temperatures-and-tensions-continue-to-rise-unep-and-cop31/",
-        "summary": "In this blog, the September 2026 UN Environment Programme (UNEP) Report “Limiting Overshoot – Navigating exceedance of 1.5° C and pathways towards return” is understood and applied to the goals and framework presented for the November COP 31 in Antalya, Türkiye. With political and social development working for and against actors across the world, Katia … Continued The post Temperatures and tensions continue to rise: UNEP and COP31 first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-10-15T10:10:25+00:00",
         "stream": "research",
         "streams": [
           "research"
@@ -8170,18 +8134,6 @@
         "stream": "foundational",
         "streams": [
           "foundational"
-        ],
-        "region": "europe"
-      },
-      {
-        "title": "Technical solutions to political problems: Can development finally admit politics matters?",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/10/14/technical-solutions-to-political-problems-can-development-finally-admit-politics-matters/",
-        "summary": "Despite decades of investment and expanding technical knowledge, only 17% of SDG targets were on track in 2024. Progress on more than a third had stalled or reversed. Amid shrinking aid budgets and a strained multilateral system, Lennart Fleck argues that the development sector faces a critical test. Yet its response remains strikingly familiar: more … Continued The post Technical solutions to political problems: Can development finally admit politics matters? first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-10-14T14:27:38+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
         ],
         "region": "europe"
       },
@@ -8230,18 +8182,6 @@
         "stream": "tvet",
         "streams": [
           "tvet"
-        ],
-        "region": "europe"
-      },
-      {
-        "title": "Cutting-Edge Issues in Development – Who owns the future your health data is building?",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/10/08/cutting-edge-issues-in-development-who-owns-the-future-your-health-data-is-building/",
-        "summary": "On Friday 2 October, the Cutting-Edge Issues in Development Thinking and Practice 2026/27 series launched with a lecture by Professor Sharifah Sekalala on The Role of Law in African Health Data Futures. Sonali Silva, a PhD candidate in Demography in LSE’s Department of Methodology, joined as discussant, and the event was chaired by Dr Myfanwy … Continued The post Cutting-Edge Issues in Development – Who owns the future your health data is building? first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-10-08T13:09:59+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
         ],
         "region": "europe"
       },
@@ -8342,66 +8282,6 @@
         "region": "europe"
       },
       {
-        "title": "Turning an interest in climate finance into an award-winning dissertation and a UN career",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/turning-an-interest-in-climate-finance-into-an-award-winning-dissertation-and-a-un-career/",
-        "summary": "LSE Africa Dissertation Prize 2026 co-winner Patrick McVeigh reflects on how a fascination with carbon markets, land rights and REDD+ in East Africa shaped both his award-winning dissertation and his career with the United Nations. Receiving the LSE Africa Dissertation Prize for my MSc thesis has felt like something of a full-circle moment. A little … Continued The post Turning an interest in climate finance into an award-winning dissertation and a UN career first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-09-29T18:55:26+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "europe"
-      },
-      {
-        "title": "Leaving Cumberland Lodge with better questions, not simpler answers about development",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/leaving-cumberland-lodge-with-better-questions-not-simpler-answers-about-development/",
-        "summary": "How should development be understood in an era of geopolitical fragmentation, climate crisis and growing global inequality? Drawing on her experience at a Cumberland Lodge retreat for students in the LSE Department of International Development, MSc candidate Disha Ghosh explores how a weekend of lectures, discussion and debate challenged conventional assumptions about development and highlighted … Continued The post Leaving Cumberland Lodge with better questions, not simpler answers about development first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-09-29T14:40:51+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "europe"
-      },
-      {
-        "title": "Moona Shaik reflects on her journey from an LSE consultancy project to a UN Women panel",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/moona-shaik-reflects-on-her-journey-from-an-lse-consultancy-project-to-a-un-women-panel/",
-        "summary": "After contributing to a UN Women consultancy project at LSE, recent alumna Moona Shaik was invited to speak at a HeForShe University webinar. She shared what her research revealed about the pushback against women’s rights, the importance of allyship and the future of DEI initiatives. Drawing on her work in East Africa and reflections from … Continued The post Moona Shaik reflects on her journey from an LSE consultancy project to a UN Women panel first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-09-29T13:43:08+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "europe"
-      },
-      {
-        "title": "The Belém Gender Action Plan puts women at the centre of climate action, now it needs to deliver",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/the-belem-gender-action-plan-puts-women-at-the-centre-of-climate-action-now-it-needs-to-deliver/",
-        "summary": "MSc candidate Amanda Costa explores how the Belém Gender Action Plan became one of the most significant gender commitments in the history of UN climate negotiations. While the agreement promises to strengthen women’s participation across climate decision-making, finance and implementation, she argues that its success will ultimately depend on whether it delivers meaningful change for … Continued The post The Belém Gender Action Plan puts women at the centre of climate action, now it needs to deliver first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-09-29T10:51:42+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "europe"
-      },
-      {
-        "title": "Shanghai and the complexities of China’s rise",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/shanghai-and-the-complexities-of-chinas-rise/",
-        "summary": "More than 40 years after his first visit to China, Professor Robert Wade returns to find in Shanghai a city that appears to have moved from the developing world into the technological future. Its prosperity, manufacturing depth and technological ambition reveal the results of decades of strategic economic development, but its low fertility, property downturn … Continued The post Shanghai and the complexities of China’s rise first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-09-29T08:39:19+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "europe"
-      },
-      {
         "title": "Book review: Emancipation and vocational education: Skills, Bildung and the subject",
         "url": "https://njvet.ep.liu.se/article/view/6719",
         "summary": "Book review Emancipation and vocational education: Skills, Bildung and the subject Bill Esmond, Johannes K. Schmees & Volker Wedekind Routledge, 2026 (https://doi.org/10.4324/9781003608141) Review by Eli Smeplass",
@@ -8468,7 +8348,7 @@
         "url": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
         "summary": "Thousands have marched in student demonstrations over education, the cost of living, and a project linked to Jared Kushner, President Trump’s son-in-law.",
         "source": "New York Times — Education",
-        "published": "2026-10-24T18:50:20+00:00",
+        "published": "2026-10-24T21:54:36+00:00",
         "stream": "policy",
         "streams": [
           "policy"
