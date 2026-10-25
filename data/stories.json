@@ -308,6 +308,18 @@
     ],
     "school": [
       {
+        "title": "A Historic Win for Paid Parental Leave, Led by Nurses",
+        "url": "https://www.the74million.org/zero2eight/a-historic-win-for-paid-parental-leave-led-by-nurses/",
+        "summary": "As a nurse in the neonatal intensive care unit, Jean Stone knows what it really means to live in a country with no paid parental leave. She’s watched this scene play out so many times it’s almost the norm: Once their babies stabilize in the NICU, parents often return to work to preserve whatever parental […]",
+        "source": "The 74 Million",
+        "published": "2026-10-25T16:30:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
         "title": "Opinion: Will NYC Try an Integration Plan That Failed Spectacularly in San Francisco?",
         "url": "https://www.the74million.org/article/will-nyc-try-an-integration-plan-that-failed-spectacularly-in-san-francisco/",
         "summary": "At a town hall meeting on October 20, Nikole Hannah-Jones peppered Chancellor of New York City Public Schools Kamar Samuels with questions regarding his and Mayor Zohran Mamdani’s vision for America’s largest public schools system. Among Hannah-Jones’ suggestions for improvement was a plan that had, just the week before, been repealed in San Francisco after […]",
@@ -361,6 +373,18 @@
         "summary": "For the second year in a row, Ohio spent more than a billion dollars on private school vouchers, this time for the 2026 fiscal year. The total amount for Ohio’s five private school voucher programs was $1.173 billion, according to data from the Ohio Department of Education and Workforce. Nearly half of the money ($532.8 […]",
         "source": "The 74 Million",
         "published": "2026-10-24T10:30:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
+        "title": "How a Small Student Protest Spread Across France",
+        "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
+        "summary": "A movement that began with a few high schools has broadened to encompass labor unions and other activists.",
+        "source": "New York Times — Education",
+        "published": "2026-10-24T09:46:50+00:00",
         "region": "north_america",
         "streams": [
           "school"
@@ -676,18 +700,6 @@
         "summary": "This story was originally published by CalMatters. Sign up for their newsletters. California’s K-12 student test scores improved slightly in almost all categories last year, but progress slowed following a post-pandemic surge, according to state data released today. “It’s slow but steady improvement,” said Linda Darling-Hammond, president of the State Board of Education. “It suggests […]",
         "source": "The 74 Million",
         "published": "2026-10-20T14:15:00+00:00",
-        "region": "north_america",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "Educators Ask FCC to ‘Preserve and Strengthen’ Broadband Discount Program",
-        "url": "https://www.the74million.org/article/educators-ask-fcc-to-preserve-and-strengthen-broadband-discount-program/",
-        "summary": "The Trump administration’s plan to revise, or potentially discontinue, broadband discounts for schools and libraries is overwhelmingly unpopular, judging by the thousands of comments submitted since August. Pleas from school administrators, librarians and education advocates to protect E-Rate represent the majority of the statements to the Federal Communications Commission. In June, Chairman Brendan Carr called […]",
-        "source": "The 74 Million",
-        "published": "2026-10-20T12:30:00+00:00",
         "region": "north_america",
         "streams": [
           "school"
@@ -1186,9 +1198,93 @@
     ],
     "higher": [
       {
+        "title": "Presidential race in Bulgaria heads to run-off after record low turnout",
+        "url": "https://www.scmp.com/news/world/europe/article/3372095/presidential-race-bulgaria-heads-run-after-record-low-turnout",
+        "summary": "The presidential election in Bulgaria on Sunday ended inconclusively, with the next head of state to be picked in a run-off, according to election officials. A record low turnout, attributed by observers to a general mistrust in politicians resulting in voter apathy, will pit two contrasting political visions against each other in a highly polarised contest on November 1. In a surprisingly strong performance, the candidate of the pro-Western reformist opposition, Andrey Gyurov, will face the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T20:03:23+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Venezuela’s opposition leader Maria Corina Machado returns after months in exile",
+        "url": "https://www.scmp.com/news/world/americas/article/3372094/venezuelas-opposition-leader-maria-corina-machado-returns-after-months-exile",
+        "summary": "Venezuelan opposition leader Maria Corina Machado has returned to the South American nation after nearly a year outside the country, she said on social media on Sunday. “I’m here. With you all,” the ‌Nobel Peace Prize-winning Machado wrote on social media early on Sunday. Machado’s press team shared images of her in central-western Lara state, in the Plaza del Pueblo de Santa Rosa, where Machado appeared at a church. The issue of her return has strained her relationship with the Trump...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T19:31:04+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Trump ‘not trying to meddle’ in Alaska election results by suing over Senate race: Blanche",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3372093/trump-not-trying-meddle-alaska-election-results-suing-over-senate-race-blanche",
+        "summary": "Attorney General Todd Blanche on Sunday defended the Trump administration’s lawsuit to block certification of Alaska’s Senate results if Republican incumbent Dan Sullivan loses the race and argued that the legal challenge was a necessary step to avoid confusing voters in the closely watched midterm race. US President Donald Trump, who said on Friday that he was “the one that said do it”, is not trying to overturn state election results “in any way, shape or form” on the cusp of the November 3...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T18:49:08+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "France’s Le Pen vows to restore ‘rule of law’ at presidential campaign launch",
+        "url": "https://www.scmp.com/news/world/europe/article/3372092/frances-le-pen-vows-restore-rule-law-presidential-campaign-launch",
+        "summary": "Marine Le Pen, France’s far-right candidate to succeed President Emmanuel Macron next year, vowed in her first campaign speech on Sunday to “restore the rule of law” if elected next year. Le Pen - the front runner in the polls - seems to be benefiting from the convulsions France has been going through for weeks, punctuated by mass cost-of-living rallies and some violent clashes on Saturday and the previous week. “We are going to restore the rule of law,” she said, after looting and arson on the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T18:01:33+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Netanyahu warns Iran may try to disrupt election, says ‘don’t test us’",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3372091/netanyahu-warns-iran-may-try-disrupt-election-says-dont-test-us",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu said Iran and its allies might try to disrupt Tuesday’s Israeli elections, warning the Islamic republic against any hostile acts. The premier has campaigned heavily on his security credentials, touting the war he launched against Iran in February alongside the United States and suggesting that he alone can see it through. “We have intelligence signs that our enemies, Iran and its proxies, could challenge us with attacks in order to disrupt the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T17:29:00+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Storms batter northern Europe, hitting power supplies, flights and phones",
+        "url": "https://www.scmp.com/news/world/europe/article/3372090/storms-batter-northern-europe-hitting-power-supplies-flights-and-phones",
+        "summary": "Storms battered northern Europe on Sunday cutting power to more than 150,000 homes, forcing the cancellation of hundreds of flights and silencing phone networks. Winds of up to 135km (84 miles) an hour were recorded in Argyll and Bute in western Scotland and fallen trees and power cables blocked roads and rail lines across the country. More than 82,000 homes in Britain, nearly 60,000 in France and at least 10,000 in Germany had power cuts inflicted by the passage of storms Boelo and Austen...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T16:44:37+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Philippines plan ‘appropriate legal action’ against Thomas Markle",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372089/philippines-plan-appropriate-legal-action-against-thomas-markle",
+        "summary": "Philippine police are investigating a laptop found alongside images of child abuse at the former home of Meghan Markle’s estranged father, with “full results” expected in a week, the country’s interior minister told reporters. Thomas Markle, whose daughter is married to Britain’s Prince Harry, had been living in Cebu in the Philippines until reportedly returning to the US earlier this year. Philippine interior minister Jonvic Remulla said the country planned to take “appropriate legal actions”...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T15:26:17+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
         "title": "HK Express passenger injured after power bank overheats on flight to Jeju",
         "url": "https://www.scmp.com/news/hong-kong/transport/article/3372088/hk-express-passenger-injured-after-power-bank-overheats-flight-jeju",
-        "summary": "A traveller was injured after a power bank overheated and emitted smoke aboard a HK Express flight from Hong Kong to South Korea on Sunday, prompting crew members to deploy emergency safety measures before the aircraft landed safely. The incident occurred on flight UO676 to Jeju, which was carrying 236 passengers and seven crew, prompting an apology from HK Express. The budget airline, a subsidiary of Hong Kong flag carrier Cathay Pacific Airways, said the power bank was stored in a bag under a...",
+        "summary": "A traveller was injured after a power bank overheated and emitted smoke aboard an HK Express flight from Hong Kong to South Korea on Sunday, prompting crew members to deploy emergency safety measures before the aircraft landed safely. The incident occurred on flight UO676 to Jeju, which was carrying 236 passengers and seven crew, prompting an apology from HK Express. The budget airline, a subsidiary of Hong Kong flag carrier Cathay Pacific Airways, said the power bank was stored in a bag under a...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-25T14:46:45+00:00",
         "region": "east_asia",
@@ -1368,7 +1464,7 @@
       {
         "title": "Upgrade or eyesore? Why Hong Kong’s Peak light display has hit a snag",
         "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372069/upgrade-or-eyesore-why-hong-kongs-peak-light-display-has-hit-snag",
-        "summary": "A controversial lighting project along a walking trail on The Peak is in doubt following mounting complaints that the installations damage Hong Kong’s natural beauty. Designed as one of several new attractions meant to replace a retired light show, the initiative has been criticised by local residents and visitors as counterproductive. The South China Morning Post looks at what has gone wrong with the project. 1. What is the project about? The Tourism Board planned small light installations for...",
+        "summary": "A controversial lighting project along a walking trail on The Peak is in doubt following mounting complaints that the installations damage Hong Kong’s natural beauty. Designed as one of several new attractions meant to replace a retired light show, the initiative has been criticised by local residents and visitors. The South China Morning Post looks at what has gone wrong with the project. What is the project? The Tourism Board planned small light installations for selected points along the...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-25T09:04:10+00:00",
         "region": "east_asia",
@@ -1695,90 +1791,6 @@
         "summary": "On October 18, Anthropic, the artificial intelligence (AI) laboratory preparing one of the largest listings in history, committed 5 per cent of its shares to a public benefit fund. The next day, Elon Musk promised one SpaceX share, next year, for “every kid in America” – about US$10.6 billion for some 73 million children. The offers differ in who holds the shares. Anthropic’s will sit in an entity the company owns, spent on the public’s behalf; Musk’s would land, by a route he has not explained,...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-24T21:30:06+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Musk admits he throttled Ukraine’s Starlink speeds, as access is restored",
-        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372040/ukraines-starlink-speeds-restored-after-week-frontline-disruption",
-        "summary": "Elon Musk said on Saturday that his company SpaceX had throttled the Starlink satellite internet service in Ukraine, disrupting operations that the country relies on to defend itself against Russia. Musk’s admission on social media came after Ukrainian President Volodymyr Zelensky said that Ukraine’s access to Starlink and Starshield satellite links has been restored to the speeds it had before restrictions that disrupted frontline operations for more than a week. Questions have persisted since...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T18:00:35+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "German man detained after fire wrecks Hitler’s ‘Eagle’s Nest’ mountain retreat",
-        "url": "https://www.scmp.com/news/world/europe/article/3372039/german-man-detained-after-fire-wrecks-hitlers-eagles-nest-mountain-retreat",
-        "summary": "Firefighters battled on Saturday to put out flames that tore through Adolf Hitler’s “Eagle’s Nest” mountain retreat while police detained a suspect who investigators said may have psychiatric problems. The alarm was raised late on Friday at the former guest house for top Nazi officials, 1,834 metres (6,000 feet) high in the Bavarian Alps. As snow fell on the Alpine peak, the Eagle’s Nest was still engulfed in flames at dawn on Saturday, and fire chief Michael Brandl told a press conference the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T16:35:33+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Man arrested over suspected rat poison in stray cat food at Kowloon park",
-        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372037/man-arrested-over-suspected-rat-poison-stray-cat-food-kowloon-park",
-        "summary": "Police have arrested a 34-year-old man who allegedly mixed rat poison into food left for stray cats in a Kowloon park and was found in possession of a knife. The force said it received a report at around 3.30am on Saturday that a man was suspected of putting poison in cat food that animal welfare volunteers had placed near tennis courts in Shek Kip Mei Park. Officers arrived at the scene and seized a packet of suspected rat poison and a fruit knife measuring around 14cm (5.5 inches) in length...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T15:47:48+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Saudi strikes kill 11 in Yemen as Houthi missiles target Saudi cities",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3372035/saudi-strikes-kill-11-yemen-houthi-missiles-target-saudi-cities",
-        "summary": "Houthi media reported that Saudi strikes killed 11 people in Yemeni capital Sanaa on Saturday, shortly after the Saudi-led coalition fighting them said it had intercepted two missiles targeting Saudi cities. The Houthis’ Al-Masirah outlet reported a series of “Saudi enemy air strikes” targeting Sanaa, including one on a house that killed at least four people and wounded several others. A separate strike at a residence building for cement factory workers in the Sanaa governorate killed six women...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T14:33:12+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "2 projector stands removed from controversial Peak lighting project after outcry",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3372034/2-projector-stands-removed-controversial-peak-lighting-project-after-outcry",
-        "summary": "Parts of two installations in a controversial lighting project along a walking trail on The Peak have been removed, days after Hong Kong’s tourism authorities pledged to balance the community’s needs and said the scheme was not “set in stone”. The removals came hours after Commissioner for Tourism Ann Chan Wai-yan inspected the site on Saturday morning with a lawmaker and a district councillor, following an outcry from residents who accused the Hong Kong Tourism Board of removing trees and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T14:27:49+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "China’s J-20 stealth jet designers plan to put powerful radar into aircraft wing",
-        "url": "https://www.scmp.com/news/china/science/article/3371706/chinas-j-20-stealth-jet-designers-plan-put-powerful-radar-aircraft-wing",
-        "summary": "Fighter jets typically house their main radars behind a radome in the nose, while conventional airborne early-warning aircraft often carry large radar arrays in prominent structures above the fuselage. Although aircraft wings offer a large surface area, their relatively thin cross-sections leave limited internal space for radar equipment. Top Chinese military aircraft designers have now proposed a revolutionary method to integrate large antenna arrays into aircraft wings, using flight manoeuvres...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T14:00:10+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Leading Chinese economic commentator Ren Zeping’s social media account restricted",
-        "url": "https://www.scmp.com/news/china/money-wealth/article/3372032/leading-chinese-economic-commentator-ren-zepings-social-media-account-restricted",
-        "summary": "A prominent Chinese economist’s social media channel has been restricted as Beijing steps up regulatory scrutiny of financial market influencers. Chinese internet users on Saturday noticed that the WeChat account of Ren Zeping, known for his outspoken comments on investments and policies, had been stopped from gaining new followers and a member of his team said posting had been suspended. Clicking the follow button generated a message saying “this account cannot be followed due to its violation...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T13:50:26+00:00",
         "region": "east_asia",
         "streams": [
           "higher"
@@ -3633,23 +3645,11 @@
     ],
     "policy": [
       {
-        "title": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
-        "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes",
-        "summary": "An Israeli strike on a university in Gaza City killed three people on Sunday, staff and a local hospital said, while the civil defence agency reported four others killed elsewhere in the territory. Reached for comment, the Israeli military said it was looking into the reports. Al Shifa Hospital said it received three bodies and treated eight people who were wounded in the Gaza City drone strike, with two sources at the Islamic University saying those killed were administrative staff and the injured were students. Gaza’s education ministry said in a statement that the students had been present ",
-        "source": "Dawn — Pakistan",
-        "published": "2026-10-25T14:48:54+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
-        "url": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
-        "summary": "Children in Gaza with auditory and visual challenges often have no access to specialist education.",
+        "title": "Serbia voter turnout highest in decades as students oppose longtime leader",
+        "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
+        "summary": "Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.",
         "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-25T13:46:51+00:00",
+        "published": "2026-10-25T19:19:54+00:00",
         "region": "global",
         "streams": [
           "policy"
@@ -3657,11 +3657,59 @@
         "stream": "policy"
       },
       {
-        "title": "Serbia votes as student-led bloc challenges longtime leader Vucic",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss",
-        "summary": "Serbians turn out in huge numbers for a parliamentary election that could end Aleksandar Vucic’s longstanding reign.",
+        "title": "Israeli air strike on Gaza City university kills three people",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+        "summary": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City.",
         "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-25T13:40:10+00:00",
+        "published": "2026-10-25T18:12:13+00:00",
+        "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "The Guardian view on adult education: learning should be for all ages | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/25/the-guardian-view-on-adult-education-learning-should-be-for-all-ages",
+        "summary": "Teenagers and young adults are not the only people in need of new skills and a sense of purpose The neglect of adults was, David Blunkett said in a recent interview , his biggest regret about education policy under New Labour. Spending on classroom-based adult learning in England has fallen steadily, from a high point of more than £5bn in 2003-04, to less than £2bn last year. We should not expect two decades of decline to be reversed quickly. But the upcoming report from Alan Milburn on young people who are not in education, employment or training is widely expected to result in a boost for co",
+        "source": "The Guardian — Education",
+        "published": "2026-10-25T17:30:07+00:00",
+        "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Students across country to get 500,000 Chromebooks over 2 years, announces PM Shehbaz",
+        "url": "https://www.dawn.com/news/2039718/students-across-country-to-get-500000-chromebooks-over-2-years-announces-pm-shehbaz",
+        "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Sunday launched a scheme under which the government would distribute 500,000 Chromebook laptops to students nationwide over two years. He addressed the launch ceremony in Islamabad of the Prime Minister’s Youth Chromebook Scheme, a nationwide initiative to distribute 500,000 Chromebooks equipped with MiFi internet connectivity to deserving students and high achievers. Banners visible at the ceremony read “500,000 refurbished Chromebooks” were to be handed out. Expressing confidence in the initiative’s broad impact, the prime minister noted that the s",
+        "source": "Dawn — Pakistan",
+        "published": "2026-10-25T16:32:46+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Israeli strike on Gaza university kills 3; another 4 Palestinians killed in other attacks",
+        "url": "https://www.dawn.com/news/2039736/israeli-strike-on-gaza-university-kills-3-another-4-palestinians-killed-in-other-attacks",
+        "summary": "An Israeli strike on a university in Gaza City killed three people on Sunday, staff and a local hospital said, while the civil defence agency reported four others killed elsewhere in the territory. Reached for comment, the Israeli military said it was looking into the reports. Al Shifa Hospital said it received three bodies and treated eight people who were wounded in the Gaza City drone strike, with two sources at the Islamic University saying those killed were administrative staff and the injured were students. Gaza’s education ministry said in a statement that the students had been present ",
+        "source": "Dawn — Pakistan",
+        "published": "2026-10-25T16:13:06+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Eight killed in Gaza as Israel targets university campus and other sites",
+        "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
+        "summary": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City.",
+        "source": "Al Jazeera — News (education-gated)",
+        "published": "2026-10-25T15:40:25+00:00",
         "region": "global",
         "streams": [
           "policy"
@@ -3711,18 +3759,6 @@
         "source": "New York Times — Education",
         "published": "2026-10-25T12:33:20+00:00",
         "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Students across country to get 500,000 Chromebooks over 2 years, announces PM Shehbaz",
-        "url": "https://www.dawn.com/news/2039718/students-across-country-to-get-500000-chromebooks-over-2-years-announces-pm-shehbaz",
-        "summary": "Prime Minister Shehbaz Sharif announced on Sunday that the government would distribute 500,000 Chromebook laptops to students nationwide over two years. He said this at the launch ceremony of the Prime Minister’s Youth Chromebook Scheme in Islamabad. At the outset of his address, the premier stressed that it was his duty and the state’s “collective responsibility” to provide the youth with modern technology, so they could become “the great builders of Pakistan”. “Our boys and girls [..] are the true assets of Pakistan,” the prime minister remarked. He added that the Chromebooks were being dist",
-        "source": "Dawn — Pakistan",
-        "published": "2026-10-25T11:23:22+00:00",
-        "region": "south_asia",
         "streams": [
           "policy"
         ],
@@ -3782,18 +3818,6 @@
         "summary": "Thousands have marched in student demonstrations over education, the cost of living, and a project linked to Jared Kushner, President Trump’s son-in-law.",
         "source": "New York Times — Education",
         "published": "2026-10-24T21:54:36+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "None of This Is Normal",
-        "url": "https://www.nytimes.com/2026/10/24/opinion/midterms-trump-america.html",
-        "summary": "The fundamental issue is Trump’s shredding of the model that made America the world’s leading country.",
-        "source": "New York Times — Education",
-        "published": "2026-10-24T17:52:31+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -4579,21 +4603,21 @@
           "policy"
         ],
         "stream": "policy"
-      },
-      {
-        "title": "Wiring Africa’s Future: Meet Yosef Dechasa, the Young Ethiopian Technician Powering Change",
-        "url": "https://fawe.org/en/wiring-africas-future-meet-yosef-dechasa-the-young-ethiopian-technician-powering-change/",
-        "summary": "At the 3rd Africa Skills Week 2026 in Harare, Zimbabwe, one young man discovered that the most powerful engine for Africa’s development isn’t found under a car hood — it’s found in the skills of its youth. In a world that often celebrates the loudest voices, Yosef Dechasa speaks through his work. A student of Automotive […] The post Wiring Africa’s Future: Meet Yosef Dechasa, the Young Ethiopian Technician Powering Change appeared first on FORUM FOR AFRICAN WOMEN EDUCATIONALISTS (FAWE) .",
-        "source": "FAWE — African Women Educationalists",
-        "published": "2026-10-18T13:09:37+00:00",
-        "region": "east_africa",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
       }
     ],
     "research": [
+      {
+        "title": "Schools generate massive amounts of food waste. Here’s how to curb it",
+        "url": "https://hechingerreport.org/schools-generate-massive-amounts-of-food-waste-heres-how-to-curb-it/",
+        "summary": "Up to 40 percent of food served in schools goes to waste — about 530,000 tons. All that food waste has serious consequences for the planet: It translates into some 1.9 million metric units of greenhouse gases per year, according to a new report from the nonprofit World Wildlife Fund. But there are solutions. Since […] The post Schools generate massive amounts of food waste. Here’s how to curb it appeared first on The Hechinger Report .",
+        "source": "Hechinger Report",
+        "published": "2026-10-25T16:00:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
       {
         "title": "The influence of transformational teacher leadership behaviours on student self-determination moderated by institutional support and classroom climate: a self-determination theory perspective",
         "url": "https://www.nature.com/articles/s41599-026-09481-1",
@@ -5376,18 +5400,6 @@
         "stream": "research"
       },
       {
-        "title": "‘This is the first time I’ve touched grass’: Inside the U.S. colleges pioneering social prescriptions",
-        "url": "https://hechingerreport.org/this-is-the-first-time-ive-touched-grass-inside-the-u-s-college-campuses-pioneering-social-prescriptions/",
-        "summary": "This story is being published in partnership with MindSite News, a national news organization that reports on mental health and sends out a daily newsletter available here. In 1984, while studying at Cornell University as a graduate student and going through a “difficult” time, Don Rakow remembers escaping to the campus gardens. “They were my […] The post ‘This is the first time I’ve touched grass’: Inside the U.S. colleges pioneering social prescriptions appeared first on The Hechinger Report .",
-        "source": "Hechinger Report",
-        "published": "2026-10-15T05:00:00+00:00",
-        "region": "north_america",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
         "title": "Is AI eroding PhD students’ critical thinking and analysis skills?",
         "url": "https://www.nature.com/articles/d41586-026-03178-w",
         "summary": "",
@@ -5559,6 +5571,30 @@
     ],
     "funding": [
       {
+        "title": "33 Global Trainings, Awards and Travel Abroad Opportunities Currently Open – October 25, 2026",
+        "url": "https://opportunitydesk.org/2026/10/25/33-global-trainings-awards-and-travel-abroad-opportunities-currently-open-october-25-2026/",
+        "summary": "1. EJN Virtual Media Workshops on the 30×30 Target and Marine Protected Areas 2027The Earth Journalism Network is inviting journalists to join virtual media workshops focused on the global 30×30 conservation target and marine protected areas. The programme is designed to strengthen journalists’ understanding of marine biodiversity, conservation policy and the practical reporting skills needed [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-25T17:00:49+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "How to Leverage the End of the Year to Strengthen Your Finances and Make Smarter Investments",
+        "url": "https://opportunitydesk.org/2026/10/25/how-to-leverage-the-end-of-the-year-to-strengthen-your-finances-and-make-smarter-investments/",
+        "summary": "As the year draws to a close, it is natural to reflect on personal achievements, financial decisions and goals for the future. While the final months of the year are often associated with celebrations, holidays and increased spending, they also present an important opportunity to reassess financial priorities, strengthen investment strategies and prepare for long-term [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-25T16:50:12+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
         "title": "IDM-Africa Fellowship Programme 2027",
         "url": "https://opportunitydesk.org/2026/10/24/idm-africa-fellowship-programme-2027/",
         "summary": "Deadline: October 30, 2026 Applications are open for the IDM-Africa Fellowship Programme 2027. IDM-Africa invites applications from early- and mid-career scientists in sub-Saharan Africa (SSA) for its annual Fellowship Programme in infectious-disease modelling. The Fellowship supports scientists who already have foundational training and practical experience in infectious-disease modelling to develop an applied, policy-relevant modelling project [...]",
@@ -5660,30 +5696,6 @@
         "summary": "Deadline: November 30, 2026 Applicationsn are open for the World Food Forum Youth Policy Board 2027-2028. The WFF Youth Policy Board (YPB) was launched in 2021 with the aim of providing a strategic youth-led vision to the policy-related activities carried out by the WFF Youth Initiative through the Youth Assembly. The YPB is an independent [...]",
         "source": "Opportunity Desk — Scholarships & Fellowships",
         "published": "2026-10-23T15:52:53+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "PATH Global Health Strategy Internship 2026 (up to $1,000)",
-        "url": "https://opportunitydesk.org/2026/10/23/path-global-health-strategy-internship-2026/",
-        "summary": "Deadline: October 31, 2026 Applications are open for the PATH Global Health Strategy Internship 2026. Under the direction of the CEO & President, the Office of the President works to guide PATH’s strategic approach internally and at global and country levels. PATH has set out to expand the scope of their respectful partnerships with national [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-23T15:38:33+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "Columbia University Italian Academy Fellowship Program 2027-2028",
-        "url": "https://opportunitydesk.org/2026/10/23/columbia-university-italian-academy-fellowship-2027-2028/",
-        "summary": "Deadline: December 4, 2026 Applications are open for the Columbia University Italian Academy Fellowship Program 2027-2028. The multi-disciplinary Fellowship Program is the heart of the work of the Italian Academy. Fellowships are open to scholars who wish to devote a semester or a full academic year to genuinely innovative work in the humanities, sciences, or [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-23T14:55:57+00:00",
         "region": "global",
         "streams": [
           "funding"
@@ -5841,6 +5853,78 @@
   "regions": {
     "global": [
       {
+        "title": "Serbia voter turnout highest in decades as students oppose longtime leader",
+        "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
+        "summary": "Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.",
+        "source": "Al Jazeera — News (education-gated)",
+        "published": "2026-10-25T19:19:54+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Israeli air strike on Gaza City university kills three people",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+        "summary": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City.",
+        "source": "Al Jazeera — News (education-gated)",
+        "published": "2026-10-25T18:12:13+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "The Guardian view on adult education: learning should be for all ages | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/25/the-guardian-view-on-adult-education-learning-should-be-for-all-ages",
+        "summary": "Teenagers and young adults are not the only people in need of new skills and a sense of purpose The neglect of adults was, David Blunkett said in a recent interview , his biggest regret about education policy under New Labour. Spending on classroom-based adult learning in England has fallen steadily, from a high point of more than £5bn in 2003-04, to less than £2bn last year. We should not expect two decades of decline to be reversed quickly. But the upcoming report from Alan Milburn on young people who are not in education, employment or training is widely expected to result in a boost for co",
+        "source": "The Guardian — Education",
+        "published": "2026-10-25T17:30:07+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "33 Global Trainings, Awards and Travel Abroad Opportunities Currently Open – October 25, 2026",
+        "url": "https://opportunitydesk.org/2026/10/25/33-global-trainings-awards-and-travel-abroad-opportunities-currently-open-october-25-2026/",
+        "summary": "1. EJN Virtual Media Workshops on the 30×30 Target and Marine Protected Areas 2027The Earth Journalism Network is inviting journalists to join virtual media workshops focused on the global 30×30 conservation target and marine protected areas. The programme is designed to strengthen journalists’ understanding of marine biodiversity, conservation policy and the practical reporting skills needed [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-25T17:00:49+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "How to Leverage the End of the Year to Strengthen Your Finances and Make Smarter Investments",
+        "url": "https://opportunitydesk.org/2026/10/25/how-to-leverage-the-end-of-the-year-to-strengthen-your-finances-and-make-smarter-investments/",
+        "summary": "As the year draws to a close, it is natural to reflect on personal achievements, financial decisions and goals for the future. While the final months of the year are often associated with celebrations, holidays and increased spending, they also present an important opportunity to reassess financial priorities, strengthen investment strategies and prepare for long-term [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-10-25T16:50:12+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Eight killed in Gaza as Israel targets university campus and other sites",
+        "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
+        "summary": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City.",
+        "source": "Al Jazeera — News (education-gated)",
+        "published": "2026-10-25T15:40:25+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "global"
+      },
+      {
         "title": "Your Course Completion Rate Is Probably Measuring The Wrong Thing",
         "url": "https://elearningindustry.com/your-course-completion-rate-is-probably-measuring-the-wrong-thing",
         "summary": "Low completion rates make course creators rebuild courses that are not broken. Research on millions of learners shows that the number depends on who you count, and what to measure instead. This post was first published on eLearning Industry .",
@@ -5849,30 +5933,6 @@
         "stream": "edtech",
         "streams": [
           "edtech"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
-        "url": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
-        "summary": "Children in Gaza with auditory and visual challenges often have no access to specialist education.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-25T13:46:51+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Serbia votes as student-led bloc challenges longtime leader Vucic",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss",
-        "summary": "Serbians turn out in huge numbers for a parliamentary election that could end Aleksandar Vucic’s longstanding reign.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-25T13:40:10+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "global"
       },
@@ -6153,18 +6213,6 @@
         "region": "global"
       },
       {
-        "title": "PATH Global Health Strategy Internship 2026 (up to $1,000)",
-        "url": "https://opportunitydesk.org/2026/10/23/path-global-health-strategy-internship-2026/",
-        "summary": "Deadline: October 31, 2026 Applications are open for the PATH Global Health Strategy Internship 2026. Under the direction of the CEO & President, the Office of the President works to guide PATH’s strategic approach internally and at global and country levels. PATH has set out to expand the scope of their respectful partnerships with national [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-23T15:38:33+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
         "title": "LMS for Nonprofits: How to Scale Training with a Limited Budget",
         "url": "https://elearningindustry.com/lms-for-nonprofits-how-to-scale-training-with-a-limited-budget",
         "summary": "Nonprofits train staff, volunteers, and donors on a fraction of a corporate L&D budget. See what an LMS for nonprofits needs to scale training without adding admin work. This post was first published on eLearning Industry .",
@@ -6173,18 +6221,6 @@
         "stream": "edtech",
         "streams": [
           "edtech"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Columbia University Italian Academy Fellowship Program 2027-2028",
-        "url": "https://opportunitydesk.org/2026/10/23/columbia-university-italian-academy-fellowship-2027-2028/",
-        "summary": "Deadline: December 4, 2026 Applications are open for the Columbia University Italian Academy Fellowship Program 2027-2028. The multi-disciplinary Fellowship Program is the heart of the work of the Italian Academy. Fellowships are open to scholars who wish to devote a semester or a full academic year to genuinely innovative work in the humanities, sciences, or [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-23T14:55:57+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
         ],
         "region": "global"
       },
@@ -6295,39 +6331,15 @@
           "research"
         ],
         "region": "global"
-      },
-      {
-        "title": "No phenotypes in Ttc22 knockout mice",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361340",
-        "summary": "by Jiaoyang Liu, Liankun Gu, Abin You, Hongfan Yuan, Jing Zhou, Wei Tian, Dajun Deng The TTC22 gene encodes a protein containing seven tetratricopeptide repeats (TPRs), which mediate protein‒protein interactions as chaperones. We previously reported that the level of TTC22 transcript variant 1 ( TTC22v1 ) was downregulated in human colon adenocarcinoma (COAD) and that TTC22 upregulated m6A-mediated WTAP and SNAI1 expression via the TTC22‒RPL4 interaction and subsequently promoted COAD metastasis. Thus, a commercially available C57BL/6N mouse model in which the Ttc22 exon 2&3 encoding the TPR4 ",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-23T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Cross-cultural adaptation, validation, and measurement invariance of the First Aid Willingness Questionnaire (FAWQ) among Turkish adolescents",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361329",
-        "summary": "by Harun Özbey, Özlem Çalışır, Meral Bayat, Sultan Beşiktaş, Aklilu Abrham Roba Background This study translated, culturally adapted, and evaluated the First Aid Willingness Questionnaire for Schoolchildren to assess adolescents’ self-reported readiness to help and potential barriers to first-aid provision. Methods This cross-sectional psychometric study included 470 high school students in Aksaray, Türkiye. The questionnaire underwent forward–backward translation, review by 12 experts, and pilot testing with 35 students. Exploratory factor analysis derived the structure, which was subsequentl",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-23T14:00:00+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
-        ],
-        "region": "global"
       }
     ],
     "south_asia": [
       {
-        "title": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
-        "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes",
-        "summary": "An Israeli strike on a university in Gaza City killed three people on Sunday, staff and a local hospital said, while the civil defence agency reported four others killed elsewhere in the territory. Reached for comment, the Israeli military said it was looking into the reports. Al Shifa Hospital said it received three bodies and treated eight people who were wounded in the Gaza City drone strike, with two sources at the Islamic University saying those killed were administrative staff and the injured were students. Gaza’s education ministry said in a statement that the students had been present ",
+        "title": "Students across country to get 500,000 Chromebooks over 2 years, announces PM Shehbaz",
+        "url": "https://www.dawn.com/news/2039718/students-across-country-to-get-500000-chromebooks-over-2-years-announces-pm-shehbaz",
+        "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Sunday launched a scheme under which the government would distribute 500,000 Chromebook laptops to students nationwide over two years. He addressed the launch ceremony in Islamabad of the Prime Minister’s Youth Chromebook Scheme, a nationwide initiative to distribute 500,000 Chromebooks equipped with MiFi internet connectivity to deserving students and high achievers. Banners visible at the ceremony read “500,000 refurbished Chromebooks” were to be handed out. Expressing confidence in the initiative’s broad impact, the prime minister noted that the s",
         "source": "Dawn — Pakistan",
-        "published": "2026-10-25T14:48:54+00:00",
+        "published": "2026-10-25T16:32:46+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6335,11 +6347,11 @@
         "region": "south_asia"
       },
       {
-        "title": "Students across country to get 500,000 Chromebooks over 2 years, announces PM Shehbaz",
-        "url": "https://www.dawn.com/news/2039718/students-across-country-to-get-500000-chromebooks-over-2-years-announces-pm-shehbaz",
-        "summary": "Prime Minister Shehbaz Sharif announced on Sunday that the government would distribute 500,000 Chromebook laptops to students nationwide over two years. He said this at the launch ceremony of the Prime Minister’s Youth Chromebook Scheme in Islamabad. At the outset of his address, the premier stressed that it was his duty and the state’s “collective responsibility” to provide the youth with modern technology, so they could become “the great builders of Pakistan”. “Our boys and girls [..] are the true assets of Pakistan,” the prime minister remarked. He added that the Chromebooks were being dist",
+        "title": "Israeli strike on Gaza university kills 3; another 4 Palestinians killed in other attacks",
+        "url": "https://www.dawn.com/news/2039736/israeli-strike-on-gaza-university-kills-3-another-4-palestinians-killed-in-other-attacks",
+        "summary": "An Israeli strike on a university in Gaza City killed three people on Sunday, staff and a local hospital said, while the civil defence agency reported four others killed elsewhere in the territory. Reached for comment, the Israeli military said it was looking into the reports. Al Shifa Hospital said it received three bodies and treated eight people who were wounded in the Gaza City drone strike, with two sources at the Islamic University saying those killed were administrative staff and the injured were students. Gaza’s education ministry said in a statement that the students had been present ",
         "source": "Dawn — Pakistan",
-        "published": "2026-10-25T11:23:22+00:00",
+        "published": "2026-10-25T16:13:06+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -7500,9 +7512,93 @@
     ],
     "east_asia": [
       {
+        "title": "Presidential race in Bulgaria heads to run-off after record low turnout",
+        "url": "https://www.scmp.com/news/world/europe/article/3372095/presidential-race-bulgaria-heads-run-after-record-low-turnout",
+        "summary": "The presidential election in Bulgaria on Sunday ended inconclusively, with the next head of state to be picked in a run-off, according to election officials. A record low turnout, attributed by observers to a general mistrust in politicians resulting in voter apathy, will pit two contrasting political visions against each other in a highly polarised contest on November 1. In a surprisingly strong performance, the candidate of the pro-Western reformist opposition, Andrey Gyurov, will face the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T20:03:23+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Venezuela’s opposition leader Maria Corina Machado returns after months in exile",
+        "url": "https://www.scmp.com/news/world/americas/article/3372094/venezuelas-opposition-leader-maria-corina-machado-returns-after-months-exile",
+        "summary": "Venezuelan opposition leader Maria Corina Machado has returned to the South American nation after nearly a year outside the country, she said on social media on Sunday. “I’m here. With you all,” the ‌Nobel Peace Prize-winning Machado wrote on social media early on Sunday. Machado’s press team shared images of her in central-western Lara state, in the Plaza del Pueblo de Santa Rosa, where Machado appeared at a church. The issue of her return has strained her relationship with the Trump...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T19:31:04+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Trump ‘not trying to meddle’ in Alaska election results by suing over Senate race: Blanche",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3372093/trump-not-trying-meddle-alaska-election-results-suing-over-senate-race-blanche",
+        "summary": "Attorney General Todd Blanche on Sunday defended the Trump administration’s lawsuit to block certification of Alaska’s Senate results if Republican incumbent Dan Sullivan loses the race and argued that the legal challenge was a necessary step to avoid confusing voters in the closely watched midterm race. US President Donald Trump, who said on Friday that he was “the one that said do it”, is not trying to overturn state election results “in any way, shape or form” on the cusp of the November 3...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T18:49:08+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "France’s Le Pen vows to restore ‘rule of law’ at presidential campaign launch",
+        "url": "https://www.scmp.com/news/world/europe/article/3372092/frances-le-pen-vows-restore-rule-law-presidential-campaign-launch",
+        "summary": "Marine Le Pen, France’s far-right candidate to succeed President Emmanuel Macron next year, vowed in her first campaign speech on Sunday to “restore the rule of law” if elected next year. Le Pen - the front runner in the polls - seems to be benefiting from the convulsions France has been going through for weeks, punctuated by mass cost-of-living rallies and some violent clashes on Saturday and the previous week. “We are going to restore the rule of law,” she said, after looting and arson on the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T18:01:33+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Netanyahu warns Iran may try to disrupt election, says ‘don’t test us’",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3372091/netanyahu-warns-iran-may-try-disrupt-election-says-dont-test-us",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu said Iran and its allies might try to disrupt Tuesday’s Israeli elections, warning the Islamic republic against any hostile acts. The premier has campaigned heavily on his security credentials, touting the war he launched against Iran in February alongside the United States and suggesting that he alone can see it through. “We have intelligence signs that our enemies, Iran and its proxies, could challenge us with attacks in order to disrupt the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T17:29:00+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Storms batter northern Europe, hitting power supplies, flights and phones",
+        "url": "https://www.scmp.com/news/world/europe/article/3372090/storms-batter-northern-europe-hitting-power-supplies-flights-and-phones",
+        "summary": "Storms battered northern Europe on Sunday cutting power to more than 150,000 homes, forcing the cancellation of hundreds of flights and silencing phone networks. Winds of up to 135km (84 miles) an hour were recorded in Argyll and Bute in western Scotland and fallen trees and power cables blocked roads and rail lines across the country. More than 82,000 homes in Britain, nearly 60,000 in France and at least 10,000 in Germany had power cuts inflicted by the passage of storms Boelo and Austen...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T16:44:37+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Philippines plan ‘appropriate legal action’ against Thomas Markle",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372089/philippines-plan-appropriate-legal-action-against-thomas-markle",
+        "summary": "Philippine police are investigating a laptop found alongside images of child abuse at the former home of Meghan Markle’s estranged father, with “full results” expected in a week, the country’s interior minister told reporters. Thomas Markle, whose daughter is married to Britain’s Prince Harry, had been living in Cebu in the Philippines until reportedly returning to the US earlier this year. Philippine interior minister Jonvic Remulla said the country planned to take “appropriate legal actions”...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-25T15:26:17+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
         "title": "HK Express passenger injured after power bank overheats on flight to Jeju",
         "url": "https://www.scmp.com/news/hong-kong/transport/article/3372088/hk-express-passenger-injured-after-power-bank-overheats-flight-jeju",
-        "summary": "A traveller was injured after a power bank overheated and emitted smoke aboard a HK Express flight from Hong Kong to South Korea on Sunday, prompting crew members to deploy emergency safety measures before the aircraft landed safely. The incident occurred on flight UO676 to Jeju, which was carrying 236 passengers and seven crew, prompting an apology from HK Express. The budget airline, a subsidiary of Hong Kong flag carrier Cathay Pacific Airways, said the power bank was stored in a bag under a...",
+        "summary": "A traveller was injured after a power bank overheated and emitted smoke aboard an HK Express flight from Hong Kong to South Korea on Sunday, prompting crew members to deploy emergency safety measures before the aircraft landed safely. The incident occurred on flight UO676 to Jeju, which was carrying 236 passengers and seven crew, prompting an apology from HK Express. The budget airline, a subsidiary of Hong Kong flag carrier Cathay Pacific Airways, said the power bank was stored in a bag under a...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-25T14:46:45+00:00",
         "stream": "higher",
@@ -7670,7 +7766,7 @@
       {
         "title": "Upgrade or eyesore? Why Hong Kong’s Peak light display has hit a snag",
         "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372069/upgrade-or-eyesore-why-hong-kongs-peak-light-display-has-hit-snag",
-        "summary": "A controversial lighting project along a walking trail on The Peak is in doubt following mounting complaints that the installations damage Hong Kong’s natural beauty. Designed as one of several new attractions meant to replace a retired light show, the initiative has been criticised by local residents and visitors as counterproductive. The South China Morning Post looks at what has gone wrong with the project. 1. What is the project about? The Tourism Board planned small light installations for...",
+        "summary": "A controversial lighting project along a walking trail on The Peak is in doubt following mounting complaints that the installations damage Hong Kong’s natural beauty. Designed as one of several new attractions meant to replace a retired light show, the initiative has been criticised by local residents and visitors. The South China Morning Post looks at what has gone wrong with the project. What is the project? The Tourism Board planned small light installations for selected points along the...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-25T09:04:10+00:00",
         "stream": "higher",
@@ -7889,90 +7985,6 @@
         "summary": "Singapore expects all parties who have signed commercial contracts for gas supplies to “honour their commitments”, said Prime Minister Lawrence Wong on Sunday after Indonesia cut its exports. Speaking at the People’s Action Party (PAP) convention, Wong added that Singapore’s gas importer will take the necessary steps to protect its rights and interests. Indonesia began reducing natural gas exports to Singapore on Saturday. Indonesia’s upstream oil and gas regulator SKK Migas said the move was to...",
         "source": "South China Morning Post — Education",
         "published": "2026-10-25T03:38:07+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "‘Mum, good’: Chinese woman wakes vegetative daughter-in-law after 17 years of care",
-        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372043/mum-good-chinese-woman-wakes-vegetative-daughter-law-after-17-years-care",
-        "summary": "A woman in eastern China has been devotedly caring for her daughter-in-law for 17 years, ever since she fell into a vegetative state, moving social media users. The younger woman, surnamed Xu, fell into a vegetative state in 2009 after being struck by a truck in her village in Qingyun county, Shandong province. The accident happened just one month after she got married, Shandian News reported. Since then, her mother-in-law, Xuan Fengying, has cared for her around the clock. “She married my son,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-25T02:15:07+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Fandom vs flag: why young Chinese embrace Japanese pop culture but reject war-era symbols",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3372036/fandom-vs-flag-why-young-chinese-embrace-japanese-pop-culture-reject-war-era-symbols",
-        "summary": "Young Chinese people enjoy Japanese pop culture such as anime and music, but many draw a firm line at symbols of Japanese militarism. That line was tested recently at Moscow State University, where Chinese students confronted a classmate wearing Japan’s rising sun flag in class and called for his repatriation, state-run newspaper Global Times reported on Sunday. Many countries, including China, view the flag as a symbol of Japanese militarism and aggression. Japan’s Self-Defence Forces still use...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-25T02:00:16+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Why more Japanese women are choosing ‘silver divorce’ after decades of marriage",
-        "url": "https://www.scmp.com/week-asia/people/article/3371898/why-more-japanese-women-are-choosing-silver-divorce-after-decades-marriage",
-        "summary": "Ayumi lives alone in a spacious suburban house originally bought to raise a family, her two cats now her only full-time companions. Her two daughters have grown up and left home, and her husband of more than two decades moved out nearly a year ago as they finalise a divorce. For the 62-year-old Kawasaki resident, who spoke on condition that her surname be withheld, this was not how she envisioned her later years. “He worked very long hours, including on weekends, and I was always busy taking...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-25T02:00:13+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Hong Kong needs a civil service fit for a changed world",
-        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371777/hong-kong-needs-civil-service-fit-changed-world",
-        "summary": "Hong Kong’s civil service has long enjoyed a reputation for efficiency, professionalism and probity. It has also been a pillar of stability, particularly during the transition from British to Chinese rule. Outside the general and administrative grades, many civil servants spend much of their careers in relatively specialised areas of responsibility. This allows them to develop deep expertise and makes them dependable regulators and administrators. However, it can also make it harder to adapt...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-25T01:30:09+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "School bullying cases in Hong Kong rise 32% to nearly 500 a year",
-        "url": "https://www.scmp.com/news/hong-kong/education/article/3372020/school-bullying-cases-hong-kong-rise-32-nearly-500-year",
-        "summary": "Hong Kong schools handled an average of 496 bullying cases each academic year from 2022 to 2025 – a 32 per cent jump compared with the previous three years, according to the Education Bureau. A youth group attributed the increase to greater reporting driven by heightened mental health awareness, but also students struggling to distinguish playful jokes from bullying. According to the bureau, public primary and secondary schools recorded an average of 496 bullying cases each year between 2022 and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-25T01:00:17+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Singapore embraces AI for cyber defence, with one caveat: breach transparency",
-        "url": "https://www.scmp.com/week-asia/politics/article/3371950/singapore-embraces-ai-cyber-defence-one-caveat-breach-transparency",
-        "summary": "Singapore is turning to major technology firms to strengthen its cyber defences, even as it presses them for greater transparency over security breaches – a balancing act facing regional governments as they seek to harness artificial intelligence while guarding against the risks it introduces. Those risks were highlighted by an AI agent linked to OpenAI that gained unauthorised access to files on an Australian government website earlier this year, raising questions over how quickly companies...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-25T00:00:14+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3372042/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-democrats",
-        "summary": "Former US president Barack Obama delivered a scathing critique of his successor, Donald Trump, at a rally in Ohio on Saturday to support Democratic candidates ahead of the November 3 midterm elections. “After two years of chaos and cruelty and corruption and incompetence, the likes of which we have not seen in the modern era, you get a chance to say, ‘Enough is enough,’” Obama declared in Cleveland. “We are voting for change right here in Ohio.” The 65-year-old Democrat blamed the Trump...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-24T22:50:31+00:00",
         "stream": "higher",
         "streams": [
           "higher"
@@ -8416,6 +8428,30 @@
     ],
     "north_america": [
       {
+        "title": "A Historic Win for Paid Parental Leave, Led by Nurses",
+        "url": "https://www.the74million.org/zero2eight/a-historic-win-for-paid-parental-leave-led-by-nurses/",
+        "summary": "As a nurse in the neonatal intensive care unit, Jean Stone knows what it really means to live in a country with no paid parental leave. She’s watched this scene play out so many times it’s almost the norm: Once their babies stabilize in the NICU, parents often return to work to preserve whatever parental […]",
+        "source": "The 74 Million",
+        "published": "2026-10-25T16:30:00+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Schools generate massive amounts of food waste. Here’s how to curb it",
+        "url": "https://hechingerreport.org/schools-generate-massive-amounts-of-food-waste-heres-how-to-curb-it/",
+        "summary": "Up to 40 percent of food served in schools goes to waste — about 530,000 tons. All that food waste has serious consequences for the planet: It translates into some 1.9 million metric units of greenhouse gases per year, according to a new report from the nonprofit World Wildlife Fund. But there are solutions. Since […] The post Schools generate massive amounts of food waste. Here’s how to curb it appeared first on The Hechinger Report .",
+        "source": "Hechinger Report",
+        "published": "2026-10-25T16:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "north_america"
+      },
+      {
         "title": "What Are the Best Ways to Fix Schools?",
         "url": "https://www.nytimes.com/2026/10/24/opinion/fixing-schools.html",
         "summary": "Readers analyze the 30 ideas presented in an Upshot article and offer some of their own.",
@@ -8500,18 +8536,6 @@
         "region": "north_america"
       },
       {
-        "title": "None of This Is Normal",
-        "url": "https://www.nytimes.com/2026/10/24/opinion/midterms-trump-america.html",
-        "summary": "The fundamental issue is Trump’s shredding of the model that made America the world’s leading country.",
-        "source": "New York Times — Education",
-        "published": "2026-10-24T17:52:31+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
         "title": "New Accreditation Rule Downgrades Dozens of Oklahoma Districts for Academics",
         "url": "https://www.the74million.org/article/new-accreditation-rule-downgrades-dozens-of-oklahoma-districts-for-academics/",
         "summary": "OKLAHOMA CITY — Fifty-nine school districts, including the three largest in the state, have had their accreditation status downgraded over poor reading and math test scores. The Oklahoma State Board of Education voted Thursday to designate the districts as “accredited with warning” along with eight others that had non-academic deficiencies. Accredited with warning is defined […]",
@@ -8529,6 +8553,18 @@
         "summary": "For the second year in a row, Ohio spent more than a billion dollars on private school vouchers, this time for the 2026 fiscal year. The total amount for Ohio’s five private school voucher programs was $1.173 billion, according to data from the Ohio Department of Education and Workforce. Nearly half of the money ($532.8 […]",
         "source": "The 74 Million",
         "published": "2026-10-24T10:30:00+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "How a Small Student Protest Spread Across France",
+        "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
+        "summary": "A movement that began with a few high schools has broadened to encompass labor unions and other activists.",
+        "source": "New York Times — Education",
+        "published": "2026-10-24T09:46:50+00:00",
         "stream": "school",
         "streams": [
           "school"
@@ -8870,30 +8906,6 @@
         "stream": "research",
         "streams": [
           "research"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "What Will It Look Like If Investment in Learner Wallets Pays Off?",
-        "url": "https://www.gettingsmart.com/2026/10/21/what-will-it-look-like-if-investment-in-learner-wallets-pays-off/",
-        "summary": "What if a 12-year-old's sketching habit, a 19-year-old's gap year travels, and a 45-year-old's volunteer coordination all counted as verifiable learning? In a new piece for Getting Smart, Mason Pashia explores three fictional case studies — Leo, Jamie, and Elena — that bring the Gates Foundation's LearnKit framework to life, showing what learner-owned digital records could actually look like in practice. For education leaders thinking about the future of credentialing, data sovereignty, and lifelong opportunity, this is a must-read vision of the infrastructure we need to build now. The post Wh",
-        "source": "Getting Smart",
-        "published": "2026-10-21T16:45:46+00:00",
-        "stream": "edtech",
-        "streams": [
-          "edtech"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "The California Districts Are Losing Students — But Gaining Infants and Toddlers",
-        "url": "https://www.the74million.org/zero2eight/the-california-districts-are-losing-students-but-gaining-infants-and-toddlers/",
-        "summary": "Less than a year after dwindling enrollment forced the closure of three elementary schools, California’s Berryessa Union School District added small, child-sized sinks and toilets at one campus to serve 150 infants, toddlers and preschoolers. The district knew there was unmet need for affordable childcare in the community north of San Jose, as there is throughout […]",
-        "source": "The 74 Million",
-        "published": "2026-10-21T16:30:00+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
         ],
         "region": "north_america"
       }
