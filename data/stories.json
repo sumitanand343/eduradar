@@ -2,6 +2,19 @@
   "streams": {
     "foundational": [
       {
+        "title": "Negotiating masculinity in a feminized profession: a systematic review of male teachers in early childhood education",
+        "url": "https://www.nature.com/articles/s41599-026-09346-7",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-30T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research",
+          "foundational"
+        ],
+        "stream": "foundational"
+      },
+      {
         "title": "Making Career Connections",
         "url": "https://www.gettingsmart.com/2026/10/29/making-career-connections/",
         "summary": "What does it actually look like to make learning real for students — not just as a slogan, but as a daily classroom practice? In this piece, educator and technology broker Norton Gusky spotlights four organizations — Connect the Work, the Consortium for Public Education, the Neighborhood Learning Alliance, and the Pittsburgh Technology Council — that are building meaningful career connections for K-12 learners across Pennsylvania and beyond. From RIASEC-based career conversations in kindergarten to paid apprenticeships and sustainability design challenges, these models offer education leaders ",
@@ -308,6 +321,30 @@
       }
     ],
     "school": [
+      {
+        "title": "Can Connie Chan become San Francisco’s first Asian-American in Congress?",
+        "url": "https://www.scmp.com/news/us/us-elections/article/3372796/can-connie-chan-become-san-franciscos-first-asian-american-congress",
+        "summary": "On a recent warm Thursday evening, supporters drift into San Francisco’s United Irish Cultural Centre to hear Connie Chan, who is running for California’s 11th congressional district. Born in Hong Kong, Chan attended elementary school in Taiwan before immigrating to the United States at 13. Now a San Francisco supervisor, she hopes to succeed long-time Democratic powerhouse Nancy Pelosi, who announced her retirement and endorsed her. The 48-year-old politician would be the first Asian-American...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-30T19:57:48+00:00",
+        "region": "east_asia",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
+        "title": "Rural Mississippi Communities Push Back on School Consolidation Efforts",
+        "url": "https://www.the74million.org/article/rural-communities-push-back-on-school-consolidation-efforts-theyre-just-looking-at-numbers-on-the-paper/",
+        "summary": "Mississippi has lost thousands of public school students over the past decade, leaving fewer children enrolled in the state’s 138 school districts and less money to go around. State leaders think they’ve found a solution: School consolidation. House Speaker Jason White has formed a select committee to examine how merging districts in Mississippi could benefit […]",
+        "source": "The 74 Million",
+        "published": "2026-10-30T18:30:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
       {
         "title": "Shared Indianapolis Tax Would Boost Charters, but a Key Partnership Is Threatened",
         "url": "https://www.the74million.org/article/shared-indianapolis-tax-would-boost-charters-but-key-partnership-threatened/",
@@ -617,18 +654,6 @@
         "summary": "Mariah, 20 – Lubbock, Texas In high school, Mariah, who requested to use her first name only for privacy reasons, had a push-and-pull relationship with her academics: she couldn’t decide whether it should be her first or last priority. Her grandmother — Mariah’s main caretaker since childhood — was diagnosed with ovarian cancer in her […]",
         "source": "The 74 Million",
         "published": "2026-10-27T04:47:10+00:00",
-        "region": "north_america",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "At the Top of Her Class With Big Aspirations, She Sacrificed It All for Her Family",
-        "url": "https://www.the74million.org/article/at-the-top-of-her-class-with-big-aspirations-she-sacrificed-it-all-for-her-family/",
-        "summary": "Lena, 23 – Rome, Georgia For as long as Lena Garcia-Perez can remember her Rome, Georgia, home was full of loud music, yelling voices, dancing and laughter, with the familiar hum of the laundry running or something frying or boiling in the kitchen. In the house, there were always special arms waiting — ready for […]",
-        "source": "The 74 Million",
-        "published": "2026-10-27T04:46:33+00:00",
         "region": "north_america",
         "streams": [
           "school"
@@ -1128,6 +1153,42 @@
       }
     ],
     "higher": [
+      {
+        "title": "The flaw in Australia’s ‘China threat’ thesis",
+        "url": "https://www.scmp.com/opinion/asia-opinion/article/3372519/flaw-australias-china-threat-thesis",
+        "summary": "Australia’s preparations for a possible conflict with China reflect “a relatively superficial understanding”, argues prominent economist John Edwards. Europe, Canada, Indonesia, Malaysia and India, he notes, are not preparing for such a conflict. Why should Australia? Edwards, a former senior economic adviser to former Labor prime minister Paul Keating, makes the observation in a Lowy Institute paper released in October and in a newspaper interview. Instead, he sees US-China rivalry as a...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-30T21:30:08+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Russia’s top independent newspaper Novaya Gazeta shuts under Kremlin pressure",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372798/russias-top-independent-newspaper-novaya-gazeta-shuts-under-kremlin-pressure",
+        "summary": "Russia’s flagship independent newspaper Novaya Gazeta announced on Friday it was closing, saying it had been “killed” by state pressure after years of repression targeting its journalists whose reporting was critical of the Kremlin and its Ukraine war. The closure of Novaya Gazeta – one of the last outlets to openly criticise Russia’s offensive – marks the latest outcome of Moscow’s campaign against dissenting voices, which intensified after the Kremlin sent troops into its neighbour in...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-30T21:03:58+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Carney eyes June deal on making Canada the EU’s first associate member",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3372794/carney-expects-conclude-talks-making-canada-eus-first-associate-member-june",
+        "summary": "Canadian Prime Minister Mark Carney said on Friday he expects to conclude negotiations with the European Union in June on an unprecedented partnership that would make Canada the bloc’s first “associate member”, even though the designation was left out of a joint declaration launching a new economic and security alliance. Carney said he would attend a meeting of European leaders in June to conclude negotiations on the proposed relationship, which would stop short of full EU membership. “In...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-30T18:32:16+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
       {
         "title": "Times Higher Education to wind down BMI by end of 2026",
         "url": "https://thepienews.com/times-higher-education-to-wind-down-bmi-by-end-of-2026/",
@@ -1922,60 +1983,24 @@
         "stream": "higher"
       },
       {
-        "title": "Lula’s win aids China ties; Hong Kong official quits over Tai Po fire: SCMP’s 7 highlights",
-        "url": "https://www.scmp.com/news/china/article/3372658/lulas-win-aids-china-ties-hong-kong-official-quits-over-tai-po-fire-scmps-7-highlights",
-        "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Win for Lula boosts China’s foothold and gives Brazil rare earths leverage Brazilian President Luiz Inacio Lula da Silva’s re-election preserves Beijing’s most critical foothold in Latin America, while positioning Brasilia to leverage...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-30T04:15:06+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Singapore adds muscle to expert panel as probe into haze-linked firms gains speed",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372667/singapore-adds-muscle-expert-panel-probe-haze-linked-firms-gains-speed",
-        "summary": "Seven members have been selected for a specialist panel that will assess companies identified by the Singapore government over potential links to transboundary haze, the Ministry of Law (MinLaw) and National Environment Agency (NEA) said on Friday. Three are investigation firms: Control Risks Group, FTI Consulting (Singapore) and Kroll Singapore. The remaining four are law firms or legal advisers: Dentons Rodyk & Davidson, Toby Landau, King’s Counsel of Duxton Hill Chambers, TSMP Law Corporation...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-30T03:47:25+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Hong Kong’s M+ forges new alliance with MoMA and Centre Pompidou to redefine museum loans",
-        "url": "https://www.scmp.com/lifestyle/arts/article/3372366/hong-kongs-m-forges-new-alliance-moma-and-centre-pompidou-redefine-museum-loans",
-        "summary": "Hong Kong’s M+ museum, New York’s Museum of Modern Art (MoMA) and the Centre Pompidou in Paris signed an agreement on October 30 to establish a three-way cultural alliance, aiming to redefine how visual culture is collected, exhibited and shared globally. The framework agreement, signed at M+ in the West Kowloon Cultural District, departs from conventional short-term blockbuster touring exhibitions and fee-based satellite franchises. With no money changing hands, the institutions will focus on...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-30T03:15:06+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "‘Identity crisis’: UK passes British Nationality Bill in 1981 – SCMP archive",
-        "url": "https://www.scmp.com/news/world/article/3372400/identity-crisis-uk-passes-british-nationality-bill-1981-scmp-archive",
-        "summary": "A matter of identity By Christopher Wood This article was first published on October 31, 1981 The passage of the British Nationality Bill through Parliament has proved an emotional issue for Hongkong, sparking off fears that the Colony is sliding into political limbo. As Hongkong-born British subjects lost their right of residence in the United Kingdom back in 1962, the strength of feeling against the legislation has surprised many, including probably the British Government. But such a view...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-30T03:00:06+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
         "title": "How employers are rethinking graduate employability: Axis Bank HR head on what universities must change",
         "url": "https://education.economictimes.indiatimes.com/news/industry/how-employers-are-rethinking-graduate-employability-axis-bank-hr-head-on-what-universities-must-change/135322414",
         "summary": "Rajkamal Vempati, Group Head – Human Resources at Axis Bank, says employers must take greater responsibility for developing talent as skills, technology fluency and adaptability gain importance. Her views on changing banking jobs, industry-linked learning and graduate hiring offer lessons for higher education institutions preparing students for work.",
         "source": "Economic Times — Education (India)",
         "published": "2026-10-30T00:30:00+00:00",
         "region": "south_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Attracting and retaining high-level talents in higher education institutions: a Kano analysis",
+        "url": "https://www.nature.com/articles/s41599-026-09554-1",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-30T00:00:00+00:00",
+        "region": "global",
         "streams": [
           "higher"
         ],
@@ -2408,6 +2433,18 @@
     ],
     "labor": [
       {
+        "title": "Development of a competency framework for public health nurses in China: A modified Delphi study",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361940",
+        "summary": "by Chunxia He, Lingli Yan, Jia Yin, Qian Yao, Jiali Zhang, Jimei Zhang, Xiuying Hu Background Public health nurses play a pivotal role in primary public health services, yet China lacks a systematic, context-specific competency framework to support workforce development. This study aimed to develop a competency framework for public health nurses in China to guide capacity-building initiatives. Methods A preliminary competency framework was constructed based on a literature review, job analysis, and semi-structured interviews with 22 frontline practitioners and comprised six domains, 16 subdoma",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "labor"
+        ],
+        "stream": "labor"
+      },
+      {
         "title": "AI-led universities must rethink teaching, assessment and faculty roles without losing human touch: Education leaders",
         "url": "https://education.economictimes.indiatimes.com/news/higher-education/ai-led-universities-must-rethink-teaching-assessment-and-faculty-roles-without-losing-human-touch-education-leaders/135143708",
         "summary": "At the ETEducation Chancellors’ Conclave 2026, university leaders and education technology experts called for institution-wide AI integration, redesigned assessment models, faculty reskilling and human-centred learning to prepare graduates for an increasingly AI-driven workforce.",
@@ -2461,6 +2498,18 @@
     ],
     "teacher": [
       {
+        "title": "Pedagogical affordances for professional communication development: a mixed-methods comparison of active learning approaches",
+        "url": "https://www.nature.com/articles/s41599-026-09546-1",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-30T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "teacher"
+        ],
+        "stream": "teacher"
+      },
+      {
         "title": "Beyond Digital Tools: Turning Technology into Better VET Practice",
         "url": "https://efvet.org/beyond-digital-tools-turning-technology-into-better-vet-practice/",
         "summary": "Digital transformation in VET should not be measured by the number of technologies introduced into a classroom, but by how effectively they improve teaching, learning and readiness for work. As EfVET highlights the need to turn digital competence into teaching practice, the challenge for providers is to embed technology into pedagogy rather than treat it […] The post Beyond Digital Tools: Turning Technology into Better VET Practice appeared first on EfVET .",
@@ -2491,18 +2540,6 @@
         "source": "The Hindu — Education",
         "published": "2026-10-22T12:39:54+00:00",
         "region": "south_asia",
-        "streams": [
-          "teacher"
-        ],
-        "stream": "teacher"
-      },
-      {
-        "title": "Attitudes and teaching practices serially mediate the relationship between sexuality education training and early childhood teachers’ competence and delivery",
-        "url": "https://www.nature.com/articles/s41598-026-76598-3",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-20T00:00:00+00:00",
-        "region": "global",
         "streams": [
           "teacher"
         ],
@@ -2708,6 +2745,18 @@
     ],
     "edtech": [
       {
+        "title": "Thought Leader Q&A: Discussing How To Effectively Scale Learning With Dr. RK Prasad",
+        "url": "https://elearningindustry.com/thought-leader-qa-discussing-how-to-effectively-scale-learning-with-dr-rk-prasad",
+        "summary": "This Thought Leader Q&A with CommLab India's Dr. RK Prasad brings us valuable highlights from LearnFlux 2026, CommLab India's virtual thought leadership summit for L&D leaders, specifically on how to scale learning as businesses grow. This post was first published on eLearning Industry .",
+        "source": "eLearning Industry",
+        "published": "2026-10-30T20:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
+      {
         "title": "Beyond Completion Rates: The Questions Your Learning Data Should Be Answering",
         "url": "https://elearningindustry.com/beyond-completion-rates-the-questions-your-learning-data-should-be-answering",
         "summary": "Move beyond completion rates and satisfaction scores. Explore the practical questions L&D can ask to measure learner reach, engagement, on-the-job effectiveness, and training value, and turn learning data into better decisions. This post was first published on eLearning Industry .",
@@ -2738,6 +2787,18 @@
         "source": "eSchool News",
         "published": "2026-10-30T10:00:00+00:00",
         "region": "north_america",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
+      {
+        "title": "Belief to behavior: how AI self-efficacy shapes AI acceptance through AI literacy",
+        "url": "https://www.nature.com/articles/s41599-026-09615-5",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-30T00:00:00+00:00",
+        "region": "global",
         "streams": [
           "edtech"
         ],
@@ -3515,18 +3576,6 @@
         "stream": "edtech"
       },
       {
-        "title": "The chain mediating roles of career planning and future time perspective between AI literacy and employment anxiety among higher vocational college students",
-        "url": "https://www.nature.com/articles/s41598-026-77394-9",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-21T00:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
-      },
-      {
         "title": "Thought Leader Q&A: Designing Learning That Gains From Disorder With Dr. RK Prasad",
         "url": "https://elearningindustry.com/thought-leader-qa-designing-learning-that-gains-from-disorder-with-dr-rk-prasad",
         "summary": "This Thought Leader Q&A with CommLab India's Dr. RK Prasad discusses antifragility as an approach to learning and capability building in a work environment where volatility is the standard. This post was first published on eLearning Industry .",
@@ -3544,18 +3593,6 @@
         "summary": "By Sal Khan, Founder and CEO of Khan Academy Almost every ed tech vendor says its research shows ... Read more The post EdTech Can Work. Decision Makers Have to Check the Evidence First. appeared first on Khan Academy Blog .",
         "source": "Khan Academy — Blog",
         "published": "2026-10-20T15:08:39+00:00",
-        "region": "global",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
-      },
-      {
-        "title": "Digital Adoption Is a Learning Strategy, Not an IT Project",
-        "url": "https://elearningindustry.com/digital-adoption-is-a-learning-strategy-not-an-it-project",
-        "summary": "Digital adoption is more than an IT rollout. Learn how L&D can drive adoption through enablement, support, and sustained behavior change. This post was first published on eLearning Industry .",
-        "source": "eLearning Industry",
-        "published": "2026-10-20T15:00:46+00:00",
         "region": "global",
         "streams": [
           "edtech"
@@ -3677,7 +3714,7 @@
         "url": "https://kathmandupost.com/national/2026/10/29/nepal-reserves-a-third-of-medical-seats-for-foreign-students-but-few-enrol",
         "summary": "Nepal reserves 33 percent of medical education seats for foreign students, but only 746 enrolled last year.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-30T17:36:17.296600+00:00",
+        "published": "2026-10-30T21:50:22.332908+00:00",
         "region": "south_asia",
         "streams": [
           "policy"
@@ -3689,8 +3726,20 @@
         "url": "https://kathmandupost.com/national/2026/10/30/home-ministry-suspends-private-schools-association",
         "summary": "The ministry says N-PABSON repeatedly ignored government directives and its office-bearers acted against its approved statute and founding objectives.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-30T17:36:17.295864+00:00",
+        "published": "2026-10-30T21:50:22.332333+00:00",
         "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Lawsuit Accuses Education Dept. of Throttling Debt Cancellation Through PSLF Program",
+        "url": "https://www.nytimes.com/2026/10/30/business/pslf-education-department-lawsuit.html",
+        "summary": "Public servants on the brink of student debt forgiveness are facing setbacks and extensive delays. The American Federation of Teachers sued to help them.",
+        "source": "New York Times — Education",
+        "published": "2026-10-30T20:09:36+00:00",
+        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -3701,7 +3750,7 @@
         "url": "https://www.nytimes.com/2026/10/30/theater/little-shop-of-horrors-texas-lawsuit-title-ix.html",
         "summary": "Texas officials feared the casting in “Little Shop of Horrors” violated a state law limiting diversity efforts. The student has sued for gender discrimination.",
         "source": "New York Times — Education",
-        "published": "2026-10-30T17:25:18+00:00",
+        "published": "2026-10-30T17:41:23+00:00",
         "region": "north_america",
         "streams": [
           "policy"
@@ -3715,30 +3764,6 @@
         "source": "New York Times — Education",
         "published": "2026-10-30T15:00:13+00:00",
         "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Italy tightens security as students, unions launch nationwide protests",
-        "url": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss",
-        "summary": "Rallies across the country target living costs, investment in education and the wars in the Middle East.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-30T13:14:11+00:00",
-        "region": "global",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Jamia student protest: Why is the Lyngdoh Committee report significant? | Explained",
-        "url": "https://www.thehindu.com/news/national/jamia-student-protest-why-is-the-lyngdoh-committee-report-significant-explained/article71640045.ece",
-        "summary": "The Committee, headed by former CEC J.M. Lyngdoh, issued the report dated May 23, 2006; it felt that party-linked student organisations politicise campus elections and split students into rival factions",
-        "source": "The Hindu — Education",
-        "published": "2026-10-30T09:15:10+00:00",
-        "region": "south_asia",
         "streams": [
           "policy"
         ],
@@ -3763,18 +3788,6 @@
         "source": "BBC — Education",
         "published": "2026-10-30T08:32:35+00:00",
         "region": "global",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "What needs to change after SC ruling on children’s right to access Internet",
-        "url": "https://www.thehindu.com/education/what-needs-to-change-after-sc-ruling-on-childrens-right-to-access-internet/article71639408.ece",
-        "summary": "The ambition should not be to build a smaller Internet for children. It should be to raise children capable of navigating a larger one — while building technology worthy of their trust.",
-        "source": "The Hindu — Education",
-        "published": "2026-10-30T08:24:04+00:00",
-        "region": "south_asia",
         "streams": [
           "policy"
         ],
@@ -3865,12 +3878,12 @@
         "stream": "policy"
       },
       {
-        "title": "Cornell Faculty Senate Moves Ahead With No-Confidence Vote Over Handling of Rape Case",
-        "url": "https://www.nytimes.com/2026/10/28/nyregion/cornell-faculty-no-confidence-vote.html",
-        "summary": "After fierce debate, faculty members will begin voting Thursday on a resolution to condemn the administration’s handling of campus sexual assault.",
-        "source": "New York Times — Education",
-        "published": "2026-10-29T10:40:00+00:00",
-        "region": "north_america",
+        "title": "Jamia student protest: Why is the Lyngdoh Committee report significant? | Explained",
+        "url": "https://www.thehindu.com/news/national/jamia-student-protest-why-is-the-lyngdoh-committee-report-significant-explained/article71640045.ece",
+        "summary": "The Committee, headed by former CEC J.M. Lyngdoh, issued the report dated May 23, 2006; it felt that party-linked student organisations politicise campus elections and split students into rival factions",
+        "source": "The Hindu — Education",
+        "published": "2026-10-29T11:22:23+00:00",
+        "region": "south_asia",
         "streams": [
           "policy"
         ],
@@ -3895,6 +3908,18 @@
         "source": "BBC — Education",
         "published": "2026-10-29T09:31:44+00:00",
         "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "What needs to change after SC ruling on children’s right to access Internet",
+        "url": "https://www.thehindu.com/education/what-needs-to-change-after-sc-ruling-on-childrens-right-to-access-internet/article71639408.ece",
+        "summary": "One child may know how to verify information, recognise manipulation, protect personal information, and seek help. Another may experience it largely through algorithmically selected feeds, persuasive interfaces and misinformation.",
+        "source": "The Hindu — Education",
+        "published": "2026-10-29T09:09:09+00:00",
+        "region": "south_asia",
         "streams": [
           "policy"
         ],
@@ -4631,6 +4656,18 @@
           "policy"
         ],
         "stream": "policy"
+      },
+      {
+        "title": "Pupils pen special song to give classmates a voice",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qpjge5lyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Many pupils at Mitchell House Special School in east Belfast are non-verbal but that does not mean they cannot communicate.",
+        "source": "BBC — Education",
+        "published": "2026-10-23T05:17:18+00:00",
+        "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
       }
     ],
     "research": [
@@ -4640,6 +4677,366 @@
         "summary": "This episode of the KIX EMAP podcast, hosted by Ryan Allen, Assistant Professor, Chapman University (USA), features a panel of education experts from Pakistan: Dr. Sajid Ali of Aga Khan University, Institute for Educational Development, Prof. Zahida Batool of the Quaid-e-Azam Academy for Educational Development, and Dr. Zahid Majeed of Allama Iqbal Open University. In... Read More The post KIX EMAP Podcast #30: What Are the Most Pressing Education Issues in Pakistan? Three Local Experts Discuss appeared first on NORRAG - .",
         "source": "NORRAG — Education & Development",
         "published": "2026-10-30T15:32:56+00:00",
+        "region": "europe",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Prognostic value of the preoperative C-reactive protein-to-lymphocyte ratio in patients with non-metastatic clear cell renal cell carcinoma",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362126",
+        "summary": "by Minchao Qin, Zhongwen Feng, Chao Zhang, Wei Song, Kai Wang, Zhen Chen Background Systemic inflammation is associated with the prognosis of clear cell renal cell carcinoma (ccRCC). The C-reactive protein-to-lymphocyte ratio (CLR) combines systemic inflammation and host immune status. However, its prognostic value in non-metastatic ccRCC remains unclear. This study evaluated the association between preoperative CLR and survival outcomes in patients with non-metastatic ccRCC. Methods We retrospectively included 414 patients with non-metastatic ccRCC who underwent partial or radical nephrectomy",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Detection of potentially curable recurrence after colorectal cancer surgery in a real-world population",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361933",
+        "summary": "by Ivonne J. H. Schoenaker, Richard M. Brohet, Evelyn J. Finnema, Dominique C. Damminga, Helle-Brit Fiebrich, Wouter H. de Vos tot Nederveen Cappel, Henderik L. van Westreenen Introduction After curative surgery for colorectal cancer (CRC), patients undergo surveillance because of the risk of recurrence; however, only a subset develops recurrence amenable to further curative-intent treatment. The primary aim of follow‑up is to identify patients with potentially curable recurrence. Materials and methods A retrospective analysis was performed of stage I–IV CRC patients who underwent curative-int",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Age-specific income losses due to HPV-attributable cancers in Singapore",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361921",
+        "summary": "by Robin Blythe, Nicholas Graves, N. Gopalakrishna Iyer, Marco A. Peres Introduction The link between Human Papillomavirus (HPV) and cancer is well-established. In Singapore, bivalent HPV vaccines are subsidised for females, but not males. Economic analysis of HPV vaccination has generally assessed the costs to the health system, but this may not be as relevant to individual decision-making as potential lost income. We estimated the impact of bivalent HPV 16/18 vaccination on sick leave, unemployment, and premature mortality as a function of age and sex to understand the broader impact of HPV-",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Correction: Stigmatizing attitudes and misconceptions about obesity among Spanish healthcare professionals",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361915",
+        "summary": "by The PLOS One Staff",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Correction: Response surface methodology to optimize the green synthesis process of cefotaxime sodium: Collaborative improvement of yield, crystal form control and environmental benefits",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361897",
+        "summary": "by Wang Yizhang, Li Jing, Yang Mingxi, Ou Shiqiang, Liu Hao, Xie Peng, Zhu Kaimei",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Electronic health record phenotype choice and real-world outcome estimates: A propensity score–matched comparison of three invasive breast cancer definitions in TriNetX",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361883",
+        "summary": "by Jui-Kun Chiang, Po-Chen Chiang, Malcolm Koo Electronic health record-based oncology studies depend on computable case definitions, but different operational definitions may identify different patient populations and change downstream estimates. This retrospective benchmarking cohort study evaluated three definitions of incident invasive breast cancer in the TriNetX Global Collaborative Network: at least one malignant breast cancer diagnosis code (Dx1), a repeated diagnosis-code definition within 90 days (Dx2), and a diagnosis code plus breast cancer-directed treatment evidence (DxTx). Femal",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Correction: Broader factors associated with current adolescent overweight/obesity status in YRBSS 2023: Survey-aware analysis and calibrated AI-assisted classification",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361872",
+        "summary": "by The PLOS One Staff",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Hudson River Estuary sediments contain high fractional abundances of preserved globothalamean foraminiferal organic linings at Piermont, New York",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361863",
+        "summary": "by Logan Brenner, Laura Haynes, Batoul Saad, Maisie Klem, Amelia Lang, Elizabeth Grey Linsley, William Riley, Sophie Spink, Carolyn Zhao, Margie Turrin, Lorelei Curtin Foundational to an estuarine ecosystem is the composition of its sediments, with benthic foraminifera serving as a key component. While it is common to find intact and deformed tests, foraminiferal organic linings (FOLs; foraminifera whose tests dissolved) are not always present in sediment samples. Identifying where FOLs are preserved is a necessary first step towards determining what promotes their development and burial. Here",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Alcohol use and its associations with mental health across the first year of the COVID-19 pandemic",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361854",
+        "summary": "by Lu Zhang, Bianca Ton, Louise Mewton, Susanne Schweizer Background While the COVID-19 pandemic caused major disruptions to social connections and lifestyles, many countries continued the sale of alcohol as an essential commodity. Evidence on change in alcohol use, and its association with mental health and wellbeing during the pandemic is, however, mixed and limited to initial periods of the pandemic. This study aimed to address these research gaps. Methods Data were drawn from the COVID-19 Risks Across the Lifespan (CORAL) Study, a three-wave longitudinal study conducted between May 2020 an",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Effects of a sleep program on sleep, performance and health in university students: Study protocol for a randomised controlled trial",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361815",
+        "summary": "by Eivind Andersen, Fredrik Lie Haugen, Heidi Lindsverk, Oda Eline Aasland, Anne Sæther, Bjørn Bjorvatn Background Insomnia and poor sleep are highly prevalent among university students and are linked to impaired mental and physical health, reduced cognitive functioning, and lower academic performance. Existing interventions for insomnia include cognitive behavioural therapy for insomnia (CBT-I), mindfulness, and sleep hygiene. CBT-I is widely recognised as effective but remains difficult to access for the general population and lack scalability, long-term follow-up, and feasibility in non-cli",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "GFLNet: A lightweight real-time detector with knowledge-guided compression in remote sensing images",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361806",
+        "summary": "by Jing Zhang, Mas Rina Mustaffa, Fatimah Khalid, Zainal Abdul Kahar, Tao Zhang Remote sensing images usually exhibits densely distributed targets and scale disparities. In such scenarios, it is still challenging to preserve high detection precision while controlling costs and inference latency. To address this issue, we propose GFLNet, a lightweight single-stage detector, which is based on collaborative feature modeling and knowledge-guided compression. Specifically, Ghost-Shuffle dual fusion convolution (GSD-Fuse) is designed to achieve efficient spatial-channel interaction while reducing co",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Behavior of earth-rock cofferdam built on deep overburden foundation considering seepage effect",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361805",
+        "summary": "by Linsong Zhu, Shuangquan Li, Xuewu Sun, Yuechen Wei An increasing number of water conservancy and hydropower projects are being constructed on deep overburden foundations. Deep overburden foundations have an important influence on the mechanical behavior of earth-rock cofferdams built on them. A three-dimensional coupled seepage–stress finite element model was established to compare the two schemes under different cutoff-wall penetration depths and rapid-drawdown conditions. This paper presents a comparative analysis of the seepage and mechanical behavior of earth-rock cofferdams built on de",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Visual perception and color discrimination of the Asian citrus psyllid",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361772",
+        "summary": "by Sandra A. Allan, Emma N. I. Weeks The spectral sensitivity of adult Asian citrus psyllids, Diaphorina citri Kuwayama (Hemiptera: Liviidae), a vector of huanglongbing, was determined as a basis for optimization of visual traps. Electroretinogram responses were obtained from compound eyes of dark-adapted psyllids that were exposed to monochromatic 200 ms light flashes ranging from 340–700 nm. The spectral sensitivity curves were comprised of a peak in the ultraviolet region as well as a broad peak in the green-yellow region of the visual spectrum. Curves of male and female psyllids were simil",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Bronchoalveolar lavage fluid cellular fractions reflect individual histopathological features in interstitial pneumonia",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361768",
+        "summary": "by Shion Miyoshi, Susumu Sakamoto, Sakae Homma, Yasuhiko Nakamura, Yusuke Usui, Hiroshige Shimizu, Muneyuki Sekiya, Naohisa Urabe, Takuma Isshiki, Yoko Azuma, Naobumi Tochigi, Kazuma Kishi Bronchoalveolar lavage fluid (BALF) cellular analysis is an adjunctive diagnostic tool in interstitial pneumonia (IP), yet its relationship with individual histopathological features remains unclear. We retrospectively compared BALF cellular fractions with 24 histopathological features in 67 IP patients who underwent BALF and surgical lung biopsy at a single center (2005–2020). False discovery rate correctio",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Isolation to purification: An integrated study on lysine production by Bacillus megaterium NTJT4 from medicinal plant rhizosphere",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361763",
+        "summary": "by Taslimul Jannat, Md. Rezaul Karim, Md. Rakibul Hasan, Debabrata Karmakar, Nishat Tasnim, Nourin Tarannum L-lysine stands out as a commercially important amino acid vital for maintaining balanced nutrition, immune function and healthy development in humans and animals. As global demand for lysine continues to rise each year, large-scale production is required to keep pace with this growing need. In the present study, L-lysine production was accomplished through a fermentation process utilizing isolated bacterial strains from soil. After conducting primary screening, Bacillus megaterium NTJT4",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Metabolic signatures accompany exploratory movement in climbing plants",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361761",
+        "summary": "by Valentina Simonetti, Silvia Guerra, Sara Avesani, Bianca Bonato, Marco Dadda, Laura Ravazzolo, Gabriela Gjinaj, Umberto Castiello Climbing plants rely on exploratory movements to locate and reach supports in the environment. Circumnutation is central to this exploratory behavior, yet little is known about the physiological signaling dynamics that accompany this movement. Here we show that the presence or absence of a climbing support is associated with distinct volatile organic compounds (VOCs) intensity profiles in Pisum sativum plants. Using temporal analyses aligned with circumnutation c",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Psychological flexibility in the work-caregiving interplay of employed family caregivers of people with dementia (DAILY-FLEX): Protocol of an experience sampling study",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361760",
+        "summary": "by Nahal Amini Moghaddam, Sara Laureen Bartels, Michaela Schok, Arnold B. Bakker, Golnaz Atefi, Marine Markaryan, Marjolein de Vugt Background Employed family caregivers of people with dementia face competing work and caregiving demands that can negatively affect well-being across both domains. The Work–Home Resources model proposes that demands and resources influence cross-domain functioning through changes in personal resources. Psychological flexibility (PF), the ability to remain open to difficult experiences while acting in line with personal values, may represent a dynamic personal reso",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "A hybrid car-following behavior prediction framework for snowy weather based on stacking ensemble learning",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361759",
+        "summary": "by Zengjie Luo, Fan Geng, Zhaolei Zhang To improve the accuracy and robustness of vehicle car-following behavior prediction on snowy highways, this paper proposes a hybrid prediction framework based on Stacking ensemble learning. The framework integrates a theoretically driven improved Intelligent Driver Model (IDM) with two state-of-the-art data-driven models—the Prediction-enhanced Intelligent Driver Model (P-IDM) and a Transformer-LSTM hybrid network—within a Stacking ensemble architecture. First, an Icy Condition Enhanced IDM (ICES-IDM) model is developed by introducing a road adhesion coe",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Baseline-referenced plasma metabolomic trajectories during early post-exercise recovery: A secondary analysis of public human exercise metabolomics data",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361757",
+        "summary": "by Yuanzhang Feng, Zhenwei Wu Background Post-exercise metabolomic changes are difficult to interpret without reference to the pre-exercise state. A baseline-referenced approach may help distinguish transient exercise responses from residual metabolic deviation during early recovery. Methods We performed a secondary analysis of two public human plasma metabolomics datasets. ST001789 was used as the primary discovery dataset and included 57 paired plasma samples from 19 participants collected before exercise, immediately after a 90-min endurance run, and after 60 min of recovery. ST004303 was u",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Methodological lineages of concept analysis and mapping of reporting elements in nursing and health-related disciplines: A scoping review protocol",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361727",
+        "summary": "by Sijing Peng, Min Wang, Peili Xu, Xiang Wang, Ting Zheng, Min You, Jiejie Ge Introduction Concept analysis is widely used in nursing and health-related disciplines to clarify ambiguous constructs, refine disciplinary language and support theory development, instrument construction, education and practice. However, concept analysis is methodologically plural rather than a single uniform method. Different approaches vary in their assumptions, data sources, analytic steps and expected outputs. Aims This scoping review will identify methodological lineages of concept analysis and map reporting e",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Genome mining, antibacterial activity, and metabolomic profiling reveal the biosynthetic potential of Burkholderia glumae isolates from Thailand with activity against clinically important bacterial pathogens",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361711",
+        "summary": "by Sujin Patarapuwadol, Panalee Oupaijit, Pornpavee Nualnisachol, Peerut Chienwichai, Jiraphan Premsuriya The increasing prevalence of antimicrobial resistance has underscored the need for novel antimicrobial agents. Members of the genus Burkholderia produce a diverse array of antimicrobial metabolites; however, the biosynthetic potential of Burkholderia glumae , a plant pathogen, remains relatively underexplored. In this study, we investigated the biosynthetic potential, antibacterial activity, and metabolomic profiles of 16 B. glumae isolates collected from Thailand. Genome mining using anti",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Ecology and epidemiology of multidrug resistance Salmonella in fruit Bats and shared water sources in Bangladesh",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361701",
+        "summary": "by Md. Helal Uddin, Pronesh Dutta, Monjurul Islam, Md. Kaisar Rahman, Shariful Islam, Md. Rezaul Karim, Farhana Rahman, Jade K. Forwood, Sharmin Chowdhury, Jonathan H. Epstein, Mohammed Abdus Samad, Ariful Islam Antimicrobial resistance (AMR) is a growing global threat to both animal and human health, underscoring the importance of AMR surveillance across all sectors of the One Health triad, including wildlife. Fruit bats in Bangladesh frequently inhabit areas in close proximity to human settlements and livestock facilities, creating ecological conditions that facilitate the co-occurrence of A",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Rotational-progress-dependent pelvic, thoracic, and support-foot kinematics during a standardised Rumba spiral turn in highly trained adolescent female Latin dancers",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361699",
+        "summary": "by Mimi Guo, Muhamad Hafiz Bin Ismail, Diyana Zulaika Binti Abdul Ghani, Qi Liang, Yifei Gao Rumba turning involves continuous whole-body reorientation, but discrete kinematic summaries do not localise where consistent directional deviations occur across the turn. This exploratory study examined rotational-progress-dependent patterns of pelvic obliquity, thoracic frontal-plane angle, and right support-foot progression angle during the initial 360° Rumba spiral turn in highly trained adolescent female Latin dancers. Fifteen dancers aged 14–16 years completed five valid trials each (75 trials). ",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Harnessing chia seed polysaccharides for green synthesis of copper-based nanoparticles with antidiabetic and anti-inflammatory activities",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361692",
+        "summary": "by Farzana Khan, Yusra Jamil, Raeesa Wajid, Adnan Khan, Muhammad Yaseen, Douglas Law, Mostafa A. Abdel-Maksoud, Saeedah Almutairi, Wahidah H. Al-Qahtani, Waheed Ahmad, Patricio R. De los Ríos-Escalante, Ayaz Ahmad Diabetes mellitus and chronic inflammation are global health issues, exacerbated by the incomplete control of metabolic-inflammatory pathways and the adverse effects of long-term pharmacotherapy. The development of multifunctional therapeutic nanomaterials via green nanotechnology has recently garnered attention. In this study, we synthesized copper-based nanoparticles (Cu NPs) using",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Expression of Concern: Nuclei segmentation and classification from histopathology images using federated learning for end-edge platform",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361682",
+        "summary": "by The PLOS One Editors",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Association between coronary artery calcium score and myocardial ischemia assessed by stress perfusion cardiac magnetic resonance imaging",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361659",
+        "summary": "by Yodying Kaolawanich, Methat Meechuen, Issarayus Laohabut, Thanawat Ruengchaisiwawaith, Thananya Boonyasirinant Background Coronary artery calcium (CAC) scoring effectively stratifies cardiovascular risk, and stress perfusion cardiac magnetic resonance (CMR) accurately detects myocardial ischemia. We aimed to investigate the prevalence and factors associated with myocardial ischemia on CMR in patients with CAC, and to assess the clinical impact of myocardial ischemia following CMR. Methods This study included 215 patients aged ≥18 years who underwent CAC scoring for risk stratification, foll",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Pregnant women’s health beliefs about pre-eclampsia in a resource-limited setting: A qualitative study",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361626",
+        "summary": "by Isabella Garti, Awube Menlah, Emuejevoke Fuafugo, Evans Osei Appiah, Nadyen Jordan Shikpup, Ophelia Serwaa Tonto, Betty Osei Ntiamoah Introduction Pre-eclampsia, a high-risk pregnancy complication, poses significant threats to maternal and fetal health. Globally, little is known about how women navigate a pre-eclampsia diagnosis or their perceptions of the pathology, unpredictable course, and treatment. Guided by the Health Belief model, this study explores pregnant women’s beliefs about pre-eclampsia in Ghana’s most populous region. Materials and methods A qualitative descriptive study was",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Empowering scientific performance and health: MERIT – A survey study and research perspective",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361623",
+        "summary": "by Cornelia Herbert Academic performance involves achieving one’s goals and reaching one’s full potential while staying mentally, emotionally, and physically well. This can be challenging across all career paths. This article presents results from a new survey examining key psychological factors and how early-career researchers evaluate them in relation to their scientific performance and health as they pursue their career goals. A total of 475 participants (e.g., in Germany, Switzerland, or Austria) evaluated psychological factors that, according to previous research and psychological theorie",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Associated factors for stress ulcers and gastrointestinal bleeding in patients with sepsis or septic shock: A systematic review",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361608",
+        "summary": "by Jin Wang, Xingwei Zhu, Linhui Jin, Yafei Liu, Man Tao, Zhijuan He, Xiaoxia Tang, Guilan Zhang, Hailin Zhu Background Sepsis continues to be a major contributor to death among critically ill individuals and places a heavy strain on healthcare resources. In addition to causing systemic inflammation and affecting hemodynamics, sepsis has a significant effect on the gastrointestinal system, leading to complications like stress ulcers and notable gastrointestinal bleeding (GIB), which worsen patient outcomes. While stress ulcer prophylaxis (SUP) has traditionally been included in sepsis treatmen",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Cutting-Edge Issues in Development – Age of Security: The rise of a global obsession",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/10/30/cutting-edge-issues-in-development-age-of-security/",
+        "summary": "On Friday 16 October, the Cutting-Edge Issues in Development Thinking and Practice 2026/27 series continued with a lecture by Professor Ruben Andersson on his new book ‘Age of Security: The rise of a global obsession’. Professor David Keen, LSE ID, joined as discussant, and the event was chaired by Dr Myfanwy James. Below, MSc students … Continued The post Cutting-Edge Issues in Development – Age of Security: The rise of a global obsession first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-10-30T11:22:08+00:00",
         "region": "europe",
         "streams": [
           "research"
@@ -4660,372 +5057,49 @@
         "stream": "research"
       },
       {
+        "title": "Learning to nurture: associations between parents’ self‑directed learning investment and children’s human capital",
+        "url": "https://www.nature.com/articles/s41599-026-09401-3",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-30T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Negotiating masculinity in a feminized profession: a systematic review of male teachers in early childhood education",
+        "url": "https://www.nature.com/articles/s41599-026-09346-7",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-30T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research",
+          "foundational"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "A metacognitive approach to learning and performance in human-AI interaction",
+        "url": "https://www.nature.com/articles/s44271-026-00548-y",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-10-30T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
         "title": "Parents take a broad approach when seeking trusted child-rearing advice",
         "url": "https://hechingerreport.org/parents-take-a-broad-approach-when-seeking-trusted-child-rearing-advice/",
         "summary": "When today’s parents are looking for trusted advice, about half turn to a familiar source: their own moms. That finding is one of several from a new survey of parents by the nonprofit Zero to Three. The organization reached out to about 2,200 parents of children ages 1 to 5, and also held eight online […] The post Parents take a broad approach when seeking trusted child-rearing advice appeared first on The Hechinger Report .",
         "source": "Hechinger Report",
         "published": "2026-10-29T20:34:00+00:00",
         "region": "north_america",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Effect of nutrition counseling on complementary feeding practices among mothers with children aged 6–23 months in West Gojjam Zone, Northwest Ethiopia: A cluster-randomized controlled trial",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361976",
-        "summary": "by Shiferaw Birhanu, Getu Degu Alene, Yeshalem Mulugeta Demilew Background Appropriate complementary feeding is essential for children’s growth and cognitive development. However, these practices remain inadequate in the study area. Therefore, this study aimed to evaluate the effect of nutrition counseling on complementary feeding practices among mothers with children aged 6–23 months in West Gojjam Zone, Northwest Ethiopia. Methods A two-arm, parallel, cluster-randomized controlled trial was conducted from June 2023 to December 2024 in rural districts of West Gojjam Zone. Thirty clusters (15 ",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Interpretable EOG-based gaze classification using tree-based models: A SHAP and LIME analysis",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361971",
-        "summary": "by Ayse Nur Ay Gul Electrooculography (EOG) is a low-cost biosignal modality for gaze-based human–computer interaction, but reliable validation and model interpretability remain important challenges for machine learning-based gaze classification. This study proposes an explainable EOG gaze classification framework using UNIOVI-EOG dataset. Horizontal and vertical EOG recordings from nine participants were converted into 100 ms non-overlapping windows, and only stable windows with at least 90% label purity were retained. Time-domain window features were extracted and evaluated using Decision Tr",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Factors associated with choosing diagnostic radiology as a future specialty among Palestinian medical students: a multicenter cross-sectional study",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361927",
-        "summary": "by Ibrahim Ammar AbuAttallah, Jana A. Qrareya, Reem S. Adawi, Jehad Khamaysa, Mahdi Thabet Aljamal Background Understanding factors influencing specialty choice is essential for workforce planning and curriculum development. Recruitment into diagnostic radiology remains challenging in several regions, particularly in low- and middle-income settings. This study aimed to identify factors associated with Palestinian medical students’ consideration of diagnostic radiology as a future specialty, with particular emphasis on educational exposure, perceptions of artificial intelligence (AI), and cogni",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Reported clinical breast examination activity in Bangladesh, 2019–2025: Temporal trends, geographic variation, positivity, and reporting completeness",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361910",
-        "summary": "by Sourov Das, Simran Patra, Shubham Om, Sushmita Kundu Background Routine clinical breast examination (CBE) services contribute to breast cancer early-detection activities in Bangladesh, but national program performance and reporting completeness are poorly characterized. We assessed reported CBE activity, geographic variation, positivity, reporting completeness, and temporal trends from 2019 through 2025. Methods We retrospectively analyzed routine CBE program data from 1,209 location-specific eligible facilities across Bangladesh from January 2019 through December 2025. Because individual-l",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Explainable machine learning framework with Granger-based temporal predictive validation for monitoring fiscal risk in national health insurance expenditure",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361904",
-        "summary": "by Gwangsu Lee Rising health insurance expenditure (HIE) poses fiscal risks and challenges to the sustainability of public insurance systems. Despite growing interest in data-driven analysis, empirical evidence on the associations between macroeconomic, social, and financial conditions and national HIE remains limited, particularly across provider types. This study introduces an explainable machine-learning framework with temporal predictive validation to analyze and forecast HIE using 60 macro-financial and socioeconomic indicators. The framework is applied to three monthly expenditure series",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Field study on compaction effect and energy evolution characteristics of highway subgrade under low-amplitude vibration",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361901",
-        "summary": "by Xiaobo Liu, Ping Xie, Wubin Wang Subgrade compaction is a critical procedure in highway construction. To elucidate the dynamic characteristics and energy transfer mechanisms throughout the entire compaction process, this study utilized four test lanes to conduct field experiments on highway subgrade under varying numbers of rolling passes. Comprehensive measurements and analyses were performed regarding the dynamic characteristics of vibration waves, energy distribution, and the evolution of soil compactness during operation. Furthermore, the compaction efficiency and energy transfer within",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Changes in ware–decoration associations in ceramic assemblages from Wacheqsa, Chavín de Huántar, Peru",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361889",
-        "summary": "by Christian Mesía-Montenegro Ceramic differentiation can involve altered associations among continuing attributes without wholesale categorical replacement. At Wacheqsa, Chavín de Huántar, Peru, this study compares ware composition, decorative techniques, and their associations in 1,308 decorated or surface-treated sherd observations from five archaeological contexts. Early Platforms and Water Flood constitute the earlier Urabarroid aggregate; Stone Rooms, Midden, and Late Platforms constitute the later Janabarroid aggregate. These labels describe ceramic affinities within pre-existing contex",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Gynecological malignancy signal triage: A two-dimensional framework integrating US-derived FAERS data with comparative US–China GBD trajectories",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361817",
-        "summary": "by Ying Ma, Dandan Li, Jieru Duan, Zhuowen Sun, Qirong Dou, Tao Wu, Na Gao Background Cancer-related adverse-event reports are difficult to interpret because statistical disproportionality, stimulated reporting, and background disease burden are distinct phenomena. To address this, we formalized a two-dimensional prioritization framework that combines FAERS signal credibility with independent GBD burden context. Because the FAERS dataset is overwhelmingly of US origin, we utilized China exclusively as a prespecified macro-epidemiological GBD comparator, strictly avoiding cross-national pharmac",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Soil texture and depth differentially regulate total and available nutrient stoichiometry in Yilong Lake basin agroecosystem, China",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361813",
-        "summary": "by Yongru Lai, Luoqi Zhao, Chenyang Zhang, Zijun Du, Yandan Wang, Tianyi Pu, Change Liu, Changqun Duan The stoichiometric ratios of soil available nutrients serve as a pivotal indicator for assessing the sustainability of farmland and nutrient cycling efficiency within fragile ecosystems. Soil texture and depth are significant factors influencing nutrient availability, however, their regulatory mechanisms within highland lakeshore agricultural systems remain poorly understood. This study, conducted in the Yilong Lake watershed of the low-latitude plateau in southwest China, collected 216 soil ",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Genomic dissection of environmental responsiveness and cross-environment productivity in fenugreek",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361774",
-        "summary": "by Maha Aljabri, Mustafa M. H. Abd El-Wahab, Amani Mahmoud Dobeie, Mohamed El-Soda Dissecting the genetic basis of genotype × environment interaction (G × E) is important for breeding crops with stable or responsive performance across production environments. Using previously published seed-yield data from 107 Egyptian fenugreek accessions evaluated under two contrasting field environments, we investigated whether yield potential and environmental responsiveness share a common genetic basis. Seed yield per plant was measured in Giza (SYP_G; reference environment) and Wadi El-Natrun (SYP_W; con",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Lethal and sublethal influence of triflumezopyrim on life history traits and enzyme activities in the bean bug, Riptortus pedestris (Hemiptera: Alydidae)",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361771",
-        "summary": "by Gefan Tian, Jianglong Guo, Jingjie An, He Yuan, Zhixu Hu, Yaofa Li, Zhanlin Gao Riptortus pedestris (Fab.) is an important soybean pest in East Asia, where its piercing-sucking feeding behavior leads to soybean syndrome. Triflumezopyrim, a novel mesoionic insecticide, has been widely applied to control sap-sucking insects. However, its lethal and sublethal impacts on R. pedestris remain poorly understood. This study investigated the lethal and sublethal effects of triflumezopyrim on R. pedestris using bioassays, age-stage two-sex life table analyses, and enzyme activity measurements. Result",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Study on the association between the low-density lipoprotein to high-density lipoprotein ratio and clinicopathological characteristics of breast cancer: A retrospective analysis incorporating subgroup evaluations by age, body mass index, and menopausal status",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361764",
-        "summary": "by Lei Dong, Can Liu, Lixin Li, Xiaotong Zhang, Wei Xu, Gaosai Dai Breast cancer (BC) represents the most prevalent malignant tumor among women globally, with its pronounced heterogeneity presenting significant challenges for precision diagnosis and treatment. Aberrant lipid metabolism, particularly the ratio of low-density lipoprotein to high-density lipoprotein (LHR), has garnered considerable interest in relation to BC development and progression. Nevertheless, the association between LHR and clinicopathological characteristics remains inadequately explored. To address this gap, the present",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Loss of cohesin deacetylation through KDAC8 inactivation leads to altered cohesin complex expression and chromosomal instability",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361705",
-        "summary": "by Tasha B. Toro, Razan H. Hammad, Thomas M. Huckaba, Terry J. Watt The cohesin complex is critical for both proper gene expression and for pairing sister chromatids during mitosis to ensure proper chromosome segregation. Acetylation and deacetylation of SMC3, a component of cohesin, is a critical regulatory mechanism controlling stability and reformation of the complex. Patients with Cornelia de Lange Syndrome have been observed to have mutations in cohesin-related genes, including in the lysine deacetylase KDAC8 (HDAC8), leading to disruption of complex formation and recycling. To further un",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Expression of Concern: Pedestrian POSE estimation using multi-branched deep learning pose net",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361677",
-        "summary": "by The PLOS One Editors",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Correction: Molecular Mechanism of Mutant p53 Stabilization: The Role of HSP70 and MDM2",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361672",
-        "summary": "by Milena Wiech, Maciej B. Olszewski, Zuzanna Tracz-Gaszewska, Bartosz Wawrzynow, Maciej Zylicz, Alicja Zylicz",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Retraction: Aesthetic preference for artificially selected color variant affects mate choice copying behavior in female Poecilia latipinna",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361670",
-        "summary": "by The PLOS One Editors",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Assessment of light sensitivity using the Ocular Photosensitivity Analyzer: Discomfort threshold, pain threshold, and tolerance in healthy volunteers",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361637",
-        "summary": "by Nathan Goturi, Cameron Talbert, Nicholas Pondelis, Mariela C. Aguilar, Alex Gonzalez, Cornelis Rowaan, Heather Durkee, Jean-Marie Parel, Vanda Faria, Eric Alan Moulton Photophobia encompasses a continuum of light-induced experiences from mild discomfort to overt pain and intolerance, yet clinical tools rarely quantify these distinctions, leaving many patients undiagnosed and untreated. This study employed the Ocular Photosensitivity Analyzer (OPA), a compact instrument for quantitative sensory testing (QST) with light, to investigate three perceptual levels in healthy adults: visual photose",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Identification of prognostic biomarkers for nasopharyngeal carcinoma through microRNA‑mRNA network analysis combined with screening of immune‑related genes",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361607",
-        "summary": "by Lihe He, Xuan Huang, Ping Huang Background Nasopharyngeal carcinoma (NPC) is a common head and neck cancer, and radiotherapy is its main treatment. Recurrence and metastasis are the main causes of treatment failure. Although immunotherapy can prolong patient survival, the molecular mechanisms underlying NPC development and progression remain unclear. MicroRNAs (miRNAs) and their target genes are abnormally expressed in many tumors and are closely involved in tumor development. Therefore, this study aimed to identify key miRNAs and immune-related target genes in NPC, construct miRNA–mRNA reg",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Integrative genomic SEM analysis of shared genetic architecture and candidate genes for insulin resistance–related metabolic traits",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361601",
-        "summary": "by ShuYan Li, Yi Liang, Guangwen Zhu, Lijiao Wu, Hong Li, Yu Li, Qiu Chen Insulin resistance is a complex metabolic state involving impaired insulin sensitivity, compensatory insulin secretion, abnormal lipid metabolism, and altered fat distribution. However, the shared genetic architecture underlying these correlated phenotypes remains incompletely defined. In this study, we applied Genomic Structural Equation Modeling to genome-wide association summary statistics of fasting insulin, insulin sensitivity index, triglycerides, and waist-to-hip ratio to construct an insulin resistance-related la",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Few-shot recognition of lane-changing intention in connected vehicle environment: A meta-transformer approach",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361594",
-        "summary": "by Xiaoqian Liu, Wenxin Jiang, Yining Ren This paper proposes a Meta-Transformer model for few-shot accurate lane-changing intention recognition in connected vehicle environment. Given the velocity, acceleration, distance headway, time headway and time to collision of a vehicle at past time steps, a transformer model is developed to recognize the lane changing intention of the vehicle at the current time step. The multi-head attention layer of the Transformer model is capable of effectively extracting features from the multivariate time serie input. This enhances the accuracy of lane-changing ",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Enhanced enfortumab vedotin sensitivity in a cisplatin-resistant bladder cancer model",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361593",
-        "summary": "by Taisuke Tobe, Jun Teishima, Takuto Hara, Yusuke Shiraishi, Hideto Ueki, Naoto Wakita, Yasuyoshi Okamura, Yukari Bando, Kotaro Suzuki, Tomoaki Terakawa, Akihisa Yao, Koji Chiba, Hideaki Miyake Objective Enfortumab vedotin (EV) and cisplatin (CDDP) are central treatments for advanced urothelial carcinoma, yet the influence of prior CDDP exposure on subsequent EV efficacy remains unclear. In this report, we characterized EV-related drug responses in a CDDP-resistant bladder cancer subline. Methods A CDDP-resistant subline (HT1376-CR) was generated from parental bladder cancer cell (HT1376/P) t",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Eating behaviour and glycaemic control: A cross-sectional study in adolescents with diabetes",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361574",
-        "summary": "by Nesibe Şimşekoğlu, İlknur Arslanoğlu, Banu Portakal, Selman Aktaş Background Achieving early glycemic control in adolescents with diabetes is associated with improved short- and long-term health outcomes. The aim of this study was to examine the relationship between eating attitudes and glycemic control, as well as the factors associated with eating attitudes and glycemic control, in adolescents with diabetes. Methods This descriptive cross-sectional study included 143 adolescents with diabetes, aged 10–19 years, who attended a research hospital between February and April 2024. The data wer",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Magnesium oxide tablets form rigid masses in xanthan gum-based thickeners: A physicochemical hazard revealed by a clinical case",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361494",
-        "summary": "by Soichi Makino, Miyu Ooe, Kazunari Miyazawa, Shogo Kayano, Sayaka Kominato, Yoshinori Saito, Ryohei Hirota, Yuta Watanabe, Fumiko Hayano Dysphagia, or difficulty swallowing, is a matter of serious concern among older adults. While thickening agents are essential for dysphagia management, they are not pharmacologically inert; their physicochemical interactions with oral medications remain poorly understood and can pose an iatrogenic hazard of mechanical esophageal obstruction. Following a case of acute esophageal obstruction of unknown origin, this study aimed to identify the foreign body, to",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Light availability, not soil texture, correlates with shrub community structure in mesic forest gaps",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361488",
-        "summary": "by Sam W. Anderson, Katherine A. McCulloh Woody shrubs are important components of temperate forest understories, contributing to forest structure, diversity, and succession. However, the extent to which variation in canopy openness and soil texture influence shrub occurrence, diversity, and composition remains unclear. Because woody tissues require comparatively high light availability and sandy soils may favor shrubs over trees, we hypothesized that shrub richness and cover would increase in canopy gaps and sandier microsites. To address this, we quantified soil texture, canopy gap structure",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "A target-domain augmentation and class-wise alignment framework for few-shot cross-condition bearing fault diagnosis",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361486",
-        "summary": "by Yijia Hu, Ying Gu, Yanjie Su, Chuan Zhao Cross-condition bearing fault diagnosis often has to adapt to a new operating condition with only a few labelled target samples. This setting creates two coupled problems. First, the sparse target support set cannot describe the target fault distribution sufficiently. Second, the same fault class may occupy different feature regions across source and target conditions, which weakens source-domain pretrained classifiers. Existing methods usually improve few-shot learning or reduce domain shift, but they rarely enrich the labelled target-class represen",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "The role of speaker accuracy and mutual exclusivity in children’s novel word learning",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361483",
-        "summary": "by Shalini Banerjee, Ishanti Gangopadhyay Children draw on multiple sources of information during word learning, including speaker testimony and lexical expectations. Yet, little is known about how these cues jointly influence children’s ability to learn new words. The present study examined the combined effect of speaker accuracy and mutual exclusivity (ME) on short-term retention of label-object associations in 4- to 7-year-old monolingual English speaking children. Children were presented novel and familiar object pairs, and were taught novel labels by either an accurate speaker (one who pr",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Dynamic analysis and spatiotemporal evolution of multi-stage knowledge dissemination under AI-enabled dual-channel “Interpersonal–Human-Machine” interaction",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361482",
-        "summary": "by Yanhua Lv, Yadong Wang, Huanhuan Wang, Sida Kang With the deep integration of digitalization and artificial intelligence technologies into enterprise knowledge management, AI-assisted learning is reshaping the channels through which knowledge is acquired within organizations. Meanwhile, knowledge dissemination is evolving from traditional interpersonal interaction toward human-machine collaborative interaction. In light of this transformation, this study develops a multi-stage 2 SEIR - CA dynamic model of knowledge dissemination under an AI-enabled mechanism that incorporates dual-channel “",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Prophylactic endoscopic transpapillary gallbladder stenting at fully covered self-expandable metal stent placement to prevent cholecystitis in malignant distal biliary obstruction: A multicenter prospective single-arm study protocol (PROTECT study)",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361468",
-        "summary": "by Takayuki Oda, Yusuke Kurita, Masato Suzuki, Satoru Shinoda, Takamitsu Sato, Shinichi Nihei, Yu Honda, Takeshi Iizuka, Shin Yagi, Sho Hasegawa, Kensuke Kubota, Masato Yoneda Background Malignant distal biliary obstruction (MDBO) is commonly managed with endoscopic retrograde cholangiopancreatography (ERCP)-guided transpapillary stenting. Fully covered self-expandable metal stents (FCSEMSs) provide durable biliary drainage but may increase the risk of acute cholecystitis due to cystic duct obstruction. Prophylactic endoscopic transpapillary gallbladder stenting (ETGBS) at the time of FCSEMS p",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Mathematical dynamic integration model based on game theory and optimization theory",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361429",
-        "summary": "by Jing Wang, Xuanwei Huang, Shuai Li As technology advances, the research on mathematical dynamic integration models has yielded a potent instrument for the analysis and optimization of complex systems, thereby fostering progress across multiple domains. To solve the issues of traditional dynamic integration models, such as the lack of solid mathematical theoretical support, imbalanced weight allocation among multiple participants, and insufficient dynamic adaptability, this study integrates the Shapley value method from cooperative game theory with Monte Carlo sampling techniques to construc",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Vertical accuracy of ASTER, SRTM, and NASADEM digital surface models across Malawi’s diverse topography",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361397",
-        "summary": "by Kennedy Sones Nazombe, Brighton A. Chunga, Charles Bakolo, Rodrick Mlewa, Godwell Nhamo Digital Surface Models (DSMs) are widely used as important sources of topographic information for earth science and environmental applications. The accuracy of DSMs has direct impacts on several environmental calculations and processes. Therefore, it is imperative to select the most suitable DSM based on the aim and accuracy requirements of each application. However, the use of an appropriate DSM has always been a challenge. This study evaluated the vertical accuracy and performance of the freely availab",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "region": "global",
         "streams": [
           "research"
         ],
@@ -5431,18 +5505,6 @@
         "stream": "research"
       },
       {
-        "title": "Short-term effects of the peer teaching model on specialized content knowledge of pre-service physical education teachers",
-        "url": "https://www.nature.com/articles/s41598-026-76665-9",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-21T00:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
         "title": "What Safeena Husain taught me about localised development",
         "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/10/20/what-safeena-husain-taught-me-about-localised-development/",
         "summary": "Localisation has three parts: delivery, money and decision-making. LSE alumna Safeena Husain, Founder of Educate Girls, has built an Indian non-profit that works with governments and communities to improve girls’ education in marginalised regions. Its experience shows how far a programme can go when delivery is truly local, while its impact bond raises questions regarding … Continued The post What Safeena Husain taught me about localised development first appeared on LSE International Development .",
@@ -5455,48 +5517,12 @@
         "stream": "research"
       },
       {
-        "title": "Research on the evolutionary characteristics of hot topics in online public opinion of Chinese universities based on Weibo texts",
-        "url": "https://www.nature.com/articles/s41599-026-09469-x",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-20T00:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
         "title": "Join Global Kindness Season with the Learning Planet Festival 2027",
         "url": "https://www.norrageducation.org/97296-2/",
         "summary": "As part of the Learning Planet Festival 2027, taking place from 25 to 29 January 2027, the Festival is joining forces with Pass Kindness Forward, a global movement aiming to inspire one billion acts of kindness during Global Kindness Season, from 1 November 2026 to 31 January 2027. The movement was born in Puerto Rico... Read More The post Join Global Kindness Season with the Learning Planet Festival 2027 appeared first on NORRAG - .",
         "source": "NORRAG — Education & Development",
         "published": "2026-10-19T09:59:10+00:00",
         "region": "europe",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Audio long read: How to stay smart in the age of AI — the science of critical thinking",
-        "url": "https://www.nature.com/articles/d41586-026-03228-3",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-19T00:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Marry up, rise up: the spillover effect of marrying up on students’ cognitive and non-cognitive outcomes",
-        "url": "https://www.nature.com/articles/s41599-026-08690-y",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-19T00:00:00+00:00",
-        "region": "global",
         "streams": [
           "research"
         ],
@@ -5593,6 +5619,18 @@
         "source": "NORRAG — Education & Development",
         "published": "2026-10-08T08:00:24+00:00",
         "region": "europe",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "CIPPEC en el 62° Coloquio de IDEA",
+        "url": "https://www.cippec.org/cippec-en-el-62-coloquio-de-idea/",
+        "summary": "En la 62° edición del Coloquio de IDEA -que se realizó del 30 de septiembre al 2 de octubre en Mar del Plata-, Luciano Laspina, director ejecutivo de CIPPEC, analizó el impacto que la inteligencia artificial puede tener sobre la productividad y el mercado laboral argentino. En diálogo con la periodista Silvia Naishtat, presentó los […] La entrada CIPPEC en el 62° Coloquio de IDEA se publicó primero en CIPPEC .",
+        "source": "CIPPEC — Education (Argentina)",
+        "published": "2026-10-07T22:06:17+00:00",
+        "region": "latin_america",
         "streams": [
           "research"
         ],
@@ -5883,6 +5921,18 @@
   "regions": {
     "global": [
       {
+        "title": "Thought Leader Q&A: Discussing How To Effectively Scale Learning With Dr. RK Prasad",
+        "url": "https://elearningindustry.com/thought-leader-qa-discussing-how-to-effectively-scale-learning-with-dr-rk-prasad",
+        "summary": "This Thought Leader Q&A with CommLab India's Dr. RK Prasad brings us valuable highlights from LearnFlux 2026, CommLab India's virtual thought leadership summit for L&D leaders, specifically on how to scale learning as businesses grow. This post was first published on eLearning Industry .",
+        "source": "eLearning Industry",
+        "published": "2026-10-30T20:00:00+00:00",
+        "stream": "edtech",
+        "streams": [
+          "edtech"
+        ],
+        "region": "global"
+      },
+      {
         "title": "Times Higher Education to wind down BMI by end of 2026",
         "url": "https://thepienews.com/times-higher-education-to-wind-down-bmi-by-end-of-2026/",
         "summary": "Times Higher Education (THE) is closing the BMI GlobalEd arm of its business, citing pressure on the international education sector that has made \"business hard to sustain\". The post Times Higher Education to wind down BMI by end of 2026 appeared first on The PIE News .",
@@ -5955,6 +6005,366 @@
         "region": "global"
       },
       {
+        "title": "Prognostic value of the preoperative C-reactive protein-to-lymphocyte ratio in patients with non-metastatic clear cell renal cell carcinoma",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362126",
+        "summary": "by Minchao Qin, Zhongwen Feng, Chao Zhang, Wei Song, Kai Wang, Zhen Chen Background Systemic inflammation is associated with the prognosis of clear cell renal cell carcinoma (ccRCC). The C-reactive protein-to-lymphocyte ratio (CLR) combines systemic inflammation and host immune status. However, its prognostic value in non-metastatic ccRCC remains unclear. This study evaluated the association between preoperative CLR and survival outcomes in patients with non-metastatic ccRCC. Methods We retrospectively included 414 patients with non-metastatic ccRCC who underwent partial or radical nephrectomy",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Development of a competency framework for public health nurses in China: A modified Delphi study",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361940",
+        "summary": "by Chunxia He, Lingli Yan, Jia Yin, Qian Yao, Jiali Zhang, Jimei Zhang, Xiuying Hu Background Public health nurses play a pivotal role in primary public health services, yet China lacks a systematic, context-specific competency framework to support workforce development. This study aimed to develop a competency framework for public health nurses in China to guide capacity-building initiatives. Methods A preliminary competency framework was constructed based on a literature review, job analysis, and semi-structured interviews with 22 frontline practitioners and comprised six domains, 16 subdoma",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "labor",
+        "streams": [
+          "labor"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Detection of potentially curable recurrence after colorectal cancer surgery in a real-world population",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361933",
+        "summary": "by Ivonne J. H. Schoenaker, Richard M. Brohet, Evelyn J. Finnema, Dominique C. Damminga, Helle-Brit Fiebrich, Wouter H. de Vos tot Nederveen Cappel, Henderik L. van Westreenen Introduction After curative surgery for colorectal cancer (CRC), patients undergo surveillance because of the risk of recurrence; however, only a subset develops recurrence amenable to further curative-intent treatment. The primary aim of follow‑up is to identify patients with potentially curable recurrence. Materials and methods A retrospective analysis was performed of stage I–IV CRC patients who underwent curative-int",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Age-specific income losses due to HPV-attributable cancers in Singapore",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361921",
+        "summary": "by Robin Blythe, Nicholas Graves, N. Gopalakrishna Iyer, Marco A. Peres Introduction The link between Human Papillomavirus (HPV) and cancer is well-established. In Singapore, bivalent HPV vaccines are subsidised for females, but not males. Economic analysis of HPV vaccination has generally assessed the costs to the health system, but this may not be as relevant to individual decision-making as potential lost income. We estimated the impact of bivalent HPV 16/18 vaccination on sick leave, unemployment, and premature mortality as a function of age and sex to understand the broader impact of HPV-",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Correction: Stigmatizing attitudes and misconceptions about obesity among Spanish healthcare professionals",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361915",
+        "summary": "by The PLOS One Staff",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Correction: Response surface methodology to optimize the green synthesis process of cefotaxime sodium: Collaborative improvement of yield, crystal form control and environmental benefits",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361897",
+        "summary": "by Wang Yizhang, Li Jing, Yang Mingxi, Ou Shiqiang, Liu Hao, Xie Peng, Zhu Kaimei",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Electronic health record phenotype choice and real-world outcome estimates: A propensity score–matched comparison of three invasive breast cancer definitions in TriNetX",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361883",
+        "summary": "by Jui-Kun Chiang, Po-Chen Chiang, Malcolm Koo Electronic health record-based oncology studies depend on computable case definitions, but different operational definitions may identify different patient populations and change downstream estimates. This retrospective benchmarking cohort study evaluated three definitions of incident invasive breast cancer in the TriNetX Global Collaborative Network: at least one malignant breast cancer diagnosis code (Dx1), a repeated diagnosis-code definition within 90 days (Dx2), and a diagnosis code plus breast cancer-directed treatment evidence (DxTx). Femal",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Correction: Broader factors associated with current adolescent overweight/obesity status in YRBSS 2023: Survey-aware analysis and calibrated AI-assisted classification",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361872",
+        "summary": "by The PLOS One Staff",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Hudson River Estuary sediments contain high fractional abundances of preserved globothalamean foraminiferal organic linings at Piermont, New York",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361863",
+        "summary": "by Logan Brenner, Laura Haynes, Batoul Saad, Maisie Klem, Amelia Lang, Elizabeth Grey Linsley, William Riley, Sophie Spink, Carolyn Zhao, Margie Turrin, Lorelei Curtin Foundational to an estuarine ecosystem is the composition of its sediments, with benthic foraminifera serving as a key component. While it is common to find intact and deformed tests, foraminiferal organic linings (FOLs; foraminifera whose tests dissolved) are not always present in sediment samples. Identifying where FOLs are preserved is a necessary first step towards determining what promotes their development and burial. Here",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Alcohol use and its associations with mental health across the first year of the COVID-19 pandemic",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361854",
+        "summary": "by Lu Zhang, Bianca Ton, Louise Mewton, Susanne Schweizer Background While the COVID-19 pandemic caused major disruptions to social connections and lifestyles, many countries continued the sale of alcohol as an essential commodity. Evidence on change in alcohol use, and its association with mental health and wellbeing during the pandemic is, however, mixed and limited to initial periods of the pandemic. This study aimed to address these research gaps. Methods Data were drawn from the COVID-19 Risks Across the Lifespan (CORAL) Study, a three-wave longitudinal study conducted between May 2020 an",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Effects of a sleep program on sleep, performance and health in university students: Study protocol for a randomised controlled trial",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361815",
+        "summary": "by Eivind Andersen, Fredrik Lie Haugen, Heidi Lindsverk, Oda Eline Aasland, Anne Sæther, Bjørn Bjorvatn Background Insomnia and poor sleep are highly prevalent among university students and are linked to impaired mental and physical health, reduced cognitive functioning, and lower academic performance. Existing interventions for insomnia include cognitive behavioural therapy for insomnia (CBT-I), mindfulness, and sleep hygiene. CBT-I is widely recognised as effective but remains difficult to access for the general population and lack scalability, long-term follow-up, and feasibility in non-cli",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "GFLNet: A lightweight real-time detector with knowledge-guided compression in remote sensing images",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361806",
+        "summary": "by Jing Zhang, Mas Rina Mustaffa, Fatimah Khalid, Zainal Abdul Kahar, Tao Zhang Remote sensing images usually exhibits densely distributed targets and scale disparities. In such scenarios, it is still challenging to preserve high detection precision while controlling costs and inference latency. To address this issue, we propose GFLNet, a lightweight single-stage detector, which is based on collaborative feature modeling and knowledge-guided compression. Specifically, Ghost-Shuffle dual fusion convolution (GSD-Fuse) is designed to achieve efficient spatial-channel interaction while reducing co",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Behavior of earth-rock cofferdam built on deep overburden foundation considering seepage effect",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361805",
+        "summary": "by Linsong Zhu, Shuangquan Li, Xuewu Sun, Yuechen Wei An increasing number of water conservancy and hydropower projects are being constructed on deep overburden foundations. Deep overburden foundations have an important influence on the mechanical behavior of earth-rock cofferdams built on them. A three-dimensional coupled seepage–stress finite element model was established to compare the two schemes under different cutoff-wall penetration depths and rapid-drawdown conditions. This paper presents a comparative analysis of the seepage and mechanical behavior of earth-rock cofferdams built on de",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Visual perception and color discrimination of the Asian citrus psyllid",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361772",
+        "summary": "by Sandra A. Allan, Emma N. I. Weeks The spectral sensitivity of adult Asian citrus psyllids, Diaphorina citri Kuwayama (Hemiptera: Liviidae), a vector of huanglongbing, was determined as a basis for optimization of visual traps. Electroretinogram responses were obtained from compound eyes of dark-adapted psyllids that were exposed to monochromatic 200 ms light flashes ranging from 340–700 nm. The spectral sensitivity curves were comprised of a peak in the ultraviolet region as well as a broad peak in the green-yellow region of the visual spectrum. Curves of male and female psyllids were simil",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Bronchoalveolar lavage fluid cellular fractions reflect individual histopathological features in interstitial pneumonia",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361768",
+        "summary": "by Shion Miyoshi, Susumu Sakamoto, Sakae Homma, Yasuhiko Nakamura, Yusuke Usui, Hiroshige Shimizu, Muneyuki Sekiya, Naohisa Urabe, Takuma Isshiki, Yoko Azuma, Naobumi Tochigi, Kazuma Kishi Bronchoalveolar lavage fluid (BALF) cellular analysis is an adjunctive diagnostic tool in interstitial pneumonia (IP), yet its relationship with individual histopathological features remains unclear. We retrospectively compared BALF cellular fractions with 24 histopathological features in 67 IP patients who underwent BALF and surgical lung biopsy at a single center (2005–2020). False discovery rate correctio",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Isolation to purification: An integrated study on lysine production by Bacillus megaterium NTJT4 from medicinal plant rhizosphere",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361763",
+        "summary": "by Taslimul Jannat, Md. Rezaul Karim, Md. Rakibul Hasan, Debabrata Karmakar, Nishat Tasnim, Nourin Tarannum L-lysine stands out as a commercially important amino acid vital for maintaining balanced nutrition, immune function and healthy development in humans and animals. As global demand for lysine continues to rise each year, large-scale production is required to keep pace with this growing need. In the present study, L-lysine production was accomplished through a fermentation process utilizing isolated bacterial strains from soil. After conducting primary screening, Bacillus megaterium NTJT4",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Metabolic signatures accompany exploratory movement in climbing plants",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361761",
+        "summary": "by Valentina Simonetti, Silvia Guerra, Sara Avesani, Bianca Bonato, Marco Dadda, Laura Ravazzolo, Gabriela Gjinaj, Umberto Castiello Climbing plants rely on exploratory movements to locate and reach supports in the environment. Circumnutation is central to this exploratory behavior, yet little is known about the physiological signaling dynamics that accompany this movement. Here we show that the presence or absence of a climbing support is associated with distinct volatile organic compounds (VOCs) intensity profiles in Pisum sativum plants. Using temporal analyses aligned with circumnutation c",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Psychological flexibility in the work-caregiving interplay of employed family caregivers of people with dementia (DAILY-FLEX): Protocol of an experience sampling study",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361760",
+        "summary": "by Nahal Amini Moghaddam, Sara Laureen Bartels, Michaela Schok, Arnold B. Bakker, Golnaz Atefi, Marine Markaryan, Marjolein de Vugt Background Employed family caregivers of people with dementia face competing work and caregiving demands that can negatively affect well-being across both domains. The Work–Home Resources model proposes that demands and resources influence cross-domain functioning through changes in personal resources. Psychological flexibility (PF), the ability to remain open to difficult experiences while acting in line with personal values, may represent a dynamic personal reso",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "A hybrid car-following behavior prediction framework for snowy weather based on stacking ensemble learning",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361759",
+        "summary": "by Zengjie Luo, Fan Geng, Zhaolei Zhang To improve the accuracy and robustness of vehicle car-following behavior prediction on snowy highways, this paper proposes a hybrid prediction framework based on Stacking ensemble learning. The framework integrates a theoretically driven improved Intelligent Driver Model (IDM) with two state-of-the-art data-driven models—the Prediction-enhanced Intelligent Driver Model (P-IDM) and a Transformer-LSTM hybrid network—within a Stacking ensemble architecture. First, an Icy Condition Enhanced IDM (ICES-IDM) model is developed by introducing a road adhesion coe",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Baseline-referenced plasma metabolomic trajectories during early post-exercise recovery: A secondary analysis of public human exercise metabolomics data",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361757",
+        "summary": "by Yuanzhang Feng, Zhenwei Wu Background Post-exercise metabolomic changes are difficult to interpret without reference to the pre-exercise state. A baseline-referenced approach may help distinguish transient exercise responses from residual metabolic deviation during early recovery. Methods We performed a secondary analysis of two public human plasma metabolomics datasets. ST001789 was used as the primary discovery dataset and included 57 paired plasma samples from 19 participants collected before exercise, immediately after a 90-min endurance run, and after 60 min of recovery. ST004303 was u",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Methodological lineages of concept analysis and mapping of reporting elements in nursing and health-related disciplines: A scoping review protocol",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361727",
+        "summary": "by Sijing Peng, Min Wang, Peili Xu, Xiang Wang, Ting Zheng, Min You, Jiejie Ge Introduction Concept analysis is widely used in nursing and health-related disciplines to clarify ambiguous constructs, refine disciplinary language and support theory development, instrument construction, education and practice. However, concept analysis is methodologically plural rather than a single uniform method. Different approaches vary in their assumptions, data sources, analytic steps and expected outputs. Aims This scoping review will identify methodological lineages of concept analysis and map reporting e",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Genome mining, antibacterial activity, and metabolomic profiling reveal the biosynthetic potential of Burkholderia glumae isolates from Thailand with activity against clinically important bacterial pathogens",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361711",
+        "summary": "by Sujin Patarapuwadol, Panalee Oupaijit, Pornpavee Nualnisachol, Peerut Chienwichai, Jiraphan Premsuriya The increasing prevalence of antimicrobial resistance has underscored the need for novel antimicrobial agents. Members of the genus Burkholderia produce a diverse array of antimicrobial metabolites; however, the biosynthetic potential of Burkholderia glumae , a plant pathogen, remains relatively underexplored. In this study, we investigated the biosynthetic potential, antibacterial activity, and metabolomic profiles of 16 B. glumae isolates collected from Thailand. Genome mining using anti",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Ecology and epidemiology of multidrug resistance Salmonella in fruit Bats and shared water sources in Bangladesh",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361701",
+        "summary": "by Md. Helal Uddin, Pronesh Dutta, Monjurul Islam, Md. Kaisar Rahman, Shariful Islam, Md. Rezaul Karim, Farhana Rahman, Jade K. Forwood, Sharmin Chowdhury, Jonathan H. Epstein, Mohammed Abdus Samad, Ariful Islam Antimicrobial resistance (AMR) is a growing global threat to both animal and human health, underscoring the importance of AMR surveillance across all sectors of the One Health triad, including wildlife. Fruit bats in Bangladesh frequently inhabit areas in close proximity to human settlements and livestock facilities, creating ecological conditions that facilitate the co-occurrence of A",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Rotational-progress-dependent pelvic, thoracic, and support-foot kinematics during a standardised Rumba spiral turn in highly trained adolescent female Latin dancers",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361699",
+        "summary": "by Mimi Guo, Muhamad Hafiz Bin Ismail, Diyana Zulaika Binti Abdul Ghani, Qi Liang, Yifei Gao Rumba turning involves continuous whole-body reorientation, but discrete kinematic summaries do not localise where consistent directional deviations occur across the turn. This exploratory study examined rotational-progress-dependent patterns of pelvic obliquity, thoracic frontal-plane angle, and right support-foot progression angle during the initial 360° Rumba spiral turn in highly trained adolescent female Latin dancers. Fifteen dancers aged 14–16 years completed five valid trials each (75 trials). ",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Harnessing chia seed polysaccharides for green synthesis of copper-based nanoparticles with antidiabetic and anti-inflammatory activities",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361692",
+        "summary": "by Farzana Khan, Yusra Jamil, Raeesa Wajid, Adnan Khan, Muhammad Yaseen, Douglas Law, Mostafa A. Abdel-Maksoud, Saeedah Almutairi, Wahidah H. Al-Qahtani, Waheed Ahmad, Patricio R. De los Ríos-Escalante, Ayaz Ahmad Diabetes mellitus and chronic inflammation are global health issues, exacerbated by the incomplete control of metabolic-inflammatory pathways and the adverse effects of long-term pharmacotherapy. The development of multifunctional therapeutic nanomaterials via green nanotechnology has recently garnered attention. In this study, we synthesized copper-based nanoparticles (Cu NPs) using",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Expression of Concern: Nuclei segmentation and classification from histopathology images using federated learning for end-edge platform",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361682",
+        "summary": "by The PLOS One Editors",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Association between coronary artery calcium score and myocardial ischemia assessed by stress perfusion cardiac magnetic resonance imaging",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361659",
+        "summary": "by Yodying Kaolawanich, Methat Meechuen, Issarayus Laohabut, Thanawat Ruengchaisiwawaith, Thananya Boonyasirinant Background Coronary artery calcium (CAC) scoring effectively stratifies cardiovascular risk, and stress perfusion cardiac magnetic resonance (CMR) accurately detects myocardial ischemia. We aimed to investigate the prevalence and factors associated with myocardial ischemia on CMR in patients with CAC, and to assess the clinical impact of myocardial ischemia following CMR. Methods This study included 215 patients aged ≥18 years who underwent CAC scoring for risk stratification, foll",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Pregnant women’s health beliefs about pre-eclampsia in a resource-limited setting: A qualitative study",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361626",
+        "summary": "by Isabella Garti, Awube Menlah, Emuejevoke Fuafugo, Evans Osei Appiah, Nadyen Jordan Shikpup, Ophelia Serwaa Tonto, Betty Osei Ntiamoah Introduction Pre-eclampsia, a high-risk pregnancy complication, poses significant threats to maternal and fetal health. Globally, little is known about how women navigate a pre-eclampsia diagnosis or their perceptions of the pathology, unpredictable course, and treatment. Guided by the Health Belief model, this study explores pregnant women’s beliefs about pre-eclampsia in Ghana’s most populous region. Materials and methods A qualitative descriptive study was",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Empowering scientific performance and health: MERIT – A survey study and research perspective",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361623",
+        "summary": "by Cornelia Herbert Academic performance involves achieving one’s goals and reaching one’s full potential while staying mentally, emotionally, and physically well. This can be challenging across all career paths. This article presents results from a new survey examining key psychological factors and how early-career researchers evaluate them in relation to their scientific performance and health as they pursue their career goals. A total of 475 participants (e.g., in Germany, Switzerland, or Austria) evaluated psychological factors that, according to previous research and psychological theorie",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Associated factors for stress ulcers and gastrointestinal bleeding in patients with sepsis or septic shock: A systematic review",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361608",
+        "summary": "by Jin Wang, Xingwei Zhu, Linhui Jin, Yafei Liu, Man Tao, Zhijuan He, Xiaoxia Tang, Guilan Zhang, Hailin Zhu Background Sepsis continues to be a major contributor to death among critically ill individuals and places a heavy strain on healthcare resources. In addition to causing systemic inflammation and affecting hemodynamics, sepsis has a significant effect on the gastrointestinal system, leading to complications like stress ulcers and notable gastrointestinal bleeding (GIB), which worsen patient outcomes. While stress ulcer prophylaxis (SUP) has traditionally been included in sepsis treatmen",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-10-30T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
         "title": "Global Burden of Disease (GBD) Fellowship 2027",
         "url": "https://opportunitydesk.org/2026/10/30/gbd-fellowship-2027/",
         "summary": "Deadline: December 21, 2026 Applications are open for the Global Burden of Disease (GBD) Fellowship 2027. The GBD Fellowship is an early-career, cohort-based postdoctoral training program at the Institute for Health Metrics and Evaluation (IHME) at the University of Washington in Seattle. It is built for researchers who want careers in health metrics and who [...]",
@@ -5963,18 +6373,6 @@
         "stream": "funding",
         "streams": [
           "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Italy tightens security as students, unions launch nationwide protests",
-        "url": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss",
-        "summary": "Rallies across the country target living costs, investment in education and the wars in the Middle East.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-10-30T13:14:11+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "global"
       },
@@ -6001,366 +6399,6 @@
           "funding"
         ],
         "region": "global"
-      },
-      {
-        "title": "Gates Foundation AI Fellow Program 2027",
-        "url": "https://opportunitydesk.org/2026/10/30/gates-foundation-ai-fellow-program-2027/",
-        "summary": "Deadline: November 11, 2026 Applications are open for the Gates Foundation AI Fellow Program 2027. The AI Fellows Program at the Gates Foundation is dedicated to accelerating the responsible and impactful use of AI in global health, development, and education. The goal is to attract top-tier, mission-aligned AI talent to drive innovation in these areas. [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-30T12:33:02+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Australia consults on student visa overhaul as refusals hit key markets",
-        "url": "https://thepienews.com/australia-consults-on-student-visa-overhaul-as-refusals-hit-key-markets/",
-        "summary": "Proposals would revise the Genuine Student requirement and financial-capacity rules, including possible Australian bank accounts and tougher evidence for certain international student applicants. The post Australia consults on student visa overhaul as refusals hit key markets appeared first on The PIE News .",
-        "source": "The PIE News",
-        "published": "2026-10-30T12:24:12+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Geballe Laboratory for Advanced Materials (GLAM) at Stanford University 2027",
-        "url": "https://opportunitydesk.org/2026/10/30/geballe-laboratory-for-advanced-materials-at-stanford-university-2027/",
-        "summary": "Deadline: November 30, 2026 Applications are open for the Geballe Laboratory for Advanced Materials (GLAM) at Stanford University 2027. They seek early-career scientists of exceptional ability who will flourish in, and contribute to, the highly interactive and collaborative research environment of GLAM. At Stanford, a spirit of optimism and possibility energizes their mission of discovery [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-30T12:16:32+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Flexible stays: putting student choice and engagement at the heart of student accommodation",
-        "url": "https://thepienews.com/flexible-stays-putting-student-choice-and-engagement-at-the-heart-of-student-accommodation/",
-        "summary": "True flexibility in student accommodation means more than shorter contracts. GoBritanya’s business director Hui Zhao argues that providers must offer choice while ensuring students feel part of a community, whatever the length of their stay. The post Flexible stays: putting student choice and engagement at the heart of student accommodation appeared first on The PIE News .",
-        "source": "The PIE News",
-        "published": "2026-10-30T09:21:30+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "When AI does the work, who does the learning?",
-        "url": "https://oecdedutoday.com/when-ai-does-the-work-who-does-the-learning/",
-        "summary": "By Guillermo Fossati, PhD, psychologist and education researcher Artificial intelligence can help students write better essays, solve problems and produce … More",
-        "source": "OECD — Education & Skills Today",
-        "published": "2026-10-30T09:13:12+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "How Kenyans got caught in $130m US ghost student scam",
-        "url": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
-        "summary": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.",
-        "source": "BBC — Education",
-        "published": "2026-10-30T08:32:35+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "The PIE Live Germany – live feed",
-        "url": "https://thepienews.com/the-pie-live-germany-live-feed/",
-        "summary": "Follow along here for live updates from The PIE Live Germany conference. The post The PIE Live Germany – live feed appeared first on The PIE News .",
-        "source": "The PIE News",
-        "published": "2026-10-30T08:30:00+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Instructional application of BYOD in K-12 in the context of the digital transformation of education: a systematic literature review",
-        "url": "https://www.nature.com/articles/s41599-026-09456-2",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-10-30T00:00:00+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "The Interview Went Well. Why Is Your Old Boss Still Part of the Decision?",
-        "url": "https://opportunitydesk.org/2026/10/30/the-interview-went-well-why-is-your-old-boss-still-part-of-the-decision/",
-        "summary": "You answered the interview questions confidently, discussed your experience, and left with the impression that the hiring manager could picture you on the team. The recruiter even mentioned the next steps. Then came one more request: the names and contact details of your previous employers. For most applicants, this is a routine part of getting [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-30T00:00:00+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Instructor-Led Training: ILT Models, Benefits, And Blended Delivery Tips",
-        "url": "https://elearningindustry.com/instructor-led-training",
-        "summary": "Discover Instructor-Led Training models, VILT benefits, challenges, and blended delivery tips to create engaging, effective corporate learning experiences. This post was first published on eLearning Industry .",
-        "source": "eLearning Industry",
-        "published": "2026-10-29T20:00:09+00:00",
-        "stream": "edtech",
-        "streams": [
-          "edtech"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "In an age of AI, character matters more than ever – so why do too many schools leave it to chance?",
-        "url": "https://thepienews.com/in-an-age-of-ai-character-matters-more-than-ever-so-why-do-too-many-schools-leave-it-to-chance/",
-        "summary": "AI has put extraordinary capability in every student’s hands. But are schools giving young people the values to decide what to do with it, asks David Harkin. The post In an age of AI, character matters more than ever – so why do too many schools leave it to chance? appeared first on The PIE News .",
-        "source": "The PIE News",
-        "published": "2026-10-29T18:19:57+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Sara won a prized place to study medicine in Glasgow. Why is the Home Office blocking her?",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/29/sara-won-a-prized-place-to-study-medicine-in-glasgow-why-is-the-home-office-blocking-her",
-        "summary": "She fought every obstacle in Afghanistan to pursue her dream of becoming a doctor – fleeing her abusive father and the Taliban. But this talented, tenacious student has now been denied a visa, for contradictory reasons, three times For the last decade, Sara (not her real name), 25, has dreamed of becoming a doctor. She secured a highly sought after place to study medicine at Kabul University in February 2021, but in a matter of months the Taliban returned to power and imposed a ban on women studying for degrees. Sara had been searching for other options. Then the University of Glasgow offered ",
-        "source": "The Guardian — Education",
-        "published": "2026-10-29T18:02:31+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Workforce Maturity Model",
-        "url": "https://elearningindustry.com/workforce-maturity-model",
-        "summary": "Most workforce plans are hiring plans with a better name. This five-stage model shows where your organization sits and what it takes to move from filling seats to building capability. This post was first published on eLearning Industry .",
-        "source": "eLearning Industry",
-        "published": "2026-10-29T18:00:23+00:00",
-        "stream": "edtech",
-        "streams": [
-          "edtech"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Brazil’s study abroad ambitions widen, but information gap holds back demand",
-        "url": "https://thepienews.com/brazils-study-abroad-ambitions-widen-but-information-gap-holds-back-demand/",
-        "summary": "Growing interest in Europe, expanding bilingual schooling and demand for shorter overseas experiences are reshaping Brazil’s outbound student market, according to speakers preparing for The PIE High Brazil. The post Brazil’s study abroad ambitions widen, but information gap holds back demand appeared first on The PIE News .",
-        "source": "The PIE News",
-        "published": "2026-10-29T17:34:14+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
-        "summary": "Add textbooks from OpenStax and S Chand to Google Gemini Notebook. Generate custom study guides and quizzes now. See the available catalog.",
-        "source": "Google — The Keyword Blog",
-        "published": "2026-10-29T16:00:00+00:00",
-        "stream": "edtech",
-        "streams": [
-          "edtech"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
-        "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/",
-        "summary": "Students at the Google Colorado Impact Hackathon built AI tools like SolarSnap to modernize the energy grid. See the winning innovations here.",
-        "source": "Google — The Keyword Blog",
-        "published": "2026-10-29T16:00:00+00:00",
-        "stream": "edtech",
-        "streams": [
-          "edtech"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Mozilla Foundation Fellowships 2027-2028 (up to $125,000)",
-        "url": "https://opportunitydesk.org/2026/10/29/mozilla-foundation-fellowships-2027-2028/",
-        "summary": "Deadline: December 17, 2026 Applications are open for the Mozilla Foundation Fellowships 2027-2028. Mozilla Foundation will award 10 Fellowships for the 2027–2028 period. They are looking for extraordinary individuals working at the edges of human imagination, on technology that’s too early, too unexpected, or too ambitious for anyone else to fund. Fellows are builders first, [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-10-29T14:04:12+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Effect of nutrition counseling on complementary feeding practices among mothers with children aged 6–23 months in West Gojjam Zone, Northwest Ethiopia: A cluster-randomized controlled trial",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361976",
-        "summary": "by Shiferaw Birhanu, Getu Degu Alene, Yeshalem Mulugeta Demilew Background Appropriate complementary feeding is essential for children’s growth and cognitive development. However, these practices remain inadequate in the study area. Therefore, this study aimed to evaluate the effect of nutrition counseling on complementary feeding practices among mothers with children aged 6–23 months in West Gojjam Zone, Northwest Ethiopia. Methods A two-arm, parallel, cluster-randomized controlled trial was conducted from June 2023 to December 2024 in rural districts of West Gojjam Zone. Thirty clusters (15 ",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Interpretable EOG-based gaze classification using tree-based models: A SHAP and LIME analysis",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361971",
-        "summary": "by Ayse Nur Ay Gul Electrooculography (EOG) is a low-cost biosignal modality for gaze-based human–computer interaction, but reliable validation and model interpretability remain important challenges for machine learning-based gaze classification. This study proposes an explainable EOG gaze classification framework using UNIOVI-EOG dataset. Horizontal and vertical EOG recordings from nine participants were converted into 100 ms non-overlapping windows, and only stable windows with at least 90% label purity were retained. Time-domain window features were extracted and evaluated using Decision Tr",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Factors associated with choosing diagnostic radiology as a future specialty among Palestinian medical students: a multicenter cross-sectional study",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361927",
-        "summary": "by Ibrahim Ammar AbuAttallah, Jana A. Qrareya, Reem S. Adawi, Jehad Khamaysa, Mahdi Thabet Aljamal Background Understanding factors influencing specialty choice is essential for workforce planning and curriculum development. Recruitment into diagnostic radiology remains challenging in several regions, particularly in low- and middle-income settings. This study aimed to identify factors associated with Palestinian medical students’ consideration of diagnostic radiology as a future specialty, with particular emphasis on educational exposure, perceptions of artificial intelligence (AI), and cogni",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Reported clinical breast examination activity in Bangladesh, 2019–2025: Temporal trends, geographic variation, positivity, and reporting completeness",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361910",
-        "summary": "by Sourov Das, Simran Patra, Shubham Om, Sushmita Kundu Background Routine clinical breast examination (CBE) services contribute to breast cancer early-detection activities in Bangladesh, but national program performance and reporting completeness are poorly characterized. We assessed reported CBE activity, geographic variation, positivity, reporting completeness, and temporal trends from 2019 through 2025. Methods We retrospectively analyzed routine CBE program data from 1,209 location-specific eligible facilities across Bangladesh from January 2019 through December 2025. Because individual-l",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Explainable machine learning framework with Granger-based temporal predictive validation for monitoring fiscal risk in national health insurance expenditure",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361904",
-        "summary": "by Gwangsu Lee Rising health insurance expenditure (HIE) poses fiscal risks and challenges to the sustainability of public insurance systems. Despite growing interest in data-driven analysis, empirical evidence on the associations between macroeconomic, social, and financial conditions and national HIE remains limited, particularly across provider types. This study introduces an explainable machine-learning framework with temporal predictive validation to analyze and forecast HIE using 60 macro-financial and socioeconomic indicators. The framework is applied to three monthly expenditure series",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Field study on compaction effect and energy evolution characteristics of highway subgrade under low-amplitude vibration",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361901",
-        "summary": "by Xiaobo Liu, Ping Xie, Wubin Wang Subgrade compaction is a critical procedure in highway construction. To elucidate the dynamic characteristics and energy transfer mechanisms throughout the entire compaction process, this study utilized four test lanes to conduct field experiments on highway subgrade under varying numbers of rolling passes. Comprehensive measurements and analyses were performed regarding the dynamic characteristics of vibration waves, energy distribution, and the evolution of soil compactness during operation. Furthermore, the compaction efficiency and energy transfer within",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Changes in ware–decoration associations in ceramic assemblages from Wacheqsa, Chavín de Huántar, Peru",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361889",
-        "summary": "by Christian Mesía-Montenegro Ceramic differentiation can involve altered associations among continuing attributes without wholesale categorical replacement. At Wacheqsa, Chavín de Huántar, Peru, this study compares ware composition, decorative techniques, and their associations in 1,308 decorated or surface-treated sherd observations from five archaeological contexts. Early Platforms and Water Flood constitute the earlier Urabarroid aggregate; Stone Rooms, Midden, and Late Platforms constitute the later Janabarroid aggregate. These labels describe ceramic affinities within pre-existing contex",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Gynecological malignancy signal triage: A two-dimensional framework integrating US-derived FAERS data with comparative US–China GBD trajectories",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361817",
-        "summary": "by Ying Ma, Dandan Li, Jieru Duan, Zhuowen Sun, Qirong Dou, Tao Wu, Na Gao Background Cancer-related adverse-event reports are difficult to interpret because statistical disproportionality, stimulated reporting, and background disease burden are distinct phenomena. To address this, we formalized a two-dimensional prioritization framework that combines FAERS signal credibility with independent GBD burden context. Because the FAERS dataset is overwhelmingly of US origin, we utilized China exclusively as a prespecified macro-epidemiological GBD comparator, strictly avoiding cross-national pharmac",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Soil texture and depth differentially regulate total and available nutrient stoichiometry in Yilong Lake basin agroecosystem, China",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361813",
-        "summary": "by Yongru Lai, Luoqi Zhao, Chenyang Zhang, Zijun Du, Yandan Wang, Tianyi Pu, Change Liu, Changqun Duan The stoichiometric ratios of soil available nutrients serve as a pivotal indicator for assessing the sustainability of farmland and nutrient cycling efficiency within fragile ecosystems. Soil texture and depth are significant factors influencing nutrient availability, however, their regulatory mechanisms within highland lakeshore agricultural systems remain poorly understood. This study, conducted in the Yilong Lake watershed of the low-latitude plateau in southwest China, collected 216 soil ",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Genomic dissection of environmental responsiveness and cross-environment productivity in fenugreek",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361774",
-        "summary": "by Maha Aljabri, Mustafa M. H. Abd El-Wahab, Amani Mahmoud Dobeie, Mohamed El-Soda Dissecting the genetic basis of genotype × environment interaction (G × E) is important for breeding crops with stable or responsive performance across production environments. Using previously published seed-yield data from 107 Egyptian fenugreek accessions evaluated under two contrasting field environments, we investigated whether yield potential and environmental responsiveness share a common genetic basis. Seed yield per plant was measured in Giza (SYP_G; reference environment) and Wadi El-Natrun (SYP_W; con",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Lethal and sublethal influence of triflumezopyrim on life history traits and enzyme activities in the bean bug, Riptortus pedestris (Hemiptera: Alydidae)",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361771",
-        "summary": "by Gefan Tian, Jianglong Guo, Jingjie An, He Yuan, Zhixu Hu, Yaofa Li, Zhanlin Gao Riptortus pedestris (Fab.) is an important soybean pest in East Asia, where its piercing-sucking feeding behavior leads to soybean syndrome. Triflumezopyrim, a novel mesoionic insecticide, has been widely applied to control sap-sucking insects. However, its lethal and sublethal impacts on R. pedestris remain poorly understood. This study investigated the lethal and sublethal effects of triflumezopyrim on R. pedestris using bioassays, age-stage two-sex life table analyses, and enzyme activity measurements. Result",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Study on the association between the low-density lipoprotein to high-density lipoprotein ratio and clinicopathological characteristics of breast cancer: A retrospective analysis incorporating subgroup evaluations by age, body mass index, and menopausal status",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361764",
-        "summary": "by Lei Dong, Can Liu, Lixin Li, Xiaotong Zhang, Wei Xu, Gaosai Dai Breast cancer (BC) represents the most prevalent malignant tumor among women globally, with its pronounced heterogeneity presenting significant challenges for precision diagnosis and treatment. Aberrant lipid metabolism, particularly the ratio of low-density lipoprotein to high-density lipoprotein (LHR), has garnered considerable interest in relation to BC development and progression. Nevertheless, the association between LHR and clinicopathological characteristics remains inadequately explored. To address this gap, the present",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Loss of cohesin deacetylation through KDAC8 inactivation leads to altered cohesin complex expression and chromosomal instability",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361705",
-        "summary": "by Tasha B. Toro, Razan H. Hammad, Thomas M. Huckaba, Terry J. Watt The cohesin complex is critical for both proper gene expression and for pairing sister chromatids during mitosis to ensure proper chromosome segregation. Acetylation and deacetylation of SMC3, a component of cohesin, is a critical regulatory mechanism controlling stability and reformation of the complex. Patients with Cornelia de Lange Syndrome have been observed to have mutations in cohesin-related genes, including in the lysine deacetylase KDAC8 (HDAC8), leading to disruption of complex formation and recycling. To further un",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-10-29T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
       }
     ],
     "south_asia": [
@@ -6369,7 +6407,7 @@
         "url": "https://kathmandupost.com/national/2026/10/29/nepal-reserves-a-third-of-medical-seats-for-foreign-students-but-few-enrol",
         "summary": "Nepal reserves 33 percent of medical education seats for foreign students, but only 746 enrolled last year.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-30T17:36:17.296600+00:00",
+        "published": "2026-10-30T21:50:22.332908+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6381,31 +6419,7 @@
         "url": "https://kathmandupost.com/national/2026/10/30/home-ministry-suspends-private-schools-association",
         "summary": "The ministry says N-PABSON repeatedly ignored government directives and its office-bearers acted against its approved statute and founding objectives.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-10-30T17:36:17.295864+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "Jamia student protest: Why is the Lyngdoh Committee report significant? | Explained",
-        "url": "https://www.thehindu.com/news/national/jamia-student-protest-why-is-the-lyngdoh-committee-report-significant-explained/article71640045.ece",
-        "summary": "The Committee, headed by former CEC J.M. Lyngdoh, issued the report dated May 23, 2006; it felt that party-linked student organisations politicise campus elections and split students into rival factions",
-        "source": "The Hindu — Education",
-        "published": "2026-10-30T09:15:10+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "What needs to change after SC ruling on children’s right to access Internet",
-        "url": "https://www.thehindu.com/education/what-needs-to-change-after-sc-ruling-on-childrens-right-to-access-internet/article71639408.ece",
-        "summary": "The ambition should not be to build a smaller Internet for children. It should be to raise children capable of navigating a larger one — while building technology worthy of their trust.",
-        "source": "The Hindu — Education",
-        "published": "2026-10-30T08:24:04+00:00",
+        "published": "2026-10-30T21:50:22.332333+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6461,6 +6475,18 @@
         "region": "south_asia"
       },
       {
+        "title": "Jamia student protest: Why is the Lyngdoh Committee report significant? | Explained",
+        "url": "https://www.thehindu.com/news/national/jamia-student-protest-why-is-the-lyngdoh-committee-report-significant-explained/article71640045.ece",
+        "summary": "The Committee, headed by former CEC J.M. Lyngdoh, issued the report dated May 23, 2006; it felt that party-linked student organisations politicise campus elections and split students into rival factions",
+        "source": "The Hindu — Education",
+        "published": "2026-10-29T11:22:23+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
         "title": "Senior Program Associate – Livelihoods",
         "url": "https://www.pratham.org/2026/10/29/senior-program-associate-livelihoods/?utm_source=rss&utm_medium=rss&utm_campaign=senior-program-associate-livelihoods",
         "summary": "About Pratham Pratham Education Foundation (Pratham) is one of the largest education NGOs in India with a record of innovative, rigorously evaluated programs that have inspired similar programs across three continents. With a history spanning 30 years, Pratham’s work today extends from programs for early and elementary years to girls and women, and youth skilling.…",
@@ -6469,6 +6495,18 @@
         "stream": "foundational",
         "streams": [
           "foundational"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "What needs to change after SC ruling on children’s right to access Internet",
+        "url": "https://www.thehindu.com/education/what-needs-to-change-after-sc-ruling-on-childrens-right-to-access-internet/article71639408.ece",
+        "summary": "One child may know how to verify information, recognise manipulation, protect personal information, and seek help. Another may experience it largely through algorithmically selected feeds, persuasive interfaces and misinformation.",
+        "source": "The Hindu — Education",
+        "published": "2026-10-29T09:09:09+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
         ],
         "region": "south_asia"
       },
@@ -7528,6 +7566,54 @@
     ],
     "east_asia": [
       {
+        "title": "The flaw in Australia’s ‘China threat’ thesis",
+        "url": "https://www.scmp.com/opinion/asia-opinion/article/3372519/flaw-australias-china-threat-thesis",
+        "summary": "Australia’s preparations for a possible conflict with China reflect “a relatively superficial understanding”, argues prominent economist John Edwards. Europe, Canada, Indonesia, Malaysia and India, he notes, are not preparing for such a conflict. Why should Australia? Edwards, a former senior economic adviser to former Labor prime minister Paul Keating, makes the observation in a Lowy Institute paper released in October and in a newspaper interview. Instead, he sees US-China rivalry as a...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-30T21:30:08+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Russia’s top independent newspaper Novaya Gazeta shuts under Kremlin pressure",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372798/russias-top-independent-newspaper-novaya-gazeta-shuts-under-kremlin-pressure",
+        "summary": "Russia’s flagship independent newspaper Novaya Gazeta announced on Friday it was closing, saying it had been “killed” by state pressure after years of repression targeting its journalists whose reporting was critical of the Kremlin and its Ukraine war. The closure of Novaya Gazeta – one of the last outlets to openly criticise Russia’s offensive – marks the latest outcome of Moscow’s campaign against dissenting voices, which intensified after the Kremlin sent troops into its neighbour in...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-30T21:03:58+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Can Connie Chan become San Francisco’s first Asian-American in Congress?",
+        "url": "https://www.scmp.com/news/us/us-elections/article/3372796/can-connie-chan-become-san-franciscos-first-asian-american-congress",
+        "summary": "On a recent warm Thursday evening, supporters drift into San Francisco’s United Irish Cultural Centre to hear Connie Chan, who is running for California’s 11th congressional district. Born in Hong Kong, Chan attended elementary school in Taiwan before immigrating to the United States at 13. Now a San Francisco supervisor, she hopes to succeed long-time Democratic powerhouse Nancy Pelosi, who announced her retirement and endorsed her. The 48-year-old politician would be the first Asian-American...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-30T19:57:48+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Carney eyes June deal on making Canada the EU’s first associate member",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3372794/carney-expects-conclude-talks-making-canada-eus-first-associate-member-june",
+        "summary": "Canadian Prime Minister Mark Carney said on Friday he expects to conclude negotiations with the European Union in June on an unprecedented partnership that would make Canada the bloc’s first “associate member”, even though the designation was left out of a joint declaration launching a new economic and security alliance. Carney said he would attend a meeting of European leaders in June to conclude negotiations on the proposed relationship, which would stop short of full EU membership. “In...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-10-30T18:32:16+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
         "title": "How a Democratic-controlled Congress could reshape US policy on China",
         "url": "https://www.scmp.com/news/us/politics/article/3372791/how-democratic-controlled-congress-could-reshape-us-policy-china",
         "summary": "A Democratic takeover of either chamber of the US Congress could bring tougher scrutiny of President Donald Trump’s dealings with Beijing, even as lawmakers are likely to maintain a broadly hawkish stance towards China, analysts said. A change in control could shift the emphasis of congressional oversight, with the Democratic Party seeking greater accountability for the administration’s China policy after Trump’s Republican Party largely gave him room to manoeuvre, said Sarah Trister, a former...",
@@ -7958,54 +8044,6 @@
           "higher"
         ],
         "region": "east_asia"
-      },
-      {
-        "title": "France network outage puts Nokia under scrutiny as EU pushes to phase out Huawei, ZTE gear",
-        "url": "https://www.scmp.com/economy/global-economy/article/3372699/france-network-outage-puts-nokia-under-scrutiny-eu-pushes-phase-out-huawei-zte-gear",
-        "summary": "A mobile network outage in France this week has raised questions about the reliability of Finnish telecoms giant Nokia’s products against the backdrop of continued European Union efforts to phase out Chinese suppliers Huawei Technologies and ZTE over security concerns. The problem first hit the network of France’s biggest telecoms provider Orange at 11.37am on Monday and lasted until 8.30pm, resulting in outages of up to nine hours for some customers, Orange France CEO Jerome Henique told French...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-30T07:00:47+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Australian PM to visit Beijing after China-hosted Apec summit as tensions simmer",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3372671/australian-pm-visit-beijing-after-china-hosted-apec-summit-tensions-simmer",
-        "summary": "Australian Prime Minister Anthony Albanese is expected to travel to Beijing next month as Canberra seeks to deepen a relationship that has stabilised after years of trade disputes but is still being complicated by geopolitical tensions. Sources told the South China Morning Post that Albanese would first visit southern China’s Shenzhen for the November 18-19 Apec leaders’ summit before travelling to the capital. US President Donald Trump and Russia’s Vladimir Putin are among the other...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-30T07:00:12+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Indonesia’s wildfire smoke crisis claims over 3,500 lives in September",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372692/indonesias-wildfire-smoke-crisis-claims-over-3500-lives-september",
-        "summary": "Pollution from smoke emitted by months of wildfires across Indonesia caused an estimated 3,560 deaths in the vast Southeast Asian archipelago in September, according to a new study. The same month, about 57.8 million people in Indonesia were inhaling unhealthy to hazardous air, said the Centre for Research on Energy and Clean Air (CREA), a Helsinki-based think tank. “Worsening air quality due to forest and land fires in Indonesia pushed the estimated death toll to 3,560 cases in September 2026,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-30T06:35:12+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "How China uses gut microbes to treat a range of diseases",
-        "url": "https://www.scmp.com/plus/news/china/science/article/3372678/how-china-uses-gut-microbes-treat-range-diseases",
-        "summary": "Modern medicine has spent the past few decades rediscovering the connection between a healthy gut and a healthy mind and body, something traditional Chinese medicine (TCM) practitioners have understood for many hundreds of years. In China and around the world, doctors and scientists trained in Western medicine have learned the importance of maintaining a balance between “good” and “bad” bacteria in the human microbiome – the scientific name for the collection of microorganisms in the gut – and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-10-30T06:32:28+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
       }
     ],
     "europe": [
@@ -8030,6 +8068,18 @@
         "stream": "tvet",
         "streams": [
           "tvet"
+        ],
+        "region": "europe"
+      },
+      {
+        "title": "Cutting-Edge Issues in Development – Age of Security: The rise of a global obsession",
+        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/10/30/cutting-edge-issues-in-development-age-of-security/",
+        "summary": "On Friday 16 October, the Cutting-Edge Issues in Development Thinking and Practice 2026/27 series continued with a lecture by Professor Ruben Andersson on his new book ‘Age of Security: The rise of a global obsession’. Professor David Keen, LSE ID, joined as discussant, and the event was chaired by Dr Myfanwy James. Below, MSc students … Continued The post Cutting-Edge Issues in Development – Age of Security: The rise of a global obsession first appeared on LSE International Development .",
+        "source": "LSE International Development Blog",
+        "published": "2026-10-30T11:22:08+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
         ],
         "region": "europe"
       },
@@ -8406,18 +8456,6 @@
         "region": "europe"
       },
       {
-        "title": "The Belém Gender Action Plan puts women at the centre of climate action, now it needs to deliver",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/09/29/the-belem-gender-action-plan-puts-women-at-the-centre-of-climate-action-now-it-needs-to-deliver/",
-        "summary": "MSc candidate Amanda Costa explores how the Belém Gender Action Plan became one of the most significant gender commitments in the history of UN climate negotiations. While the agreement promises to strengthen women’s participation across climate decision-making, finance and implementation, she argues that its success will ultimately depend on whether it delivers meaningful change for … Continued The post The Belém Gender Action Plan puts women at the centre of climate action, now it needs to deliver first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-09-29T10:51:42+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "europe"
-      },
-      {
         "title": "Book review: Emancipation and vocational education: Skills, Bildung and the subject",
         "url": "https://njvet.ep.liu.se/article/view/6719",
         "summary": "Book review Emancipation and vocational education: Skills, Bildung and the subject Bill Esmond, Johannes K. Schmees & Volker Wedekind Routledge, 2026 (https://doi.org/10.4324/9781003608141) Review by Eli Smeplass",
@@ -8480,11 +8518,35 @@
     ],
     "north_america": [
       {
+        "title": "Lawsuit Accuses Education Dept. of Throttling Debt Cancellation Through PSLF Program",
+        "url": "https://www.nytimes.com/2026/10/30/business/pslf-education-department-lawsuit.html",
+        "summary": "Public servants on the brink of student debt forgiveness are facing setbacks and extensive delays. The American Federation of Teachers sued to help them.",
+        "source": "New York Times — Education",
+        "published": "2026-10-30T20:09:36+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Rural Mississippi Communities Push Back on School Consolidation Efforts",
+        "url": "https://www.the74million.org/article/rural-communities-push-back-on-school-consolidation-efforts-theyre-just-looking-at-numbers-on-the-paper/",
+        "summary": "Mississippi has lost thousands of public school students over the past decade, leaving fewer children enrolled in the state’s 138 school districts and less money to go around. State leaders think they’ve found a solution: School consolidation. House Speaker Jason White has formed a select committee to examine how merging districts in Mississippi could benefit […]",
+        "source": "The 74 Million",
+        "published": "2026-10-30T18:30:00+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "north_america"
+      },
+      {
         "title": "Female Student Sues for Gender Discrimination After Losing Male Lead Role in Play",
         "url": "https://www.nytimes.com/2026/10/30/theater/little-shop-of-horrors-texas-lawsuit-title-ix.html",
         "summary": "Texas officials feared the casting in “Little Shop of Horrors” violated a state law limiting diversity efforts. The student has sued for gender discrimination.",
         "source": "New York Times — Education",
-        "published": "2026-10-30T17:25:18+00:00",
+        "published": "2026-10-30T17:41:23+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8784,18 +8846,6 @@
         "region": "north_america"
       },
       {
-        "title": "Cornell Faculty Senate Moves Ahead With No-Confidence Vote Over Handling of Rape Case",
-        "url": "https://www.nytimes.com/2026/10/28/nyregion/cornell-faculty-no-confidence-vote.html",
-        "summary": "After fierce debate, faculty members will begin voting Thursday on a resolution to condemn the administration’s handling of campus sexual assault.",
-        "source": "New York Times — Education",
-        "published": "2026-10-29T10:40:00+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
         "title": "Democrats Want the Governors’ Mansions. Can They Change the Schools?",
         "url": "https://www.the74million.org/article/democrats-want-the-governors-mansions-can-they-change-the-schools/",
         "summary": "With less than a week until most Americans cast their ballots, political observers are increasingly of the belief that a new majority will be made on Election Night. Not just in Washington, where a blue wave is projected to crash over the U.S. House and, possibly, the Senate. Besides those coveted prizes, over half of […]",
@@ -8949,18 +8999,6 @@
         "stream": "foundational",
         "streams": [
           "foundational"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "How Teachers Are Turning the Midterms Into a Nonpartisan Civics Lesson",
-        "url": "https://www.edsurge.com/news/how-teachers-are-turning-the-midterms-into-a-nonpartisan-civics-lesson",
-        "summary": "A new survey finds young people doubt elected officials are listening, yet more plan to vote than in 2024.",
-        "source": "EdSurge",
-        "published": "2026-10-28T00:00:00+00:00",
-        "stream": "edtech",
-        "streams": [
-          "edtech"
         ],
         "region": "north_america"
       }
