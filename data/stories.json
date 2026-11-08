@@ -2,6 +2,18 @@
   "streams": {
     "foundational": [
       {
+        "title": "52% of Hong Kong’s underprivileged children spend over 2 hours a day on devices",
+        "url": "https://www.scmp.com/news/hong-kong/education/article/3373686/52-hong-kongs-underprivileged-children-spend-over-2-hours-day-devices",
+        "summary": "More than half of Hong Kong’s underprivileged children spend over two hours a day on electronic devices, often turning to screens for cheap entertainment despite problems with their eyesight, attention, sleep and addiction, a survey has found. The Society for Community Organisation (SoCO), which released the findings on Sunday, urged authorities to keep students on campus for longer, introduce full-day kindergartens and subsidise more extracurricular activities for underprivileged pupils. Wong...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T08:19:22+00:00",
+        "region": "east_asia",
+        "streams": [
+          "foundational"
+        ],
+        "stream": "foundational"
+      },
+      {
         "title": "Building the Plumbing for Impact: CIFF at AVPN Global Conference 2026",
         "url": "https://ciff.org/building-the-plumbing-for-impact-ciff-at-avpn-global-conference-2026/",
         "summary": "How we help shift capital and commitment toward the outcomes that matter most? The post Building the Plumbing for Impact: CIFF at AVPN Global Conference 2026 appeared first on CIFF .",
@@ -308,6 +320,31 @@
     ],
     "school": [
       {
+        "title": "'Misplaced over-smartness': Maryam removes Jhelum DC over exam postponement for her visit",
+        "url": "https://www.dawn.com/news/2043049/misplaced-over-smartness-maryam-removes-jhelum-dc-over-exam-postponement-for-her-visit",
+        "summary": "Punjab Chief Minister Maryam Nawaz removed the Jhelum deputy commissioner (DC) from his post on Sunday, after it emerged that computer science papers for intermediate students in the district had been postponed in the district owing to arrangements for the provincial chief executive’s scheduled visit on Nov 10. Originally scheduled for Nov 10, the computer science papers for the Intermediate Second Annual Examinations 2026 had been deferred on the recommendation of the now-dismissed Jhelum DC, Mir Raza Ozgen. He wrote in a letter to the Rawalpindi Board of Intermediate and Secondary Education ",
+        "source": "Dawn — Pakistan",
+        "published": "2026-11-08T12:04:21+00:00",
+        "region": "south_asia",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
+        "title": "Secretary of Education Says Virginia Will ‘Move the Achievement Needle Forward’",
+        "url": "https://www.the74million.org/article/secretary-of-education-says-virginia-will-move-the-achievement-needle-forward/",
+        "summary": "Gov. Abigail Spanberger’s administration is focused on early education and college and career readiness, two of several academic priorities ahead of the state’s next legislative session. Starting in January, the executive branch and lawmakers are expected to discuss a slate of K-12 topics, including school technology, expanding career and technical education and preparing children under […]",
+        "source": "The 74 Million",
+        "published": "2026-11-08T11:30:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "tvet",
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
         "title": "In China’s fierce race for success, mental health struggles are starting earlier",
         "url": "https://www.scmp.com/news/china/politics/article/3373644/chinas-fierce-race-success-mental-health-struggles-are-starting-earlier",
         "summary": "Moon Chen stared down at her textbook, struggling to make sense of the words on the page. The 15-year-old felt a suffocating weight press into her chest, while her heart fluttered erratically. Chen’s mother rushed her to a cardiologist – only to be told that she should see a psychiatrist instead. Chen, now in higher secondary school in the southwestern Chinese city of Chongqing, vividly recalls the period before she was diagnosed with depression and anxiety. At the time, she did not know that...",
@@ -338,18 +375,6 @@
         "source": "The 74 Million",
         "published": "2026-11-07T11:30:00+00:00",
         "region": "north_america",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "How North Korea turns child prodigies into crypto thieves",
-        "url": "https://www.scmp.com/news/asia/east-asia/article/3373627/how-north-korea-turns-child-prodigies-crypto-thieves",
-        "summary": "North Korea rewards ⁠its top hackers, tasked with heists like the Binance crypto hack that netted a cool US$6.3 ⁠billion, with perks such as spacious apartments in the capital and huge hard currency awards in return for ⁠gruelling hours of work. Leader Kim Jong-un has assembled an army of world-class hackers using such incentives in a programme more than a decade old that picks 200 of the smartest middle school students each year to study computer engineering, defectors and analysts say. A...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T03:01:34+00:00",
-        "region": "east_asia",
         "streams": [
           "school"
         ],
@@ -661,18 +686,6 @@
         "summary": "An effort to diversify the elite Hunter College High School comes amid a larger reckoning over continued segregation in the city’s public schools.",
         "source": "New York Times — Education",
         "published": "2026-11-02T21:34:09+00:00",
-        "region": "north_america",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "Opinion: For Children in Foster Care, School Should Be a Source of Stability, Not a Loss",
-        "url": "https://www.the74million.org/article/for-children-in-foster-care-school-should-be-a-source-of-stability-not-a-loss/",
-        "summary": "Imagine being told you must leave your home tonight. Then imagine learning that you may also have to leave your school, your friends, your favorite teacher and the one place where life still feels familiar. For a child entering foster care, a change of address can become a cascade of losses. School should not have […]",
-        "source": "The 74 Million",
-        "published": "2026-11-02T19:30:00+00:00",
         "region": "north_america",
         "streams": [
           "school"
@@ -1124,6 +1137,270 @@
     ],
     "higher": [
       {
+        "title": "China eyes gig workers and influencers as delegates for Communist Party congress",
+        "url": "https://www.scmp.com/news/china/politics/article/3373702/china-eyes-gig-workers-and-influencers-delegates-communist-party-congress",
+        "summary": "For the first time, delivery couriers, ride-hailing drivers and influencers could become delegates to the Communist Party’s five-yearly national congress, as Beijing seeks to keep the group close to the official ideology. Guidelines on selecting delegates for the meeting, to be held in the second half of next year, were issued on Saturday. The 21st party congress is expected to bring together 2,360 delegates, according to Xinhua. They will vote to elect more than 300 full and alternate members...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T12:30:19+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "China’s focus on getting its house in order offers lessons in governance",
+        "url": "https://www.scmp.com/opinion/china-opinion/article/3373416/chinas-focus-getting-its-house-order-offers-lessons-governance",
+        "summary": "The Communist Party’s call for “self-revolution” may be rooted in the pursuit of internal discipline, but its implications extend well beyond China. As the global order faces mounting challenges, Beijing’s emphasis on internal renewal raises a fundamental question: can countries hope to contribute to global stability without first putting their own houses in order? China’s fifth plenum placed considerable emphasis on combating corruption. Beijing has relentlessly pursued its campaign against...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T12:30:11+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Chinese engineers reduce cargo ship fuel use by 5% with high-speed torpedo tech",
+        "url": "https://www.scmp.com/news/china/science/article/3373333/chinese-engineers-reduce-cargo-ship-fuel-use-5-high-speed-torpedo-tech",
+        "summary": "Supercavitating torpedoes can reach extreme underwater speeds by travelling inside a gas-filled cavity that sharply reduces their contact with water. Beyond torpedoes, supercavitating projectiles can streak through the water at blistering speeds to intercept naval mines, incoming torpedoes and unmanned underwater vehicles, and even combat divers. Now, Chinese engineers are applying a related drag-reduction principle to commercial shipping, with a bubble-lubrication system cutting net energy...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T12:00:25+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Saudi Aramco building in Riyadh damaged in attempted attack",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3373700/saudi-aramco-building-riyadh-damaged-attempted-attack",
+        "summary": "An ⁠administrative building belonging to state ⁠oil giant Saudi Aramco in ⁠Riyadh was damaged by falling debris following an attempted attack on Sunday, with no injuries or fatalities reported, the kingdom’s Energy Ministry said. A Reuters witness saw blown-out windows across several floors of the Aramco Tower, one of the tallest buildings in the capital’s King Abdullah ‌Financial District. The incident, which the ministry said caused limited damage, came after the Saudi-led coalition said it...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T11:34:24+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "‘Can’t be inaccurate’: how 2 tiny robot arms could halve digestive cancer surgery time",
+        "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3373668/cant-be-inaccurate-how-two-tiny-robot-arms-could-halve-digestive-cancer-surgery-time",
+        "summary": "In the final instalment of a four-part Health Matters wellness series on frontier medicine in Hong Kong, Elizabeth Cheung examines a dual-arm surgical robot that could remove gastrointestinal tumours in about half the usual time, and the hurdles between its first human trials and wider patient access. Ho Man-wai underwent a colonoscopy in late August, during which doctors identified three polyps that needed to be removed before they could develop into cancer. Two were removed during the initial...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T11:00:27+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "AI will soon master biology, unleashing new safety risks, Tencent AI chief warns",
+        "url": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns",
+        "summary": "Artificial intelligence models will soon be powerful enough to master biology, presenting both benefits and serious risks, Tencent Holdings’ chief AI scientist and former OpenAI star researcher Vinces Yao Shunyu said during a rare public appearance on Saturday. The assessment comes as frontier AI systems are increasingly being applied to medicine and biology, which could accelerate discovery of new drugs and other treatments. However, experts also warn that malicious actors could use AI to...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T10:22:27+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Chinese dad whose daughter died in crash visits junction daily to catch traffic violators",
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373688/chinese-dad-whose-daughter-died-crash-visits-junction-daily-catch-traffic-violators",
+        "summary": "A grieving father in southeastern China became a citizen watchdog after a collision killed his nine-year-old daughter. On August 1, Wu Zhisheng’s wife was riding an electric bike with their two young daughters through an intersection in Jiangxi province when a turning tipper truck struck them. Their elder daughter, Zijin, died at the scene, while her mother and five-year-old sister were injured. When Wu rushed to the scene, he found the driver standing beside the vehicle in flip-flops. Nearby,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T10:00:37+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Plugged in, not locked in: middle powers navigate US-China AI rivalry",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3373682/plugged-not-locked-middle-powers-navigate-us-china-ai-rivalry",
+        "summary": "Middle powers navigating the US-China competition in artificial intelligence (AI) favour flexible partnerships over closed alliances, demanding a “plugged in, not locked in” approach, an AI governance panel heard on Saturday. Alejandro Reyes, adjunct professor in the department of politics and public administration at the University of Hong Kong, said that middle powers were exercising agency in the AI era, selectively partnering with both Beijing and Washington “issue by issue” rather than...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T09:09:21+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "China’s Pudu Robotics, which makes 80% of its sales abroad, takes on Tesla in humanoids",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3373641/chinas-pudu-robotics-which-makes-80-its-sales-abroad-takes-tesla-humanoids",
+        "summary": "Humanoid robots represent the next frontier for Pudu Robotics, according to founder and CEO Felix Zhang Tao, as the global commercial robotics leader takes on Elon Musk’s Tesla in the growing sector and explores manufacturing in Europe, its largest overseas market. “It’s definitely a competitor, but a long-term one,” Zhang told the South China Morning Post in a recent interview, adding that Tesla was a “very good” rival whose high profile had driven innovation and broadened market awareness in...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T09:00:28+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Victory, Sovereignty and the Power of National Memory: Why Azerbaijan’s November Celebrations Matter",
+        "url": "https://www.ednews.africa/p/victory-sovereignty-and-the-power",
+        "summary": "Together, these occasions embody a story of resilience, perseverance and the determination of a people who refused to abandon their claim to territorial integrity and self-determination.",
+        "source": "EdNews Africa",
+        "published": "2026-11-08T08:25:27+00:00",
+        "region": "east_africa",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Winter’s knocking? Cold front to slash Hong Kong temperatures to 16 degrees",
+        "url": "https://www.scmp.com/weather/hong-kong/article/3373687/winters-knocking-cold-front-slash-hong-kong-temperatures-16-degrees",
+        "summary": "Temperatures in Hong Kong are forecast to plunge to as low as 16 degrees Celsius (61 Fahrenheit) on Tuesday, a further drop from an earlier prediction, as a cold front is expected to hit the city early this week. The Hong Kong Observatory on Sunday revised its forecast for the coming week, saying it expected an intense northeast monsoon to bring cool, very dry weather to the city. An earlier forecast had put this week’s lowest temperature at 18 degrees. “A cold front will move across the coast...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T08:23:24+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "3 hikers injured after being hit by landing paraglider in Hong Kong country park",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3373685/3-hikers-injured-after-being-hit-landing-paraglider-hong-kong-country-park",
+        "summary": "Three hikers have been injured in Hong Kong after being hit by a paraglider landing at the Ngong Ping campsite in Ma On Shan Country Park. Police received a report at 12.36pm on Sunday that three people, including two teenagers, had been injured at the campsite after being hit by a landing paraglider. The Government Flying Service deployed a helicopter to transport the trio to Ruttonjee Hospital in Wan Chai for treatment. A 42-year-old woman, surnamed Zheng, sustained a head injury while her...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T08:18:35+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "India questions US ‘double standards’ as Pakistan secures F-16 upgrade deal",
+        "url": "https://www.scmp.com/week-asia/politics/article/3373584/india-questions-us-double-standards-pakistan-secures-f-16-upgrade-deal",
+        "summary": "Washington’s decision to upgrade Pakistan’s F-16 fighter jets has drawn accusations of double standards from critics in India, who question why the United States is strengthening a nuclear-armed ally while waging war against Iran over its nuclear programme. Although the US$686 million military modernisation package does not include nuclear weapons, analysts say that improvements to the fighter jets’ navigation, communications and survivability could boost Pakistan’s existing nuclear strike...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T08:00:36+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Demerit system for contractors ‘not ruled out’, Hong Kong development chief says",
+        "url": "https://www.scmp.com/news/hong-kong/article/3373683/demerit-system-contractors-not-ruled-out-hong-kong-development-chief-says",
+        "summary": "Hong Kong authorities have not ruled out introducing a demerit points system for contractors, the development chief has said, after an independent inquiry into last year’s deadly Tai Po fire identified unscrupulous consultants and building professionals as the main culprits of the tragedy. Secretary for Development Bernadette Linn Hon-ho said on Sunday that the government was also considering introducing new conditions for homeowners who applied for its building maintenance subsidy scheme,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T07:18:22+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Will Democrats sway ‘unshackled’ Trump’s Russia-Ukraine stance after midterm rout?",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3373681/will-democrats-sway-unshackled-trumps-russia-ukraine-stance-after-midterm-rout",
+        "summary": "The Republicans’ defeat in the US midterm elections was watched closely in Russia, where some observers are predicting it could herald more support for Ukraine when the Democrats take over Congress in January. But if the Kremlin is hearing the ticking of a clock on its nearly five-year-old full-scale invasion of its neighbour, it seemingly remains unperturbed. Asked if the election’s outcome could stymie US attempts to help negotiate a settlement between Moscow and Kyiv, Kremlin spokesperson...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T07:00:34+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Who is Eisenkot, the former Israeli general expected to replace Netanyahu?",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3373679/who-eisenkot-former-israeli-general-expected-replace-netanyahu",
+        "summary": "Gadi Eisenkot, an unassuming former army chief of staff, has a pathway to Israel’s top job after President Isaac Herzog tapped him to form the next government. Should he succeed, he would take over as prime minister from Benjamin Netanyahu, Israel’s longest-serving leader whose inflammatory style has earned him as much admiration as it has outright hatred. Eisenkot, by contrast, is a reserved man, and some voters tired of Netanyahu see his rival’s relative lack of charisma as one of his greatest...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T05:33:31+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Why raising prices in Japan amid ‘insanely high’ inflation backfires on firms",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3373678/why-raising-prices-japan-amid-insanely-high-inflation-backfires-firms",
+        "summary": "When Japan’s “symbol of affordability” Uniqlo decided to increase the price of its basic socks last month, it sparked a backlash before the clothing titan made an immediate U-turn. That came after Italian-style family restaurant chain Saizeriya issued an almost grovelling apology as it decided to add 20 yen (US$0.13) to the price of its trademark Milanese Doria, lamenting its “lack of effort”. The very public angst, including in one of the world’s most recognisable clothing brands, highlights...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T05:30:22+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Hong Kong must build ‘reassuring’ environment amid political criticism: Paul Lam",
+        "url": "https://www.scmp.com/news/hong-kong/politics/article/3373677/hong-kong-must-build-reassuring-environment-amid-political-criticism-paul-lam",
+        "summary": "Hong Kong must focus on the “practical work” of building a safe and convenient environment and reassuring the international community amid criticism of its legal system, the justice minister has said, after 10 countries issued a joint statement decrying the latest jail sentence handed to opposition activist Joshua Wong Chi-fung. “It is inevitable that their criticism will continue … Political realities have to be dealt with, but I do not think we should allow them to distract us from our focus,”...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T04:36:22+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Hong Kong makes further inroads in AI, aviation at mainland Chinese expo",
+        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3373664/hong-kong-makes-further-roads-ai-aviation-mainland-chinese-expo",
+        "summary": "Hong Kong is forging deeper ties with the mainland across artificial intelligence (AI), aviation and professional services, industry insiders at China’s global import expo have said. Tech executives and accounting veterans discussed how to leverage Hong Kong’s strategic position, such as through the Northern Metropolis megaproject near the mainland Chinese border, while the city’s flag carrier introduced its refrigerated sea logistics link to Dongguan, Guangdong province. These were signs of a...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T04:00:35+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Only a fraction of World Heritage sites are in Africa. China wants to fix that",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3373662/only-fraction-world-heritage-sites-are-africa-china-wants-fix",
+        "summary": "Africa is home to ancient cities, rock art and striking natural landscapes, yet its sites are sorely under-represented on Unesco’s World Heritage List. According to data released by the UN body, of the 1,273 sites on the list – which are formally protected under the World Heritage Convention treaty – just 115 are in Africa. But as Beijing seeks closer cultural ties with the continent, it is offering help to change this through funding, guidance on how to navigate the nomination process and...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T04:00:32+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Southeast Asia’s green push brings solar power, but who pays to keep it on?",
+        "url": "https://www.scmp.com/week-asia/health-environment/article/3373551/southeast-asias-green-push-brings-solar-power-who-pays-keep-it",
+        "summary": "For most of his life, Osman Uki lived in a world dictated by the sun, relying on kerosene and leftover cooking oil to light his home in a remote indigenous village in Malaysia. That changed in April when solar power finally reached Kampung Bertang in the state of Pahang, allowing families to power electric lights, refrigerators and rice cookers. For Osman, one of the biggest changes is what happens after sunset. “We are happy with the light we have at night. The kids can read at night now. We...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T04:00:30+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Indonesians furious as Batam data centres drain taps: ‘we cannot cook without water’",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373676/indonesians-furious-batam-data-centres-drain-taps-we-cannot-cook-without-water",
+        "summary": "Cooking and bathing became difficult when taps ran dry in Batam, an Indonesian island where residents are protesting against data centres springing up to power the global artificial intelligence boom. The area had suffered a “long drought” caused by low rainfall, the local water utility operator said, as a strong El Nino cycle exacerbates dry weather. But, as in other countries, anger has been directed at the data centres, warehouse-like facilities that keep apps and AI tools running, with water...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T03:51:09+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
         "title": "Hong Kong’s Margaret Chan voted to lead World Health Organization in 2006 – SCMP archive",
         "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3373379/hong-kongs-margaret-chan-voted-lead-world-health-organization-2006-scmp-archive",
         "summary": "This article was first published on November 9, 2006. Margaret Chan wins WHO race in coup for China, HK by Mary Ann Benitez Hong Kong’s former director of health Margaret Chan Fung Fu-chun made history yesterday (November 8, 2006) when she was nominated World Health Organisation director-general in a resounding victory that saw her lead all the way in four rounds of voting. Dr Chan, 59, is expected to be endorsed today by the 193-member World Health Assembly, making her the first Chinese to lead...",
@@ -1256,9 +1533,9 @@
         "stream": "higher"
       },
       {
-        "title": "Woman hurt in flat fire suspected to have been caused by aromatherapy items",
+        "title": "Woman dies after flat fire suspected to have been caused by aromatherapy products",
         "url": "https://www.scmp.com/news/hong-kong/society/article/3373665/woman-hurt-flat-fire-suspected-have-been-caused-aromatherapy-items",
-        "summary": "Hong Kong firefighters have rescued a 67-year-old woman from a flat in Tin Shui Wai after a blaze broke out, prompting about 100 people to flee. A preliminary investigation suggested aromatherapy items ignited objects in the flat. Police said officers were alerted at 5.39pm on Saturday after smoke was seen billowing from a flat at Locwood Court in the Kingswood Villas private estate. Firefighters forced entry into the flat, where they found the woman, and extinguished the fire, police said. The...",
+        "summary": "A 67-year-old woman died in hospital on Sunday, hours after firefighters rescued her from a Tin Shui Wai flat where a blaze had broken out. A preliminary investigation suggested aromatherapy products ignited objects in the flat, with the fire prompting about 100 residents to evacuate. Police said officers were alerted at 5.39pm on Saturday after smoke was seen billowing from a flat at Locwood Court in the Kingswood Villas private estate. Firefighters forced entry into the flat, where they found...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-07T15:12:44+00:00",
         "region": "east_asia",
@@ -1429,258 +1706,6 @@
         "summary": "Chinese investors have backed mineral processing and manufacturing projects worth more than US$16 billion across Africa, a new report has concluded, amid an increasing push by countries to secure a greater share of the earnings from their natural resources. The continent is a major international supplier of key minerals such as copper, cobalt and iron ore, and countries such as the Democratic Republic of Congo, Guinea and Zimbabwe have previously introduced mineral export bans or restrictions to...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-07T08:00:06+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Malaysia’s king warns against challenging Najib’s house arrest",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373642/malaysias-king-warns-against-challenging-najibs-house-arrest",
-        "summary": "Malaysia’s king warned on Saturday that any attempt to ⁠challenge his order ⁠letting former prime minister Najib Razak go ⁠from jail to house arrest could amount to defying his decree, a day after authorities delayed Najib’s transfer. Najib has been in jail since 2022 after being found guilty of corruption and money laundering in a case linked to a multibillion-dollar ‌scandal at state fund 1Malaysia Development Berhad. He has consistently denied wrongdoing. He was due to be transferred home on...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T07:32:16+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Ex-husband’s DNA found on hammer allegedly used to kill Abby Choi, prosecution says",
-        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373639/ex-husbands-dna-found-hammer-allegedly-used-kill-abby-choi-prosecution-says",
-        "summary": "Warning: graphic content follows. Slain Hong Kong socialite Abby Choi Tin-fung could have been fatally struck with a hammer that contained her ex-husband’s DNA when it was seized from a rural village flat where her dismembered remains were found, a court has heard. Wrapping up their case as the murder trial entered its sixth week, prosecutors highlighted forensic findings and surveillance camera footage showing the movements of Choi and three of her former in-laws before and after her alleged...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T07:00:06+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Chinese consulate in Melbourne demands justice after fatal stabbing of delivery worker",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3373640/chinese-consulate-melbourne-demands-justice-after-fatal-stabbing-delivery-worker",
-        "summary": "The Chinese consulate in Melbourne has urged local authorities to “severely punish” the person responsible for killing a Chinese delivery rider on Friday – a tragedy that has sparked mounting online outrage over delivery platform safety standards. The 47-year-old delivery worker from China’s northwestern Shaanxi province was stabbed to death while on the job and another rider was injured in the incident in downtown Melbourne on Friday evening. The attack occurred after the pair confronted a man...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T06:44:42+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "‘Hypocritical’: Hong Kong hits back at criticism of Joshua Wong’s sentence",
-        "url": "https://www.scmp.com/news/hong-kong/politics/article/3373638/hypocritical-hong-kong-hits-back-criticism-joshua-wongs-sentence",
-        "summary": "Hong Kong has hit back at a joint statement from 10 countries over the latest sentencing of opposition activist Joshua Wong Chi-fung, accusing them of distorting facts and smearing the city’s national security law. The rebuttal came after the US, Australia, Canada, France, Germany, Italy, Japan, the Netherlands, New Zealand and the UK issued a joint statement on Friday saying the sentencing of Wong, together with the earlier jailing of many others, showed how the city’s national security law was...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T06:31:27+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Air in India’s capital ranked world’s most polluted on eve of Diwali",
-        "url": "https://www.scmp.com/news/asia/south-asia/article/3373637/air-indias-capital-ranked-worlds-most-polluted-eve-diwali",
-        "summary": "New Delhi ranked as the world’s ⁠most polluted major ⁠city on Saturday ⁠morning, according to Swiss group IQAir, as the Indian capital faced severe pollution forecasts a day before Diwali, the Hindu festival of lights. India has ordered schools in and around Delhi to offer online classes and encouraged people to work from home ahead of Diwali on Sunday, which is usually marked by the widespread use of firecrackers ⁠that further worsen the air quality. IQAir ranked Delhi ‌first for air pollution...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T06:01:55+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Financial leaders tiptoe around Beijing’s asset scrutiny, hail Hong Kong’s wealth boom",
-        "url": "https://www.scmp.com/business/money/wealth/article/3373542/financial-leaders-tiptoe-around-beijings-asset-scrutiny-hail-hong-kongs-wealth-boom",
-        "summary": "Global financial leaders who gathered in Hong Kong this week largely sidestepped Beijing’s offshore trust tax crackdown, a lingering near-term hurdle for the city’s otherwise expanding wealth management industry. Beijing’s move earlier this year to step up scrutiny of wealthy families’ overseas assets was barely discussed openly at a series of financial industry events, including the Global Financial Leaders’ Investment Summit and the PWMA Wealth Management Industry Summit 2026, even as it...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T06:00:18+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Hong Kong paediatrician urges parents to vaccinate children as temperatures fall",
-        "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3373635/hong-kong-paediatrician-urges-parents-vaccinate-children-temperatures-fall",
-        "summary": "A Hong Kong paediatric expert has called on parents to arrange influenza vaccinations for their children ahead of cooler temperatures next week, warning of a double whammy of overlapping summer and winter flu seasons. The city has recorded 29 cases of severe paediatric influenza infection this flu season, two of which were fatal. Dr Mike Kwan Yat-wah, former president of the Asian Society for Paediatric Infectious Diseases, warned on Saturday that the city could see a longer flu season with the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T05:33:52+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "‘There could be anarchy’: Bangladesh’s garment sector unrest threatens economic disaster",
-        "url": "https://www.scmp.com/week-asia/economics/article/3373569/there-could-be-anarchy-bangladeshs-garment-unrest-threatens-economic-disaster",
-        "summary": "Garment workers in Bangladesh, the world’s second-largest clothing exporter after China, are demanding that their wages more than double – and their protests have brought a halt to production in factories supplying global brands including H&M, Zara and Walmart. Tens of thousands of workers have marched through Dhaka and the key industrial towns of Gazipur, Ashulia and Narayanganj in recent days demanding higher pay. Protests turned violent in several hubs, with factories vandalised and roads...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T05:00:06+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Test of trust for Hong Kong’s new housing checks unit after Wang Fuk Court blaze",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3373606/test-trust-hong-kongs-new-housing-checks-unit-after-wang-fuk-court-blaze",
-        "summary": "For former Wang Fuk Court resident Dorz Cheung, seeing will be believing when it comes to reforms initiated after the deadly inferno in Hong Kong’s Tai Po district. The 34-year-old questioned whether the new oversight bodies would prevent another disaster, saying systemic reforms to tackle shoddy building maintenance and bid-rigging could be undermined by poor implementation. “No matter how well the system is reformed, it is people who put it into practice. Even the best system will achieve...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T04:25:50+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Trump confirms fresh Iran strikes days after voters punish war at polls",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3373633/trump-confirms-fresh-iran-strikes-days-after-voters-punish-war-polls",
-        "summary": "US President Donald Trump said the American military on Friday carried out new limited strikes on Iran, targeting an Iranian air defence system. Iranian state media reported the sound of two explosions in the Suza area of Qeshm Island, which is in a crucial waterway for oil shipments. Trump in an exchange with reporters described the military action as “minor”. “They knocked out – they built a little bit of an anti-aircraft device and we knocked it out in about 15 minutes, maybe five,” he told...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T04:25:50+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "China to narrow scope of contentious detention and surveillance measure",
-        "url": "https://www.scmp.com/news/china/politics/article/3373546/china-narrow-scope-contentious-designated-location-surveillance-measure",
-        "summary": "Chinese lawmakers are proposing to restrict a contentious form of detention and police surveillance measure, among other changes to the country’s Criminal Procedure Law. Known as residential surveillance at a designated location (RSDL), the measure was originally intended as a mild restriction of personal freedoms to lower the rate of detention and arrest. Since RSDL’s introduction in 1996 and expansion in 2012, it has become the harshest form of detention used in state security cases, including...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T04:00:09+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "US regulator investigates tumour risk in children given Novartis gene therapy",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3373631/us-regulator-investigates-tumour-risk-children-given-novartis-gene-therapy",
-        "summary": "The US ⁠Food and Drug Administration said ⁠on Friday it was investigating a ⁠risk of neoplasia, or tumour formation including malignancy, associated with Novartis’ gene therapy Zolgensma. The Swiss drug maker earlier in the day disclosed two cases in which tumours in children showed evidence of being linked to its gene therapy drug used to treat patients less than ‌two years old with spinal muscular atrophy. Novartis said that it had received nine reports overall of tumours in patients...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T03:35:18+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Domestic helper arrested after allegedly spitting into 4-year-old girl’s food",
-        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373630/domestic-helper-arrested-after-allegedly-spitting-4-year-old-girls-food",
-        "summary": "A foreign domestic helper in Hong Kong has been arrested on suspicion of ill-treating a child after she allegedly spat into the food of a girl under her care, according to police. The mother of the four-year-old girl filed a police report at 9.28am on Friday, saying her 37-year-old Filipino helper had treated her daughter inappropriately. Initial police investigations at the family’s flat at The Belcher’s, a private residential estate in Kennedy Town, indicated that the helper had spat into the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T03:25:23+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "HKUST president Nancy Ip wins second Unesco prize for Alzheimer’s research",
-        "url": "https://www.scmp.com/news/hong-kong/education/article/3373626/hkust-president-nancy-ip-wins-unesco-prize-alzheimers-research",
-        "summary": "Hong Kong University of Science and Technology (HKUST) president Nancy Ip Yuk-yu has been awarded a UN prize for a second time for her “outstanding contributions” in neuroscience, which have enabled the earlier diagnosis and better monitoring of Alzheimer’s disease. Ip was presented with the Unesco-Equatorial Guinea International Prize for Research in the Life Sciences in Paris on Friday. “Dr Nancy Yuk-yu Ip, president of the Hong Kong University of Science and Technology, is a world-renowned...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T02:54:06+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Iran’s nuclear programme: US offers US$20 million reward for information",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3373625/irans-nuclear-programme-us-offers-us20-million-reward-information",
-        "summary": "Washington is offering a US$20 million reward “and possible relocation” for information about Iran’s nuclear programme, the US military has said, as President Donald Trump reiterated that Tehran wants to make a deal to end the war. A State Department programme, Rewards for Justice, “is offering a reward of up to US$20 million and possible relocation for information about Iran’s nuclear programme, including its facilities, equipment and associated personnel, such as those in the scientific...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T02:04:14+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "AI-generated cats showcasing rural life, Chinese cuisine land major brand sponsorships",
-        "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3373622/ai-generated-cats-showcasing-rural-life-chinese-cuisine-land-major-brand-sponsorships",
-        "summary": "China’s pet scene has found its digital answer to cottagecore icon Li Ziqi – “Meow Ziqi,” a social media account featuring three AI-generated cats that cook traditional Chinese dishes and practise heritage crafts. Since bursting onto the scene in April, the account has amassed over 1.76 million followers and more than 500 million views. The parallels with Sichuan-born cultural influencer Li Ziqi are unmistakable. Li captivated over 56 million fans worldwide with her cinematic depictions of...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T02:00:31+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Myanmar’s will to fight money laundering questioned as tougher curbs loom",
-        "url": "https://www.scmp.com/week-asia/politics/article/3373586/myanmars-will-fight-money-laundering-questioned-tougher-curbs-loom",
-        "summary": "Myanmar’s military-backed government may find its reluctance to address the international community’s concerns a greater obstacle to economic recovery than the threat of tougher international financial restrictions, according to analysts. The Financial Action Task Force (FATF), the global money-laundering and terrorist-financing watchdog, warned on October 30 that it could consider further measures against Myanmar if it failed to remedy shortcomings in its financial safeguards by...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T02:00:27+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "In the Pacific century, Chinatowns in the US deserve more than preservation",
-        "url": "https://www.scmp.com/opinion/world-opinion/article/3373179/pacific-century-chinatowns-us-deserve-more-preservation",
-        "summary": "I was sitting in my car in Oakland’s Chinatown with Desta, my dog, while my wife visited her Chinese-American doctor. Across the street stood the Shoong Family Chinese Cultural Centre. On the pavements, older shoppers carrying bags of greens paused to greet acquaintances. People threaded between produce displays, fish counters and shopfronts crowded with everyday necessities. There was a rhythm to the morning: deliveries, conversations, the exchange of money and news, the small acts of...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T01:30:07+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Is Russia’s seizure of Japan Tobacco assets the last straw for Tokyo amid frosty ties?",
-        "url": "https://www.scmp.com/week-asia/politics/article/3373624/russias-seizure-japan-tobacco-assets-last-straw-tokyo-amid-frosty-ties",
-        "summary": "Russia’s seizure of the assets of a Japanese company could prove to be Tokyo’s red line after a series of bitter exchanges between both nations and ties that continue to spiral. The Japanese government on Friday lodged a formal complaint with Russia and demanded that Moscow immediately reverse a decree announced the previous day that transferred the assets of Japan Tobacco International (JTI) to Russian control. Analysts say the decree, signed by Russian President Vladimir Putin, is likely a...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T01:00:16+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Sanae Takaichi slammed online for praising calligraphy without mentioning China",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3373580/sanae-takaichi-slammed-online-praising-calligraphy-without-mentioning-china",
-        "summary": "Japanese Prime Minister Sanae Takaichi has faced backlash online after writing a social media post celebrating Japan’s shodo calligraphy without mentioning its Chinese roots. On Thursday, Unesco released this year’s nominations for inclusion on its Representative List of the Intangible Cultural Heritage of Humanity. The 59 nominations submitted for consideration for the UN cultural body’s list include Chinese cuisine, Spain’s traditional jota music and dance genre, and Japan’s shodo...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T01:00:12+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Hong Kong draws growing interest from Irish firms seeking expansion across Asia",
-        "url": "https://www.scmp.com/news/hong-kong/article/3373552/hong-kong-draws-growing-interest-irish-firms-seeking-expansion-across-asia",
-        "summary": "More Irish companies are considering Hong Kong as a base for expansion across Asia, according to the head of the country’s chamber of commerce in the city, who described the two jurisdictions as “natural partners”. Padraig Seif, president of the Irish Chamber of Commerce in Hong Kong, said momentum was building ahead of the Asia-Pacific Irish Business Forum as Irish firms increasingly looked to Asia amid Washington’s tariff policy and the lingering effects of Brexit. “What we’ve seen is … Asia...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T01:00:08+00:00",
         "region": "east_asia",
         "streams": [
           "higher"
@@ -2070,21 +2095,22 @@
           "higher"
         ],
         "stream": "higher"
-      },
-      {
-        "title": "ADEA Inter-Country Quality Node on Higher Education and Scientific Research (ICQN-HESR) Webinar",
-        "url": "https://www.norrageducation.org/adea-inter-country-quality-node-on-higher-education-and-scientific-research-icqn-hesr-webinar/",
-        "summary": "Theme: Academic Mobility and Higher Education Quality: Catalysing Research and Continental Integration within the Framework of the AfCFTA Date: 19 November, 2026 Time: 12:00 – 14:00 GMT Venue: Virtual: Registration Link The post ADEA Inter-Country Quality Node on Higher Education and Scientific Research (ICQN-HESR) Webinar appeared first on NORRAG - .",
-        "source": "NORRAG — Education & Development",
-        "published": "2026-11-05T08:39:55+00:00",
-        "region": "europe",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
       }
     ],
     "tvet": [
+      {
+        "title": "Secretary of Education Says Virginia Will ‘Move the Achievement Needle Forward’",
+        "url": "https://www.the74million.org/article/secretary-of-education-says-virginia-will-move-the-achievement-needle-forward/",
+        "summary": "Gov. Abigail Spanberger’s administration is focused on early education and college and career readiness, two of several academic priorities ahead of the state’s next legislative session. Starting in January, the executive branch and lawmakers are expected to discuss a slate of K-12 topics, including school technology, expanding career and technical education and preparing children under […]",
+        "source": "The 74 Million",
+        "published": "2026-11-08T11:30:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "tvet",
+          "school"
+        ],
+        "stream": "tvet"
+      },
       {
         "title": "European Commission published the Education and Skills Package and the European Strategy for VET",
         "url": "https://efvet.org/european-commission-published-the-education-and-skills-package-and-the-european-strategy-for-vet/",
@@ -2391,18 +2417,6 @@
           "edtech"
         ],
         "stream": "labor"
-      },
-      {
-        "title": "Exploring opportunities and risks of AI in the workplace in Kenya",
-        "url": "https://cscuk.fcdo.gov.uk/exploring-opportunities-and-risks-of-ai-in-the-workplace-in-kenya/",
-        "summary": "Commonwealth Alumni in Kenya came together for a timely discussion on artificial intelligence (AI), its growing influence on the workplace, and the skills, policies, and safeguards needed to support responsible adoption. Hosted by the British High Commission in Kenya, the event, ‘AI in the Workplace: Opportunities, Risks, and the Future of Work’, brought together alumni […] The post Exploring opportunities and risks of AI in the workplace in Kenya appeared first on Commonwealth Scholarship Commission in the UK .",
-        "source": "Commonwealth Scholarships",
-        "published": "2026-08-10T08:28:25+00:00",
-        "region": "global",
-        "streams": [
-          "labor"
-        ],
-        "stream": "labor"
       }
     ],
     "teacher": [
@@ -2655,6 +2669,18 @@
     ],
     "edtech": [
       {
+        "title": "Learning Analytics: A Guide for L&D Leaders",
+        "url": "https://elearningindustry.com/learning-analytics-a-guide-for-ld-leaders",
+        "summary": "Learn how L&D teams can turn learning analytics into actionable business insights with better metrics, reporting, and data-driven decisions. This post was first published on eLearning Industry .",
+        "source": "eLearning Industry",
+        "published": "2026-11-08T10:00:06+00:00",
+        "region": "global",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
+      {
         "title": "How to Write a Learning Brief That Actually Gets Used",
         "url": "https://elearningindustry.com/how-to-write-a-learning-brief-that-actually-gets-used",
         "summary": "A department head sends an email: \"We need a training course on communication skills for the sales team. Can you get something ready in six weeks?\" That single sentence launches weeks of misaligned expectations — unless someone pauses to write a learning brief first. This post was first published on eLearning Industry .",
@@ -2672,6 +2698,18 @@
         "summary": "British Journal of Educational Technology, EarlyView.",
         "source": "British Journal of Educational Technology (Wiley)",
         "published": "2026-11-07T04:51:23+00:00",
+        "region": "global",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
+      {
+        "title": "Does Knowing a Student’s Interests Make AI More Engaging? Here’s What We Found",
+        "url": "https://blog.khanacademy.org/student-interests-ai-tutoring/",
+        "summary": "By Kristen DiCerbo, Khan Academy Chief Learning Officer One of the hopes we hear often about AI is ... Read more The post Does Knowing a Student’s Interests Make AI More Engaging? Here’s What We Found appeared first on Khan Academy Blog .",
+        "source": "Khan Academy — Blog",
+        "published": "2026-11-06T21:36:31+00:00",
         "region": "global",
         "streams": [
           "edtech"
@@ -2792,6 +2830,18 @@
         "summary": "Enterprise learning is undergoing a fundamental structural transformation. How can AI help shape your skills development processes? This post was first published on eLearning Industry .",
         "source": "eLearning Industry",
         "published": "2026-11-05T16:00:15+00:00",
+        "region": "global",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
+      {
+        "title": "Future-ready education: Evolving Microsoft 365 Education",
+        "url": "https://www.microsoft.com/en-us/education/blog/2026/11/future-ready-education-evolving-microsoft-365-education/",
+        "summary": "Explore Microsoft 365 Education updates with greater choice, AI, security, flexible licensing, and new capabilities for schools and universities. The post Future-ready education: Evolving Microsoft 365 Education appeared first on Microsoft Education Blog .",
+        "source": "Microsoft Education — Blog",
+        "published": "2026-11-05T16:00:00+00:00",
         "region": "global",
         "streams": [
           "edtech"
@@ -3219,18 +3269,6 @@
         "stream": "edtech"
       },
       {
-        "title": "Thought Leader Q&A: Discussing How To Effectively Scale Learning With Dr. RK Prasad",
-        "url": "https://elearningindustry.com/thought-leader-qa-discussing-how-to-effectively-scale-learning-with-dr-rk-prasad",
-        "summary": "This Thought Leader Q&A with CommLab India's Dr. RK Prasad brings us valuable highlights from LearnFlux 2026, CommLab India's virtual thought leadership summit for L&D leaders, specifically on how to scale learning as businesses grow. This post was first published on eLearning Industry .",
-        "source": "eLearning Industry",
-        "published": "2026-10-30T20:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
-      },
-      {
         "title": "School safety depends on strong community partnerships",
         "url": "https://www.eschoolnews.com/educational-leadership/2026/10/30/school-safety-depends-on-strong-community-partnerships/",
         "summary": "Place yourself at the start of a school emergency. A teacher is trying to communicate what’s happening. A 911 dispatcher is gathering critical information. School leaders are working to understand the situation while first responders start decision-making with whatever information is available.",
@@ -3590,30 +3628,6 @@
           "edtech"
         ],
         "stream": "edtech"
-      },
-      {
-        "title": "AI is stealing students’ ability to think critically–Journalism 101 may be an antidote",
-        "url": "https://www.eschoolnews.com/digital-learning/2026/10/23/ai-is-stealing-students-ability-to-think-critically-journalism-101-may-be-an-antidote/",
-        "summary": "The risks of using generative Artificial Intelligence in education outweigh the benefits. That’s the warning in a seminal report from the Brookings Institution’s Center for Universal Education.",
-        "source": "eSchool News",
-        "published": "2026-10-23T10:00:00+00:00",
-        "region": "north_america",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
-      },
-      {
-        "title": "How to castle in chess",
-        "url": "https://blog.duolingo.com/how-to-castle-in-chess/",
-        "summary": "Protect your king—here’s how!",
-        "source": "Duolingo — Blog",
-        "published": "2026-10-22T12:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
       }
     ],
     "policy": [
@@ -3624,18 +3638,6 @@
         "source": "New York Times — Education",
         "published": "2026-11-07T14:04:34+00:00",
         "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Supreme Court terms lawyers' vigilance 'foundational' to protecting clients' cases from dismissal",
-        "url": "https://www.dawn.com/news/2042824/supreme-court-terms-lawyers-vigilance-foundational-to-protecting-clients-cases-from-dismissal",
-        "summary": "ISLAMABAD: Emphasising the importance of diligent case presentation, the Supreme Court on Saturday reiterated that an advocate’s absolute vigilance was a “foundational requirement” for protecting a client’s case from dismissal in default. This principle is also “reverberated across the world with one voice by dint of a legal maxim ‘ Vigilantibus et non dormientibus jura subveniunt ’, thereby implying that the law assists the vigilant, not those who sleep over their rights”, observed Justice Muhammad Ali Mazhar in an eight-page judgment issued on Saturday, which restored two civil revisions tha",
-        "source": "Dawn — Pakistan",
-        "published": "2026-11-07T11:52:46+00:00",
-        "region": "south_asia",
         "streams": [
           "policy"
         ],
@@ -4571,6 +4573,18 @@
         "summary": "Information on financial aid for students",
         "source": "The Hindu — Education",
         "published": "2026-10-31T07:11:55+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Bridge your interests",
+        "url": "https://www.thehindu.com/education/bridge-your-interests/article71638813.ece",
+        "summary": "Uncertain about your career options? Low on self-confidence? This column may help",
+        "source": "The Hindu — Education",
+        "published": "2026-10-31T07:11:27+00:00",
         "region": "south_asia",
         "streams": [
           "policy"
@@ -5759,23 +5773,23 @@
           "funding"
         ],
         "stream": "funding"
-      },
-      {
-        "title": "Commonwealth Alumni Reconnect in Mauritius",
-        "url": "https://cscuk.fcdo.gov.uk/commonwealth-alumni-reconnect-in-mauritius/",
-        "summary": "The British High Commission in Mauritius hosted a Commonwealth Alumni Engagement Evening on 30 July 2026, bringing together Commonwealth Alumni and current Commonwealth Distance Learning Scholars for an evening dedicated to connection, reflection, and future collaboration. Hosted by the British High Commissioner, Paul Brummell CMG, the event provided an opportunity for alumni from different scholarship […] The post Commonwealth Alumni Reconnect in Mauritius appeared first on Commonwealth Scholarship Commission in the UK .",
-        "source": "Commonwealth Scholarships",
-        "published": "2026-08-10T08:31:44+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
       }
     ]
   },
   "regions": {
     "global": [
+      {
+        "title": "Learning Analytics: A Guide for L&D Leaders",
+        "url": "https://elearningindustry.com/learning-analytics-a-guide-for-ld-leaders",
+        "summary": "Learn how L&D teams can turn learning analytics into actionable business insights with better metrics, reporting, and data-driven decisions. This post was first published on eLearning Industry .",
+        "source": "eLearning Industry",
+        "published": "2026-11-08T10:00:06+00:00",
+        "stream": "edtech",
+        "streams": [
+          "edtech"
+        ],
+        "region": "global"
+      },
       {
         "title": "MCW Global Young Leaders Fellowship 2027 (Funded)",
         "url": "https://opportunitydesk.org/2026/11/07/mcw-global-young-leaders-fellowship-2027-funded/",
@@ -5953,6 +5967,18 @@
         "stream": "research",
         "streams": [
           "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Does Knowing a Student’s Interests Make AI More Engaging? Here’s What We Found",
+        "url": "https://blog.khanacademy.org/student-interests-ai-tutoring/",
+        "summary": "By Kristen DiCerbo, Khan Academy Chief Learning Officer One of the hopes we hear often about AI is ... Read more The post Does Knowing a Student’s Interests Make AI More Engaging? Here’s What We Found appeared first on Khan Academy Blog .",
+        "source": "Khan Academy — Blog",
+        "published": "2026-11-06T21:36:31+00:00",
+        "stream": "edtech",
+        "streams": [
+          "edtech"
         ],
         "region": "global"
       },
@@ -6231,42 +6257,18 @@
           "research"
         ],
         "region": "global"
-      },
-      {
-        "title": "Editorial Note: Early Growth Response Gene-2 (Egr-2) Regulates the Development of B and T Cells",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362246",
-        "summary": "by The PLOS One Editors",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-11-06T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Retraction: Barriers to access to care in the implementation of telemedicine in public hospitals in Southern Ethiopia: A phenomenological qualitative study",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362243",
-        "summary": "by The PLOS One Editors",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-11-06T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
       }
     ],
     "south_asia": [
       {
-        "title": "Supreme Court terms lawyers' vigilance 'foundational' to protecting clients' cases from dismissal",
-        "url": "https://www.dawn.com/news/2042824/supreme-court-terms-lawyers-vigilance-foundational-to-protecting-clients-cases-from-dismissal",
-        "summary": "ISLAMABAD: Emphasising the importance of diligent case presentation, the Supreme Court on Saturday reiterated that an advocate’s absolute vigilance was a “foundational requirement” for protecting a client’s case from dismissal in default. This principle is also “reverberated across the world with one voice by dint of a legal maxim ‘ Vigilantibus et non dormientibus jura subveniunt ’, thereby implying that the law assists the vigilant, not those who sleep over their rights”, observed Justice Muhammad Ali Mazhar in an eight-page judgment issued on Saturday, which restored two civil revisions tha",
+        "title": "'Misplaced over-smartness': Maryam removes Jhelum DC over exam postponement for her visit",
+        "url": "https://www.dawn.com/news/2043049/misplaced-over-smartness-maryam-removes-jhelum-dc-over-exam-postponement-for-her-visit",
+        "summary": "Punjab Chief Minister Maryam Nawaz removed the Jhelum deputy commissioner (DC) from his post on Sunday, after it emerged that computer science papers for intermediate students in the district had been postponed in the district owing to arrangements for the provincial chief executive’s scheduled visit on Nov 10. Originally scheduled for Nov 10, the computer science papers for the Intermediate Second Annual Examinations 2026 had been deferred on the recommendation of the now-dismissed Jhelum DC, Mir Raza Ozgen. He wrote in a letter to the Rawalpindi Board of Intermediate and Secondary Education ",
         "source": "Dawn — Pakistan",
-        "published": "2026-11-07T11:52:46+00:00",
-        "stream": "policy",
+        "published": "2026-11-08T12:04:21+00:00",
+        "stream": "school",
         "streams": [
-          "policy"
+          "school"
         ],
         "region": "south_asia"
       },
@@ -6741,6 +6743,18 @@
     ],
     "east_africa": [
       {
+        "title": "Victory, Sovereignty and the Power of National Memory: Why Azerbaijan’s November Celebrations Matter",
+        "url": "https://www.ednews.africa/p/victory-sovereignty-and-the-power",
+        "summary": "Together, these occasions embody a story of resilience, perseverance and the determination of a people who refused to abandon their claim to territorial integrity and self-determination.",
+        "source": "EdNews Africa",
+        "published": "2026-11-08T08:25:27+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_africa"
+      },
+      {
         "title": "Samsung Brings Technology, Mentorship and Olympic Dreams to Dakar 2026",
         "url": "https://www.ednews.africa/p/samsung-brings-technology-mentorship",
         "summary": "As Africa prepares to host its first-ever Olympic event, Samsung is backing the next generation of athletes with cutting-edge Galaxy technology, mentorship programmes and digital experiences.",
@@ -6962,18 +6976,6 @@
         "summary": "‘Please let us not compromise on quality’: Academic staff at UNISA challenge the unrealistic exam-marking timeframe.",
         "source": "EdNews Africa",
         "published": "2026-11-02T21:33:55+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_africa"
-      },
-      {
-        "title": "Ramaphosa Urges Voters to Back Capable Leaders as South Africa Heads to Polls",
-        "url": "https://www.ednews.africa/p/ramaphosa-urges-voters-to-back-capable",
-        "summary": "“Every election since 1994 has been free and fair, and public trust in the Independent Electoral Commission remains high,” Ramaphosa said.",
-        "source": "EdNews Africa",
-        "published": "2026-11-02T11:13:47+00:00",
         "stream": "higher",
         "streams": [
           "higher"
@@ -7434,6 +7436,270 @@
     ],
     "east_asia": [
       {
+        "title": "China eyes gig workers and influencers as delegates for Communist Party congress",
+        "url": "https://www.scmp.com/news/china/politics/article/3373702/china-eyes-gig-workers-and-influencers-delegates-communist-party-congress",
+        "summary": "For the first time, delivery couriers, ride-hailing drivers and influencers could become delegates to the Communist Party’s five-yearly national congress, as Beijing seeks to keep the group close to the official ideology. Guidelines on selecting delegates for the meeting, to be held in the second half of next year, were issued on Saturday. The 21st party congress is expected to bring together 2,360 delegates, according to Xinhua. They will vote to elect more than 300 full and alternate members...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T12:30:19+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "China’s focus on getting its house in order offers lessons in governance",
+        "url": "https://www.scmp.com/opinion/china-opinion/article/3373416/chinas-focus-getting-its-house-order-offers-lessons-governance",
+        "summary": "The Communist Party’s call for “self-revolution” may be rooted in the pursuit of internal discipline, but its implications extend well beyond China. As the global order faces mounting challenges, Beijing’s emphasis on internal renewal raises a fundamental question: can countries hope to contribute to global stability without first putting their own houses in order? China’s fifth plenum placed considerable emphasis on combating corruption. Beijing has relentlessly pursued its campaign against...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T12:30:11+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Chinese engineers reduce cargo ship fuel use by 5% with high-speed torpedo tech",
+        "url": "https://www.scmp.com/news/china/science/article/3373333/chinese-engineers-reduce-cargo-ship-fuel-use-5-high-speed-torpedo-tech",
+        "summary": "Supercavitating torpedoes can reach extreme underwater speeds by travelling inside a gas-filled cavity that sharply reduces their contact with water. Beyond torpedoes, supercavitating projectiles can streak through the water at blistering speeds to intercept naval mines, incoming torpedoes and unmanned underwater vehicles, and even combat divers. Now, Chinese engineers are applying a related drag-reduction principle to commercial shipping, with a bubble-lubrication system cutting net energy...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T12:00:25+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Saudi Aramco building in Riyadh damaged in attempted attack",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3373700/saudi-aramco-building-riyadh-damaged-attempted-attack",
+        "summary": "An ⁠administrative building belonging to state ⁠oil giant Saudi Aramco in ⁠Riyadh was damaged by falling debris following an attempted attack on Sunday, with no injuries or fatalities reported, the kingdom’s Energy Ministry said. A Reuters witness saw blown-out windows across several floors of the Aramco Tower, one of the tallest buildings in the capital’s King Abdullah ‌Financial District. The incident, which the ministry said caused limited damage, came after the Saudi-led coalition said it...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T11:34:24+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "‘Can’t be inaccurate’: how 2 tiny robot arms could halve digestive cancer surgery time",
+        "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3373668/cant-be-inaccurate-how-two-tiny-robot-arms-could-halve-digestive-cancer-surgery-time",
+        "summary": "In the final instalment of a four-part Health Matters wellness series on frontier medicine in Hong Kong, Elizabeth Cheung examines a dual-arm surgical robot that could remove gastrointestinal tumours in about half the usual time, and the hurdles between its first human trials and wider patient access. Ho Man-wai underwent a colonoscopy in late August, during which doctors identified three polyps that needed to be removed before they could develop into cancer. Two were removed during the initial...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T11:00:27+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "AI will soon master biology, unleashing new safety risks, Tencent AI chief warns",
+        "url": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns",
+        "summary": "Artificial intelligence models will soon be powerful enough to master biology, presenting both benefits and serious risks, Tencent Holdings’ chief AI scientist and former OpenAI star researcher Vinces Yao Shunyu said during a rare public appearance on Saturday. The assessment comes as frontier AI systems are increasingly being applied to medicine and biology, which could accelerate discovery of new drugs and other treatments. However, experts also warn that malicious actors could use AI to...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T10:22:27+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Chinese dad whose daughter died in crash visits junction daily to catch traffic violators",
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373688/chinese-dad-whose-daughter-died-crash-visits-junction-daily-catch-traffic-violators",
+        "summary": "A grieving father in southeastern China became a citizen watchdog after a collision killed his nine-year-old daughter. On August 1, Wu Zhisheng’s wife was riding an electric bike with their two young daughters through an intersection in Jiangxi province when a turning tipper truck struck them. Their elder daughter, Zijin, died at the scene, while her mother and five-year-old sister were injured. When Wu rushed to the scene, he found the driver standing beside the vehicle in flip-flops. Nearby,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T10:00:37+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Plugged in, not locked in: middle powers navigate US-China AI rivalry",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3373682/plugged-not-locked-middle-powers-navigate-us-china-ai-rivalry",
+        "summary": "Middle powers navigating the US-China competition in artificial intelligence (AI) favour flexible partnerships over closed alliances, demanding a “plugged in, not locked in” approach, an AI governance panel heard on Saturday. Alejandro Reyes, adjunct professor in the department of politics and public administration at the University of Hong Kong, said that middle powers were exercising agency in the AI era, selectively partnering with both Beijing and Washington “issue by issue” rather than...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T09:09:21+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "China’s Pudu Robotics, which makes 80% of its sales abroad, takes on Tesla in humanoids",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3373641/chinas-pudu-robotics-which-makes-80-its-sales-abroad-takes-tesla-humanoids",
+        "summary": "Humanoid robots represent the next frontier for Pudu Robotics, according to founder and CEO Felix Zhang Tao, as the global commercial robotics leader takes on Elon Musk’s Tesla in the growing sector and explores manufacturing in Europe, its largest overseas market. “It’s definitely a competitor, but a long-term one,” Zhang told the South China Morning Post in a recent interview, adding that Tesla was a “very good” rival whose high profile had driven innovation and broadened market awareness in...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T09:00:28+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Winter’s knocking? Cold front to slash Hong Kong temperatures to 16 degrees",
+        "url": "https://www.scmp.com/weather/hong-kong/article/3373687/winters-knocking-cold-front-slash-hong-kong-temperatures-16-degrees",
+        "summary": "Temperatures in Hong Kong are forecast to plunge to as low as 16 degrees Celsius (61 Fahrenheit) on Tuesday, a further drop from an earlier prediction, as a cold front is expected to hit the city early this week. The Hong Kong Observatory on Sunday revised its forecast for the coming week, saying it expected an intense northeast monsoon to bring cool, very dry weather to the city. An earlier forecast had put this week’s lowest temperature at 18 degrees. “A cold front will move across the coast...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T08:23:24+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "52% of Hong Kong’s underprivileged children spend over 2 hours a day on devices",
+        "url": "https://www.scmp.com/news/hong-kong/education/article/3373686/52-hong-kongs-underprivileged-children-spend-over-2-hours-day-devices",
+        "summary": "More than half of Hong Kong’s underprivileged children spend over two hours a day on electronic devices, often turning to screens for cheap entertainment despite problems with their eyesight, attention, sleep and addiction, a survey has found. The Society for Community Organisation (SoCO), which released the findings on Sunday, urged authorities to keep students on campus for longer, introduce full-day kindergartens and subsidise more extracurricular activities for underprivileged pupils. Wong...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T08:19:22+00:00",
+        "stream": "foundational",
+        "streams": [
+          "foundational"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "3 hikers injured after being hit by landing paraglider in Hong Kong country park",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3373685/3-hikers-injured-after-being-hit-landing-paraglider-hong-kong-country-park",
+        "summary": "Three hikers have been injured in Hong Kong after being hit by a paraglider landing at the Ngong Ping campsite in Ma On Shan Country Park. Police received a report at 12.36pm on Sunday that three people, including two teenagers, had been injured at the campsite after being hit by a landing paraglider. The Government Flying Service deployed a helicopter to transport the trio to Ruttonjee Hospital in Wan Chai for treatment. A 42-year-old woman, surnamed Zheng, sustained a head injury while her...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T08:18:35+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "India questions US ‘double standards’ as Pakistan secures F-16 upgrade deal",
+        "url": "https://www.scmp.com/week-asia/politics/article/3373584/india-questions-us-double-standards-pakistan-secures-f-16-upgrade-deal",
+        "summary": "Washington’s decision to upgrade Pakistan’s F-16 fighter jets has drawn accusations of double standards from critics in India, who question why the United States is strengthening a nuclear-armed ally while waging war against Iran over its nuclear programme. Although the US$686 million military modernisation package does not include nuclear weapons, analysts say that improvements to the fighter jets’ navigation, communications and survivability could boost Pakistan’s existing nuclear strike...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T08:00:36+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Demerit system for contractors ‘not ruled out’, Hong Kong development chief says",
+        "url": "https://www.scmp.com/news/hong-kong/article/3373683/demerit-system-contractors-not-ruled-out-hong-kong-development-chief-says",
+        "summary": "Hong Kong authorities have not ruled out introducing a demerit points system for contractors, the development chief has said, after an independent inquiry into last year’s deadly Tai Po fire identified unscrupulous consultants and building professionals as the main culprits of the tragedy. Secretary for Development Bernadette Linn Hon-ho said on Sunday that the government was also considering introducing new conditions for homeowners who applied for its building maintenance subsidy scheme,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T07:18:22+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Will Democrats sway ‘unshackled’ Trump’s Russia-Ukraine stance after midterm rout?",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3373681/will-democrats-sway-unshackled-trumps-russia-ukraine-stance-after-midterm-rout",
+        "summary": "The Republicans’ defeat in the US midterm elections was watched closely in Russia, where some observers are predicting it could herald more support for Ukraine when the Democrats take over Congress in January. But if the Kremlin is hearing the ticking of a clock on its nearly five-year-old full-scale invasion of its neighbour, it seemingly remains unperturbed. Asked if the election’s outcome could stymie US attempts to help negotiate a settlement between Moscow and Kyiv, Kremlin spokesperson...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T07:00:34+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Who is Eisenkot, the former Israeli general expected to replace Netanyahu?",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3373679/who-eisenkot-former-israeli-general-expected-replace-netanyahu",
+        "summary": "Gadi Eisenkot, an unassuming former army chief of staff, has a pathway to Israel’s top job after President Isaac Herzog tapped him to form the next government. Should he succeed, he would take over as prime minister from Benjamin Netanyahu, Israel’s longest-serving leader whose inflammatory style has earned him as much admiration as it has outright hatred. Eisenkot, by contrast, is a reserved man, and some voters tired of Netanyahu see his rival’s relative lack of charisma as one of his greatest...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T05:33:31+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Why raising prices in Japan amid ‘insanely high’ inflation backfires on firms",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3373678/why-raising-prices-japan-amid-insanely-high-inflation-backfires-firms",
+        "summary": "When Japan’s “symbol of affordability” Uniqlo decided to increase the price of its basic socks last month, it sparked a backlash before the clothing titan made an immediate U-turn. That came after Italian-style family restaurant chain Saizeriya issued an almost grovelling apology as it decided to add 20 yen (US$0.13) to the price of its trademark Milanese Doria, lamenting its “lack of effort”. The very public angst, including in one of the world’s most recognisable clothing brands, highlights...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T05:30:22+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Hong Kong must build ‘reassuring’ environment amid political criticism: Paul Lam",
+        "url": "https://www.scmp.com/news/hong-kong/politics/article/3373677/hong-kong-must-build-reassuring-environment-amid-political-criticism-paul-lam",
+        "summary": "Hong Kong must focus on the “practical work” of building a safe and convenient environment and reassuring the international community amid criticism of its legal system, the justice minister has said, after 10 countries issued a joint statement decrying the latest jail sentence handed to opposition activist Joshua Wong Chi-fung. “It is inevitable that their criticism will continue … Political realities have to be dealt with, but I do not think we should allow them to distract us from our focus,”...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T04:36:22+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Hong Kong makes further inroads in AI, aviation at mainland Chinese expo",
+        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3373664/hong-kong-makes-further-roads-ai-aviation-mainland-chinese-expo",
+        "summary": "Hong Kong is forging deeper ties with the mainland across artificial intelligence (AI), aviation and professional services, industry insiders at China’s global import expo have said. Tech executives and accounting veterans discussed how to leverage Hong Kong’s strategic position, such as through the Northern Metropolis megaproject near the mainland Chinese border, while the city’s flag carrier introduced its refrigerated sea logistics link to Dongguan, Guangdong province. These were signs of a...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T04:00:35+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Only a fraction of World Heritage sites are in Africa. China wants to fix that",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3373662/only-fraction-world-heritage-sites-are-africa-china-wants-fix",
+        "summary": "Africa is home to ancient cities, rock art and striking natural landscapes, yet its sites are sorely under-represented on Unesco’s World Heritage List. According to data released by the UN body, of the 1,273 sites on the list – which are formally protected under the World Heritage Convention treaty – just 115 are in Africa. But as Beijing seeks closer cultural ties with the continent, it is offering help to change this through funding, guidance on how to navigate the nomination process and...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T04:00:32+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Southeast Asia’s green push brings solar power, but who pays to keep it on?",
+        "url": "https://www.scmp.com/week-asia/health-environment/article/3373551/southeast-asias-green-push-brings-solar-power-who-pays-keep-it",
+        "summary": "For most of his life, Osman Uki lived in a world dictated by the sun, relying on kerosene and leftover cooking oil to light his home in a remote indigenous village in Malaysia. That changed in April when solar power finally reached Kampung Bertang in the state of Pahang, allowing families to power electric lights, refrigerators and rice cookers. For Osman, one of the biggest changes is what happens after sunset. “We are happy with the light we have at night. The kids can read at night now. We...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T04:00:30+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Indonesians furious as Batam data centres drain taps: ‘we cannot cook without water’",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373676/indonesians-furious-batam-data-centres-drain-taps-we-cannot-cook-without-water",
+        "summary": "Cooking and bathing became difficult when taps ran dry in Batam, an Indonesian island where residents are protesting against data centres springing up to power the global artificial intelligence boom. The area had suffered a “long drought” caused by low rainfall, the local water utility operator said, as a strong El Nino cycle exacerbates dry weather. But, as in other countries, anger has been directed at the data centres, warehouse-like facilities that keep apps and AI tools running, with water...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-08T03:51:09+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
         "title": "Hong Kong’s Margaret Chan voted to lead World Health Organization in 2006 – SCMP archive",
         "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3373379/hong-kongs-margaret-chan-voted-lead-world-health-organization-2006-scmp-archive",
         "summary": "This article was first published on November 9, 2006. Margaret Chan wins WHO race in coup for China, HK by Mary Ann Benitez Hong Kong’s former director of health Margaret Chan Fung Fu-chun made history yesterday (November 8, 2006) when she was nominated World Health Organisation director-general in a resounding victory that saw her lead all the way in four rounds of voting. Dr Chan, 59, is expected to be endorsed today by the 193-member World Health Assembly, making her the first Chinese to lead...",
@@ -7578,9 +7844,9 @@
         "region": "east_asia"
       },
       {
-        "title": "Woman hurt in flat fire suspected to have been caused by aromatherapy items",
+        "title": "Woman dies after flat fire suspected to have been caused by aromatherapy products",
         "url": "https://www.scmp.com/news/hong-kong/society/article/3373665/woman-hurt-flat-fire-suspected-have-been-caused-aromatherapy-items",
-        "summary": "Hong Kong firefighters have rescued a 67-year-old woman from a flat in Tin Shui Wai after a blaze broke out, prompting about 100 people to flee. A preliminary investigation suggested aromatherapy items ignited objects in the flat. Police said officers were alerted at 5.39pm on Saturday after smoke was seen billowing from a flat at Locwood Court in the Kingswood Villas private estate. Firefighters forced entry into the flat, where they found the woman, and extinguished the fire, police said. The...",
+        "summary": "A 67-year-old woman died in hospital on Sunday, hours after firefighters rescued her from a Tin Shui Wai flat where a blaze had broken out. A preliminary investigation suggested aromatherapy products ignited objects in the flat, with the fire prompting about 100 residents to evacuate. Police said officers were alerted at 5.39pm on Saturday after smoke was seen billowing from a flat at Locwood Court in the Kingswood Villas private estate. Firefighters forced entry into the flat, where they found...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-07T15:12:44+00:00",
         "stream": "higher",
@@ -7643,270 +7909,6 @@
         "summary": "New Zealand’s ruling centre-right National Party and main opposition Labour were nearly deadlocked in the popular vote after initial counting in the nationwide general election on Saturday. Results from the Electoral Commission show that with more than 95 per cent of the ballots counted, both parties were polling just short of 30 per cent of the popular vote, with just a few thousand votes separating the two. A projection from New Zealand’s Electoral Commission ‌showed the current three-party...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-07T13:12:33+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "China-Switzerland trade partnership offers a model amid fraught EU ties",
-        "url": "https://www.scmp.com/opinion/china-opinion/article/3373312/china-switzerland-trade-partnership-offers-model-amid-fraught-eu-ties",
-        "summary": "China has framed its relationship with Switzerland as a model of practical, mutually beneficial cooperation at a time when its broader ties with the European Union remain more complicated and politically charged. Just before Swiss President Guy Parmelin’s recent visit to Beijing, a Chinese foreign ministry spokesman noted that 2026 marks the 10th anniversary of the China-Switzerland innovative strategic partnership, with adherence to free trade singled out as its principal...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T12:30:05+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Canadian plan to clear Hongkonger migration backlog welcomed but questions remain",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3373653/canadian-plan-clear-hongkonger-migration-backlog-welcomed-questions-remain",
-        "summary": "A Canadian goal of clearing a backlog of more than 30,000 applications from Hongkongers awaiting permanent residency is “encouraging” but questions remain about whether it can be achieved by 2027, advocates and immigration experts have said. Experts and Canadian parliamentarians said on Saturday that Ottawa’s new one-off measure to add more quota spaces to clear the Hong Kong immigration pathways backlog would help address the uncertainty facing tens of thousands from the city still waiting for...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T12:22:10+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Top China university stops using AI to spot absent-minded students after backlash",
-        "url": "https://www.scmp.com/news/china/science/article/3373599/top-china-university-stops-using-ai-spot-absent-minded-students-after-backlash",
-        "summary": "A top university in China’s eastern Jiangsu province has rolled back a controversial feature of its AI-powered classroom tracking system following fierce public backlash. Students at Nanjing University were recently notified by the university that it would begin using its “smart classroom” system – upgraded over the summer – to record full attendance rates over a one-week period, Chinese media reported on Wednesday. Outrage flared when leaked screenshots purportedly revealed the AI-powered...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T12:00:09+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Manila weighs second South China Sea legal case against Beijing: analyst",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3373651/manila-weighs-second-south-china-sea-legal-case-against-beijing-analyst",
-        "summary": "Manila is preparing for a potential second legal case against Beijing over the South China Sea, according to a Philippines-based security analyst. “Indeed, the Philippines is considering filing another case against China, and authorities are already preparing the necessary legal documentation,” said Rommel Banlaoi, president of the Philippine Society for International Security Studies, on Saturday. He made the remarks at a South China Sea symposium in the southern Chinese city of Sanya,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T11:10:52+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Trump’s war secretary Hegseth and Pacific Command chief Paparo may ‘soon visit China’",
-        "url": "https://www.scmp.com/news/china/military/article/3373649/trumps-war-secretary-hegseth-and-pacific-command-chief-paparo-may-soon-visit-china",
-        "summary": "Pentagon chief Pete Hegseth and US Pacific Command head Admiral Samuel Paparo may visit China “soon”, according to a veteran China hand. Stephen Orlins, president of the non-profit organisation National Committee on United States-China Relations (NCUSCR), disclosed the potential visit during a video address at a conference on Friday in Sanya, in southern China’s Hainan province. More than 400 Chinese officials, foreign diplomats and legal experts have gathered in the South China Sea resort city...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T11:06:25+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "China ‘Goddess of Mercy’ drone send-off reveals modern shift in funeral services",
-        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373629/china-goddess-mercy-drone-send-reveals-modern-shift-funeral-services",
-        "summary": "Videos showing a glowing Guanyin, or Goddess of Mercy, carried by a drone and another similar device disguised as a crane have attracted significant attention on Chinese social media. Together, the two devices recreate the traditional funeral send-off in which the deceased is said to “ascend to heaven.” In China, a common euphemism for someone who has died is that they have “ridden a crane to the Western Paradise,” or simply “gone west.” In the viral clips, released in early November, dozens of...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T10:00:14+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "About 30 substandard columns found at Hong Kong MTR station under construction",
-        "url": "https://www.scmp.com/news/hong-kong/transport/article/3373646/mtr-corporation-halts-unauthorised-remedial-works-station-after-column-concerns",
-        "summary": "Engineers have identified about 30 substandard columns at a Hong Kong railway station under construction, building authorities have revealed, with the MTR Corporation ordering the contractor to rectify the structures after discovering unauthorised remedial works. The Buildings Department said on Saturday that the structural engineering team for the Tung Chung West station project first identified the problem in early October. It involved a substandard concrete column on the platform of the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T09:20:29+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "US and China must join hands to measure rising AI tide",
-        "url": "https://www.scmp.com/opinion/china-opinion/article/3373279/us-and-china-must-join-hands-measure-rising-ai-tide",
-        "summary": "The next US-China talk on artificial intelligence should begin with a simple question: do the two governments actually understand how rapidly AI’s capabilities are improving? Before deciding what to do about the technology, Washington and Beijing need a common way to measure its progress. Chinese President Xi Jinping and US President Donald Trump are expected to meet in Shenzhen soon, and AI is set to remain high on their agenda. Their continued exchanges on this transformative technology are a...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T08:30:05+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Why China is investing heavily in African push to bring mineral processing home",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3373514/why-china-investing-heavily-african-push-bring-mineral-processing-home",
-        "summary": "Chinese investors have backed mineral processing and manufacturing projects worth more than US$16 billion across Africa, a new report has concluded, amid an increasing push by countries to secure a greater share of the earnings from their natural resources. The continent is a major international supplier of key minerals such as copper, cobalt and iron ore, and countries such as the Democratic Republic of Congo, Guinea and Zimbabwe have previously introduced mineral export bans or restrictions to...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T08:00:06+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Malaysia’s king warns against challenging Najib’s house arrest",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373642/malaysias-king-warns-against-challenging-najibs-house-arrest",
-        "summary": "Malaysia’s king warned on Saturday that any attempt to ⁠challenge his order ⁠letting former prime minister Najib Razak go ⁠from jail to house arrest could amount to defying his decree, a day after authorities delayed Najib’s transfer. Najib has been in jail since 2022 after being found guilty of corruption and money laundering in a case linked to a multibillion-dollar ‌scandal at state fund 1Malaysia Development Berhad. He has consistently denied wrongdoing. He was due to be transferred home on...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T07:32:16+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Ex-husband’s DNA found on hammer allegedly used to kill Abby Choi, prosecution says",
-        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373639/ex-husbands-dna-found-hammer-allegedly-used-kill-abby-choi-prosecution-says",
-        "summary": "Warning: graphic content follows. Slain Hong Kong socialite Abby Choi Tin-fung could have been fatally struck with a hammer that contained her ex-husband’s DNA when it was seized from a rural village flat where her dismembered remains were found, a court has heard. Wrapping up their case as the murder trial entered its sixth week, prosecutors highlighted forensic findings and surveillance camera footage showing the movements of Choi and three of her former in-laws before and after her alleged...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T07:00:06+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Chinese consulate in Melbourne demands justice after fatal stabbing of delivery worker",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3373640/chinese-consulate-melbourne-demands-justice-after-fatal-stabbing-delivery-worker",
-        "summary": "The Chinese consulate in Melbourne has urged local authorities to “severely punish” the person responsible for killing a Chinese delivery rider on Friday – a tragedy that has sparked mounting online outrage over delivery platform safety standards. The 47-year-old delivery worker from China’s northwestern Shaanxi province was stabbed to death while on the job and another rider was injured in the incident in downtown Melbourne on Friday evening. The attack occurred after the pair confronted a man...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T06:44:42+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "‘Hypocritical’: Hong Kong hits back at criticism of Joshua Wong’s sentence",
-        "url": "https://www.scmp.com/news/hong-kong/politics/article/3373638/hypocritical-hong-kong-hits-back-criticism-joshua-wongs-sentence",
-        "summary": "Hong Kong has hit back at a joint statement from 10 countries over the latest sentencing of opposition activist Joshua Wong Chi-fung, accusing them of distorting facts and smearing the city’s national security law. The rebuttal came after the US, Australia, Canada, France, Germany, Italy, Japan, the Netherlands, New Zealand and the UK issued a joint statement on Friday saying the sentencing of Wong, together with the earlier jailing of many others, showed how the city’s national security law was...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T06:31:27+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Air in India’s capital ranked world’s most polluted on eve of Diwali",
-        "url": "https://www.scmp.com/news/asia/south-asia/article/3373637/air-indias-capital-ranked-worlds-most-polluted-eve-diwali",
-        "summary": "New Delhi ranked as the world’s ⁠most polluted major ⁠city on Saturday ⁠morning, according to Swiss group IQAir, as the Indian capital faced severe pollution forecasts a day before Diwali, the Hindu festival of lights. India has ordered schools in and around Delhi to offer online classes and encouraged people to work from home ahead of Diwali on Sunday, which is usually marked by the widespread use of firecrackers ⁠that further worsen the air quality. IQAir ranked Delhi ‌first for air pollution...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T06:01:55+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Financial leaders tiptoe around Beijing’s asset scrutiny, hail Hong Kong’s wealth boom",
-        "url": "https://www.scmp.com/business/money/wealth/article/3373542/financial-leaders-tiptoe-around-beijings-asset-scrutiny-hail-hong-kongs-wealth-boom",
-        "summary": "Global financial leaders who gathered in Hong Kong this week largely sidestepped Beijing’s offshore trust tax crackdown, a lingering near-term hurdle for the city’s otherwise expanding wealth management industry. Beijing’s move earlier this year to step up scrutiny of wealthy families’ overseas assets was barely discussed openly at a series of financial industry events, including the Global Financial Leaders’ Investment Summit and the PWMA Wealth Management Industry Summit 2026, even as it...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T06:00:18+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Hong Kong paediatrician urges parents to vaccinate children as temperatures fall",
-        "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3373635/hong-kong-paediatrician-urges-parents-vaccinate-children-temperatures-fall",
-        "summary": "A Hong Kong paediatric expert has called on parents to arrange influenza vaccinations for their children ahead of cooler temperatures next week, warning of a double whammy of overlapping summer and winter flu seasons. The city has recorded 29 cases of severe paediatric influenza infection this flu season, two of which were fatal. Dr Mike Kwan Yat-wah, former president of the Asian Society for Paediatric Infectious Diseases, warned on Saturday that the city could see a longer flu season with the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T05:33:52+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "‘There could be anarchy’: Bangladesh’s garment sector unrest threatens economic disaster",
-        "url": "https://www.scmp.com/week-asia/economics/article/3373569/there-could-be-anarchy-bangladeshs-garment-unrest-threatens-economic-disaster",
-        "summary": "Garment workers in Bangladesh, the world’s second-largest clothing exporter after China, are demanding that their wages more than double – and their protests have brought a halt to production in factories supplying global brands including H&M, Zara and Walmart. Tens of thousands of workers have marched through Dhaka and the key industrial towns of Gazipur, Ashulia and Narayanganj in recent days demanding higher pay. Protests turned violent in several hubs, with factories vandalised and roads...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T05:00:06+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Trump confirms fresh Iran strikes days after voters punish war at polls",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3373633/trump-confirms-fresh-iran-strikes-days-after-voters-punish-war-polls",
-        "summary": "US President Donald Trump said the American military on Friday carried out new limited strikes on Iran, targeting an Iranian air defence system. Iranian state media reported the sound of two explosions in the Suza area of Qeshm Island, which is in a crucial waterway for oil shipments. Trump in an exchange with reporters described the military action as “minor”. “They knocked out – they built a little bit of an anti-aircraft device and we knocked it out in about 15 minutes, maybe five,” he told...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T04:25:50+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Test of trust for Hong Kong’s new housing checks unit after Wang Fuk Court blaze",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3373606/test-trust-hong-kongs-new-housing-checks-unit-after-wang-fuk-court-blaze",
-        "summary": "For former Wang Fuk Court resident Dorz Cheung, seeing will be believing when it comes to reforms initiated after the deadly inferno in Hong Kong’s Tai Po district. The 34-year-old questioned whether the new oversight bodies would prevent another disaster, saying systemic reforms to tackle shoddy building maintenance and bid-rigging could be undermined by poor implementation. “No matter how well the system is reformed, it is people who put it into practice. Even the best system will achieve...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T04:25:50+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "China to narrow scope of contentious detention and surveillance measure",
-        "url": "https://www.scmp.com/news/china/politics/article/3373546/china-narrow-scope-contentious-designated-location-surveillance-measure",
-        "summary": "Chinese lawmakers are proposing to restrict a contentious form of detention and police surveillance measure, among other changes to the country’s Criminal Procedure Law. Known as residential surveillance at a designated location (RSDL), the measure was originally intended as a mild restriction of personal freedoms to lower the rate of detention and arrest. Since RSDL’s introduction in 1996 and expansion in 2012, it has become the harshest form of detention used in state security cases, including...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T04:00:09+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "US regulator investigates tumour risk in children given Novartis gene therapy",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3373631/us-regulator-investigates-tumour-risk-children-given-novartis-gene-therapy",
-        "summary": "The US ⁠Food and Drug Administration said ⁠on Friday it was investigating a ⁠risk of neoplasia, or tumour formation including malignancy, associated with Novartis’ gene therapy Zolgensma. The Swiss drug maker earlier in the day disclosed two cases in which tumours in children showed evidence of being linked to its gene therapy drug used to treat patients less than ‌two years old with spinal muscular atrophy. Novartis said that it had received nine reports overall of tumours in patients...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T03:35:18+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Domestic helper arrested after allegedly spitting into 4-year-old girl’s food",
-        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373630/domestic-helper-arrested-after-allegedly-spitting-4-year-old-girls-food",
-        "summary": "A foreign domestic helper in Hong Kong has been arrested on suspicion of ill-treating a child after she allegedly spat into the food of a girl under her care, according to police. The mother of the four-year-old girl filed a police report at 9.28am on Friday, saying her 37-year-old Filipino helper had treated her daughter inappropriately. Initial police investigations at the family’s flat at The Belcher’s, a private residential estate in Kennedy Town, indicated that the helper had spat into the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-07T03:25:23+00:00",
         "stream": "higher",
         "streams": [
           "higher"
@@ -8386,6 +8388,19 @@
     ],
     "north_america": [
       {
+        "title": "Secretary of Education Says Virginia Will ‘Move the Achievement Needle Forward’",
+        "url": "https://www.the74million.org/article/secretary-of-education-says-virginia-will-move-the-achievement-needle-forward/",
+        "summary": "Gov. Abigail Spanberger’s administration is focused on early education and college and career readiness, two of several academic priorities ahead of the state’s next legislative session. Starting in January, the executive branch and lawmakers are expected to discuss a slate of K-12 topics, including school technology, expanding career and technical education and preparing children under […]",
+        "source": "The 74 Million",
+        "published": "2026-11-08T11:30:00+00:00",
+        "stream": "tvet",
+        "streams": [
+          "tvet",
+          "school"
+        ],
+        "region": "north_america"
+      },
+      {
         "title": "Texas Dems Vowed Seismic Education Change. Here’s How Schools Could Change for Millions of Students.",
         "url": "https://www.the74million.org/article/texas-dems-vowed-seismic-education-change-heres-how-schools-could-change-for-millions-of-students/",
         "summary": "From state takeovers to religion in classrooms to who’s overseeing public schools, Texas is poised to see a profound shift in K-12 education priorities after Democrats swept statewide elected offices, including the governor’s race, attorney general’s office and control of state House. Gina Hinojosa, a former Austin ISD school board president, became the first Democrat […]",
@@ -8847,18 +8862,6 @@
         "summary": "Jacqueline Kelly will oversee a criminal investigation into a former student’s allegations that she was raped in 2024.",
         "source": "New York Times — Education",
         "published": "2026-11-04T17:42:07+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Opinion: Democratic Governors Must Prove Education Is a Priority. Here’s Where to Start",
-        "url": "https://www.the74million.org/article/democratic-governors-must-prove-education-is-a-priority-heres-where-to-start/",
-        "summary": "Every Democratic governor says education matters. It’s the safest line in politics. But far fewer govern as if it does. That wasn’t always the case. Not long ago, Democratic governors led the country on education reform. Leaders like Jack Markell in Delaware, Phil Bredesen in Tennessee and Dannel Malloy in Connecticut made schools a central […]",
-        "source": "The 74 Million",
-        "published": "2026-11-04T17:30:00+00:00",
         "stream": "policy",
         "streams": [
           "policy"
