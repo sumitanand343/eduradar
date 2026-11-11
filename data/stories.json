@@ -332,6 +332,18 @@
     ],
     "school": [
       {
+        "title": "Inside NYC’s First Hip-Hop High School Where Students Freestyle Every Friday",
+        "url": "https://www.nytimes.com/2026/11/10/nyregion/bronx-school-hip-hop.html",
+        "summary": "In the South Bronx, the first program of its kind offers the same classes as any high school. Only these classes are infused with hip-hop.",
+        "source": "New York Times — Education",
+        "published": "2026-11-10T23:05:27+00:00",
+        "region": "north_america",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
         "title": "The Surprising Place Young People Get Emotional Support? AI",
         "url": "https://www.the74million.org/article/the-surprising-place-young-people-get-emotional-support-ai/",
         "summary": "",
@@ -344,13 +356,14 @@
         "stream": "school"
       },
       {
-        "title": "Inside NYC’s First Hip-Hop High School Where Students Freestyle Every Friday",
-        "url": "https://www.nytimes.com/2026/11/10/nyregion/bronx-school-hip-hop.html",
-        "summary": "In the South Bronx, the first program of its kind offers the same classes as any high school. Only these classes are dope.",
-        "source": "New York Times — Education",
-        "published": "2026-11-10T19:49:44+00:00",
-        "region": "north_america",
+        "title": "‘Children are not a pilot programme’: Lucy Calkins on use of AI in schools",
+        "url": "https://www.thehindu.com/education/children-are-not-a-pilot-programme-lucy-calkins-on-use-of-ai-in-schools/article71685428.ece",
+        "summary": "“In India, as in America, the crisis in literacy has become especially urgent because it is now painfully clear that by the time kids are in middle school, they can let AI take over their reading lives entirely.”",
+        "source": "The Hindu — Education",
+        "published": "2026-11-10T19:37:42+00:00",
+        "region": "south_asia",
         "streams": [
+          "edtech",
           "school"
         ],
         "stream": "school"
@@ -398,18 +411,6 @@
         "source": "The 74 Million",
         "published": "2026-11-10T11:30:00+00:00",
         "region": "north_america",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "Matric exams postponed in North Waziristan due to security situation",
-        "url": "https://www.dawn.com/news/2043499/matric-exams-postponed-in-north-waziristan-due-to-security-situation",
-        "summary": "BANNU: The Board of Intermediate and Secondary Education (BISE), Bannu, has postponed the Secondary School Certificate Second Annual Examination in North Waziristan due to the security situation while a curfew has also been imposed in the district’s Mir Ali area. The postponement of the exams was announced in a press release by the BISE on Nov 9, following the North Waziristan deputy commissioner’s instructions. A revised schedule for the examinations would be announced later, the press release said, adding that examinations at centres set up at Cadet College Razmak and in Bakakhel tehsil woul",
-        "source": "Dawn — Pakistan",
-        "published": "2026-11-10T09:25:03+00:00",
-        "region": "south_asia",
         "streams": [
           "school"
         ],
@@ -1162,7 +1163,175 @@
     ],
     "higher": [
       {
-        "title": "How Asian-American campaigners helped turn the US’ deep-red South blue",
+        "title": "Bessent urges US, China to ‘de-risk, not decouple’ as Xie points to ‘red lines’",
+        "url": "https://www.scmp.com/news/us/article/3374011/bessent-urges-us-china-de-risk-not-decouple-xie-points-red-lines",
+        "summary": "US Treasury Secretary Scott Bessent called for a more balanced trade relationship with China, with the objective to “de-risk, not decouple”, as Chinese ambassador Xie Feng spoke of adhering to “red lines” at an event in New York on Tuesday. “Trade must advance the interests of both parties without diminishing the sovereignty of either,” said Bessent, while emphasising that US-China ties were defined by the relationship between their leaders, who are due to meet next week for a summit. “That...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T03:30:23+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Written in bone: China bets on ancient scripts for modern soft power",
+        "url": "https://www.scmp.com/news/china/politics/article/3373970/written-bone-china-bets-ancient-scripts-modern-soft-power",
+        "summary": "China has established an institute dedicated to preserving rare and endangered historical disciplines, advancing Beijing’s push to elevate traditional culture as a pillar of its soft power and national narrative. The institute was inaugurated at the University of Chinese Academy of Social Sciences (UCASS) in Beijing on Friday, alongside the launch of an association to consolidate nationwide resources involving the studies. The institute includes a dozen ancient ethnic minority scripts such as...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T03:00:38+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Japan to fortify denial capabilities with US in defence strategy revamp",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3374009/japan-fortify-denial-capabilities-us-defence-strategy-revamp",
+        "summary": "Japan is considering including a commitment to strengthening its “capabilities to deny” an adversary’s aggression in coordination with the United States in a major defence policy document to be revised later this year, government sources said on Tuesday. The basic guidelines for the National Defence Strategy will also call for expanded Japan-US cooperation to strengthen the defence industrial base and deeper security ties with like-minded countries, the sources said. The National Security...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T02:40:57+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Deal vs deal? US, China trade calls to honour commitments before Xi-Trump summit",
+        "url": "https://www.scmp.com/news/us/diplomacy/article/3374008/deal-vs-deal-us-china-trade-calls-honour-commitments-trump-xi-summit",
+        "summary": "During a video call on Friday, US Trade Representative Jamieson Greer and Treasury Secretary Scott Bessent urged Chinese Vice-Premier He Lifeng to uphold China’s previous commitments on agricultural goods and rare earth exports. A day earlier, Beijing reminded Washington to implement another deal – reciprocal tariff cuts covering US$30 billion worth of products on each side – as a precondition to buying more American farm products. Just days before President Donald Trump meets Chinese leader Xi...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T02:34:23+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "India moves to retain military recruits amid border risks and troop gaps",
+        "url": "https://www.scmp.com/week-asia/politics/article/3373965/india-moves-retain-military-recruits-amid-border-risks-and-troop-gaps",
+        "summary": "Thousands of Indian soldiers who would otherwise leave the military after four years will be kept on duty, in a major rethink of the country’s controversial recruitment model as New Delhi grapples with persistent manpower shortages and security concerns along its borders with China and Pakistan, analysts say. Under revisions approved by the federal cabinet last Tuesday, more than 18,000 recruits from the inaugural batch of the Agnipath (“Path of Fire”) scheme will be granted a two-year service...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T02:30:29+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "China dad modifies TV to quiz son on school subjects every 10 minutes to curb screen addiction",
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3374007/china-dad-modifies-tv-quiz-son-school-subjects-every-10-minutes-curb-screen-addiction",
+        "summary": "A father in southern China used artificial intelligence (AI) to modify his home TV system and tackle his son’s TV addiction. The system requires the boy to answer academic questions every 10 minutes to continue watching. His method has gone viral on mainland Chinese social media, with many parents asking him to share a tutorial on modifying their TV sets, Shenzhen TV reported. The father, from Shenzhen, was not named in the report. He said that while he works as a taxi driver, his son, a junior...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T02:11:27+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Connecting legal expertise with global opportunities at Hong Kong Legal Week 2026",
+        "url": "https://www.scmp.com/presented/news/hong-kong/topics/hong-kong-legal-week-2026/article/3373913/connecting-legal-expertise-global-opportunities-hong-kong-legal-week-2026",
+        "summary": "[The content of this article has been produced by our advertising partner.] Hong Kong became the first overseas base for the International Institute for the Unification of Private Law (UNIDROIT) in its 100-year history, advancing efforts to harmonise private law across the Asia Pacific region. The historic debut was a highlight of Hong Kong Legal Week 2026, the Department of Justice's (DoJ) five-day flagship event. Under the theme \"Collaboration & Innovation: Legal Synergy for a Shared Future\",...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T02:00:56+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "China, Russia and US try to nail down AI nuclear agenda in time for Apec talks",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3374003/china-russia-and-us-try-nail-down-ai-nuclear-agenda-time-apec-talks",
+        "summary": "Talks between China, the US and Russia could yield a commitment to control AI in nuclear arsenals as part of a broader agenda on global governance, sources told the South China Morning Post. The three nations have engaged in weeks of back-and-forth discussion to nail down the agenda and protocol for talks between the countries’ leaders on the sidelines of the Apec summit in Shenzhen next week. The sources said that the war in Ukraine and denuclearisation of the Korean peninsula had largely...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T01:05:15+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "From local courts to the world stage",
+        "url": "https://www.scmp.com/presented/news/hong-kong/topics/hang-seng-table-tennis-academy/article/3372183/local-courts-world-stage",
+        "summary": "[The content of this article has been produced by our advertising partner.] A table tennis rally can turn in an instant. A change of spin, a sharply angled return or a moment’s hesitation can decide the point. At the highest level, players must read their opponents and make decisions almost before the ball leaves the bat. Those skills will be on show at Kai Tak Arena from 9 to 13 December, when some of the world’s leading players compete at the WTT Finals Hong Kong 2026. For the city’s aspiring...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T01:00:06+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "A fare fight? What Hong Kong’s ride-hailing shake-up means for passengers",
+        "url": "https://www.scmp.com/news/hong-kong/transport/article/3373963/fare-fight-what-hong-kongs-ride-hailing-shake-means-passengers",
+        "summary": "With eight companies vying for licences to provide ride-hailing services in Hong Kong under the new regulatory regime, industry observers expect a price war that will initially benefit passengers through lower fares. But some warned that competition could eventually force weaker operators out of the market, leaving dominant players free to raise prices. “The ride-hailing firms will fight to reduce fares in the beginning to grab their loyal customers,” said Chau Kwok-keung, chairman of the Hong...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T00:30:07+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Embrace paper exams to combat AI cheating, warns UK universities regulator",
+        "url": "https://www.ft.com/content/2ada6998-26d2-4aab-89ad-11a50f0eb65a?syn-25a6b1a6=1",
+        "summary": "Office for Students says technology poses ‘generational risk’ to sector’s integrity and reputation",
+        "source": "Financial Times — Education",
+        "published": "2026-11-11T00:01:09+00:00",
+        "region": "global",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Will China’s maritime moves push Japan and South Korea closer together?",
+        "url": "https://www.scmp.com/week-asia/politics/article/3373971/will-chinas-maritime-moves-push-japan-and-south-korea-closer-together",
+        "summary": "China’s growing naval presence in the waters between Japan and South Korea could give the two neighbours a new incentive to overcome long-standing historical tensions and strengthen security cooperation, according to analysts. A reported sharp increase in Chinese warships and coastguard vessels passing through the strait that separates the two countries, some operating alongside Russian forces, has raised concerns about Beijing’s expanding maritime reach. The strait, which links the East China...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T00:00:16+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "US charges 3 ‘Iranian operatives’ over UK airbase plot",
+        "url": "https://www.scmp.com/news/world/europe/article/3374002/us-charges-3-iranian-operatives-over-uk-airbase-plot",
+        "summary": "The US Justice Department on Tuesday announced charges against three men it described as “Iranian operatives”, including one already in jail, over their role in an alleged terrorist plot at Britain’s RAF Fairford airbase. Mohammad Baqer Saad Dawood al-Saadi, Mohsen Mohajeri and Mohammad Ali al-Hassani allegedly helped plan and direct the September incident at the base, which has been used by the US military in its operations against Iran. Police were called to the Fairford site in southwest...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-10T23:48:14+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "What the future holds for M+ as the Hong Kong museum celebrates fifth anniversary",
+        "url": "https://www.scmp.com/lifestyle/arts/article/3373882/what-future-holds-m-hong-kong-museum-celebrates-5th-anniversary",
+        "summary": "It has been quite a birthday celebration. Ahead of the fifth anniversary of M+ on November 12, the directors of New York’s Museum of Modern Art (MoMA) and Paris’ Centre Pompidou touched down in Hong Kong to finalise a tripartite alliance with the young museum. The formal pact will see two of the world’s pre-eminent modern art museums share collections and programming with M+ on equal footing. On October 31, it was signed, sealed and toasted with high-wattage glamour at the museum’s fundraising...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-10T23:15:04+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "How Asian-American campaigners helped turn the US deep-red South blue",
         "url": "https://www.scmp.com/news/china/diplomacy/article/3374001/how-asian-american-campaigners-helped-turn-us-deep-red-south-blue",
         "summary": "On tote bags distributed by Asian-owned businesses in the US state of Georgia, three Asian-American women appeared in a design inspired by the Three Ladies rice brand. The bags were part of a campaign that put a voting twist on the online “Asian baby girl” meme. “We had an ‘Asian Ballot Girls’ campaign,” said Chany Chea, programme director of the Asian-American Advocacy Fund. “We had merch which went viral.” As Democrats won races in Republican strongholds across the southern United States in...",
         "source": "South China Morning Post — Education",
@@ -1210,9 +1379,9 @@
         "stream": "higher"
       },
       {
-        "title": "Thomas Markle, father of Meghan, back in jail after cutting off ankle monitor",
+        "title": "Meghan’s father Thomas Markle jailed after cutting off ankle monitor",
         "url": "https://www.scmp.com/news/world/united-states-canada/article/3373999/thomas-markle-father-meghan-cut-ankle-monitor-days-after-arrest",
-        "summary": "The 82-year-old estranged father of Meghan, the Duchess of Sussex, cut an electronic monitoring device off his ankle, just days after his arrest for keeping child sexual abuse material in storage units in California, authorities said on Tuesday. He was arrested shortly after he cut off the ankle bracelet at 1.45am, First Assistant US Attorney Bill Essayli said. US Magistrate Judge Lindsay Saxe Griffin on Tuesday ordered Markle returned to federal detention without bond at a hearing in Tampa,...",
+        "summary": "The 82-year-old estranged father of Meghan, the Duchess of Sussex, was ordered to jail Tuesday because he removed an electronic monitoring device from his ankle, just days after he was charged with possession of child sexual abuse material. Thomas Markle was arrested and appeared in federal court in Tampa, Florida, after authorities learned he had cut off the device at 1.45am, First Assistant US Attorney Bill Essayli said. “Release conditions are court orders, not suggestions,” Essayli...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-10T20:44:24+00:00",
         "region": "east_asia",
@@ -1282,7 +1451,7 @@
         "stream": "higher"
       },
       {
-        "title": "After fridge hacks, home appliances could be next, EU cyber chief warns",
+        "title": "Home appliances could be next after supermarket fridge hacks, EU cyber chief warns",
         "url": "https://www.scmp.com/news/world/europe/article/3373993/after-fridge-hacks-home-appliances-could-be-next-eu-cyber-chief-warns",
         "summary": "After recent attacks on supermarket fridges, home appliances could be next, the EU’s cyber chief said on Tuesday, as he urged Europe to invest more to counter growing cyber threats. Supermarkets in at least 12 European countries were hit by cyberattacks in October and November, with France the worst affected. “Security should not and cannot be an afterthought,” Juhan Lepassaar, executive director of the EU’s cybersecurity agency ENISA, said. “Today it was fridges, tomorrow it could be routers,...",
         "source": "South China Morning Post — Education",
@@ -1294,7 +1463,7 @@
         "stream": "higher"
       },
       {
-        "title": "US again fails to show at UN for its human rights review",
+        "title": "Seats left empty in Geneva as US skips UN human rights review",
         "url": "https://www.scmp.com/news/world/united-states-canada/article/3373992/us-again-fails-show-un-its-human-rights-review",
         "summary": "The UN’s top human rights body on Tuesday postponed a regular review of the US human rights record until January in hopes of persuading the Trump administration to reverse its decision to become the first government to snub the process. The move by the Human Rights Council buys it more time to try to coax Washington to take part in the review. The council’s 47 member countries adopted without a vote the decision to delay the US review – amid “continued non-cooperation” with its process. The...",
         "source": "South China Morning Post — Education",
@@ -1342,9 +1511,9 @@
         "stream": "higher"
       },
       {
-        "title": "US’ Hegseth calls impeachment bid a ‘farce’ as he defends Iran war",
+        "title": "Pentagon chief Hegseth defiant as US House blocks impeachment effort",
         "url": "https://www.scmp.com/news/us/politics/article/3373990/hegseth-calls-impeachment-bid-farce-he-defends-iran-war",
-        "summary": "US Secretary of Defence Pete Hegseth called an impeachment bill against him a “farce” on Tuesday, defending the ongoing war in Iran and the air strikes against drug traffickers as “lawful operation”. Speaking at his first press conference in more than 180 days, Hegseth described Thomas Massie, a Republican lawmaker who introduced the impeachment bill against him on Monday, as “one disgruntled and defeated congressman” who is attempting to “damage” US President Donald Trump due to a “personal...",
+        "summary": "The US House of Representatives on Tuesday voted to effectively shelve an impeachment resolution against Defence Secretary Pete Hegseth, hours after the embattled Pentagon chief branded the effort to oust him a “farce” and mounted a fiery defence of the Iran war. Speaking at his first press conference in more than 180 days, Hegseth described Thomas Massie, a Republican lawmaker who introduced the impeachment resolution against him on Monday, as “one disgruntled and defeated congressman” who is...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-10T15:26:43+00:00",
         "region": "east_asia",
@@ -1366,9 +1535,9 @@
         "stream": "higher"
       },
       {
-        "title": "UK children’s author David Walliams accused of sexual assault – denies claims",
+        "title": "UK children’s author David Walliams accused of sexual misconduct – denies claims",
         "url": "https://www.scmp.com/news/world/europe/article/3373989/uk-childrens-author-david-walliams-accused-sexual-misconduct",
-        "summary": "British children’s author and comedian David Walliams used his fame to groom girls and young women for sex, two British news outlets reported on Tuesday. ITV News and the Guardian newspaper said they spoke with multiple women who accused Walliams of preying on them. One woman said he sexually assaulted her when she was 15. Walliams, 55, denied the allegations. He had sought a court injunction to bar ITV News and the Guardian from identifying him in their reporting. His lawyers claimed that...",
+        "summary": "British children’s author and comedian David Walliams used his fame to groom girls and young women for sex, two British news outlets reported on Tuesday. ITV News and the Guardian newspaper said their joint investigation featured interviews with multiple women who gave first-hand accounts of Walliams’ conduct. One woman alleged she was sexually assaulted by Walliams at his London home when she was 15, while others accused him of grooming them when they were teens. Walliams, 55, denied the...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-10T15:12:41+00:00",
         "region": "east_asia",
@@ -1678,35 +1847,11 @@
         "stream": "higher"
       },
       {
-        "title": "Indonesian VP Gibran’s fate hangs in balance as parliament ponders probe",
+        "title": "Indonesian VP Gibran offers to resign as Prabowo-Widodo cracks widen",
         "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373961/indonesian-vp-gibrans-fate-hangs-balance-parliament-ponders-probe",
-        "summary": "Indonesia’s parliament reconvened on Tuesday with lawmakers weighing the possibility of a probe into the eligibility of Vice-President Gibran Rakabuming Raka, amid a widening political rift between his influential father and President Prabowo Subianto. As son of the hugely popular two-term former President Joko Widodo, Gibran helped Prabowo win the ‌2024 election by a huge margin, but some lawmakers are seeking to investigate whether his incomplete education documents disqualify him as...",
+        "summary": "Indonesia’s Vice-President Gibran Rakabuming Raka offered to resign at a meeting on Tuesday with President Prabowo Subianto, a senior official said, as lawmakers consider an investigation into whether he was eligible to stand in the 2024 election. “The vice-president expressed his intention to resign in light of the evolving situation,” presidential spokesperson Prasetyo ‌Hadi told reporters. Prasetyo denied reports that Prabowo rejected Gibran’s request, but stopped short of saying the...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-10T10:49:15+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Who is Alice Huang and why is her relationship with Nvidia’s CEO under scrutiny?",
-        "url": "https://www.scmp.com/tech/tech-war/article/3373960/who-alice-huang-and-why-her-relationship-nvidias-ceo-under-scrutiny",
-        "summary": "Nvidia founder and CEO Jensen Huang has admitted to having an extramarital affair as the chipmaker investigates reported allegations that a Chinese businesswoman close to him may have been working for Beijing’s intelligence services. Beijing has rejected the espionage claims as “baseless”, while Nvidia has said it had no reason to believe company secrets or US national security were compromised. The controversy wiped about US$190 billion off the chipmaker’s market value in a single day. US...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T10:40:24+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "China’s top general targets PLA arms in call for joint military-civilian corruption watch",
-        "url": "https://www.scmp.com/news/china/politics/article/3373957/chinas-top-general-targets-pla-arms-call-joint-military-civilian-corruption-watch",
-        "summary": "China’s most senior general has called for joint efforts by military and civilian officials to combat corruption within the People’s Liberation Army, specifically targeting the development of major weapons systems. General Zhang Shengmin, vice-chairman of the Central Military Commission (CMC) and a former PLA anti-corruption chief, made the remarks in a supplementary reader for the resolution adopted at the Communist Party’s latest plenum. Published earlier this month, the collection features...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T10:37:03+00:00",
         "region": "east_asia",
         "streams": [
           "higher"
@@ -1726,132 +1871,12 @@
         "stream": "higher"
       },
       {
-        "title": "Indonesian fires: twin helicopter crashes expose fragile safety margins",
-        "url": "https://www.scmp.com/week-asia/health-environment/article/3373954/indonesian-fires-twin-helicopter-crashes-expose-fragile-safety-margins",
-        "summary": "Four deaths in two helicopter crashes within five days have raised questions about the dangers facing those fighting Indonesia’s massive forest fires, prompting a government review on aerial firefighting efforts. But those dangers extend beyond the skies, with volunteer firefighters on the ground describing inadequate protective equipment, scarce water supplies and peatland fires that can suddenly erupt beneath their feet. On November 4, an Indonesian army Mi-17V5 transport helicopter carrying...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T10:18:14+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Could US Marines sustain a war with China? Officers warn of Pacific weaknesses",
-        "url": "https://www.scmp.com/news/china/military/article/3373938/could-us-marines-sustain-war-china-officers-warn-pacific-weaknesses",
-        "summary": "US Marines deployed across the western Pacific could struggle to sustain their forces, move missile batteries and secure permission to launch operations from allied territory in a conflict with China, according to assessments by Marine Corps officers and independent analysts. Writing separately in the November issue of the US Naval Institute’s Proceedings journal, retired lieutenant general Stephen Sklenka and serving Lieutenant Colonel Merritt Mitchell identified vulnerabilities in the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T10:00:11+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Why inhabitants of China’s 5,000-year-old cultural capital buried a stunning ancient palace",
-        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373925/why-inhabitants-chinas-5000-year-old-cultural-capital-buried-stunning-ancient-palace",
-        "summary": "The ancient palace would have been considered a crown jewel of its people. Foreigners would have admired it with awe, and locals would have held it in great esteem. Then, 5,000 years ago, the villagers deliberately buried it, and we do not know why. A team of scientists announced several updates in mid-October about their work at Nanzuo, an ancient capital city near Qingyang, Gansu, in northwest China. Most of the updates concerned a central palace that would have been the cultural hub of the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T10:00:10+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Loke resigns after Malaysia court clears Najib to start house arrest",
-        "url": "https://www.scmp.com/week-asia/people/article/3373950/malaysia-court-clears-najib-begin-house-arrest",
-        "summary": "Malaysia’s former prime minister Najib Razak arrived home on Tuesday, hours after the High Court cleared the way for him to start serving the remainder of his prison sentence under house arrest. Najib was driven in a silver SUV to his house in Kuala Lumpur’s affluent suburb of Taman Duta at 9.27pm, local news outlets reported. The car was escorted by several other vehicles from the Prison Department and the Royal Malaysian Police. His prison exit triggered Transport Minister Anthony Loke’s...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T09:41:36+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "US withdraws military aircraft from second UK airbase after Iran threat: reports",
-        "url": "https://www.scmp.com/news/world/europe/article/3373947/us-withdraws-9-military-aircraft-second-uk-airbase-after-iran-threat-reports",
-        "summary": "The United States has withdrawn military aircraft from a second British airbase following a threat from Iran, the Wall Street Journal (WSJ) reported, citing people familiar with events. A number of American refuelling tankers were evacuated on Monday from Mildenhall Royal Air Force (RAF) base in eastern England after the purported threat, the newspaper said. Sky News said on Tuesday that 12 aircraft – nine tankers and three Osprey transporters – left Mildenhall on Monday, citing flight tracking...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T09:27:05+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "UK remains ‘much valued business partner’ to Hong Kong, John Lee says",
-        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3373946/uk-remains-much-valued-business-partner-hong-kong-john-lee-says",
-        "summary": "The United Kingdom remains a “much valued business partner” to Hong Kong, the city’s leader has said, while calling on British companies, investors and universities to explore opportunities in the Northern Metropolis. Speaking at the annual summit of the British Chamber of Commerce in Hong Kong on Tuesday, Chief Executive John Lee Ka-chiu also said the development of the university towns in the megaproject near the border with mainland China offered a timely opportunity for both sides to deepen...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T09:26:51+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
         "title": "Germany and Ireland emerge as preferred destinations for higher education for Indian students",
         "url": "https://www.thehindu.com/news/national/karnataka/germany-and-ireland-emerge-as-preferred-destinations-for-higher-education-for-indian-students/article71683039.ece",
         "summary": "Out of more than 60,000 students who are going to Germany, 12,000 students (20%), are from Karnataka, says Karan Lalit, Executive Director, South Asia, TOEFL and GRE",
         "source": "The Hindu — Education",
         "published": "2026-11-10T09:10:47+00:00",
         "region": "south_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Indonesia’s 100GW solar plan needs China, but who pays the US$73 billion bill?",
-        "url": "https://www.scmp.com/week-asia/economics/article/3373939/indonesias-100gw-solar-plan-needs-china-who-pays-us73-billion-bill",
-        "summary": "Indonesia is turning to China for a major expansion of solar power and energy storage, but a new report warns that a multibillion-dollar funding gap and demands for greater domestic control will complicate the plan as the country’s energy ties deepen. The report, published on Monday by the Jakarta-based Centre of Economic and Law Studies (Celios), found that Chinese investment in Indonesia’s energy sector was expanding beyond nickel processing and electric-vehicle battery production, which had...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T09:08:03+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Chinese delivery rider’s death in Melbourne ignites safety debate ahead of poll",
-        "url": "https://www.scmp.com/week-asia/people/article/3373937/chinese-delivery-riders-death-melbourne-ignites-safety-debate-ahead-poll",
-        "summary": "The killing of a Chinese food delivery rider in Melbourne has renewed safety concerns across the city just weeks ahead of the Victorian state election, where law and order is expected to be a key campaign battleground. Feng Jianming, a 47-year-old Chinese national from Shaanxi province, worked as a rider for HungryPanda – a UK-headquartered delivery platform catering to the Chinese diaspora across 10 countries, including Australia. Feng died of stab wounds last Friday night near Melbourne’s...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T09:04:57+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Richard Li’s FWD sets world record with sale of US$318m life insurance policy",
-        "url": "https://www.scmp.com/business/banking-finance/article/3373928/richard-lis-fwd-sets-world-record-sale-us318m-life-insurance-policy",
-        "summary": "FWD Private (Bermuda), a unit of Hong Kong-listed FWD Group founded by billionaire Richard Li Tzar-kai, has set a new Guinness World Record by selling a US$318 million life insurance policy, the companies said in separate announcements on Tuesday. The record-breaking sale surpasses the previous record of US$300 million set by Manulife Singapore in February this year. Previously, HSBC Life Hong Kong sold a world record US$250 million life policy in early 2024. FWD did not name the client but said...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T09:00:22+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’",
-        "url": "https://www.scmp.com/week-asia/politics/article/3373911/nvidias-jensen-huang-scandal-casts-shadow-over-south-koreas-chip-bromance",
-        "summary": "South Korea is facing growing concerns over the fallout from Nvidia CEO Jensen Huang’s alleged affair with a woman suspected of being a Chinese spy, amid fears that the scandal could disrupt global AI supply chains and trigger tighter US export controls on Seoul’s semiconductor champions. The highly publicised “bromance” between Huang and South Korea’s top technology leaders – notably Samsung Electronics executive chairman Lee Jae-yong and SK Group chairman Chey Tae-won – has played a crucial...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T09:00:17+00:00",
-        "region": "east_asia",
         "streams": [
           "higher"
         ],
@@ -1876,18 +1901,6 @@
         "source": "EdNews Africa",
         "published": "2026-11-10T08:57:32+00:00",
         "region": "east_africa",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Eurovision makes historic Asian debut, but will Gen Z fans tune in?",
-        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3373933/eurovision-makes-historic-asian-debut-will-gen-z-fans-tune",
-        "summary": "Eurovision, the live song contest that has launched the likes of Abba, Celine Dion and Olivia Newton-John onto the world stage, is set to make its Asia debut in Bangkok this weekend, with a coterie of singers from South Korea and Bangladesh to Malaysia, Thailand and Vietnam. Organisers of the 11-country contest are hoping to tap Asia’s thriving fan culture and love of music – and at the same time sidestep some of the gaffes and geopolitical controversies that have made the European event an...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T08:46:45+00:00",
-        "region": "east_asia",
         "streams": [
           "higher"
         ],
@@ -2104,18 +2117,6 @@
         "source": "EdNews Africa",
         "published": "2026-11-09T06:43:29+00:00",
         "region": "east_africa",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "OPINION: Higher education has many important stories to tell. So, let’s hear them",
-        "url": "https://hechingerreport.org/opinion-higher-education-has-many-important-stories-to-tell-so-lets-hear-them/",
-        "summary": "Higher education is at least partly responsible for its slide in public trust and perceived value to society. It needs to act now to restore confidence in its usefulness. The loss of trust is real and across the board. The proportion of Americans who say a college education is “very important” has dropped to an […] The post OPINION: Higher education has many important stories to tell. So, let’s hear them appeared first on The Hechinger Report .",
-        "source": "Hechinger Report",
-        "published": "2026-11-09T05:45:00+00:00",
-        "region": "north_america",
         "streams": [
           "higher"
         ],
@@ -2811,6 +2812,19 @@
         "region": "global",
         "streams": [
           "edtech"
+        ],
+        "stream": "edtech"
+      },
+      {
+        "title": "‘Children are not a pilot programme’: Lucy Calkins on use of AI in schools",
+        "url": "https://www.thehindu.com/education/children-are-not-a-pilot-programme-lucy-calkins-on-use-of-ai-in-schools/article71685428.ece",
+        "summary": "“In India, as in America, the crisis in literacy has become especially urgent because it is now painfully clear that by the time kids are in middle school, they can let AI take over their reading lives entirely.”",
+        "source": "The Hindu — Education",
+        "published": "2026-11-10T19:37:42+00:00",
+        "region": "south_asia",
+        "streams": [
+          "edtech",
+          "school"
         ],
         "stream": "edtech"
       },
@@ -3750,18 +3764,6 @@
           "edtech"
         ],
         "stream": "edtech"
-      },
-      {
-        "title": "15 college students share their favorite Gemini features",
-        "url": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
-        "summary": "Three young adults gathered around a laptop looking at its screen",
-        "source": "Google for Education — Blog",
-        "published": "2026-10-26T16:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
       }
     ],
     "policy": [
@@ -3770,8 +3772,44 @@
         "url": "https://kathmandupost.com/province-no-5/2026/11/10/students-turn-their-school-s-flower-farm-into-a-tihar-business",
         "summary": "With marigolds in full bloom, students of a school in Arghakhanchi are spending their holiday harvesting and selling flowers, putting their agricultural training into practice.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-11-10T22:42:01.160120+00:00",
+        "published": "2026-11-11T03:58:13.338410+00:00",
         "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Richard Holmes, Who Integrated Mississippi State University, Has Died",
+        "url": "https://www.nytimes.com/2026/11/10/obituaries/richard-holmes-mississippi-state-university-dead.html",
+        "summary": "When he stepped onto campus in 1965, he said, he was met with “curiosity and disbelief.”",
+        "source": "New York Times — Education",
+        "published": "2026-11-11T01:52:43+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Speedboat hits night-fishing boat, 9 tourists injured",
+        "url": "https://www.bangkokpost.com/learning/easy/3352745/speedboat-hits-nightfishing-boat-9-tourists-injured",
+        "summary": "Nine people were hurt when a speedboat crashed into a fishing boat off Cape Bali Hai in Pattaya late Monday night.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-11T01:02:00+00:00",
+        "region": "southeast_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "THAI passenger data compromised in security breach",
+        "url": "https://www.bangkokpost.com/learning/easy/3352740/thai-passenger-data-compromised-in-security-breach",
+        "summary": "Personal data of 60,529 passengers who booked flights with Thai Airways International (THAI) was compromised during three years of cybersecurity breaches at global travel platform provider Amadeus, the national carrier revealed on Tuesday.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-11T00:55:00+00:00",
+        "region": "southeast_asia",
         "streams": [
           "policy"
         ],
@@ -3782,8 +3820,20 @@
         "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-colorado-transgender.html",
         "summary": "Trump administration officials had accused the district of allowing boys on girls’ teams, which they said violated a ban on sex discrimination in schools.",
         "source": "New York Times — Education",
-        "published": "2026-11-10T22:34:01+00:00",
+        "published": "2026-11-11T00:48:37+00:00",
         "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Students passing university assessments in minutes using AI, regulator warns",
+        "url": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Office for Students says students can frequently use AI \"in ways that cannot be reliably detected\".",
+        "source": "BBC — Education",
+        "published": "2026-11-11T00:21:21+00:00",
+        "region": "global",
         "streams": [
           "policy"
         ],
@@ -3914,8 +3964,20 @@
         "url": "https://www.nytimes.com/2026/11/10/nyregion/new-york-city-students-homeless.html",
         "summary": "The number of children without permanent homes dropped from a record high, but advocates warned that the crisis had probably not eased.",
         "source": "New York Times — Education",
-        "published": "2026-11-10T13:28:58+00:00",
+        "published": "2026-11-10T13:28:59+00:00",
         "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "India in QS Rankings: climbing the ladder, but missing the goalpost?",
+        "url": "https://www.thehindu.com/education/india-in-qs-rankings-climbing-the-ladder-but-missing-the-goalpost/article71685269.ece",
+        "summary": "No Indian institution is in the global top 100 for academic reputation, which has the highest weightage of 30%. Only about 6% of Indian institutions improved the faculty–student ratio in 2027, while roughly 30% declined, followed by a steep 63% decline in the previous year.",
+        "source": "The Hindu — Education",
+        "published": "2026-11-10T12:32:56+00:00",
+        "region": "south_asia",
         "streams": [
           "policy"
         ],
@@ -4582,18 +4644,6 @@
         "stream": "policy"
       },
       {
-        "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
-        "url": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
-        "summary": "A student made plans to end her life after chatting with Google’s artificial intelligence, a new lawsuit claims, amid mounting concerns about online harms to children.",
-        "source": "New York Times — Education",
-        "published": "2026-11-05T19:27:58+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
         "title": "Centre tells Supreme Court it may set up a panel to review UGC equity on campus regulations",
         "url": "https://www.thehindu.com/news/national/centre-tells-supreme-court-about-setting-up-of-special-committee-to-re-examine-ugcs-2026-equity-regulations/article71670397.ece",
         "summary": "The Centre said it was examining criticism about the Regulations, which had sparked protests by upper-caste student groups; the Court had stayed the regulations in January, stating that they were “too vague”",
@@ -4654,30 +4704,6 @@
         "stream": "policy"
       },
       {
-        "title": "Fossil of 30kg giant rat found in Krabi",
-        "url": "https://www.bangkokpost.com/learning/easy/3349115/fossil-of-30kg-giant-rat-found-in-krabi",
-        "summary": "The fossil of a giant rat believed to have weighed about 30 kilogrammes has been discovered in Krabi province in southern Thailand.",
-        "source": "Bangkok Post — Education (Thailand)",
-        "published": "2026-11-05T00:56:00+00:00",
-        "region": "southeast_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "THAI jet returns to Shanghai after cockpit window cracks",
-        "url": "https://www.bangkokpost.com/learning/advanced/3349111/thai-jet-returns-to-shanghai-after-cockpit-window-cracks",
-        "summary": "A Thai Airways International flight bound for Bangkok returned to Shanghai shortly after departure on Wednesday after pilots discovered a crack in the cockpit windscreen.",
-        "source": "Bangkok Post — Education (Thailand)",
-        "published": "2026-11-05T00:49:00+00:00",
-        "region": "southeast_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
         "title": "The focus of assessments should be creating a spark, not on scores",
         "url": "https://www.thehindu.com/education/the-spark-not-the-score-reclaiming-the-soul-of-assessment/article71660922.ece",
         "summary": "Assessments to this day have relied on a correct-looking output as proof of an invisible underlying state, but today it is becoming increasingly unreliable. This raises a more intriguing question: what were we really attempting to see in the first place?",
@@ -4695,30 +4721,6 @@
         "summary": "",
         "source": "The Hindu — Education",
         "published": "2026-11-04T13:10:32+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Children spending too long on maths app TT Rockstars, MP warns",
-        "url": "https://www.bbc.co.uk/news/articles/c64g1vyxq4j5o?at_medium=RSS&at_campaign=rss",
-        "summary": "The makers of the popular times table game say they are bringing in curfews and limits to screen time.",
-        "source": "BBC — Education",
-        "published": "2026-11-04T11:31:39+00:00",
-        "region": "global",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "The row over suspension of 16 SFI activists at Sree Sankaracharya University of Sanskrit in Keralam | Explained",
-        "url": "https://www.thehindu.com/news/national/kerala/what-is-the-row-over-suspension-of-16-sfi-activists-at-sree-sankaracharya-university-of-sanskrit-in-keralam-explained/article71664672.ece",
-        "summary": "The SFI activists were suspended on August 13 during the first meeting of reconstituted Syndicate amid protests the university says included a mock funeral for Vice-Chancellor Ciza Thomas; the action has sparked a legal battle as students sought to sit for upcoming exams, while authorities defended disciplinary measures and demanded an apology",
-        "source": "The Hindu — Education",
-        "published": "2026-11-04T09:02:05+00:00",
         "region": "south_asia",
         "streams": [
           "policy"
@@ -5912,6 +5914,30 @@
   "regions": {
     "global": [
       {
+        "title": "Students passing university assessments in minutes using AI, regulator warns",
+        "url": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Office for Students says students can frequently use AI \"in ways that cannot be reliably detected\".",
+        "source": "BBC — Education",
+        "published": "2026-11-11T00:21:21+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Embrace paper exams to combat AI cheating, warns UK universities regulator",
+        "url": "https://www.ft.com/content/2ada6998-26d2-4aab-89ad-11a50f0eb65a?syn-25a6b1a6=1",
+        "summary": "Office for Students says technology poses ‘generational risk’ to sector’s integrity and reputation",
+        "source": "Financial Times — Education",
+        "published": "2026-11-11T00:01:09+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "global"
+      },
+      {
         "title": "Law on 'holiday hunger' passed by Stormont assembly",
         "url": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
         "summary": "A majority of 49 to 24 assembly members backed the legislation, which was proposed by Sinn Féin's Danny Baker and welcomed by some parents and charities.",
@@ -5987,11 +6013,11 @@
         "title": "Some pupils 'struggling just to get a hot meal'",
         "url": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
         "summary": "Students speak out as school dinner prices are set to increase for the second time in a year.",
-        "source": "BBC — Business & Work",
+        "source": "BBC — Education",
         "published": "2026-11-10T16:46:21+00:00",
-        "stream": "labor",
+        "stream": "policy",
         "streams": [
-          "labor"
+          "policy"
         ],
         "region": "global"
       },
@@ -6366,30 +6392,6 @@
           "research"
         ],
         "region": "global"
-      },
-      {
-        "title": "Prevalence and prognostic significance of extrarenal manifestations in patients with lupus nephritis: A retrospective cohort study",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362170",
-        "summary": "by Young-Eun Kim, Soo Min Ahn, Ji Seon Oh, Yong‑Gil Kim, Chang‑Keun Lee, Bin Yoo, Seokchan Hong Objectives To evaluate the prevalence and prognostic implications of extrarenal involvement in lupus nephritis (LN), with emphasis on treatment response and the risk of future renal and extrarenal flares. Methods We retrospectively reviewed patients newly diagnosed with LN between January 2006 and December 2022 and categorized them according to the presence of extrarenal involvement at diagnosis. Renal response and remission at 12 months, defined according to the Definition of Remission in SLE (DORI",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-11-10T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Age-specific Epstein-Barr virus seroprevalence in Costa Rica",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362125",
-        "summary": "by Sabrina Acosta-Egea, Elexandra Barboza Arguedas, Eva Villalobos Chacón, Romain Fantin, Carolina Porras, Viviana Loria, Juan Carlos Venegas, Connie M. Weston, Sarah S. Jackson, Arturo Abdelnour, Amada Aparicio, Alejandro Calderón, Daniela Mora, Rebeca Ocampo, Roy Wong-McClure, Melvin Morera, Roberto Castro, Henry H. Balfour, Jr, Rolando Herrero, Allan Hildesheim Epstein-Barr Virus (EBV) is a common herpesvirus linked to cancers and autoimmune diseases. The age, socioeconomic status and geographic distribution of EBV infection are varied. This study evaluated age-specific EBV antibody prevale",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-11-10T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
       }
     ],
     "south_asia": [
@@ -6398,10 +6400,23 @@
         "url": "https://kathmandupost.com/province-no-5/2026/11/10/students-turn-their-school-s-flower-farm-into-a-tihar-business",
         "summary": "With marigolds in full bloom, students of a school in Arghakhanchi are spending their holiday harvesting and selling flowers, putting their agricultural training into practice.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-11-10T22:42:01.160120+00:00",
+        "published": "2026-11-11T03:58:13.338410+00:00",
         "stream": "policy",
         "streams": [
           "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "‘Children are not a pilot programme’: Lucy Calkins on use of AI in schools",
+        "url": "https://www.thehindu.com/education/children-are-not-a-pilot-programme-lucy-calkins-on-use-of-ai-in-schools/article71685428.ece",
+        "summary": "“In India, as in America, the crisis in literacy has become especially urgent because it is now painfully clear that by the time kids are in middle school, they can let AI take over their reading lives entirely.”",
+        "source": "The Hindu — Education",
+        "published": "2026-11-10T19:37:42+00:00",
+        "stream": "edtech",
+        "streams": [
+          "edtech",
+          "school"
         ],
         "region": "south_asia"
       },
@@ -6418,6 +6433,18 @@
         "region": "south_asia"
       },
       {
+        "title": "India in QS Rankings: climbing the ladder, but missing the goalpost?",
+        "url": "https://www.thehindu.com/education/india-in-qs-rankings-climbing-the-ladder-but-missing-the-goalpost/article71685269.ece",
+        "summary": "No Indian institution is in the global top 100 for academic reputation, which has the highest weightage of 30%. Only about 6% of Indian institutions improved the faculty–student ratio in 2027, while roughly 30% declined, followed by a steep 63% decline in the previous year.",
+        "source": "The Hindu — Education",
+        "published": "2026-11-10T12:32:56+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
         "title": "Why listening to students’ voices is crucial to tackling the student suicide crisis in India",
         "url": "https://www.thehindu.com/sci-tech/health/why-listening-to-students-voices-is-crucial-to-tackling-the-student-suicide-crisis-in-india/article71660266.ece",
         "summary": "In tackling student distress, institutions must centre students’ lived experiences by ensuring their direct representation on all institutional committees, so that systemic solutions are valid and sustainable",
@@ -6426,18 +6453,6 @@
         "stream": "policy",
         "streams": [
           "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "Matric exams postponed in North Waziristan due to security situation",
-        "url": "https://www.dawn.com/news/2043499/matric-exams-postponed-in-north-waziristan-due-to-security-situation",
-        "summary": "BANNU: The Board of Intermediate and Secondary Education (BISE), Bannu, has postponed the Secondary School Certificate Second Annual Examination in North Waziristan due to the security situation while a curfew has also been imposed in the district’s Mir Ali area. The postponement of the exams was announced in a press release by the BISE on Nov 9, following the North Waziristan deputy commissioner’s instructions. A revised schedule for the examinations would be announced later, the press release said, adding that examinations at centres set up at Cadet College Razmak and in Bakakhel tehsil woul",
-        "source": "Dawn — Pakistan",
-        "published": "2026-11-10T09:25:03+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
         ],
         "region": "south_asia"
       },
@@ -6859,18 +6874,6 @@
         "stream": "policy",
         "streams": [
           "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "Keralam Higher Education dept seeks explanation from Calicut University over pro-V-C’s appointment",
-        "url": "https://www.thehindu.com/news/national/kerala/keralam-higher-education-dept-seeks-explanation-from-calicut-university-over-pro-v-cs-appointment/article71668767.ece",
-        "summary": "Department has sought to know how P. Rasheed Ahammed, the PVC, was relieved of duties from his parent institution and permitted to assume charge on deputation without obtaining prior sanction from government",
-        "source": "The Hindu — Education",
-        "published": "2026-11-05T14:29:08+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
         ],
         "region": "south_asia"
       }
@@ -7326,6 +7329,30 @@
     "mena": [],
     "southeast_asia": [
       {
+        "title": "Speedboat hits night-fishing boat, 9 tourists injured",
+        "url": "https://www.bangkokpost.com/learning/easy/3352745/speedboat-hits-nightfishing-boat-9-tourists-injured",
+        "summary": "Nine people were hurt when a speedboat crashed into a fishing boat off Cape Bali Hai in Pattaya late Monday night.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-11T01:02:00+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "southeast_asia"
+      },
+      {
+        "title": "THAI passenger data compromised in security breach",
+        "url": "https://www.bangkokpost.com/learning/easy/3352740/thai-passenger-data-compromised-in-security-breach",
+        "summary": "Personal data of 60,529 passengers who booked flights with Thai Airways International (THAI) was compromised during three years of cybersecurity breaches at global travel platform provider Amadeus, the national carrier revealed on Tuesday.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-11T00:55:00+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "southeast_asia"
+      },
+      {
         "title": "Gang sold cocaine delivered in bread buns",
         "url": "https://www.bangkokpost.com/learning/easy/3352051/gang-sold-cocaine-delivered-in-bread-buns",
         "summary": "A complaint about bread buns covered with ants outside a Bangkok condominium room led to police seizing cocaine worth about 2 million baht from a gang that hid it inside baked goods for delivery.",
@@ -7415,30 +7442,6 @@
         "summary": "POY Festival is back in Chiang Mai on 14–15 November 2026, bringing together Thai country music, alternative rock, reggae, psychedelic sounds and DJ culture at Kad Dhara Dhevi.",
         "source": "Bangkok Post — Education (Thailand)",
         "published": "2026-11-05T09:02:00+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "southeast_asia"
-      },
-      {
-        "title": "Fossil of 30kg giant rat found in Krabi",
-        "url": "https://www.bangkokpost.com/learning/easy/3349115/fossil-of-30kg-giant-rat-found-in-krabi",
-        "summary": "The fossil of a giant rat believed to have weighed about 30 kilogrammes has been discovered in Krabi province in southern Thailand.",
-        "source": "Bangkok Post — Education (Thailand)",
-        "published": "2026-11-05T00:56:00+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "southeast_asia"
-      },
-      {
-        "title": "THAI jet returns to Shanghai after cockpit window cracks",
-        "url": "https://www.bangkokpost.com/learning/advanced/3349111/thai-jet-returns-to-shanghai-after-cockpit-window-cracks",
-        "summary": "A Thai Airways International flight bound for Bangkok returned to Shanghai shortly after departure on Wednesday after pilots discovered a crack in the cockpit windscreen.",
-        "source": "Bangkok Post — Education (Thailand)",
-        "published": "2026-11-05T00:49:00+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -7570,7 +7573,163 @@
     ],
     "east_asia": [
       {
-        "title": "How Asian-American campaigners helped turn the US’ deep-red South blue",
+        "title": "Bessent urges US, China to ‘de-risk, not decouple’ as Xie points to ‘red lines’",
+        "url": "https://www.scmp.com/news/us/article/3374011/bessent-urges-us-china-de-risk-not-decouple-xie-points-red-lines",
+        "summary": "US Treasury Secretary Scott Bessent called for a more balanced trade relationship with China, with the objective to “de-risk, not decouple”, as Chinese ambassador Xie Feng spoke of adhering to “red lines” at an event in New York on Tuesday. “Trade must advance the interests of both parties without diminishing the sovereignty of either,” said Bessent, while emphasising that US-China ties were defined by the relationship between their leaders, who are due to meet next week for a summit. “That...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T03:30:23+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Written in bone: China bets on ancient scripts for modern soft power",
+        "url": "https://www.scmp.com/news/china/politics/article/3373970/written-bone-china-bets-ancient-scripts-modern-soft-power",
+        "summary": "China has established an institute dedicated to preserving rare and endangered historical disciplines, advancing Beijing’s push to elevate traditional culture as a pillar of its soft power and national narrative. The institute was inaugurated at the University of Chinese Academy of Social Sciences (UCASS) in Beijing on Friday, alongside the launch of an association to consolidate nationwide resources involving the studies. The institute includes a dozen ancient ethnic minority scripts such as...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T03:00:38+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Japan to fortify denial capabilities with US in defence strategy revamp",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3374009/japan-fortify-denial-capabilities-us-defence-strategy-revamp",
+        "summary": "Japan is considering including a commitment to strengthening its “capabilities to deny” an adversary’s aggression in coordination with the United States in a major defence policy document to be revised later this year, government sources said on Tuesday. The basic guidelines for the National Defence Strategy will also call for expanded Japan-US cooperation to strengthen the defence industrial base and deeper security ties with like-minded countries, the sources said. The National Security...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T02:40:57+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Deal vs deal? US, China trade calls to honour commitments before Xi-Trump summit",
+        "url": "https://www.scmp.com/news/us/diplomacy/article/3374008/deal-vs-deal-us-china-trade-calls-honour-commitments-trump-xi-summit",
+        "summary": "During a video call on Friday, US Trade Representative Jamieson Greer and Treasury Secretary Scott Bessent urged Chinese Vice-Premier He Lifeng to uphold China’s previous commitments on agricultural goods and rare earth exports. A day earlier, Beijing reminded Washington to implement another deal – reciprocal tariff cuts covering US$30 billion worth of products on each side – as a precondition to buying more American farm products. Just days before President Donald Trump meets Chinese leader Xi...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T02:34:23+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "India moves to retain military recruits amid border risks and troop gaps",
+        "url": "https://www.scmp.com/week-asia/politics/article/3373965/india-moves-retain-military-recruits-amid-border-risks-and-troop-gaps",
+        "summary": "Thousands of Indian soldiers who would otherwise leave the military after four years will be kept on duty, in a major rethink of the country’s controversial recruitment model as New Delhi grapples with persistent manpower shortages and security concerns along its borders with China and Pakistan, analysts say. Under revisions approved by the federal cabinet last Tuesday, more than 18,000 recruits from the inaugural batch of the Agnipath (“Path of Fire”) scheme will be granted a two-year service...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T02:30:29+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "China dad modifies TV to quiz son on school subjects every 10 minutes to curb screen addiction",
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3374007/china-dad-modifies-tv-quiz-son-school-subjects-every-10-minutes-curb-screen-addiction",
+        "summary": "A father in southern China used artificial intelligence (AI) to modify his home TV system and tackle his son’s TV addiction. The system requires the boy to answer academic questions every 10 minutes to continue watching. His method has gone viral on mainland Chinese social media, with many parents asking him to share a tutorial on modifying their TV sets, Shenzhen TV reported. The father, from Shenzhen, was not named in the report. He said that while he works as a taxi driver, his son, a junior...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T02:11:27+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Connecting legal expertise with global opportunities at Hong Kong Legal Week 2026",
+        "url": "https://www.scmp.com/presented/news/hong-kong/topics/hong-kong-legal-week-2026/article/3373913/connecting-legal-expertise-global-opportunities-hong-kong-legal-week-2026",
+        "summary": "[The content of this article has been produced by our advertising partner.] Hong Kong became the first overseas base for the International Institute for the Unification of Private Law (UNIDROIT) in its 100-year history, advancing efforts to harmonise private law across the Asia Pacific region. The historic debut was a highlight of Hong Kong Legal Week 2026, the Department of Justice's (DoJ) five-day flagship event. Under the theme \"Collaboration & Innovation: Legal Synergy for a Shared Future\",...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T02:00:56+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "China, Russia and US try to nail down AI nuclear agenda in time for Apec talks",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3374003/china-russia-and-us-try-nail-down-ai-nuclear-agenda-time-apec-talks",
+        "summary": "Talks between China, the US and Russia could yield a commitment to control AI in nuclear arsenals as part of a broader agenda on global governance, sources told the South China Morning Post. The three nations have engaged in weeks of back-and-forth discussion to nail down the agenda and protocol for talks between the countries’ leaders on the sidelines of the Apec summit in Shenzhen next week. The sources said that the war in Ukraine and denuclearisation of the Korean peninsula had largely...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T01:05:15+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "From local courts to the world stage",
+        "url": "https://www.scmp.com/presented/news/hong-kong/topics/hang-seng-table-tennis-academy/article/3372183/local-courts-world-stage",
+        "summary": "[The content of this article has been produced by our advertising partner.] A table tennis rally can turn in an instant. A change of spin, a sharply angled return or a moment’s hesitation can decide the point. At the highest level, players must read their opponents and make decisions almost before the ball leaves the bat. Those skills will be on show at Kai Tak Arena from 9 to 13 December, when some of the world’s leading players compete at the WTT Finals Hong Kong 2026. For the city’s aspiring...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T01:00:06+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "A fare fight? What Hong Kong’s ride-hailing shake-up means for passengers",
+        "url": "https://www.scmp.com/news/hong-kong/transport/article/3373963/fare-fight-what-hong-kongs-ride-hailing-shake-means-passengers",
+        "summary": "With eight companies vying for licences to provide ride-hailing services in Hong Kong under the new regulatory regime, industry observers expect a price war that will initially benefit passengers through lower fares. But some warned that competition could eventually force weaker operators out of the market, leaving dominant players free to raise prices. “The ride-hailing firms will fight to reduce fares in the beginning to grab their loyal customers,” said Chau Kwok-keung, chairman of the Hong...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T00:30:07+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Will China’s maritime moves push Japan and South Korea closer together?",
+        "url": "https://www.scmp.com/week-asia/politics/article/3373971/will-chinas-maritime-moves-push-japan-and-south-korea-closer-together",
+        "summary": "China’s growing naval presence in the waters between Japan and South Korea could give the two neighbours a new incentive to overcome long-standing historical tensions and strengthen security cooperation, according to analysts. A reported sharp increase in Chinese warships and coastguard vessels passing through the strait that separates the two countries, some operating alongside Russian forces, has raised concerns about Beijing’s expanding maritime reach. The strait, which links the East China...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-11T00:00:16+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "US charges 3 ‘Iranian operatives’ over UK airbase plot",
+        "url": "https://www.scmp.com/news/world/europe/article/3374002/us-charges-3-iranian-operatives-over-uk-airbase-plot",
+        "summary": "The US Justice Department on Tuesday announced charges against three men it described as “Iranian operatives”, including one already in jail, over their role in an alleged terrorist plot at Britain’s RAF Fairford airbase. Mohammad Baqer Saad Dawood al-Saadi, Mohsen Mohajeri and Mohammad Ali al-Hassani allegedly helped plan and direct the September incident at the base, which has been used by the US military in its operations against Iran. Police were called to the Fairford site in southwest...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-10T23:48:14+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "What the future holds for M+ as the Hong Kong museum celebrates fifth anniversary",
+        "url": "https://www.scmp.com/lifestyle/arts/article/3373882/what-future-holds-m-hong-kong-museum-celebrates-5th-anniversary",
+        "summary": "It has been quite a birthday celebration. Ahead of the fifth anniversary of M+ on November 12, the directors of New York’s Museum of Modern Art (MoMA) and Paris’ Centre Pompidou touched down in Hong Kong to finalise a tripartite alliance with the young museum. The formal pact will see two of the world’s pre-eminent modern art museums share collections and programming with M+ on equal footing. On October 31, it was signed, sealed and toasted with high-wattage glamour at the museum’s fundraising...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-10T23:15:04+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "How Asian-American campaigners helped turn the US deep-red South blue",
         "url": "https://www.scmp.com/news/china/diplomacy/article/3374001/how-asian-american-campaigners-helped-turn-us-deep-red-south-blue",
         "summary": "On tote bags distributed by Asian-owned businesses in the US state of Georgia, three Asian-American women appeared in a design inspired by the Three Ladies rice brand. The bags were part of a campaign that put a voting twist on the online “Asian baby girl” meme. “We had an ‘Asian Ballot Girls’ campaign,” said Chany Chea, programme director of the Asian-American Advocacy Fund. “We had merch which went viral.” As Democrats won races in Republican strongholds across the southern United States in...",
         "source": "South China Morning Post — Education",
@@ -7618,9 +7777,9 @@
         "region": "east_asia"
       },
       {
-        "title": "Thomas Markle, father of Meghan, back in jail after cutting off ankle monitor",
+        "title": "Meghan’s father Thomas Markle jailed after cutting off ankle monitor",
         "url": "https://www.scmp.com/news/world/united-states-canada/article/3373999/thomas-markle-father-meghan-cut-ankle-monitor-days-after-arrest",
-        "summary": "The 82-year-old estranged father of Meghan, the Duchess of Sussex, cut an electronic monitoring device off his ankle, just days after his arrest for keeping child sexual abuse material in storage units in California, authorities said on Tuesday. He was arrested shortly after he cut off the ankle bracelet at 1.45am, First Assistant US Attorney Bill Essayli said. US Magistrate Judge Lindsay Saxe Griffin on Tuesday ordered Markle returned to federal detention without bond at a hearing in Tampa,...",
+        "summary": "The 82-year-old estranged father of Meghan, the Duchess of Sussex, was ordered to jail Tuesday because he removed an electronic monitoring device from his ankle, just days after he was charged with possession of child sexual abuse material. Thomas Markle was arrested and appeared in federal court in Tampa, Florida, after authorities learned he had cut off the device at 1.45am, First Assistant US Attorney Bill Essayli said. “Release conditions are court orders, not suggestions,” Essayli...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-10T20:44:24+00:00",
         "stream": "higher",
@@ -7678,7 +7837,7 @@
         "region": "east_asia"
       },
       {
-        "title": "After fridge hacks, home appliances could be next, EU cyber chief warns",
+        "title": "Home appliances could be next after supermarket fridge hacks, EU cyber chief warns",
         "url": "https://www.scmp.com/news/world/europe/article/3373993/after-fridge-hacks-home-appliances-could-be-next-eu-cyber-chief-warns",
         "summary": "After recent attacks on supermarket fridges, home appliances could be next, the EU’s cyber chief said on Tuesday, as he urged Europe to invest more to counter growing cyber threats. Supermarkets in at least 12 European countries were hit by cyberattacks in October and November, with France the worst affected. “Security should not and cannot be an afterthought,” Juhan Lepassaar, executive director of the EU’s cybersecurity agency ENISA, said. “Today it was fridges, tomorrow it could be routers,...",
         "source": "South China Morning Post — Education",
@@ -7690,7 +7849,7 @@
         "region": "east_asia"
       },
       {
-        "title": "US again fails to show at UN for its human rights review",
+        "title": "Seats left empty in Geneva as US skips UN human rights review",
         "url": "https://www.scmp.com/news/world/united-states-canada/article/3373992/us-again-fails-show-un-its-human-rights-review",
         "summary": "The UN’s top human rights body on Tuesday postponed a regular review of the US human rights record until January in hopes of persuading the Trump administration to reverse its decision to become the first government to snub the process. The move by the Human Rights Council buys it more time to try to coax Washington to take part in the review. The council’s 47 member countries adopted without a vote the decision to delay the US review – amid “continued non-cooperation” with its process. The...",
         "source": "South China Morning Post — Education",
@@ -7714,9 +7873,9 @@
         "region": "east_asia"
       },
       {
-        "title": "US’ Hegseth calls impeachment bid a ‘farce’ as he defends Iran war",
+        "title": "Pentagon chief Hegseth defiant as US House blocks impeachment effort",
         "url": "https://www.scmp.com/news/us/politics/article/3373990/hegseth-calls-impeachment-bid-farce-he-defends-iran-war",
-        "summary": "US Secretary of Defence Pete Hegseth called an impeachment bill against him a “farce” on Tuesday, defending the ongoing war in Iran and the air strikes against drug traffickers as “lawful operation”. Speaking at his first press conference in more than 180 days, Hegseth described Thomas Massie, a Republican lawmaker who introduced the impeachment bill against him on Monday, as “one disgruntled and defeated congressman” who is attempting to “damage” US President Donald Trump due to a “personal...",
+        "summary": "The US House of Representatives on Tuesday voted to effectively shelve an impeachment resolution against Defence Secretary Pete Hegseth, hours after the embattled Pentagon chief branded the effort to oust him a “farce” and mounted a fiery defence of the Iran war. Speaking at his first press conference in more than 180 days, Hegseth described Thomas Massie, a Republican lawmaker who introduced the impeachment resolution against him on Monday, as “one disgruntled and defeated congressman” who is...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-10T15:26:43+00:00",
         "stream": "higher",
@@ -7738,9 +7897,9 @@
         "region": "east_asia"
       },
       {
-        "title": "UK children’s author David Walliams accused of sexual assault – denies claims",
+        "title": "UK children’s author David Walliams accused of sexual misconduct – denies claims",
         "url": "https://www.scmp.com/news/world/europe/article/3373989/uk-childrens-author-david-walliams-accused-sexual-misconduct",
-        "summary": "British children’s author and comedian David Walliams used his fame to groom girls and young women for sex, two British news outlets reported on Tuesday. ITV News and the Guardian newspaper said they spoke with multiple women who accused Walliams of preying on them. One woman said he sexually assaulted her when she was 15. Walliams, 55, denied the allegations. He had sought a court injunction to bar ITV News and the Guardian from identifying him in their reporting. His lawyers claimed that...",
+        "summary": "British children’s author and comedian David Walliams used his fame to groom girls and young women for sex, two British news outlets reported on Tuesday. ITV News and the Guardian newspaper said their joint investigation featured interviews with multiple women who gave first-hand accounts of Walliams’ conduct. One woman alleged she was sexually assaulted by Walliams at his London home when she was 15, while others accused him of grooming them when they were teens. Walliams, 55, denied the...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-10T15:12:41+00:00",
         "stream": "higher",
@@ -7887,162 +8046,6 @@
         "summary": "Philippine President Ferdinand Marcos Jnr’s administration has been accused of trying to conceal Manila’s urban poverty by clearing street vendors and homeless people along key routes ahead of next week’s Association of Southeast Asian Nations summit. Antonio Tinio, deputy minority floor leader of the House of Representatives representing the ACT Teachers Party List, claimed on Monday that authorities had launched operations to displace poor communities across the capital to present a...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-10T12:19:53+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "US attempts new peace push at first Russia-Ukraine talks in nine months",
-        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3373976/russia-ukraine-hold-us-backed-talks-first-time-february",
-        "summary": "Russian and Ukrainian officials met in Abu Dhabi ⁠on Tuesday for their first peace talks since February as US President Donald Trump’s envoys launched a new push to end the war in Ukraine. Secretary of State Marco Rubio described the US-brokered meeting as very productive, without giving details. Ukrainian President Volodymyr Zelensky called the talks “constructive and quite substantive” and said they had included humanitarian and security issues. “The release of prisoners [of war] is a...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T12:12:29+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Hong Kong to cut capital charges on loans to Northern Metropolis university towns",
-        "url": "https://www.scmp.com/news/hong-kong/education/article/3373972/hong-kong-cut-capital-charges-loans-northern-metropolis-university-towns",
-        "summary": "Hong Kong’s de facto central bank plans to introduce legislative amendments in the first quarter of next year to lower the capital costs for banks lending to local tertiary institutions, in a bid to speed up the development of the university towns in the Northern Metropolis. Under the proposed changes to the Banking (Capital) Rules, the Hong Kong Monetary Authority (HKMA) will designate 11 post-secondary institutions and three park companies as “Domestic Public Sector Entities”, granting them...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T12:03:23+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "China hands over remains of US airmen killed during World War II supply missions",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3373945/china-hands-over-remains-us-airmen-killed-during-world-war-ii-supply-missions",
-        "summary": "China has handed over the remains of American airmen who were killed during World War II while carrying supplies over the Himalayas. The Chinese and US militaries held a handover ceremony in Chengdu, the capital of Sichuan province, on Tuesday to transfer remains excavated from sites along “the Hump”, a treacherous airlift route between India and China. The Chinese defence ministry did not disclose how many sets of remains were handed over or whether the servicemen’s identities had been...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T12:00:28+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "US lawmakers push for tougher China export controls in defence bill amid Nvidia scrutiny",
-        "url": "https://www.scmp.com/tech/tech-war/article/3373940/us-lawmakers-push-tougher-china-export-controls-defence-bill-amid-nvidia-scrutiny",
-        "summary": "There is growing momentum to pass a slate of major new export control bills targeting China, in the wake of the Democrats’ takeover of the US Congress and scrutiny over American chip giant Nvidia following CEO Jensen Huang’s admission of an extramarital affair. US intelligence reportedly identified the woman as a Chinese spy, a claim that Beijing has rejected. Leading US politicians have been quick to jump on the news to put pressure on the White House and other lawmakers to approve three bills...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T11:30:06+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Hong Kong’s Ocean Park urged to boost safety after second tower failure in 2 years",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3373968/hong-kongs-ocean-park-urged-boost-safety-after-second-tower-failure-2-years",
-        "summary": "Hong Kong’s Ocean Park has been urged to enhance its safety measures after an ageing observation tower broke down for the second time in two years, leaving 42 people stranded 70 metres above the ground. Lawmakers called for changes on Tuesday, a day after the incident sent firefighters rushing to the scene and caused the ride to stop working for more than two hours. While 40 customers and a staff member were able to make their own way to the ground through a safety passage inside the tower, one...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T11:15:11+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Nobel-winning UK scientist launches programme to develop hepatitis C vaccine in Hong Kong",
-        "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3373966/nobel-winning-uk-scientist-launches-programme-develop-hepatitis-c-vaccine-hong-kong",
-        "summary": "A British Nobel-winning virologist has launched a programme to develop the world’s first hepatitis C vaccine after joining a university in Hong Kong, tapping the city’s research funding, access to Chinese strains of the virus and partnerships with mainland drug makers. Sir Michael Houghton, who won the 2020 Nobel Prize in Physiology or Medicine for the co-discovery of the hepatitis C virus, said he joined Baptist University after more than four decades in North America, as the United States and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T11:10:32+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "WinterFest to spread across Hong Kong as ‘Symphony of Lights’ takes final bow",
-        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3373964/winterfest-spread-across-hong-kong-symphony-lights-takes-final-bow",
-        "summary": "Hong Kong’s annual WinterFest will expand beyond Central this year, reaching Tsim Sha Tsui and Causeway Bay with new attractions including steam trains and aurora light shows. But the festival’s opening next Wednesday will also mark the final performance of “A Symphony of Lights,” the nightly Victoria Harbour show that has illuminated the city’s skyline for 22 years. It will be replaced by seasonal light shows. The final performance, at 8pm, would include special pyrotechnic effects as a...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T11:06:49+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "China warns against fake spy claims after jealous public servant frames rival",
-        "url": "https://www.scmp.com/news/china/politics/article/3373953/china-warns-against-fake-spy-claims-after-jealous-public-servant-frames-rival",
-        "summary": "A Chinese state employee who falsely accused a colleague of spying for Beijing after losing out on a coveted overseas posting has been penalised by the Ministry of State Security. The country’s top intelligence agency made the rare decision to shed light on the case using its social media account on Tuesday in a bid to highlight the consequences of making false accusations. The perpetrator, identified only by his surname, Liu, earned a master’s degree from a prestigious university in 2018 and...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T11:00:10+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Asian-Americans rejected Trump’s ICE raids, but will anything change?",
-        "url": "https://www.scmp.com/week-asia/politics/article/3373906/asian-americans-rejected-trumps-ice-raids-will-anything-change",
-        "summary": "US President Donald Trump has conceded that his mass deportation drive may have been “too tough” after his Republican Party’s heavy losses in the midterm elections, but analysts doubt the remark signals a change of policy. Asian-Americans, who were among the communities heavily targeted in the immigration crackdown, swung sharply towards the Democrats on November 3. Trump made the comment in an interview with CBS’ 60 Minutes programme, recorded after the vote. Democrats won control of both...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T11:00:06+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Indonesian VP Gibran’s fate hangs in balance as parliament ponders probe",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373961/indonesian-vp-gibrans-fate-hangs-balance-parliament-ponders-probe",
-        "summary": "Indonesia’s parliament reconvened on Tuesday with lawmakers weighing the possibility of a probe into the eligibility of Vice-President Gibran Rakabuming Raka, amid a widening political rift between his influential father and President Prabowo Subianto. As son of the hugely popular two-term former President Joko Widodo, Gibran helped Prabowo win the ‌2024 election by a huge margin, but some lawmakers are seeking to investigate whether his incomplete education documents disqualify him as...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T10:49:15+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Who is Alice Huang and why is her relationship with Nvidia’s CEO under scrutiny?",
-        "url": "https://www.scmp.com/tech/tech-war/article/3373960/who-alice-huang-and-why-her-relationship-nvidias-ceo-under-scrutiny",
-        "summary": "Nvidia founder and CEO Jensen Huang has admitted to having an extramarital affair as the chipmaker investigates reported allegations that a Chinese businesswoman close to him may have been working for Beijing’s intelligence services. Beijing has rejected the espionage claims as “baseless”, while Nvidia has said it had no reason to believe company secrets or US national security were compromised. The controversy wiped about US$190 billion off the chipmaker’s market value in a single day. US...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T10:40:24+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "China’s top general targets PLA arms in call for joint military-civilian corruption watch",
-        "url": "https://www.scmp.com/news/china/politics/article/3373957/chinas-top-general-targets-pla-arms-call-joint-military-civilian-corruption-watch",
-        "summary": "China’s most senior general has called for joint efforts by military and civilian officials to combat corruption within the People’s Liberation Army, specifically targeting the development of major weapons systems. General Zhang Shengmin, vice-chairman of the Central Military Commission (CMC) and a former PLA anti-corruption chief, made the remarks in a supplementary reader for the resolution adopted at the Communist Party’s latest plenum. Published earlier this month, the collection features...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T10:37:03+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Indonesian fires: twin helicopter crashes expose fragile safety margins",
-        "url": "https://www.scmp.com/week-asia/health-environment/article/3373954/indonesian-fires-twin-helicopter-crashes-expose-fragile-safety-margins",
-        "summary": "Four deaths in two helicopter crashes within five days have raised questions about the dangers facing those fighting Indonesia’s massive forest fires, prompting a government review on aerial firefighting efforts. But those dangers extend beyond the skies, with volunteer firefighters on the ground describing inadequate protective equipment, scarce water supplies and peatland fires that can suddenly erupt beneath their feet. On November 4, an Indonesian army Mi-17V5 transport helicopter carrying...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-10T10:18:14+00:00",
         "stream": "higher",
         "streams": [
           "higher"
@@ -8534,14 +8537,38 @@
     ],
     "north_america": [
       {
+        "title": "Richard Holmes, Who Integrated Mississippi State University, Has Died",
+        "url": "https://www.nytimes.com/2026/11/10/obituaries/richard-holmes-mississippi-state-university-dead.html",
+        "summary": "When he stepped onto campus in 1965, he said, he was met with “curiosity and disbelief.”",
+        "source": "New York Times — Education",
+        "published": "2026-11-11T01:52:43+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
         "title": "Trump Officials Drop Threat to Colorado School District Over Transgender Issues",
         "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-colorado-transgender.html",
         "summary": "Trump administration officials had accused the district of allowing boys on girls’ teams, which they said violated a ban on sex discrimination in schools.",
         "source": "New York Times — Education",
-        "published": "2026-11-10T22:34:01+00:00",
+        "published": "2026-11-11T00:48:37+00:00",
         "stream": "policy",
         "streams": [
           "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Inside NYC’s First Hip-Hop High School Where Students Freestyle Every Friday",
+        "url": "https://www.nytimes.com/2026/11/10/nyregion/bronx-school-hip-hop.html",
+        "summary": "In the South Bronx, the first program of its kind offers the same classes as any high school. Only these classes are infused with hip-hop.",
+        "source": "New York Times — Education",
+        "published": "2026-11-10T23:05:27+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
         ],
         "region": "north_america"
       },
@@ -8566,18 +8593,6 @@
         "stream": "policy",
         "streams": [
           "policy"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Inside NYC’s First Hip-Hop High School Where Students Freestyle Every Friday",
-        "url": "https://www.nytimes.com/2026/11/10/nyregion/bronx-school-hip-hop.html",
-        "summary": "In the South Bronx, the first program of its kind offers the same classes as any high school. Only these classes are dope.",
-        "source": "New York Times — Education",
-        "published": "2026-11-10T19:49:44+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
         ],
         "region": "north_america"
       },
@@ -8646,7 +8661,7 @@
         "url": "https://www.nytimes.com/2026/11/10/nyregion/new-york-city-students-homeless.html",
         "summary": "The number of children without permanent homes dropped from a record high, but advocates warned that the crisis had probably not eased.",
         "source": "New York Times — Education",
-        "published": "2026-11-10T13:28:58+00:00",
+        "published": "2026-11-10T13:28:59+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8998,18 +9013,6 @@
         "stream": "policy",
         "streams": [
           "policy"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "More communities are closing schools. The cuts may not be enough",
-        "url": "https://hechingerreport.org/more-communities-are-closing-schools-the-cuts-may-not-be-enough/",
-        "summary": "VALLEJO, Calif. — Minutes before first bell, Penny Núñez-Brandão scanned the crowd outside Glen Cove Elementary School, looking for familiar faces. “I don’t see any,” the fifth grader told her mom one morning this August. “None of my friends are coming.” The start of a new school year can be nerve-racking under any circumstances. But […] The post More communities are closing schools. The cuts may not be enough appeared first on The Hechinger Report .",
-        "source": "Hechinger Report",
-        "published": "2026-11-09T06:00:00+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
         ],
         "region": "north_america"
       }
