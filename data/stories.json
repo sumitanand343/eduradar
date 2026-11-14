@@ -320,6 +320,18 @@
     ],
     "school": [
       {
+        "title": "Opinion: I Research Play – and Here’s Why Recess is Much More Important Than Just a Fun Break",
+        "url": "https://www.the74million.org/zero2eight/i-research-play-and-heres-why-recess-is-much-more-important-than-just-a-fun-break/",
+        "summary": "School recess has long been considered a standard part of children’s education in the United States. But it’s more than just a fun break from sitting at a desk. Daily recess is necessary for supporting young children and adolescents’ learning, as well as their physical and mental health. It’s so important that the American Academy […]",
+        "source": "The 74 Million",
+        "published": "2026-11-14T17:30:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
         "title": "Protests in Chicago After Google Warns Schools About Disabling AI Feature",
         "url": "https://www.the74million.org/article/protests-in-chicago-after-google-warns-schools-about-disabling-ai-feature/",
         "summary": "Pushback on the use of artificial intelligence in the classroom is seeing renewed fervor after tensions flared this month between some U.S. school districts and one of the biggest tech giants in the world. Protests popped up Wednesday in Cambridge, Massachusetts and in Chicago, where the city’s school district recently blocked student access to generative […]",
@@ -345,12 +357,12 @@
         "stream": "school"
       },
       {
-        "title": "Balochistan Assembly seeks compulsory Arabic in primary schools",
-        "url": "https://www.dawn.com/news/2044382/balochistan-assembly-seeks-compulsory-arabic-in-primary-schools",
-        "summary": "QUETTA: The Balochistan Assembly on Friday unanimously adopted a resolution recommending the introduction of basic Arabic as a compulsory subject in all government primary schools across the province. The resolution was moved by JUI-F MPA Shahida Rauf, who said teaching basic Arabic would help students understand commonly used Quranic words and their meanings, enabling them to develop a better understanding of the Holy Quran from an early age. The resolution called for a simple, standardised and grade-wise curriculum covering basic Arabic vocabulary, grammar and commonly used Quranic expressio",
-        "source": "Dawn — Pakistan",
-        "published": "2026-11-14T02:43:06+00:00",
-        "region": "south_asia",
+        "title": "An empirical study on factors influencing digital technology adoption among primary and secondary school physical education teachers",
+        "url": "https://www.nature.com/articles/s41598-026-77930-7",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-14T00:00:00+00:00",
+        "region": "global",
         "streams": [
           "school"
         ],
@@ -359,7 +371,7 @@
       {
         "title": "U.S. Likely to Lose Measles Elimination Status Amid Multiple, Fatal Outbreaks",
         "url": "https://www.the74million.org/article/u-s-likely-to-lose-measles-elimination-status-amid-multiple-fatal-outbreaks/",
-        "summary": "The United States is poised to lose its measles elimination status for the first time in 26 years, when the country first eradicated the highly contagious childhood disease, numerous experts told The 74. The announcement from the Pan American Health Organization is expected early next week and comes amid a deadly surge in measles cases […]",
+        "summary": "Updated, Nov. 14: The United States has officially lost its measles elimination status, according to reporting by The Wall Street Journal, which cited “people familiar with the matter.” The Pan American Health Organization has not responded, but an official report and announcement are expected early in the week. The United States is poised to lose […]",
         "source": "The 74 Million",
         "published": "2026-11-13T22:20:27+00:00",
         "region": "north_america",
@@ -1176,6 +1188,90 @@
     ],
     "higher": [
       {
+        "title": "SpaceX successfully carries out first-ever spaceship catch",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3374463/spacex-successfully-carries-out-first-ever-spaceship-catch",
+        "summary": "SpaceX’s Starship spacecraft on Saturday returned from its longest ⁠flight in orbit yet to the ⁠Texas launch tower it was launched ⁠from a day prior, showing the first key recovery of the rocket system’s centrepiece vessel in the company’s decade-long effort to develop a fully reusable rocket. The towering two-stage rocket’s Super Heavy booster – the rocket’s bottom half – carried Starship to space on Friday, lifting off from SpaceX’s Starbase, Texas, facilities. ‌ That booster had failed to...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-14T21:32:46+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "For Bangladesh and others, climate disasters should not add to debt burdens",
+        "url": "https://www.scmp.com/opinion/asia-opinion/article/3374115/bangladesh-and-others-climate-disasters-should-not-add-debt-burdens",
+        "summary": "Talks at Cop31, the United Nations climate change conference being held in Antalya, Turkey, come at a critical moment for climate-vulnerable countries across the Global South. Bangladesh is among those bearing the brunt of climate change despite having negligible historical responsibility for global emissions. As delegations negotiate how to finance climate action, the “how” matters no less than the “how much”: support must arrive in time, reach those who need it and avoid deepening debt. The...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-14T21:30:11+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Amid the Xi-Trump clamour, can Apec revive the business of cooperation?",
+        "url": "https://www.scmp.com/opinion/china-opinion/article/3374048/amid-xi-trump-clamour-can-apec-revive-business-cooperation",
+        "summary": "The 33rd Asia-Pacific Economic Cooperation (Apec) summit will be held in Shenzhen from November 18 to 19. The venue is not accidental. Forty years ago, this was a border town of rice fields and duck ponds; it is now where a good part of the world’s electronics are designed and built, and the showcase of China’s “reform and opening up”. The event’s theme, “Building an Asia-Pacific Community to Prosper Together”, puts openness, innovation and cooperation at the centre. US President Donald Trump...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-14T21:30:08+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Transport chief blames US-wide flight disruptions on upgrade of old copper wiring",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3374456/transport-chief-blames-us-wide-flight-disruptions-upgrade-old-copper-wiring",
+        "summary": "Weary travellers braced for more flight disruptions on Saturday as service resumed from US airports after an hours-long stoppage that the Trump administration blamed on faulty equipment or an error by a contractor tasked with switching out old copper wire communication lines. Friday’s nationwide ground stop sparked widespread chaos and left hundreds of thousands of passengers in limbo, with some pulled off planes moments before departure by airline staff who appeared in the dark about unfolding...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-14T18:26:10+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Philippines’ Carmelle storms to victory in Eurovision Asia debut in Bangkok",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3374455/philippines-carmelle-storms-victory-eurovision-asia-debut-bangkok",
+        "summary": "Filipino singer Carmelle won the first Asian edition of the Eurovision Song Contest on Saturday with a fiery performance of her dance-pop song “Sobra-Sobra”. The 19-year-old beat 10 other acts in the grand final in Bangkok, with the winner chosen through votes from national juries in participating countries and viewers worldwide. After her victory, Carmelle said her song celebrated female empowerment and was intended as “a tribute to all Filipino women”. “I made history, since this was the first...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-14T17:58:57+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Zelensky says US floated idea of Ukraine ceding Donbas for Nato membership",
+        "url": "https://www.scmp.com/news/world/europe/article/3374450/zelensky-says-us-floated-idea-ukraine-ceding-donbas-nato-membership",
+        "summary": "US negotiators have floated the idea of Ukraine’s potential withdrawal from its eastern region of Donbas in exchange for joining Nato, President Volodymyr Zelensky said, following the latest round of peace talks with Russia in Abu Dhabi. This is the first time the question of linking Nato membership to territorial concessions has been raised during the talks, Zelensky said in remarks ‌to reporters released by his office on Saturday. “The Americans raised a question: ‘What if Ukraine joins Nato?...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-14T15:14:00+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Zero capital, 116 projects: AI spots the devils in the details of China corruption case",
+        "url": "https://www.scmp.com/news/china/politics/article/3374314/zero-capital-116-projects-ai-spots-devils-details-china-corruption-case",
+        "summary": "Disciplinary staff in Wuhan, provincial capital of Hubei in central China, were going about their routine workday when a red alert landed. It was from a large data model – flagging a possible case of corruption. “A company took on more than 10 projects this year. Its registered capital reduced from 50 million yuan (US$7.5 million) to 10 million, yet it’s paid-in capital is still zero,” the alert said. “Moreover, over 80 per cent of the projects it took were [residential] communities from...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-14T14:00:05+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
         "title": "Turkey detains 6 over deadly steel blast that killed 17",
         "url": "https://www.scmp.com/news/world/europe/article/3374446/turkey-detains-6-over-deadly-steel-blast-killed-17",
         "summary": "Six people were arrested overnight after a huge blast at a steel plant near the western city of Izmir killed 17 workers, with grieving families waiting on Tuesday to receive their loved ones’ bodies for burial. Onlookers said Monday’s massive explosion felt like “an earthquake” when it ripped through the Habas steel factory in Aliaga, a district 60km (37 miles) north of Izmir known for ship-breaking and heavy industry. Police have so far detained six people in connection with the incident, with...",
@@ -1190,7 +1286,7 @@
       {
         "title": "Hong Kong rail giant warns of cash crunch despite Northern Metropolis land grant",
         "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374441/hong-kong-rail-giant-warns-cash-crunch-despite-northern-metropolis-land-grant",
-        "summary": "Hong Kong’s MTR Corp has warned that it will face significant cash flow pressures over the next few years, even with the government’s grant of eight new sites for developing the Northern Link rail project in the Northern Metropolis. The warning came as the Liber Research Community cast doubt on MTR Corp’s model of using property developments to fund rail construction, pointing out that about a third of the 18 sites granted in total were idle plots where developers had opted for cash compensation...",
+        "summary": "Hong Kong’s MTR Corporation has warned that it will face significant cash flow pressures over the next few years, even with the government’s grant of eight new sites for developing the Northern Link rail project in the Northern Metropolis. The warning came as the Liber Research Community cast doubt on the MTR Corp’s model of using property developments to fund rail construction, pointing out that about a third of the 18 sites granted in total were idle plots where developers had opted for cash...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-14T12:12:49+00:00",
         "region": "east_asia",
@@ -1274,7 +1370,7 @@
       {
         "title": "Hong Kong police to activate AI facial recognition across surveillance network",
         "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3374436/hong-kong-police-activate-ai-facial-recognition-across-surveillance-network",
-        "summary": "Hong Kong police will activate artificial intelligence-powered facial recognition across their expanding smart surveillance network on Monday, the force’s commissioner has said. Speaking after attending a police passing-out ceremony, Commissioner of Police Joe Chow Yat-ming said the technology could help identify people even if they wore masks or used other methods to evade detection. “No matter what methods you use, if you commit a crime, we actually have the capability to arrest you. I believe...",
+        "summary": "Hong Kong police will activate artificial intelligence-powered facial recognition across their expanding smart surveillance network on Monday, the force’s chief has said. Commissioner of Police Joe Chow Yat-ming said on Saturday that the technology could help identify people even if they wore masks or used other methods to evade detection. “No matter what methods you use, if you commit a crime, we actually have the capability to arrest you. I believe that using facial recognition serves as a...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-14T09:11:26+00:00",
         "region": "east_asia",
@@ -1392,9 +1488,9 @@
         "stream": "higher"
       },
       {
-        "title": "Hong Kong travellers face 2 days of delays as US ground stop hits 17 city flights",
+        "title": "Hong Kong travellers face 2 days of delays as US ground stop hits 16 city flights",
         "url": "https://www.scmp.com/news/hong-kong/transport/article/3374424/cathay-pacific-warns-delays-after-us-ground-stop-hits-hong-kong-bound-flights",
-        "summary": "Flights between the United States and Hong Kong will face continued disruptions over the next two days, the Airport Authority has warned, after a nationwide US ground stop forced the cancellation of nearly 10,000 flights and hit at least 17 services to and from the city. In reply to the South China Morning Post’s queries, the authority operating the city’s international airport revealed that at least 17 flights had been cancelled or delayed as of noon on Saturday. This included two Hong...",
+        "summary": "Flights between the United States and Hong Kong will face continued disruptions over the next two days, the Airport Authority has warned, after a nationwide US ground stop forced the cancellation of nearly 10,000 flights and affected at least 16 services to and from the city. In reply to the South China Morning Post’s queries, the authority operating the city’s international airport said that at least 16 flights had been cancelled or delayed as of 6pm on Saturday. That included the cancellation...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-14T04:50:00+00:00",
         "region": "east_asia",
@@ -1488,9 +1584,9 @@
         "stream": "higher"
       },
       {
-        "title": "Malaysia’s Melaka election: voter turnout hits 70% target as poll closes",
+        "title": "Malaysia’s Melaka election: Umno wins 24 out of 28 seats, hands Anwar’s PH third loss",
         "url": "https://www.scmp.com/week-asia/politics/article/3374416/malaysias-melaka-election-begins-anwars-ph-seeks-counter-resurgent-umno",
-        "summary": "Voter turnout in the Melaka state election hit the target of 70 per cent of 669,211 eligible voters as polling officially closed at 6pm on Saturday, in a contest where Prime Minister Anwar Ibrahim’s ruling Pakatan Harapan (PH) coalition faces formidable odds against the incumbent Umno. The poll marks the third state electoral battle between PH and its federal partner Umno in four months. Two weeks of campaigning have seen PH pull out all the stops in its bid to at least deny the Umno-led Barisan...",
+        "summary": "Malaysian leader Anwar Ibrahim’s ruling coalition was handed its third consecutive electoral defeat of the year on Saturday, as federal partner but state rival Umno retained control of Melaka in a lopsided contest driven by a Malay nationalist surge. An electoral alliance between the incumbent Umno-led Barisan Nasional (BN) coalition and the Perikatan Nasional (PN) opposition bloc secured a commanding supermajority of 24 out of the 28 seats in Melaka’s state legislative assembly. The remaining...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-14T01:02:20+00:00",
         "region": "east_asia",
@@ -1536,12 +1632,36 @@
         "stream": "higher"
       },
       {
+        "title": "Expansion is no longer enough. What will define India's next generation of universities?",
+        "url": "https://education.economictimes.indiatimes.com/news/higher-education/expansion-is-no-longer-enough-what-will-define-indias-next-generation-of-universities/135758646",
+        "summary": "India's higher education system is expanding and foreign universities are entering the country. But faculty strength, academic identity, affordability, research and student outcomes will determine which institutions stand out.",
+        "source": "Economic Times — Education (India)",
+        "published": "2026-11-14T00:30:00+00:00",
+        "region": "south_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
         "title": "Pax Silica means peace. In the Philippines, it’s a fight",
         "url": "https://www.scmp.com/week-asia/economics/article/3374368/pax-silica-means-peace-philippines-its-fight",
         "summary": "Outside the Grand Hyatt hotel in Manila earlier this year, five people were arrested as hundreds of activists chanting “Junk Pax Silica!” clashed with anti-riot police. Inside, Philippine President Ferdinand Marcos Jnr hobnobbed with some 600 investors, industry leaders and officials at a US-sponsored forum, urging them to sink their money into the US-led scheme. The Philippines is planning to build a sprawling 1,620-hectare (4,000-acre) “Pax Silica” technology hub near a former American...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-14T00:00:08+00:00",
         "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Using photovoice to facilitate boundary crossing learning in higher education",
+        "url": "https://www.nature.com/articles/s41599-026-09530-9",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-14T00:00:00+00:00",
+        "region": "global",
         "streams": [
           "higher"
         ],
@@ -1758,90 +1878,6 @@
         "source": "The PIE News",
         "published": "2026-11-13T15:07:43+00:00",
         "region": "global",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Trump to press Southeast Asia nations to join Pax Silica at Asean summit in Manila",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3374393/trump-press-southeast-asia-nations-join-pax-silica-asean-summit-manila",
-        "summary": "US President Donald Trump will press Southeast Asian economies to join Pax Silica, his campaign to China-proof AI and chip supply chains, when he attends the Asean summit in Manila next week. According to people familiar with the matter, artificial intelligence and critical minerals will top his agenda at the Association of Southeast Asian Nations gathering, his first trip abroad since his party’s bruising midterm defeats. In particular, he is expected to urge regional leaders to sign up for AI...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-13T15:00:07+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "A bad year for Hong Kong construction: 6 scandals that shocked city",
-        "url": "https://www.scmp.com/news/hong-kong/article/3374396/bad-year-hong-kong-construction-6-scandals-shocked-city",
-        "summary": "Hong Kong’s construction industry is facing mounting public scrutiny following a string of scandals involving substandard work, defective installations and questionable maintenance practices. From malfunctioning hospital lifts and missing fire-safety components in lift door frames to defective columns at a railway station and structural flaws in residential projects, the incidents have raised concerns over construction quality, regulatory oversight and accountability. Secretary for Development...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-13T14:08:09+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Will Jensen Huang’s downfall tip the scales against open-source AI?",
-        "url": "https://www.scmp.com/tech/big-tech/article/3374376/will-jensen-huangs-downfall-tip-scales-against-open-source-ai",
-        "summary": "Jensen Huang’s abrupt resignation from Nvidia has cast uncertainty over the US chip giant’s multibillion-dollar investments in open-source artificial intelligence, while potentially depriving Chinese developers of one of their most influential advocates in Washington. His departure could prompt Nvidia to scale back spending on open-weight models and their supporting infrastructure, analysts said, although strong commercial incentives would likely keep the company committed to the broader...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-13T14:00:09+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Hong Kong nature reserve samples test positive for ‘highly pathogenic’ bird flu virus",
-        "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3374391/hong-kong-nature-reserve-samples-test-positive-highly-pathogenic-bird-flu-virus",
-        "summary": "Two environmental samples taken from Hong Kong’s Mai Po nature reserve have tested positive for the “highly pathogenic” H5 avian flu virus, the Agriculture, Fisheries and Conservation Department (AFCD) has said. A department spokesman said that a research team from the University of Hong Kong’s School of Public Health had confirmed the positive tests on samples collected on Wednesday as part of regular surveillance. “The AFCD is closely monitoring the situation of the birds in the Mai Po nature...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-13T13:21:51+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "6 dead near Kenya’s capital after building collapses",
-        "url": "https://www.scmp.com/news/world/africa/article/3374388/6-dead-near-kenyas-capital-after-building-collapses",
-        "summary": "Six people died ⁠near Kenya’s capital Nairobi ⁠after the top floor of a building under construction collapsed on Friday, a police official said, the latest in a string of construction accidents to ‌hit the country recently. “So far we have confirmed six bodies, but also five people have been rushed to Imara Daima Hospital,” Duncan Ochieng, the assistant inspector general of police in charge of disaster management in Kenya, told media ⁠gathered at the scene. A total of 405 workers were on ‌site...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-13T13:10:08+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "India road crash between bus, container truck kills 23",
-        "url": "https://www.scmp.com/news/asia/south-asia/article/3374386/india-road-crash-between-bus-container-truck-kills-23",
-        "summary": "A head-on collision between a container truck and a passenger bus killed at least 23 people, including three children, in eastern India on Friday, a police official said The crash took place on a highway bordering Kaziranga National Park in the northeastern state of Assam. The road is a designated animal corridor, where strict speed limits are in place. “The total number of casualties is 23,” said Swapneel Deka, the local district police chief. Assam Chief Minister Himanta Biswa Sarma said he...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-13T13:02:08+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "US-China AI safety talks face hurdle over how to define ‘serious’ incidents: analysts",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3374381/us-china-ai-safety-talks-face-hurdle-over-how-define-serious-incidents-analysts",
-        "summary": "China and the United States have a shared interest in preventing artificial intelligence (AI) from being misused, but differing views over what constitutes a serious safety incident could complicate efforts to build a bilateral communication mechanism, according to analysts. US Treasury Secretary Scott Bessent said on Tuesday that Washington and Beijing should cooperate on AI risks while harbouring no illusions about their differences. He noted the two governments had established a new dialogue...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-13T13:00:11+00:00",
-        "region": "east_asia",
         "streams": [
           "higher"
         ],
@@ -2107,30 +2143,6 @@
         "source": "EdNews Africa",
         "published": "2026-11-12T11:05:27+00:00",
         "region": "east_africa",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Young Innovators to Power Rural Tourism Through Digital Solutions at Tourism Hackathon",
-        "url": "https://www.ednews.africa/p/young-innovators-to-power-rural-tourism",
-        "summary": "Minister De Lille highlighted the importance of investing in the sustainability of the tourism sector beginning with an investment in the youth.",
-        "source": "EdNews Africa",
-        "published": "2026-11-12T10:56:51+00:00",
-        "region": "east_africa",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Migration is essential to education and the Australian way of life",
-        "url": "https://thepienews.com/migration-is-essential-to-education-and-the-australian-way-of-life/",
-        "summary": "Australia risks losing more than talent and economic opportunity as migration restrictions threaten multiculturalism, argues Jessica Gallagher, deputy vice chancellor international and external engagement at Adelaide University. The post Migration is essential to education and the Australian way of life appeared first on The PIE News .",
-        "source": "The PIE News",
-        "published": "2026-11-12T10:28:14+00:00",
-        "region": "global",
         "streams": [
           "higher"
         ],
@@ -3577,18 +3589,6 @@
         "stream": "edtech"
       },
       {
-        "title": "Educated but illiterate? How Indians have little health, financial and AI literacy",
-        "url": "https://www.thehindu.com/education/educated-but-illiterate-how-indians-have-little-health-financial-and-ai-literacy/article71656468.ece",
-        "summary": "In most Indian colleges, “life skills” is synonymous with soft skills – communication, teamwork, presentations, interview grooming. While they can help in getting a job, they are not a substitute for the life literacies.",
-        "source": "The Hindu — Education",
-        "published": "2026-11-02T12:39:58+00:00",
-        "region": "south_asia",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
-      },
-      {
         "title": "Want Students to Think With AI? Raise the Stakes.",
         "url": "https://www.edsurge.com/news/want-students-to-think-with-ai-raise-the-stakes",
         "summary": "AI tutors won’t teach students to think until the conversation itself becomes the assessment.",
@@ -3743,9 +3743,45 @@
           "edtech"
         ],
         "stream": "edtech"
+      },
+      {
+        "title": "Which CEFR level is right for you?",
+        "url": "https://blog.duolingo.com/goldilocks-and-the-cefr-levels-which-proficiency-level-is-just-right/",
+        "summary": "What does it mean to be “fluent,” anyway? And is that the best goal?",
+        "source": "Duolingo — Blog",
+        "published": "2026-10-27T12:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
       }
     ],
     "policy": [
+      {
+        "title": "How the University of North Carolina Tried to Avoid Trump’s Wrath",
+        "url": "https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html",
+        "summary": "The University of North Carolina’s chancellor tried to protect the school from the Trump administration. Work on cancer, suicide, AIDS and coronaviruses was hit anyway.",
+        "source": "New York Times — Education",
+        "published": "2026-11-14T14:12:35+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Young Cinephiles",
+        "url": "https://www.nytimes.com/2026/11/13/briefing/young-cinephiles.html",
+        "summary": "We look at why Gen Z has been hitting the movie theater.",
+        "source": "New York Times — Education",
+        "published": "2026-11-14T13:52:48+00:00",
+        "region": "north_america",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
       {
         "title": "IIT Roorkee student death: 70 exams postponed, to be held on November 22",
         "url": "https://www.thehindu.com/news/national/iit-roorkee-student-death-70-exams-postponed-to-be-held-on-november-22/article71701477.ece",
@@ -3764,6 +3800,18 @@
         "summary": "A WHO report found that corporal punishment causes overloading of biological systems, including the nervous, cardiovascular, and nutritional systems, and changes in brain structure and function. It also causes mental health issues and impairs cognitive and socio-emotional development in children",
         "source": "The Hindu — Education",
         "published": "2026-11-14T09:20:47+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Beyond the application",
+        "url": "https://www.thehindu.com/education/beyond-the-application/article71689356.ece",
+        "summary": "Uncertain about your career options? Low on self-confidence? This column may help",
+        "source": "The Hindu — Education",
+        "published": "2026-11-14T08:16:16+00:00",
         "region": "south_asia",
         "streams": [
           "policy"
@@ -3819,18 +3867,6 @@
         "stream": "policy"
       },
       {
-        "title": "How the University of North Carolina Tried to Avoid Trump’s Wrath",
-        "url": "https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html",
-        "summary": "The University of North Carolina’s chancellor tried to protect the school from the Trump administration. Work on cancer, suicide, AIDS and coronaviruses was hit anyway.",
-        "source": "New York Times — Education",
-        "published": "2026-11-14T02:00:19+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
         "title": "Beyond Marks and Merits: Why India must rethink student success",
         "url": "https://education.economictimes.indiatimes.com/news/school-education/beyond-marks-and-merits-why-india-must-rethink-student-success/135811674",
         "summary": "Children's Day 2026 brings renewed focus on the growing mental health challenges faced by students amid academic competition, examination stress and rising expectations. ETEducation examines how schools, parents and policymakers can create supportive learning environments, strengthen counselling systems and ensure children experience the joy of childhood beyond marks and rankings.",
@@ -3861,18 +3897,6 @@
         "source": "The Guardian — Education",
         "published": "2026-11-13T18:10:05+00:00",
         "region": "global",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Young Cinephiles",
-        "url": "https://www.nytimes.com/2026/11/13/briefing/young-cinephiles.html",
-        "summary": "We look at why Gen Z has been hitting the movie theater.",
-        "source": "New York Times — Education",
-        "published": "2026-11-13T16:27:29+00:00",
-        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -4688,18 +4712,6 @@
         "summary": "Alan Milburn describes them as a ‘lost generation’. Those I spoke to just want to know what they have to do to finally get a job – and a chance in life Callum Atkinson is 23 years old, and lives in the Greater Manchester town of Rochdale. Until very recently, he was one of hundreds of thousands of young people in the UK reckoned not to be in education, employment or training: what officialspeak rather coldly terms a Neet, and therefore part of a huge national problem being investigated by the former New Labour high-up Alan Milburn, whose final report on young people and work is due any day now",
         "source": "The Guardian — Education",
         "published": "2026-11-08T13:27:33+00:00",
-        "region": "global",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Nandy rejects claims of politicising Remembrance Sunday after Erasmus row",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
-        "summary": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
-        "source": "BBC — Education",
-        "published": "2026-11-08T13:05:30+00:00",
         "region": "global",
         "streams": [
           "policy"
@@ -5574,30 +5586,6 @@
         "stream": "research"
       },
       {
-        "title": "Assessing life skills education in online learning environments through a case study in China",
-        "url": "https://www.nature.com/articles/s41599-026-09476-y",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-11-04T00:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Preprimary education laws and women’s gender attitudes, empowerment and reproductive autonomy in 117 low- and middle-income countries",
-        "url": "https://www.nature.com/articles/s41562-026-02583-5",
-        "summary": "",
-        "source": "Nature — Education",
-        "published": "2026-11-04T00:00:00+00:00",
-        "region": "global",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
         "title": "KIX EMAP Podcast #30: What Are the Most Pressing Education Issues in Pakistan? Three Local Experts Discuss",
         "url": "https://www.norrageducation.org/kix-emap-podcast-30-what-are-the-most-pressing-education-issues-in-pakistan-three-local-experts-discuss/",
         "summary": "This episode of the KIX EMAP podcast, hosted by Ryan Allen, Assistant Professor, Chapman University (USA), features a panel of education experts from Pakistan: Dr. Sajid Ali of Aga Khan University, Institute for Educational Development, Prof. Zahida Batool of the Quaid-e-Azam Academy for Educational Development, and Dr. Zahid Majeed of Allama Iqbal Open University. In... Read More The post KIX EMAP Podcast #30: What Are the Most Pressing Education Issues in Pakistan? Three Local Experts Discuss appeared first on NORRAG - .",
@@ -5668,9 +5656,94 @@
           "research"
         ],
         "stream": "research"
+      },
+      {
+        "title": "Key Insights on Education for Planetary Futures",
+        "url": "https://www.norrageducation.org/key-insights-on-education-for-planetary-futures-2/",
+        "summary": "NORRAG is proud to partner with Education for Planetary Futures, Julie Ann Wrigley Global Futures Laboratory, and UNESCO-MOST BRIDGES to develop the launch of Key Insights on Education for Planetary Futures. About Key Insights on Education for Planetary Futures Education shapes how we understand the world, relate to one another, and imagine what comes next. As... Read More The post Key Insights on Education for Planetary Futures appeared first on NORRAG - .",
+        "source": "NORRAG — Education & Development",
+        "published": "2026-10-22T09:10:34+00:00",
+        "region": "europe",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Only one female scientist named in GCSEs, research finds",
+        "url": "https://www.bbc.co.uk/news/articles/c69wzv5pg447o?at_medium=RSS&at_campaign=rss",
+        "summary": "A new study finds Rosalind Franklin is the only woman named in Key Stage 4 science specifications.",
+        "source": "BBC — Education",
+        "published": "2026-10-21T23:02:45+00:00",
+        "region": "global",
+        "streams": [
+          "research",
+          "school"
+        ],
+        "stream": "research"
       }
     ],
     "funding": [
+      {
+        "title": "BusinessDay Young Economists Writing Challenge 2026 (N450,000 in prizes)",
+        "url": "https://opportunitydesk.org/2026/11/14/businessday-young-economists-writing-challenge-2026/",
+        "summary": "Deadline: November 27, 2026 Applications are invited for the BusinessDay Young Economists Writing Challenge 2026. Are you an Economics student with a bold perspective on the issues shaping Nigeria and Africa’s economic future? BusinessDay is inviting the next generation of economists to move beyond the classroom and put their ideas, research and analytical skills to [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-11-14T14:47:44+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Morris Animal Foundation Veterinary Student Scholar Program 2026 ($5,500 stipend)",
+        "url": "https://opportunitydesk.org/2026/11/14/morris-animal-foundation-veterinary-student-scholar-program-2026/",
+        "summary": "Deadline: Unspecified Applications are invited for the Morris Animal Foundation Veterinary Student Scholar Program 2026. The Morris Animal Foundation Veterinary Student Scholar program is a competitive program that provides veterinary students the opportunity to conduct mentored research to advance the health and well-being of dogs, cats, equids and wildlife. Morris Animal Foundation funds high-quality research that advances [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-11-14T14:26:49+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Ocean Futures Fellowship 2027: Building Ocean Career Pathways",
+        "url": "https://opportunitydesk.org/2026/11/14/ocean-futures-fellowship-2027-building-ocean-career-pathways/",
+        "summary": "Deadline: November 17, 2026 Applications are open for the Ocean Futures Fellowship 2027. The Ocean Futures Fellowship empowers the next generation of ocean professionals, equipping them to address pressing ocean challenges while strengthening their own career pathways. Through training, educational projects, professional development and mentorship over a twelve-month program, Fellows will gain advanced skills, hands-on [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-11-14T14:10:49+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Food and Agriculture Organization of the United Nations (UN FAO) Award for Innovation 2027 ($10,000 prize)",
+        "url": "https://opportunitydesk.org/2026/11/14/un-fao-award-for-innovation-2027/",
+        "summary": "Deadline: December 31, 2026 Applications are open for the UN FAO Award for Innovation 2027. At its Forty-second session, the Food and Agriculture Organization of the United Nations (FAO) Conference decided to establish a “FAO Award for Innovation” to recognise ground-breaking innovation in areas under FAO’s mandate, open to a broad spectrum of awardees including [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-11-14T13:53:46+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Council of Europe Grants for Civil Society Organisations 2026 (up to €20,000)",
+        "url": "https://opportunitydesk.org/2026/11/14/council-of-europe-grants-for-civil-society-organisations-2026/",
+        "summary": "Deadline: December 2, 2026 Applications are open for the Council of Europe Grants for Civil Society Organisations 2026. The Council of Europe’s democratic institutions and civil society division is giving out grants to strengthen democracy and support civil society to engage with the Council of Europe. The grants aim to co-fund projects that: Grant Eligibility [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-11-14T13:34:20+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
       {
         "title": "UCD Iseult Honohan Doctoral Scholarship 2027 (Fully-funded)",
         "url": "https://opportunitydesk.org/2026/11/13/ucd-iseult-honohan-doctoral-scholarship-2027/",
@@ -5712,7 +5785,7 @@
         "url": "https://opportunitydesk.org/2026/11/13/od-impact-challenge-2026/",
         "summary": "Deadline: December 10, 2026 We are pleased to announce that the Opportunity Desk Impact Challenge (ODIC) 2026 is officially open. This year, we are inviting young changemakers from around the world to showcase how they are driving positive social impact in their communities. After successful editions in previous years, the competition returns to spotlight inspiring [...]",
         "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-11-13T18:34:34+00:00",
+        "published": "2026-11-13T17:00:34+00:00",
         "region": "global",
         "streams": [
           "funding"
@@ -5725,66 +5798,6 @@
         "summary": "Deadline: November 21, 2026 Applications for the European Union Youth Sounding Board Cameroon (YSB) 2026-2028 are now open. The Youth Sounding Board Cameroon (YSB) is a youth advisory structure composed of a group of 25 young people selected to engage in dialogue on youth-related issues and provide a youth perspective on policies, projects, and processes [...]",
         "source": "Opportunity Desk — Scholarships & Fellowships",
         "published": "2026-11-13T16:07:48+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "CDI Community-Based Entrepreneurship Through Acquisition (CETA) Accelerator 2027",
-        "url": "https://opportunitydesk.org/2026/11/13/ceta-accelerator-2027/",
-        "summary": "Deadline: December 31, 2026 Applications are open for the CDI Community-Based Entrepreneurship Through Acquisition (CETA) Accelerator 2027. Community Development Investors (CDI) in partnership with Zelle® offers an intensive 12-week CETA Accelerator for students and mid-career professionals. The program is designed to prepare aspiring entrepreneurs to acquire, operate, and grow existing small businesses while creating lasting economic [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-11-13T11:04:33+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "UCLA Library Special Collections (LSC) Research Fellowships 2027 (Funded)",
-        "url": "https://opportunitydesk.org/2026/11/12/ucla-library-special-collections-research-fellowships-2027/",
-        "summary": "Deadline: December 1, 2026 Applications are open for the UCLA Library Special Collections (LSC) Research Fellowships 2027. UCLA Library Special Collections (LSC) Research Fellowships provide one-time funding disbursements to help defray travel and other research-related expenses for projects that would significantly benefit from on-site research. The call for applications opens in the mid- to late [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-11-12T22:37:05+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "Ashoka Young Changemakers Program – Nigeria 2027",
-        "url": "https://opportunitydesk.org/2026/11/12/ashoka-young-changemakers-program-nigeria-2027/",
-        "summary": "Deadline: Unspecified Applications are open for the Ashoka Young Changemakers Program – Nigeria 2027. Ashoka Anglophone West Africa is seeking young people in Nigeria who have found their power to create change for the good of all, and who are engaging their peers and the entire society in realizing a world where everyone is a [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-11-12T22:03:24+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "E-JUST TICAD9 African Scholarship for STI – Fall 2027",
-        "url": "https://opportunitydesk.org/2026/11/12/e-just-ticad9-african-scholarship-for-sti-fall-2027/",
-        "summary": "Deadline: Unspecified Applications are open for the E-JUST TICAD9 African Scholarship for STI – Fall 2027. E-JUST offers “E-JUST TICAD9 African Scholarship for STI” – i.e. TICAD9 Scholarships to develop high-quality human resources in the field of STI (Science, Technology and Innovation) toward future African STI network and beyond. These scholarships are provided under the [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-11-12T21:51:38+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "DSTI-NRF Policy Fellowship Programme 2027 (Funded)",
-        "url": "https://opportunitydesk.org/2026/11/12/dsti-nrf-policy-fellowship-programme-2027/",
-        "summary": "Deadline: November 17, 2026 Applications are open for the DSTI-NRF Policy Fellowship Programme 2027. The National Research Foundation (NRF), in partnership with the Department of Science, Technology and Innovation (DSTI), invites eligible early- and mid-career researchers to apply for the second cohort of the DSTI–NRF Policy Fellowship Programme. The programme aims to strengthen the relationship [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-11-12T21:23:57+00:00",
         "region": "global",
         "streams": [
           "funding"
@@ -5918,6 +5931,66 @@
   "regions": {
     "global": [
       {
+        "title": "BusinessDay Young Economists Writing Challenge 2026 (N450,000 in prizes)",
+        "url": "https://opportunitydesk.org/2026/11/14/businessday-young-economists-writing-challenge-2026/",
+        "summary": "Deadline: November 27, 2026 Applications are invited for the BusinessDay Young Economists Writing Challenge 2026. Are you an Economics student with a bold perspective on the issues shaping Nigeria and Africa’s economic future? BusinessDay is inviting the next generation of economists to move beyond the classroom and put their ideas, research and analytical skills to [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-11-14T14:47:44+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Morris Animal Foundation Veterinary Student Scholar Program 2026 ($5,500 stipend)",
+        "url": "https://opportunitydesk.org/2026/11/14/morris-animal-foundation-veterinary-student-scholar-program-2026/",
+        "summary": "Deadline: Unspecified Applications are invited for the Morris Animal Foundation Veterinary Student Scholar Program 2026. The Morris Animal Foundation Veterinary Student Scholar program is a competitive program that provides veterinary students the opportunity to conduct mentored research to advance the health and well-being of dogs, cats, equids and wildlife. Morris Animal Foundation funds high-quality research that advances [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-11-14T14:26:49+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Ocean Futures Fellowship 2027: Building Ocean Career Pathways",
+        "url": "https://opportunitydesk.org/2026/11/14/ocean-futures-fellowship-2027-building-ocean-career-pathways/",
+        "summary": "Deadline: November 17, 2026 Applications are open for the Ocean Futures Fellowship 2027. The Ocean Futures Fellowship empowers the next generation of ocean professionals, equipping them to address pressing ocean challenges while strengthening their own career pathways. Through training, educational projects, professional development and mentorship over a twelve-month program, Fellows will gain advanced skills, hands-on [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-11-14T14:10:49+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Food and Agriculture Organization of the United Nations (UN FAO) Award for Innovation 2027 ($10,000 prize)",
+        "url": "https://opportunitydesk.org/2026/11/14/un-fao-award-for-innovation-2027/",
+        "summary": "Deadline: December 31, 2026 Applications are open for the UN FAO Award for Innovation 2027. At its Forty-second session, the Food and Agriculture Organization of the United Nations (FAO) Conference decided to establish a “FAO Award for Innovation” to recognise ground-breaking innovation in areas under FAO’s mandate, open to a broad spectrum of awardees including [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-11-14T13:53:46+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Council of Europe Grants for Civil Society Organisations 2026 (up to €20,000)",
+        "url": "https://opportunitydesk.org/2026/11/14/council-of-europe-grants-for-civil-society-organisations-2026/",
+        "summary": "Deadline: December 2, 2026 Applications are open for the Council of Europe Grants for Civil Society Organisations 2026. The Council of Europe’s democratic institutions and civil society division is giving out grants to strengthen democracy and support civil society to engage with the Council of Europe. The grants aim to co-fund projects that: Grant Eligibility [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-11-14T13:34:20+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
         "title": "Stop counting training hours. Start measuring learning.",
         "url": "https://elearningindustry.com/stop-counting-training-hours-start-measuring-learning",
         "summary": "Why organizations should care about the time spent learning, not the time spent studying This post was first published on eLearning Industry .",
@@ -5979,6 +6052,18 @@
         "region": "global"
       },
       {
+        "title": "Using photovoice to facilitate boundary crossing learning in higher education",
+        "url": "https://www.nature.com/articles/s41599-026-09530-9",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-14T00:00:00+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "global"
+      },
+      {
         "title": "You are a part of me? Mother’s self-boundary blurring is associated with risk of the child’s mental health problems",
         "url": "https://www.nature.com/articles/s41599-026-09454-4",
         "summary": "",
@@ -5999,6 +6084,18 @@
         "stream": "research",
         "streams": [
           "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "An empirical study on factors influencing digital technology adoption among primary and secondary school physical education teachers",
+        "url": "https://www.nature.com/articles/s41598-026-77930-7",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-14T00:00:00+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
         ],
         "region": "global"
       },
@@ -6051,18 +6148,6 @@
         "region": "global"
       },
       {
-        "title": "OD Impact Challenge 2026 for Young Changemakers (Win cash prizes & more)",
-        "url": "https://opportunitydesk.org/2026/11/13/od-impact-challenge-2026/",
-        "summary": "Deadline: December 10, 2026 We are pleased to announce that the Opportunity Desk Impact Challenge (ODIC) 2026 is officially open. This year, we are inviting young changemakers from around the world to showcase how they are driving positive social impact in their communities. After successful editions in previous years, the competition returns to spotlight inspiring [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-11-13T18:34:34+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
         "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
         "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
         "summary": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptions Vital UK services have been hit by a global Microsoft outage that left hospital staff resorting to paper records and fuelled concerns about an over-reliance on a small number of tech companies. A day of widespread disruption sent some sectors back to the 1990s, with court staff looking for fax machines and rail travellers being warned they might not be able to rely on digital tickets. Continue reading...",
@@ -6095,6 +6180,18 @@
         "stream": "higher",
         "streams": [
           "higher"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "OD Impact Challenge 2026 for Young Changemakers (Win cash prizes & more)",
+        "url": "https://opportunitydesk.org/2026/11/13/od-impact-challenge-2026/",
+        "summary": "Deadline: December 10, 2026 We are pleased to announce that the Opportunity Desk Impact Challenge (ODIC) 2026 is officially open. This year, we are inviting young changemakers from around the world to showcase how they are driving positive social impact in their communities. After successful editions in previous years, the competition returns to spotlight inspiring [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-11-13T17:00:34+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
         ],
         "region": "global"
       },
@@ -6313,90 +6410,6 @@
           "research"
         ],
         "region": "global"
-      },
-      {
-        "title": "Spatio-temporal occurrence of small carnivores in Bagmati-Ratu Complex, Nepal",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362681",
-        "summary": "by Bashu Dev Baral, Surya Devkota, Sandeep Regmi, Shivish Bhandari, Bishnu Prasad Bhattarai, Hem Bahadur Katuwal, Jerrold L. Belant, Hari Prasad Sharma Small carnivores are generally more adaptable to human-dominated landscapes compared with large carnivores, but have received comparatively limited attention. We evaluated the single-season multi-species occupancy and temporal overlap of five small carnivores in Bagmati-Ratu Complex (BRC) of Madhesh Province, Nepal using camera-trap surveys during January to February 2023. Camera-trap data were used to evaluate single-season multi-species occup",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-11-13T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Within-player load-wellness monitoring and lower-limb pain in elite female football: A reproducible secondary analysis of the SoccerMon dataset",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362663",
-        "summary": "by Yushuo Liu, Haitao Li Routine athlete-monitoring data can test whether within-player changes in training load and wellness precede health problems, but sparse outcomes and incomplete reporting complicate inference. We conducted a reproducible secondary longitudinal analysis of the public SoccerMon dataset, comprising 50 players from two Norwegian elite women’s football teams monitored in 2020–2021. The outcome was onset on day t (the index player-day) of a self-reported lower-limb pain/injury episode after a 7-day episode washout. The primary risk set contained 42 onset-days from 15 players",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-11-13T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Sleep duration and cause-specific mortality among US adults with heart disease: A NHIS-NDI linkage cohort study",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362657",
-        "summary": "by Tolulope Victoria Adebile, Tobi Oloyede, Emmanuel Azu, Mobolaji Olagunju, Olamide Asifat, Temitayo Mary Paul, Oluwaseun Ipede, Wandoo Abwa, Purbasha Biswas, Lili Yu Background Sleep duration is increasingly recognized as a component of cardiovascular health, yet its prognostic significance among adults with established heart disease remains unclear. We examined associations between sleep duration and mortality among US adults with heart disease. Methods We analyzed data from 3,287 adults with heart disease participating in the 2004 National Health Interview Survey linked to the National Dea",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-11-13T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Integrated In vitro and in vivo evaluation of anticancer potentials of two clerodane diterpenes isolated from Psidium guajava (L.) through molecular docking approaches",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362655",
-        "summary": "by Most Chand Sultana Khatun, Mir Imam Ibne Wahed, Md. Jamal Hossain, Md. Ataur Rahman, Sabbir Ahmed, Md Hasibul Hasan Psidium guajava (L.) is a medicinal plant rich in bioactive phytochemicals with promising therapeutic potential. This study aimed to isolate clerodane-type diterpenes from P. guajava and evaluate their anticancer activity through in vitro and in vivo assays supported by molecular docking.Two clerodane-type diterpenes, borapetoside F (1) and borapetoside B (2), were isolated from the ethyl acetate fraction of P. guajava and identified by 1 H and 13 C NMR spectroscopy. Cytotoxic",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-11-13T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Feasibility of patient-reported outcomes measurement information system (PROMIS) computerized adaptive tests in patients receiving physical therapy: A mixed-methods study",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362652",
-        "summary": "by Erik-Jan A. Haan, Annet Doomen, Harriët Wittink, Henri Kiers, Remco M. Arensman, Caroline B. Terwee Introduction Patient-Reported Outcome Measures (PROMs) are widely used in physical therapy, but both clinicians and patients report respondent burden due to the number and the length of existing instruments. PROMIS ® Computerized Adaptive Tests (CATs) may reduce this burden, yet their feasibility in primary care physical therapy is unknown. This study examined the feasibility of Dutch-Flemish PROMIS CATs in patients with musculoskeletal (MSK) disorders of the spine and upper extremity. Method",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-11-13T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "GenAI-enabled accounting information systems competence: Antecedents, perceived usefulness, AI ethics awareness, and career readiness outcomes",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362651",
-        "summary": "by Trung Kim Quoc Nguyen, Khanh Phuc Nguyen This study examines GenAI-enabled accounting information systems competence (GAISC) among accounting and auditing students and its relationships with GenAI readiness (GAR), perceived ease of use (PEOU), digital learning self-efficacy (DLSE), facilitating conditions (FC), perceived usefulness (PU), AI ethics awareness (AIEA), and career readiness (CR). The model is anchored in Socio-Technical Systems Theory (STS) and Social Cognitive Career Theory (SCCT), with technology readiness, TAM, self-efficacy, and facilitating-condition logic used as construct",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-11-13T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Trends and outcomes in diabetic ketoacidosis: A 10-year retrospective study at a Norwegian university hospital",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362629",
-        "summary": "by Sebastian Breivik Soleim, Kristian Løvås, Eirik Søfteland, Grethe Åstrøm Ueland Aims To describe trends in diabetic ketoacidosis admissions and examine factors associated with repeated admissions and mortality among adults living with type 1 diabetes. Materials and methods Diabetic ketoacidosis admissions among adults at a Norwegian university hospital between 1 August 2012 and 31 August 2022 were retrospectively reviewed using electronic medical records. Results A total of 178 participants with 306 admissions were included. Median [IQR] age at admission was 34 years [22–51]. Median HbA1c w",
-        "source": "PLOS ONE — Education Research",
-        "published": "2026-11-13T14:00:00+00:00",
-        "stream": "research",
-        "streams": [
-          "research"
-        ],
-        "region": "global"
       }
     ],
     "south_asia": [
@@ -6418,6 +6431,18 @@
         "summary": "A WHO report found that corporal punishment causes overloading of biological systems, including the nervous, cardiovascular, and nutritional systems, and changes in brain structure and function. It also causes mental health issues and impairs cognitive and socio-emotional development in children",
         "source": "The Hindu — Education",
         "published": "2026-11-14T09:20:47+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "Beyond the application",
+        "url": "https://www.thehindu.com/education/beyond-the-application/article71689356.ece",
+        "summary": "Uncertain about your career options? Low on self-confidence? This column may help",
+        "source": "The Hindu — Education",
+        "published": "2026-11-14T08:16:16+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -6461,18 +6486,6 @@
         "region": "south_asia"
       },
       {
-        "title": "Balochistan Assembly seeks compulsory Arabic in primary schools",
-        "url": "https://www.dawn.com/news/2044382/balochistan-assembly-seeks-compulsory-arabic-in-primary-schools",
-        "summary": "QUETTA: The Balochistan Assembly on Friday unanimously adopted a resolution recommending the introduction of basic Arabic as a compulsory subject in all government primary schools across the province. The resolution was moved by JUI-F MPA Shahida Rauf, who said teaching basic Arabic would help students understand commonly used Quranic words and their meanings, enabling them to develop a better understanding of the Holy Quran from an early age. The resolution called for a simple, standardised and grade-wise curriculum covering basic Arabic vocabulary, grammar and commonly used Quranic expressio",
-        "source": "Dawn — Pakistan",
-        "published": "2026-11-14T02:43:06+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
-        ],
-        "region": "south_asia"
-      },
-      {
         "title": "Beyond Marks and Merits: Why India must rethink student success",
         "url": "https://education.economictimes.indiatimes.com/news/school-education/beyond-marks-and-merits-why-india-must-rethink-student-success/135811674",
         "summary": "Children's Day 2026 brings renewed focus on the growing mental health challenges faced by students amid academic competition, examination stress and rising expectations. ETEducation examines how schools, parents and policymakers can create supportive learning environments, strengthen counselling systems and ensure children experience the joy of childhood beyond marks and rankings.",
@@ -6481,6 +6494,18 @@
         "stream": "policy",
         "streams": [
           "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "Expansion is no longer enough. What will define India's next generation of universities?",
+        "url": "https://education.economictimes.indiatimes.com/news/higher-education/expansion-is-no-longer-enough-what-will-define-indias-next-generation-of-universities/135758646",
+        "summary": "India's higher education system is expanding and foreign universities are entering the country. But faculty strength, academic identity, affordability, research and student outcomes will determine which institutions stand out.",
+        "source": "Economic Times — Education (India)",
+        "published": "2026-11-14T00:30:00+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
         ],
         "region": "south_asia"
       },
@@ -6866,18 +6891,6 @@
         "stream": "higher",
         "streams": [
           "higher"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "Environmental education should be treated as a life skill, not an optional subject",
-        "url": "https://www.thehindu.com/education/environmental-education-should-be-treated-as-a-life-skill-and-not-an-optional-subject/article71682450.ece",
-        "summary": "Conventional curricula still present the environment as an abstraction — photosynthesis and the water cycle – rarely the leopard that actually shares the district",
-        "source": "The Hindu — Education",
-        "published": "2026-11-10T07:34:03+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "south_asia"
       }
@@ -7578,6 +7591,90 @@
     ],
     "east_asia": [
       {
+        "title": "SpaceX successfully carries out first-ever spaceship catch",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3374463/spacex-successfully-carries-out-first-ever-spaceship-catch",
+        "summary": "SpaceX’s Starship spacecraft on Saturday returned from its longest ⁠flight in orbit yet to the ⁠Texas launch tower it was launched ⁠from a day prior, showing the first key recovery of the rocket system’s centrepiece vessel in the company’s decade-long effort to develop a fully reusable rocket. The towering two-stage rocket’s Super Heavy booster – the rocket’s bottom half – carried Starship to space on Friday, lifting off from SpaceX’s Starbase, Texas, facilities. ‌ That booster had failed to...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-14T21:32:46+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "For Bangladesh and others, climate disasters should not add to debt burdens",
+        "url": "https://www.scmp.com/opinion/asia-opinion/article/3374115/bangladesh-and-others-climate-disasters-should-not-add-debt-burdens",
+        "summary": "Talks at Cop31, the United Nations climate change conference being held in Antalya, Turkey, come at a critical moment for climate-vulnerable countries across the Global South. Bangladesh is among those bearing the brunt of climate change despite having negligible historical responsibility for global emissions. As delegations negotiate how to finance climate action, the “how” matters no less than the “how much”: support must arrive in time, reach those who need it and avoid deepening debt. The...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-14T21:30:11+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Amid the Xi-Trump clamour, can Apec revive the business of cooperation?",
+        "url": "https://www.scmp.com/opinion/china-opinion/article/3374048/amid-xi-trump-clamour-can-apec-revive-business-cooperation",
+        "summary": "The 33rd Asia-Pacific Economic Cooperation (Apec) summit will be held in Shenzhen from November 18 to 19. The venue is not accidental. Forty years ago, this was a border town of rice fields and duck ponds; it is now where a good part of the world’s electronics are designed and built, and the showcase of China’s “reform and opening up”. The event’s theme, “Building an Asia-Pacific Community to Prosper Together”, puts openness, innovation and cooperation at the centre. US President Donald Trump...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-14T21:30:08+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Transport chief blames US-wide flight disruptions on upgrade of old copper wiring",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3374456/transport-chief-blames-us-wide-flight-disruptions-upgrade-old-copper-wiring",
+        "summary": "Weary travellers braced for more flight disruptions on Saturday as service resumed from US airports after an hours-long stoppage that the Trump administration blamed on faulty equipment or an error by a contractor tasked with switching out old copper wire communication lines. Friday’s nationwide ground stop sparked widespread chaos and left hundreds of thousands of passengers in limbo, with some pulled off planes moments before departure by airline staff who appeared in the dark about unfolding...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-14T18:26:10+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Philippines’ Carmelle storms to victory in Eurovision Asia debut in Bangkok",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3374455/philippines-carmelle-storms-victory-eurovision-asia-debut-bangkok",
+        "summary": "Filipino singer Carmelle won the first Asian edition of the Eurovision Song Contest on Saturday with a fiery performance of her dance-pop song “Sobra-Sobra”. The 19-year-old beat 10 other acts in the grand final in Bangkok, with the winner chosen through votes from national juries in participating countries and viewers worldwide. After her victory, Carmelle said her song celebrated female empowerment and was intended as “a tribute to all Filipino women”. “I made history, since this was the first...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-14T17:58:57+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Zelensky says US floated idea of Ukraine ceding Donbas for Nato membership",
+        "url": "https://www.scmp.com/news/world/europe/article/3374450/zelensky-says-us-floated-idea-ukraine-ceding-donbas-nato-membership",
+        "summary": "US negotiators have floated the idea of Ukraine’s potential withdrawal from its eastern region of Donbas in exchange for joining Nato, President Volodymyr Zelensky said, following the latest round of peace talks with Russia in Abu Dhabi. This is the first time the question of linking Nato membership to territorial concessions has been raised during the talks, Zelensky said in remarks ‌to reporters released by his office on Saturday. “The Americans raised a question: ‘What if Ukraine joins Nato?...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-14T15:14:00+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Zero capital, 116 projects: AI spots the devils in the details of China corruption case",
+        "url": "https://www.scmp.com/news/china/politics/article/3374314/zero-capital-116-projects-ai-spots-devils-details-china-corruption-case",
+        "summary": "Disciplinary staff in Wuhan, provincial capital of Hubei in central China, were going about their routine workday when a red alert landed. It was from a large data model – flagging a possible case of corruption. “A company took on more than 10 projects this year. Its registered capital reduced from 50 million yuan (US$7.5 million) to 10 million, yet it’s paid-in capital is still zero,” the alert said. “Moreover, over 80 per cent of the projects it took were [residential] communities from...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-14T14:00:05+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
         "title": "Turkey detains 6 over deadly steel blast that killed 17",
         "url": "https://www.scmp.com/news/world/europe/article/3374446/turkey-detains-6-over-deadly-steel-blast-killed-17",
         "summary": "Six people were arrested overnight after a huge blast at a steel plant near the western city of Izmir killed 17 workers, with grieving families waiting on Tuesday to receive their loved ones’ bodies for burial. Onlookers said Monday’s massive explosion felt like “an earthquake” when it ripped through the Habas steel factory in Aliaga, a district 60km (37 miles) north of Izmir known for ship-breaking and heavy industry. Police have so far detained six people in connection with the incident, with...",
@@ -7592,7 +7689,7 @@
       {
         "title": "Hong Kong rail giant warns of cash crunch despite Northern Metropolis land grant",
         "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374441/hong-kong-rail-giant-warns-cash-crunch-despite-northern-metropolis-land-grant",
-        "summary": "Hong Kong’s MTR Corp has warned that it will face significant cash flow pressures over the next few years, even with the government’s grant of eight new sites for developing the Northern Link rail project in the Northern Metropolis. The warning came as the Liber Research Community cast doubt on MTR Corp’s model of using property developments to fund rail construction, pointing out that about a third of the 18 sites granted in total were idle plots where developers had opted for cash compensation...",
+        "summary": "Hong Kong’s MTR Corporation has warned that it will face significant cash flow pressures over the next few years, even with the government’s grant of eight new sites for developing the Northern Link rail project in the Northern Metropolis. The warning came as the Liber Research Community cast doubt on the MTR Corp’s model of using property developments to fund rail construction, pointing out that about a third of the 18 sites granted in total were idle plots where developers had opted for cash...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-14T12:12:49+00:00",
         "stream": "higher",
@@ -7676,7 +7773,7 @@
       {
         "title": "Hong Kong police to activate AI facial recognition across surveillance network",
         "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3374436/hong-kong-police-activate-ai-facial-recognition-across-surveillance-network",
-        "summary": "Hong Kong police will activate artificial intelligence-powered facial recognition across their expanding smart surveillance network on Monday, the force’s commissioner has said. Speaking after attending a police passing-out ceremony, Commissioner of Police Joe Chow Yat-ming said the technology could help identify people even if they wore masks or used other methods to evade detection. “No matter what methods you use, if you commit a crime, we actually have the capability to arrest you. I believe...",
+        "summary": "Hong Kong police will activate artificial intelligence-powered facial recognition across their expanding smart surveillance network on Monday, the force’s chief has said. Commissioner of Police Joe Chow Yat-ming said on Saturday that the technology could help identify people even if they wore masks or used other methods to evade detection. “No matter what methods you use, if you commit a crime, we actually have the capability to arrest you. I believe that using facial recognition serves as a...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-14T09:11:26+00:00",
         "stream": "higher",
@@ -7782,9 +7879,9 @@
         "region": "east_asia"
       },
       {
-        "title": "Hong Kong travellers face 2 days of delays as US ground stop hits 17 city flights",
+        "title": "Hong Kong travellers face 2 days of delays as US ground stop hits 16 city flights",
         "url": "https://www.scmp.com/news/hong-kong/transport/article/3374424/cathay-pacific-warns-delays-after-us-ground-stop-hits-hong-kong-bound-flights",
-        "summary": "Flights between the United States and Hong Kong will face continued disruptions over the next two days, the Airport Authority has warned, after a nationwide US ground stop forced the cancellation of nearly 10,000 flights and hit at least 17 services to and from the city. In reply to the South China Morning Post’s queries, the authority operating the city’s international airport revealed that at least 17 flights had been cancelled or delayed as of noon on Saturday. This included two Hong...",
+        "summary": "Flights between the United States and Hong Kong will face continued disruptions over the next two days, the Airport Authority has warned, after a nationwide US ground stop forced the cancellation of nearly 10,000 flights and affected at least 16 services to and from the city. In reply to the South China Morning Post’s queries, the authority operating the city’s international airport said that at least 16 flights had been cancelled or delayed as of 6pm on Saturday. That included the cancellation...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-14T04:50:00+00:00",
         "stream": "higher",
@@ -7878,9 +7975,9 @@
         "region": "east_asia"
       },
       {
-        "title": "Malaysia’s Melaka election: voter turnout hits 70% target as poll closes",
+        "title": "Malaysia’s Melaka election: Umno wins 24 out of 28 seats, hands Anwar’s PH third loss",
         "url": "https://www.scmp.com/week-asia/politics/article/3374416/malaysias-melaka-election-begins-anwars-ph-seeks-counter-resurgent-umno",
-        "summary": "Voter turnout in the Melaka state election hit the target of 70 per cent of 669,211 eligible voters as polling officially closed at 6pm on Saturday, in a contest where Prime Minister Anwar Ibrahim’s ruling Pakatan Harapan (PH) coalition faces formidable odds against the incumbent Umno. The poll marks the third state electoral battle between PH and its federal partner Umno in four months. Two weeks of campaigning have seen PH pull out all the stops in its bid to at least deny the Umno-led Barisan...",
+        "summary": "Malaysian leader Anwar Ibrahim’s ruling coalition was handed its third consecutive electoral defeat of the year on Saturday, as federal partner but state rival Umno retained control of Melaka in a lopsided contest driven by a Malay nationalist surge. An electoral alliance between the incumbent Umno-led Barisan Nasional (BN) coalition and the Perikatan Nasional (PN) opposition bloc secured a commanding supermajority of 24 out of the 28 seats in Melaka’s state legislative assembly. The remaining...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-14T01:02:20+00:00",
         "stream": "higher",
@@ -7967,90 +8064,6 @@
         "summary": "US lawmakers have been demanding answers about potential national security risks and White House oversight of advanced chip exports to China following revelations that former Nvidia chief executive Jensen Huang was in a relationship with a businesswoman suspected of working for Chinese intelligence. Three Republican House committee chairmen and Senate Banking Committee chairman Tim Scott separately sent letters Thursday seeking testimony from Huang. “As reports continue to come to light...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-13T22:16:27+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Midterm losses could give Trump a quest to emerge from Apec summit as a winner",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3374333/midterm-losses-could-give-trump-quest-emerge-apec-summit-winner",
-        "summary": "When G7 leaders gathered at the French resort of Evian-les-Bains in June, Donald Trump arrived late but wasted no time in grabbing the spotlight. With a cheeky declaration, “I am the boss”, the US president drew a ripple of awkward laughter from around the table. Months earlier, in his September 2025 address to the UN General Assembly, he told the gathering that “your countries are going to hell”. His lengthy speech blended boasts about his own record with sharp criticism of allies’ policies,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-13T22:00:11+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "US flight departures resume after FAA lifts nationwide ground stop",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3374411/flights-stopped-across-us-due-extraordinary-circumstances-faa-says",
-        "summary": "The Federal Aviation Administration (FAA) says airplane departures can resume after the agency lifted a nationwide ground stop caused by communications problems. Air travel across the United States had come to a halt earlier on Friday afternoon after the ordered all flights grounded because of a communications breakdown at the regional centres that manage the country’s air traffic. The grounding forced the cancellation of nearly 5,000 flights and marked the longest nationwide shutdown of...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-13T21:33:43+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "EU’s fixation on Chinese subsidies masks its own structural stagnation",
-        "url": "https://www.scmp.com/opinion/world-opinion/article/3373980/eus-fixation-chinese-subsidies-masks-its-own-structural-stagnation",
-        "summary": "The European Commission is moving to shield its industrial machinery and chemical sectors from Chinese imports, and is weighing a “kill switch” mechanism. Together with Washington, Brussels has settled into a familiar narrative: a record trade deficit with China is framed as proof of its “overcapacity” and attributed to state subsidies that allegedly tilt the global playing field. For European Union audiences frustrated by stagnant domestic manufacturing, this argument sounds intuitive. Held up...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-13T21:30:09+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Miracle on the Mississippi: everyone safe after tanker hits and sinks New Orleans cruise",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3374410/tanker-hits-new-orleans-cruise-boat-carrying-129-passengers",
-        "summary": "At least 180 passengers and crew members were rescued Friday after a tanker lost control, hit and sank a paddleboat on the Mississippi River, the mayor of New Orleans said. Video from the scene showed the much larger Atlantic Asphalt tanker hit the cruise boat while it was docked as metal and glass crashed and crunched. Tugboat operators, nearby workers, police and several other rescuers rushed to help. New Orleans Mayor Helena Moreno called it “a miracle on the Mississippi”. The mayor said 32...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-13T20:49:15+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Bessent blames US Commerce Department for not restricting Nvidia chip exports to China",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3374409/bessent-blames-us-commerce-department-not-restricting-nvidia-chip-exports-china",
-        "summary": "US Treasury Secretary Scott Bessent on Friday blamed the Commerce Department, led by Howard Lutnick, for delaying the blacklisting of Megaspeed, an Nvidia customer suspected of diverting advanced AI chips to China, days before US President Donald Trump and Chinese President Xi Jinping are expected to meet in Shenzhen. Bessent spoke a day after Nvidia co-founder Jensen Huang resigned as chief executive following reports that he had an affair with Alice Huang, a former executive at Singapore-based...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-13T20:20:33+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Microsoft ‘deeply sorry’ for global outage, says issue not caused by cyber or AI agents",
-        "url": "https://www.scmp.com/news/world/article/3374408/microsoft-deeply-sorry-global-outage-says-issue-not-caused-cyber-or-ai-agents",
-        "summary": "Microsoft on Friday apologised for a global outage that disrupted public services and businesses around the world, as it reported a “broad recovery” for Outlook email and other services. The company ruled out any malicious “cyber or AI” activity as the cause of the outage, which affected several Microsoft products and disrupted healthcare services, delayed corporate earnings reports and left schools struggling to communicate. “We are deeply sorry for the disruption this incident has caused our...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-13T18:43:24+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "US-China Board of Trade holds first meeting days before Trump-Xi summit",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3374407/us-china-board-trade-holds-first-meeting-days-trump-xi-summit",
-        "summary": "China and the United States held the inaugural meeting of their bilateral Board of Trade as the two countries aim to work out deliverables ahead of high-level talks between their leaders. During the online meeting on Friday, the two sides held “candid, deep and constructive” exchanges on tariffs, arrangements for reciprocal tariff cuts, and agricultural trade, China said in a brief statement on Saturday. The two will keep strengthening communication under the board to address each other’s...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-13T18:39:05+00:00",
         "stream": "higher",
         "streams": [
           "higher"
@@ -8542,6 +8555,42 @@
     ],
     "north_america": [
       {
+        "title": "Opinion: I Research Play – and Here’s Why Recess is Much More Important Than Just a Fun Break",
+        "url": "https://www.the74million.org/zero2eight/i-research-play-and-heres-why-recess-is-much-more-important-than-just-a-fun-break/",
+        "summary": "School recess has long been considered a standard part of children’s education in the United States. But it’s more than just a fun break from sitting at a desk. Daily recess is necessary for supporting young children and adolescents’ learning, as well as their physical and mental health. It’s so important that the American Academy […]",
+        "source": "The 74 Million",
+        "published": "2026-11-14T17:30:00+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "How the University of North Carolina Tried to Avoid Trump’s Wrath",
+        "url": "https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html",
+        "summary": "The University of North Carolina’s chancellor tried to protect the school from the Trump administration. Work on cancer, suicide, AIDS and coronaviruses was hit anyway.",
+        "source": "New York Times — Education",
+        "published": "2026-11-14T14:12:35+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "Young Cinephiles",
+        "url": "https://www.nytimes.com/2026/11/13/briefing/young-cinephiles.html",
+        "summary": "We look at why Gen Z has been hitting the movie theater.",
+        "source": "New York Times — Education",
+        "published": "2026-11-14T13:52:48+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
         "title": "Protests in Chicago After Google Warns Schools About Disabling AI Feature",
         "url": "https://www.the74million.org/article/protests-in-chicago-after-google-warns-schools-about-disabling-ai-feature/",
         "summary": "Pushback on the use of artificial intelligence in the classroom is seeing renewed fervor after tensions flared this month between some U.S. school districts and one of the biggest tech giants in the world. Protests popped up Wednesday in Cambridge, Massachusetts and in Chicago, where the city’s school district recently blocked student access to generative […]",
@@ -8559,18 +8608,6 @@
         "summary": "Some professional and college sports teams were stuck on runways, or opting to pile into buses, ahead of games this weekend that are now uncertain.",
         "source": "New York Times — Education",
         "published": "2026-11-14T03:47:03+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "How the University of North Carolina Tried to Avoid Trump’s Wrath",
-        "url": "https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html",
-        "summary": "The University of North Carolina’s chancellor tried to protect the school from the Trump administration. Work on cancer, suicide, AIDS and coronaviruses was hit anyway.",
-        "source": "New York Times — Education",
-        "published": "2026-11-14T02:00:19+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8616,7 +8653,7 @@
       {
         "title": "U.S. Likely to Lose Measles Elimination Status Amid Multiple, Fatal Outbreaks",
         "url": "https://www.the74million.org/article/u-s-likely-to-lose-measles-elimination-status-amid-multiple-fatal-outbreaks/",
-        "summary": "The United States is poised to lose its measles elimination status for the first time in 26 years, when the country first eradicated the highly contagious childhood disease, numerous experts told The 74. The announcement from the Pan American Health Organization is expected early next week and comes amid a deadly surge in measles cases […]",
+        "summary": "Updated, Nov. 14: The United States has officially lost its measles elimination status, according to reporting by The Wall Street Journal, which cited “people familiar with the matter.” The Pan American Health Organization has not responded, but an official report and announcement are expected early in the week. The United States is poised to lose […]",
         "source": "The 74 Million",
         "published": "2026-11-13T22:20:27+00:00",
         "stream": "school",
@@ -8646,18 +8683,6 @@
         "stream": "school",
         "streams": [
           "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Young Cinephiles",
-        "url": "https://www.nytimes.com/2026/11/13/briefing/young-cinephiles.html",
-        "summary": "We look at why Gen Z has been hitting the movie theater.",
-        "source": "New York Times — Education",
-        "published": "2026-11-13T16:27:29+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "north_america"
       },
@@ -9006,18 +9031,6 @@
         "stream": "school",
         "streams": [
           "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Public Schools Have a New Crisis: Not Enough Students",
-        "url": "https://www.nytimes.com/2026/11/11/podcasts/the-daily/closing-public-schools-enrollment-crisis.html",
-        "summary": "Across the United States, the number of children in public education is dropping, leading many districts to question whether or where to close schools.",
-        "source": "New York Times — Education",
-        "published": "2026-11-11T11:00:06+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "north_america"
       }
