@@ -2,6 +2,19 @@
   "streams": {
     "foundational": [
       {
+        "title": "$35bn per year needed for pre-primary education by 2030: Unesco report",
+        "url": "https://www.dawn.com/news/2046006/35bn-per-year-needed-for-pre-primary-education-by-2030-unesco-report",
+        "summary": "ISLAMABAD: Ensuring that every child benefits from at least one year of pre-primary education by 2030 would require more than $35 billion in additional annual investment globally, according to a new Unesco report released on the World Children’s Day on Friday. Pre-primary enrolment rates have stalled over the past decade, and only 6 in 10 children entering primary school worldwide have attended at least one year of preschool, with major regional disparities. The report shows that growing financing gaps and persistent inequalities continue to deprive millions of young children around the world ",
+        "source": "Dawn — Pakistan",
+        "published": "2026-11-20T23:32:44+00:00",
+        "region": "south_asia",
+        "streams": [
+          "foundational",
+          "school"
+        ],
+        "stream": "foundational"
+      },
+      {
         "title": "Strong Communities Need Strong Foundations and Why Investing in ECD Matters",
         "url": "https://www.ednews.africa/p/strong-communities-need-strong-foundations",
         "summary": "For The Love Trust, strengthening early childhood education in the Western Cape means addressing this gap and recognising the critical role that well-trained ECD practitioners play in shaping futures.",
@@ -358,6 +371,19 @@
     ],
     "school": [
       {
+        "title": "$35bn per year needed for pre-primary education by 2030: Unesco report",
+        "url": "https://www.dawn.com/news/2046006/35bn-per-year-needed-for-pre-primary-education-by-2030-unesco-report",
+        "summary": "ISLAMABAD: Ensuring that every child benefits from at least one year of pre-primary education by 2030 would require more than $35 billion in additional annual investment globally, according to a new Unesco report released on the World Children’s Day on Friday. Pre-primary enrolment rates have stalled over the past decade, and only 6 in 10 children entering primary school worldwide have attended at least one year of preschool, with major regional disparities. The report shows that growing financing gaps and persistent inequalities continue to deprive millions of young children around the world ",
+        "source": "Dawn — Pakistan",
+        "published": "2026-11-20T23:32:44+00:00",
+        "region": "south_asia",
+        "streams": [
+          "foundational",
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
         "title": "Nevada Parents Push Lawmakers for 45-Minute Daily Recess in Elementary Schools",
         "url": "https://www.the74million.org/article/nevada-parents-push-lawmakers-for-45-minute-daily-recess-in-elementary-schools/",
         "summary": "The first time her daughter came home saying she’d missed recess for “study hall,” Brandi Vesco thought nothing of it. But as it continued to happen, she began to see skipped recess as a bigger problem. Vesco found out the school was keeping kids from recess if they hadn’t finished their in-class work. On Wednesdays, […]",
@@ -412,18 +438,6 @@
         "source": "The 74 Million",
         "published": "2026-11-20T11:30:00+00:00",
         "region": "north_america",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "Two Pakistani schools earn global recognition at World’s Best School Prizes 2026",
-        "url": "https://www.dawn.com/news/2045891/two-pakistani-schools-earn-global-recognition-at-worlds-best-school-prizes-2026",
-        "summary": "Two Pakistani schools — a private institution in Lahore and a government-run high school in Hyderabad — have earned international recognition after being named among the leading institutions in their respective categories at the World’s Best School Prizes 2026, organised by T4 Education . T4 Education is an international organisation that recognises outstanding educational institutions from around the world. The World’s Best School Prizes are regarded as among the most prestigious global awards in education. The prizes recognise schools across five categories: Community Collaboration, Environm",
-        "source": "Dawn — Pakistan",
-        "published": "2026-11-20T10:47:39+00:00",
-        "region": "south_asia",
         "streams": [
           "school"
         ],
@@ -722,6 +736,30 @@
         "stream": "school"
       },
       {
+        "title": "Enhancing cultural heritage awareness through place-based art education: a study with primary school students",
+        "url": "https://www.nature.com/articles/s41599-026-09666-8",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-17T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
+        "title": "A systematic literature review of the impact of blended learning on cross-cultural communication, student satisfaction, and inclusive education",
+        "url": "https://www.nature.com/articles/s41599-026-09679-3",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-17T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
         "title": "Blue-State Voters Support Trans Sports Limits, but Officials Push Back",
         "url": "https://www.the74million.org/article/voters-adopted-transgender-sports-restrictions-in-blue-states-officials-are-pushing-back/",
         "summary": "Activists who want to keep transgender athletes out of girls’ sports think they now have a playbook that works in Democratic states: Put the issue on the ballot. Even amid an overwhelming blue wave on Nov. 3, voters in four states chose to restrict transgender rights in youth athletics. Two of those states — Washington […]",
@@ -766,6 +804,30 @@
         "region": "global",
         "streams": [
           "edtech",
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
+        "title": "An empirical study on factors influencing digital technology adoption among primary and secondary school physical education teachers",
+        "url": "https://www.nature.com/articles/s41598-026-77930-7",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-14T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
+        "title": "Chinese primary school music teachers’ sense-making and adaptation of the Suzuki method in the context of curriculum reform",
+        "url": "https://www.nature.com/articles/s41599-026-09622-6",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-13T00:00:00+00:00",
+        "region": "global",
+        "streams": [
           "school"
         ],
         "stream": "school"
@@ -1169,6 +1231,186 @@
       }
     ],
     "higher": [
+      {
+        "title": "A steadier US-China relationship still leaves Southeast Asia on guard",
+        "url": "https://www.scmp.com/week-asia/opinion/article/3375242/steadier-us-china-relationship-still-leaves-southeast-asia-guard",
+        "summary": "Even as Washington and Beijing seek greater stability in their relationship, tensions involving China and US allies and partners in Southeast Asia can and do persist. On September 24, while Chinese President Xi Jinping was on a state visit to Washington, another incident unfolded around Second Thomas Shoal in the South China Sea, with Manila and Beijing offering different accounts. This captures a broader regional reality: US-China stabilisation may lower some risks but raise others and leave...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T04:00:14+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Tanks, drone and anti-drone vehicles spotted at Zhuhai air show site",
+        "url": "https://www.scmp.com/news/china/article/3375197/tanks-drone-and-anti-drone-vehicles-spotted-zhuhai-air-show-site",
+        "summary": "New vehicles for drone and anti-drone warfare have been spotted at the site where the Zhuhai air show will be held next month, reflecting China’s push to integrate hi-tech platforms on land battlefields as well as its ambitions in the global defence market. Images and videos circulating online show hardware including two unmanned combat vehicles – one equipped with Hongjian missiles – and a new type of anti-drone tactical vehicle at the site in southeastern China where the air show will be held...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T04:00:12+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Hong Kong commerce chief ‘cautiously optimistic’ after China-US-Russia peace declaration",
+        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375308/hong-kong-commerce-chief-cautiously-optimistic-after-china-us-russia-peace-declaration",
+        "summary": "The China-US-Russia joint peace declaration at the Apec Summit sent a positive message about the global and local economies, but Hong Kong should remain “cautiously optimistic” as problems could not be solved overnight, the city’s commerce chief has said. Secretary for Commerce and Economic Development Algernon Yau Ying-wah said on Saturday that the consensus among the three countries on bringing peace and resolving disputes sent a positive message. “Such a consensus among these three major...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T03:55:19+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Japan’s ‘Rabbit Island’ draws tourists with fluffy bunnies and dark wartime past",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3375307/japans-rabbit-island-draws-tourists-fluffy-bunnies-and-dark-wartime-past",
+        "summary": "Stepping onto an island in western Japan, tourists squeal with joy at the sight of hundreds of fluffy rabbits, but few realise the land was once home to a secret chemical weapons factory for the country’s Imperial Army. Okunoshima – also known as “Rabbit Island” – has a perimeter of just four kilometres (2.5 miles) but welcomes thousands of snap-happy visitors attracted by its bunny population each year. “This was my dream,” to visit the island, 67-year-old Susan Balzer from Canada said. “You...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T03:25:40+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "China pet ‘memorial diamond’ industry charging US$15,000 for ash gems faces scrutiny",
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3375306/china-pet-memorial-diamond-industry-charging-us15000-ash-gems-faces-scrutiny",
+        "summary": "Moving beyond traditional urns and paw-print keepsakes, some grieving pet owners in China are having their companions’ fur and ashes turned into lab-grown diamonds. A woman in northeastern China has sparked widespread debate about the growing industry after paying 8,950 yuan (US$1,350) for a diamond ring made using her dog’s fur. According to Jimu News, Chen Xing, from Jilin province, commissioned the ring in 2020, as her toy poodle, Baobao, entered its senior years. The 18-karat gold ring,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T02:36:04+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "North Korea’s Kim Jong-un visits school gear factories after apparent Trump snub",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3375305/north-koreas-kim-jong-un-visits-school-gear-factories-after-apparent-trump-snub",
+        "summary": "North Korean leader Kim Jong-un was seen inspecting school equipment and teaching aids, state media said on Saturday, after an apparent snub of US President Donald Trump during his Asia tour. Trump met Kim three times during his first term and has repeatedly floated another meeting since his return to the White House, including during his Asia tour this week. Trump left Asia late on Thursday after a landmark trilateral summit which included the Chinese and Russian presidents, without meeting...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T02:10:03+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Japan wants an Asian energy agency. Will the region buy in?",
+        "url": "https://www.scmp.com/week-asia/economics/article/3375246/japan-wants-asian-energy-agency-will-region-buy",
+        "summary": "Asia already has oil-sharing pacts it has never used. Now, Japan wants to add another that critics warn will do little to solve the region’s dependence on energy imports and may simply add another level of bureaucracy. Japanese Prime Minister Sanae Takaichi announced the plan on Tuesday at an Asia Zero-Emission Community leaders’ meeting in Manila, on the sidelines of this year’s Asean summit. “We would like to position this as an Asian version of the IEA,” Takaichi said, referring to the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T02:00:10+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "China’s top intelligence agency touts ‘common international security’ after summit",
+        "url": "https://www.scmp.com/news/china/politics/article/3375207/chinas-top-intelligence-agency-touts-common-international-security-after-summit",
+        "summary": "China’s top intelligence agency has warned that no nation can achieve “absolute security” at the expense of others, underscoring Beijing’s messaging on security just a day after Thursday’s unprecedented China-US-Russia trilateral summit. In a commentary published on its official social account on Friday, the Ministry of State Security (MSS) framed China’s security philosophy as both a theoretical evolution of Marxism and “an urgent response to mounting geopolitical instability”. The article,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T02:00:08+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Who are you calling a ‘Chinese honeypot’?",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3374874/who-are-you-calling-chinese-honeypot",
+        "summary": "“Please stop being such a Chinese honeypot.” When reports emerged alleging that then-Nvidia chief executive Jensen Huang had been romantically involved with a Chinese woman suspected of espionage, my inbox filled with remarks from friends and acquaintances about my supposed career as a Chinese spy. One came from an old university mate I hadn’t seen in more than a decade. Underneath the humour was a more revealing assumption. I am a British woman of Vietnamese-Chinese ancestry, with no family...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T01:30:06+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Nvidia faces further blow after shock US export permit data release: analysts",
+        "url": "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts",
+        "summary": "US lawmakers have thrown the cross-border semiconductor trade into fresh turmoil after releasing confidential licensing records showing Washington approved the sale of nearly 880,000 advanced AI chips to Chinese tech companies earlier this year. The disclosures, made by a US House committee on Thursday, could prompt Chinese buyers to pivot from Nvidia to Advanced Micro Devices (AMD) in the short term and accelerate their transition to home-made chips over the long run, analysts said. The filing...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T01:00:13+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Tycoons campaign on the streets as Hong Kong Election Committee vote nears",
+        "url": "https://www.scmp.com/news/hong-kong/politics/article/3375285/tycoons-campaign-streets-hong-kong-election-committee-vote-nears",
+        "summary": "Mobilisation and campaigning have been ramped up ahead of Hong Kong’s Election Committee poll as Beijing expects turnout to surpass the 2021 level – a push observers say is aimed at closing the distance between the body that selects the city’s next leader and the public while enhancing its legitimacy. Sunday’s poll is set to be markedly more competitive than the 2021 ballot, with 31 of the 36 elective subsectors contested, up from just 13 five years ago, and 856 candidates vying for 723 seats on...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T01:00:11+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Japan government criticised over conspiracy-theory YouTuber in security PR push",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3375304/japan-government-criticised-over-conspiracy-theory-youtuber-security-pr-push",
+        "summary": "The Japanese government has faced a wave of criticism for featuring a conspiracy-theory-oriented YouTuber in its public outreach regarding national security policy, with the controversy putting Prime Minister Sanae Takaichi’s administration under pressure. While the government argues that the initiative is intended to reach younger audiences, opposition parties and users on social media warn it could undermine the government’s own credibility. While some experts call for time to assess the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T00:57:35+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Trump threatens ‘tremendous tax’ on US firms building AI data centres overseas",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3375303/trump-threatens-tremendous-tax-us-firms-building-ai-data-centres-overseas",
+        "summary": "President Donald Trump on Friday threatened “a tremendous tax” on US companies that build artificial intelligence data centres abroad, highlighting a divide between a president who sees their expansion as critical to winning the AI race and an American public that is deeply sceptical of their benefits. Briefing reporters at the White House shortly after his return from Asia, the president said the country was ahead of China in developing what he likes to call “superintelligence”. But he warned...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T00:48:00+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Marcos Jnr promised a ‘new Philippines’. What happened?",
+        "url": "https://www.scmp.com/week-asia/people/article/3375235/marcos-jnr-promised-new-philippines-what-happened",
+        "summary": "“I knew your parents very well and they were great,” US President Donald Trump told his Philippine counterpart at a dinner in Manila this week, offering a glowing tribute to a family that was once forced into exile in disgrace. Turning to his host, Ferdinand “Bongbong” Marcos Jnr, Trump recalled his friendship with the Philippine leader’s parents, the late dictator Ferdinand Marcos Snr and his wife Imelda. “It’s a true pleasure to be back in the Philippines. I’ve been here numerous times,” he...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T00:00:08+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Russian missiles land in Poland, as Europe holds military drills nearby",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3375302/russian-missiles-land-poland-europe-holds-military-drills-nearby",
+        "summary": "Two Russian missiles and a suspected drone came down in Poland on Friday in what its prime minister said was likely to be a provocation timed to coincide with European military exercises in his country for a possible post-war mission in Ukraine. The incidents occurred while Russia carried out a major nighttime bombardment of neighbouring Ukraine. The development stoked tensions between Europe and Moscow just as the US is trying to add momentum to talks it is mediating on ending the war that...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-20T23:43:44+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
       {
         "title": "Hong Kong looks to community networks to support Tai Po fire survivors’ mental health",
         "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375288/hong-kong-looks-community-networks-support-tai-po-fire-survivors-mental-health",
@@ -1626,132 +1868,12 @@
         "stream": "higher"
       },
       {
-        "title": "Why the Philippines is turning to India to boost defence capabilities",
-        "url": "https://www.scmp.com/week-asia/politics/article/3375245/why-philippines-turning-india-boost-defence-capabilities",
-        "summary": "After purchasing India’s BrahMos anti-ship missiles, the Philippines is reportedly considering two more Indian weapons systems that analysts say could help Manila build a more formidable deterrent while laying the groundwork for closer military integration with New Delhi. The Philippines is reportedly eyeing the acquisition of more than five regiments of Akash air defence systems and several batteries of Pinaka rocket launchers, according to Indian digital news outlet Firstpost, which cited...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T10:00:27+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Malaysia scrubs post announcing Rohingya repatriation plan to Turkey",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375243/malaysia-plans-resettle-10000-rohingya-turkey",
-        "summary": "Malaysia appeared on Friday to row back from an announcement that it had secured an agreement with Turkey to accept 10,000 Rohingya refugees to train as part of their workforce, with a top official’s statement scrubbed from social media. Deputy Prime Minister Ahmad Zahid Hamidi earlier announced in a Facebook post that Malaysia was seeking to resettle 10,000 Rohingya migrants in Turkey. “We note that the post by the Deputy Prime Minister referred to in the above-mentioned news article has since...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T10:00:03+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Philippine military rejects Trump’s request for MacArthur-style gold baton",
-        "url": "https://www.scmp.com/week-asia/politics/article/3375228/philippine-military-rejects-trumps-request-macarthur-style-gold-baton",
-        "summary": "The Philippine military has clarified that a gold baton awarded to the late American general Douglas MacArthur is no longer part of its honours system, dampening a demand for a similar accolade from US President Donald Trump. Addressing a state lunch gathering at the presidential palace in Manila on Wednesday, Trump paid tribute to the long-standing diplomatic relations between the two countries. “From William Howard Taft to Dwight D. Eisenhower, some of the best minds and foremost leaders of...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T09:12:25+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "China-US-Russia talks, economy concerns, Auto Guangzhou",
-        "url": "https://www.scmp.com/plus/economy/china-economy/article/3375227/china-us-russia-talks-economy-concerns-auto-guangzhou",
-        "summary": "An unprecedented trilateral meeting between the leaders of China, the United States and Russia produced a pledge “to increase the production and supply of refined petroleum products for the benefit of all nations”. Turning that into a reality is likely to prove a challenge. The pledge should carry weight, as the US and Russia are two of the world’s largest oil producers while China is the biggest crude importer. Fuel was also second in the four-point agreement reached at the Shenzhen meeting,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T09:04:05+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Hong Kong plans EV battery levy of HK$6 per kg on suppliers from 2028",
-        "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375222/hong-kong-plans-impose-ev-battery-levy-hk6-kg-suppliers-2028",
-        "summary": "Hong Kong plans to impose a recycling levy of about HK$3,000 (US$380) on each electric vehicle battery, with suppliers rather than vehicle owners required to pay the charge as demand grows for the handling of retired batteries. The Environmental Protection Department said on Friday that the levy, expected to be implemented in 2028, would be raised gradually and reach about HK$15,000 in 2043 for a battery typically weighing 500kg (1,102lbs). Asked whether suppliers would pass the extra costs on...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T08:55:31+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
         "title": "Ride Joburg Cyclists Urged to Watch for Heat Stress as Temperatures Rise",
         "url": "https://www.ednews.africa/p/ride-joburg-cyclists-urged-to-watch",
         "summary": "Wits researcher Professor Jennifer Fitchett warns that extreme heat linked to the current El Niño could increase health risks for riders and spectators at Sunday’s Ride Joburg",
         "source": "EdNews Africa",
         "published": "2026-11-20T08:37:53+00:00",
         "region": "east_africa",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Oman’s rising commercial ties with China revive the Zheng He spirit",
-        "url": "https://www.scmp.com/opinion/world-opinion/article/3374839/omans-rising-commercial-ties-china-revive-zheng-he-spirit",
-        "summary": "Visitors walking along the beach in Salalah who make a short detour inland will come across a white monument in the shape of a sail set among undulating waves. It commemorates Zheng He, the Chinese explorer who travelled to Oman on behalf of the Ming dynasty in the 15th century. Erected in 2023, the monument recalls the journeys Chinese sailors made centuries ago to foster relations with Oman. That exchange continues to evolve: our recent discussions in Beijing focused on advanced technologies,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T08:30:05+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Malaysia’s Negeri Sembilan palace denies asking chief minister to stay in office",
-        "url": "https://www.scmp.com/week-asia/politics/article/3375217/malaysias-negeri-sembilan-palace-denies-asking-chief-minister-stay-office",
-        "summary": "Malaysia’s Negeri Sembilan chief minister said on Friday that the state’s ruler had ordered him to remain in office – prompting a denial from the palace – four days after his party announced his resignation amid a royal power struggle. This follows a seven-month dispute in the western Malaysian state, where a group of rival traditional chieftains attempted in April to depose ruler Tuanku Muhriz Tuanku Munawir and install Tunku Nadzaruddin Tuanku Ja’afar in his place. The crisis deepened in...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T08:18:09+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Abby Choi’s ex-husband claims his father killed her after she berated him over affair",
-        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375212/abby-chois-ex-husband-claims-his-father-killed-her-after-she-chastised-his-affair",
-        "summary": "Slain Hong Kong socialite Abby Choi Tin-fung’s ex-husband has claimed that his father killed her during a violent quarrel after she chastised him over his affair with a masseuse and voiced fears about his influence on her children. Giving evidence in the High Court for a second day on Friday, Alex Kwong Kong-chi denied killing his ex-wife and gave an account that his elder brother, Anthony Kwong Kong-kit, had previously dismissed as a fabrication intended to exonerate them both. Alex also...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T08:07:20+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Fighting AI with AI: how a Chinese cybersecurity giant is defending against new hacks",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3375211/fighting-ai-ai-how-chinese-cybersecurity-giant-defending-against-new-hacks",
-        "summary": "Chinese President Xi Jinping and US President Donald Trump met this week in Shenzhen on the sidelines of the Apec meeting, where they discussed introducing shared guard rails on artificial intelligence amid growing numbers of AI-enabled cyber hacking incidents affecting banks and governments worldwide. In the last part of a three-part series profiling Chinese organisations at the forefront of efforts to ensure that innovation does not come at the expense of safety in China’s AI industry, we...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T08:03:42+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "The subtle symbolism behind the silk scarves worn by the Apec leaders at Shenzhen summit",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3375195/subtle-symbolism-behind-silk-scarves-worn-apec-leaders-shenzhen-summit",
-        "summary": "When Apec leaders assembled in Shenzhen on Thursday for their group photo, they kept up one of the bloc’s traditions by donning traditional garb from the host country. This time, rather than the more elaborate outfits worn at some previous summits – including the “new Chinese-style” jackets worn the last time China hosted the event – the leaders just slipped on an understated silk scarf over their formal clothing. In keeping with China’s meticulous approach to major international gatherings,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T08:00:10+00:00",
-        "region": "east_asia",
         "streams": [
           "higher"
         ],
@@ -1872,66 +1994,6 @@
         "source": "Inside Higher Ed",
         "published": "2026-11-20T08:00:00+00:00",
         "region": "north_america",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Who paid HK$2.88m for film director Peter Yung’s Sunset Peak stone hut – and why?",
-        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375187/who-paid-hk288m-film-director-peter-yungs-sunset-peak-stone-hut-and-why",
-        "summary": "A century-old stone hut on Lantau Island’s Sunset Peak, formerly owned by a Hong Kong film director, has been sold at auction to a charitable organisation for HK$2.88 million (US$367,000) – more than seven times the opening bid – despite having no water or electricity supplies. The winning bidder, developer Sino Group’s charity Ng Teng Fong Charitable Foundation, said on Friday that along with Tai O Heritage Hotel, it would reposition the historical stone cottage into “a much-needed alpine rest...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T07:48:01+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "‘If there is doubt, shoot’: why a Malaysian police order has critics on edge",
-        "url": "https://www.scmp.com/week-asia/people/article/3375203/if-there-doubt-shoot-why-malaysian-police-order-has-critics-edge",
-        "summary": "A Malaysian police chief’s order for officers to fire without hesitation when facing threats has sparked debate over the use of deadly force, following three fatal police shootings since last week, including a machete attack that severed an officer’s hand. The directive by Kuala Lumpur police chief Fadil Marsus came after a foreign national wielding two machetes was shot by police and was pronounced dead upon arrival at hospital last Wednesday. The suspect had allegedly severed the right hand of...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T07:38:33+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Xi tells Southeast Asian leaders deeper AI cooperation is needed",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3375196/xi-urges-china-singapore-innovation-partnership-talks-pm-lawrence-wong",
-        "summary": "Chinese President Xi Jinping on Friday urged Southeast Asian leaders to deepen cooperation on AI, days after US President Donald Trump struck deals in the region amid an intensifying technology race between the two powers. In talks with Singaporean Prime Minister Lawrence Wong on Friday, Xi said the two countries should be “development partners that lead in innovation”, adding that they should deliver results in areas ranging from the digital economy to artificial intelligence. Describing China...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T07:24:38+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "11-second handshake: Takaichi adopts more proactive approach with Xi at Apec, experts say",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3375179/11-second-handshake-takaichi-adopts-more-proactive-approach-xi-apec-say-experts",
-        "summary": "Exchanges between top Chinese and Japanese leaders show Prime Minister Sanae Takaichi adopting a far more proactive approach to assert control and seek direct communication, according to body language experts. Over the past two days, the Apec gala in Shenzhen has been the scene of rare in-person, high-level interactions between the two countries’ leaders, the most notable since ties between Beijing and Tokyo became severely strained over Takaichi’s remarks regarding Taiwan in November last...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T07:00:13+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Can Indonesia’s Widodo rebuild his political dynasty with key allies gone?",
-        "url": "https://www.scmp.com/week-asia/politics/article/3375182/can-indonesias-widodo-rebuild-his-political-dynasty-key-allies-gone",
-        "summary": "Former Indonesian president Joko Widodo has suffered two major political blows – the resignation of his eldest son as vice-president and the removal of a powerful police ally – recently, raising questions about whether the man popularly known as Jokowi is heading into a political winter. However, analysts say that while the setbacks may have weakened Widodo’s grip on power, they have not dented his popularity among ordinary Indonesians. And a political party led by his younger son is claiming a...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T06:57:04+00:00",
-        "region": "east_asia",
         "streams": [
           "higher"
         ],
@@ -2579,6 +2641,18 @@
         "summary": "The wait is over! Six exceptional schools from around the world have been recognised as winners of the World’s Best School Prizes 2026, celebrating their outstanding work to transform education The post The World’s Best School Prizes 2026 winners appeared first on T4 Education .",
         "source": "T4 Education — Teacher News",
         "published": "2026-11-18T14:17:46+00:00",
+        "region": "global",
+        "streams": [
+          "teacher"
+        ],
+        "stream": "teacher"
+      },
+      {
+        "title": "Pedagogical incorporation of generative AI in university visual effects courses and its implications for learning assessment and institutional support",
+        "url": "https://www.nature.com/articles/s41598-026-77089-1",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-16T00:00:00+00:00",
         "region": "global",
         "streams": [
           "teacher"
@@ -3292,6 +3366,18 @@
         "stream": "edtech"
       },
       {
+        "title": "An experimental study on enhancing learning motivation and academic performance through AI literacy training",
+        "url": "https://www.nature.com/articles/s41598-026-79820-4",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-15T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
+      {
         "title": "Stop counting training hours. Start measuring learning.",
         "url": "https://elearningindustry.com/stop-counting-training-hours-start-measuring-learning",
         "summary": "Why organizations should care about the time spent learning, not the time spent studying This post was first published on eLearning Industry .",
@@ -3738,18 +3824,6 @@
           "edtech"
         ],
         "stream": "edtech"
-      },
-      {
-        "title": "Finding Our Way Forward: The Struggle and Promise of AI Literacy",
-        "url": "https://www.edsurge.com/news/finding-our-way-forward-the-struggle-and-promise-of-ai-literacy",
-        "summary": "Preparing students for an AI-driven future requires prioritizing the human qualities and values we cannot afford to lose along the way.",
-        "source": "EdSurge",
-        "published": "2026-11-04T00:00:00+00:00",
-        "region": "north_america",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
       }
     ],
     "policy": [
@@ -3758,8 +3832,20 @@
         "url": "https://kathmandupost.com/national/2026/11/20/lack-of-verified-data-delays-scholarships-for-flood-hit-students",
         "summary": "Nearly three months after the Bhotekoshi catastrophe, the government has approved scholarships for 27 students, but the number of other children who lost their parents or homes remains unknown.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-11-20T23:31:43.991020+00:00",
+        "published": "2026-11-21T04:59:11.694421+00:00",
         "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
+        "url": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
+        "summary": "In a draft report, officials found widespread training gaps as the Department of Homeland Security sought to rapidly hire and deploy 10,000 new officers.",
+        "source": "New York Times — Education",
+        "published": "2026-11-21T01:43:40+00:00",
+        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -3772,18 +3858,6 @@
         "source": "BBC — Education",
         "published": "2026-11-20T22:45:26+00:00",
         "region": "global",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
-        "url": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
-        "summary": "In a draft report, officials found widespread training gaps as the Department of Homeland Security sought to rapidly hire and deploy 10,000 new officers.",
-        "source": "New York Times — Education",
-        "published": "2026-11-20T22:35:10+00:00",
-        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -3819,30 +3893,6 @@
         "summary": "War forces schools, rehabilitation centres to close, forcing children with disabilities to lose access to education.",
         "source": "Al Jazeera — News (education-gated)",
         "published": "2026-11-20T20:45:08+00:00",
-        "region": "global",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Former US national security adviser confronted by students on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
-        "summary": "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-11-20T18:51:26+00:00",
-        "region": "global",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Swimming lessons offer Gaza’s children a moment of relief",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
-        "summary": "Palestinian children gathered along Gaza’s coast for swimming lessons, finding relief from the psychological toll of war",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-11-20T18:43:37+00:00",
         "region": "global",
         "streams": [
           "policy"
@@ -4715,6 +4765,30 @@
           "policy"
         ],
         "stream": "policy"
+      },
+      {
+        "title": "Kush Garg on winning the IET India Scholarship Award 2026",
+        "url": "https://www.thehindu.com/education/kush-garg-on-winning-the-iet-india-scholarship-award-2026/article71681493.ece",
+        "summary": "How a student from Delhi Technological University developed an AI-enabled device designed to help neurodivergent children independently navigate everyday situations",
+        "source": "The Hindu — Education",
+        "published": "2026-11-16T09:20:44+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Reimagining Right to Life in India: Disconnection as a Legal Mandate",
+        "url": "https://blogs.lse.ac.uk/southasia/2026/11/16/reimagining-right-to-life-in-india-disconnection-as-a-legal-mandate/",
+        "summary": "Is there a correlation between longer work hours and higher productivity? Views on this differ sharply, with several countries including a worker’s right to disconnect after official work hours and others blatantly violating it. Sriya Shubhalaxmi Mishra argues why the Right to Disconnect should be included in the Right to Life enshrined in the Constitution … Continued The post Reimagining Right to Life in India: Disconnection as a Legal Mandate first appeared on South Asia @ LSE .",
+        "source": "LSE South Asia Blog",
+        "published": "2026-11-16T07:39:18+00:00",
+        "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
       }
     ],
     "research": [
@@ -5295,6 +5369,30 @@
         "stream": "research"
       },
       {
+        "title": "Corneal opacity following inadvertent YAG laser to the cornea",
+        "url": "https://www.nature.com/articles/s41433-026-05055-2",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-20T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Between AI usage and academic procrastination among college students through anxiety, self-control, and ai guilt",
+        "url": "https://www.nature.com/articles/s41598-026-80623-w",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-20T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
         "title": "KIX EMAP Webinar 28: Policy and Practice Implications for Artificial Intelligence Use in Education",
         "url": "https://www.norrageducation.org/kix-emap-webinar-28-policy-and-practice-implications-for-artificial-intelligence-use-in-education/",
         "summary": "Date: 16 December 2026 Time: 10:00 AM – 12:00 PM (Geneva / CET) Location: Online, via Zoom Languages: English, with automated translated captions available REGISTER KIX EMAP Webinar 28, the second in a two-part series, will focus on the policy and practice implications for artificial intelligence (AI) use across the Europe, Middle East and North... Read More The post KIX EMAP Webinar 28: Policy and Practice Implications for Artificial Intelligence Use in Education appeared first on NORRAG - .",
@@ -5379,6 +5477,18 @@
         "stream": "research"
       },
       {
+        "title": "Effects of holographic, video-based, and text-based feedback on cognitive load, motivation, and perceived learning transfer in virtual EFL classrooms",
+        "url": "https://www.nature.com/articles/s41598-026-81064-1",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-19T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
         "title": "CIPPEC en el T20 United States Summit 2026 en Nueva York",
         "url": "https://www.cippec.org/cippec-t20-united-states-summit-2026/",
         "summary": "El 18 y 19 de noviembre se realizó en Nueva York el T20 United States Summit 2026, un encuentro internacional que convocó a think tanks, universidades, referentes gubernamentales y organizaciones de la sociedad civil para intercambiar perspectivas y propuestas frente a los principales desafíos de la agenda global. CIPPEC participó del encuentro a través de […] La entrada CIPPEC en el T20 United States Summit 2026 en Nueva York se publicó primero en CIPPEC .",
@@ -5439,6 +5549,30 @@
         "stream": "research"
       },
       {
+        "title": "U.S.-based Chinese-as-a-foreign-language learner satisfaction in Chinese language MOOCs: a mixed-methods study guided by the Community of Inquiry framework",
+        "url": "https://www.nature.com/articles/s41599-026-09630-6",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-18T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "“So, it’s somehow about how we treat each other as human beings” — bridging realism and expectations in the Finnish leadership training",
+        "url": "https://www.nature.com/articles/s41599-026-09388-x",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-18T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
         "title": "School Phone Bans Are Gradually Improving Test Scores, New Evidence Shows",
         "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
         "summary": "Previous results were mixed, but the first national study to track individual students’ growth shows bans may help reverse declines.",
@@ -5469,6 +5603,42 @@
         "source": "Hechinger Report",
         "published": "2026-11-17T06:00:00+00:00",
         "region": "north_america",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "The origins of scrotal asymmetry",
+        "url": "https://www.nature.com/articles/d41586-026-03279-6",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-17T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Motherhood and care of children in prison: processes of accompaniment and socio-educational action for the reintegration of convicted mothers",
+        "url": "https://www.nature.com/articles/s41599-026-07778-9",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-17T00:00:00+00:00",
+        "region": "global",
+        "streams": [
+          "research"
+        ],
+        "stream": "research"
+      },
+      {
+        "title": "Longitudinal association between AI dependence and pre-service teachers’ critical thinking disposition: the role of AI self-efficacy and perceived stress",
+        "url": "https://www.nature.com/articles/s41598-026-78895-3",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-17T00:00:00+00:00",
+        "region": "global",
         "streams": [
           "research"
         ],
@@ -5511,107 +5681,11 @@
         "stream": "research"
       },
       {
-        "title": "With free-tuition promises, some colleges try to untangle confusion over what they cost",
-        "url": "https://hechingerreport.org/with-free-tuition-promises-some-colleges-try-to-untangle-confusion-over-what-they-cost/",
-        "summary": "MIDDLEBURY, Vt. — Stately buildings of Vermont limestone surround meticulously tended lawns at the edge of a New England village that looks like it’s the setting for a Hallmark Christmas movie. There’s a golf course on this campus. The student-faculty ratio is an exclusive 9-to-1. And an undergraduate tour guide is telling visiting prospective applicants […] The post With free-tuition promises, some colleges try to untangle confusion over what they cost appeared first on The Hechinger Report .",
-        "source": "Hechinger Report",
-        "published": "2026-11-13T14:33:00+00:00",
-        "region": "north_america",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "ASER Associate – Survey Unit, ASER, Punjab",
-        "url": "https://www.pratham.org/2026/11/13/aser-associate-survey-unit-aser-punjab/?utm_source=rss&utm_medium=rss&utm_campaign=aser-associate-survey-unit-aser-punjab",
-        "summary": "About Pratham: Pratham Education Foundation (Pratham) is one of the largest education NGOs in India with a record of innovative, rigorously evaluated programs that have inspired similar programs across three continents. With a history spanning 30 years, Pratham’s work today extends from programs for early and elementary years to girls and women, and youth skilling.…",
-        "source": "Pratham — Blog",
-        "published": "2026-11-13T11:36:12+00:00",
-        "region": "south_asia",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "7th GPE KIX Global Symposium: Taking Education Innovation to Scale for Systems Change",
-        "url": "https://www.norrageducation.org/7th-gpe-kix-global-symposium-taking-education-innovation-to-scale-for-systems-change/",
-        "summary": "Date: 18-19 November 2026 Time: 8:00-9:30 AM (Ottawa / EST) / 2:00–3:30 PM (Geneva / CET) Location: Online (Zoom) Languages: English, with simultaneous interpretation to French and Spanish REGISTER HERE The Global Partnership for Education (GPE) and Canada’s International Development Research Centre (IDRC) invite education researchers, policymakers and practitioners to the 7th Annual Global Partnership for... Read More The post 7th GPE KIX Global Symposium: Taking Education Innovation to Scale for Systems Change appeared first on NORRAG - .",
-        "source": "NORRAG — Education & Development",
-        "published": "2026-11-12T20:46:58+00:00",
-        "region": "europe",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Turkiye: The swim race from Asia to Europe along the Bosphorus",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/11/12/turkiye-the-swim-race-from-asia-to-europe-along-the-bosphorus/",
-        "summary": "In August 2026, Professor Robert Wade returned to Istanbul for his eighth Bosphorus Cross-Continental Swim, joining 2,500 swimmers from 60 countries. Professor Wade reflects on the challenge, the history of this remarkable race and what keeps drawing him back year after year. The Turkish National Olympic Committee has organized the annual 6.5k Cross-Continental swim race … Continued The post Turkiye: The swim race from Asia to Europe along the Bosphorus first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-11-12T16:14:21+00:00",
-        "region": "europe",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Democracy, capitalism and violence: All good things don’t go together",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/11/12/democracy-capitalism-and-violence-all-good-things-dont-go-together/",
-        "summary": "Professor James Putzel gave one of the opening talks at the International Seminar ‘Colombia and the World: Violence, Democracy and Peace’ held in Bogotá (28-30 September). The conference was organised by the Institute of Political Studies and International Relations (IEPRI) at the National University on the occasion of its 40th anniversary. The conference also marked … Continued The post Democracy, capitalism and violence: All good things don’t go together first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-11-12T10:00:34+00:00",
-        "region": "europe",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Pledges for Priorities: Who gives aid for which educational future?",
-        "url": "https://www.norrageducation.org/pledges-for-priorities-who-gives-aid-for-which-educational-future/",
-        "summary": "In this blog post, Elizabeth Agbor Eta, Yeji Cho, Bertin Enyegue, Camille Fabo, Katarina Đilas Holtzapple and Gita Steiner-Khamsi expand the scope of analysis of the GPE replenishment from how much money was raised to also discuss which priorities were put forward by the donors. The Global Partnership for Education (GPE) held its “Multiply Possibility”... Read More The post Pledges for Priorities: Who gives aid for which educational future? appeared first on NORRAG - .",
-        "source": "NORRAG — Education & Development",
-        "published": "2026-11-12T09:00:27+00:00",
-        "region": "europe",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Reunión de alto nivel: Prepararnos frente al calor. Evidencia y acción para ciudades argentinas antes del verano",
-        "url": "https://www.cippec.org/prepararnos-frente-al-calor-evidencia-y-accion-para-ciudades-argentinas-antes-del-verano/",
-        "summary": "CIPPEC, junto con la Residencia Británica y con el apoyo de Wellcome Trust, invita a una jornada presencial de trabajo para compartir evidencia sobre los efectos de las olas de calor en la salud de las personas mayores e identificar qué medidas pueden tomar las ciudades argentinas para proteger a la población antes del verano. […] La entrada Reunión de alto nivel: Prepararnos frente al calor. Evidencia y acción para ciudades argentinas antes del verano se publicó primero en CIPPEC .",
-        "source": "CIPPEC — Education (Argentina)",
-        "published": "2026-11-11T16:18:38+00:00",
-        "region": "latin_america",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Disability, Conflict, and the Gaps in Humanitarian Aid",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/11/10/disability-conflict-and-the-gaps-in-humanitarian-aid/",
-        "summary": "Activist, researcher and consultant Anna Landre shared her insights during an LSE Voice of Experience lecture, hosted by Professor Stuart Gordon as part of the Managing Humanitarianism course. Drawing on these insights, Emy Eapen explores the experiences of people with disabilities during the war in Ukraine. She highlights the gap between institutional commitments to disability … Continued The post Disability, Conflict, and the Gaps in Humanitarian Aid first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-11-10T11:51:40+00:00",
-        "region": "europe",
-        "streams": [
-          "research"
-        ],
-        "stream": "research"
-      },
-      {
-        "title": "Beyond design: building the implementation capacity health reforms need",
-        "url": "https://r4d.org/blog/beyond-design-building-the-implementation-capacity-health-reforms-need/",
-        "summary": "The post Beyond design: building the implementation capacity health reforms need appeared first on Results for Development .",
-        "source": "Results for Development (R4D)",
-        "published": "2026-11-09T22:25:23+00:00",
+        "title": "Digital literacy and teaching innovative behavior among physical education teachers: a cross-sectional moderated mediation study",
+        "url": "https://www.nature.com/articles/s41598-026-80414-3",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-15T00:00:00+00:00",
         "region": "global",
         "streams": [
           "research"
@@ -5619,59 +5693,59 @@
         "stream": "research"
       },
       {
-        "title": "De los estándares a la práctica: diálogo sobre el gobierno corporativo de las empresas estatales",
-        "url": "https://www.cippec.org/de-los-estandares-a-la-practica-dialogo-sobre-el-gobierno-corporativo-de-las-empresas-estatales/",
-        "summary": "El 5 de noviembre, CIPPEC organizó en Buenos Aires una mesa de diálogo sobre los desafíos del gobierno corporativo de las empresas estatales, junto con la Agencia de Transformación de Empresas Públicas (ATEP) y la Sindicatura General de la Nación (SIGEN), y con el apoyo del Center for International Private Enterprise (CIPE). El encuentro se […] La entrada De los estándares a la práctica: diálogo sobre el gobierno corporativo de las empresas estatales se publicó primero en CIPPEC .",
-        "source": "CIPPEC — Education (Argentina)",
-        "published": "2026-11-06T11:50:04+00:00",
-        "region": "latin_america",
+        "title": "College students’ perceived course usefulness and ease of engagement in an aesthetic education course in Shanxi, China",
+        "url": "https://www.nature.com/articles/s41598-026-79298-0",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-15T00:00:00+00:00",
+        "region": "global",
         "streams": [
           "research"
         ],
         "stream": "research"
       },
       {
-        "title": "Cutting-Edge Issues in Development – Erased: A History of International Thought Without Men",
-        "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/11/06/cutting-edge-issues-in-development-erased-a-history-of-international-thought-without-men/",
-        "summary": "On Friday 30 October, the Cutting-Edge Issues in Development Thinking and Practice 2026/27 series continued with a lecture by Professor Patricia Owens on her new book ‘Erased: A History of International Thought Without Men‘. PhD candidate from LSE ID, Aoife McCullough, joined as discussant, and the event was chaired by Dr Myfanwy James. Below, MSc … Continued The post Cutting-Edge Issues in Development – Erased: A History of International Thought Without Men first appeared on LSE International Development .",
-        "source": "LSE International Development Blog",
-        "published": "2026-11-06T09:12:46+00:00",
-        "region": "europe",
+        "title": "From media to meals: intergenerational transmission of food-based media literacy and its association with food security in Iran",
+        "url": "https://www.nature.com/articles/s41598-026-81050-7",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-15T00:00:00+00:00",
+        "region": "global",
         "streams": [
           "research"
         ],
         "stream": "research"
       },
       {
-        "title": "Diálogos por la Docencia: continuamos la conversación con referentes legislativos",
-        "url": "https://www.cippec.org/dialogos-por-la-docencia-continuamos-la-conversacion-con-referentes-legislativos/",
-        "summary": "En el marco de la segunda etapa de Diálogos por la Docencia, CIPPEC reunió a 11 representantes del ámbito legislativo de diverso signo político. Diputados y senadores del Congreso Nacional, legisladores porteños y asesores compartieron sus ideas sobre cómo fortalecer la profesión docente. Esteban Torre, director del Programa de Educación, y Cecilia Veleda, investigadora principal […] La entrada Diálogos por la Docencia: continuamos la conversación con referentes legislativos se publicó primero en CIPPEC .",
-        "source": "CIPPEC — Education (Argentina)",
-        "published": "2026-11-04T23:11:45+00:00",
-        "region": "latin_america",
+        "title": "An exploratory survey of student perceptions of generative artificial intelligence at a Saudi maritime studies faculty",
+        "url": "https://www.nature.com/articles/s41598-026-80860-z",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-14T00:00:00+00:00",
+        "region": "global",
         "streams": [
           "research"
         ],
         "stream": "research"
       },
       {
-        "title": "CIPPEC, entre los Think Tanks to Watch 2026 de On Think Tanks",
-        "url": "https://www.cippec.org/cippec-entre-los-think-tanks-to-watch-2026-de-on-think-tanks/",
-        "summary": "On Think Tanks (OTT) publicó la segunda edición de Think Tanks to Watch, un reconocimiento anual que reúne a 55 organizaciones de todo el mundo elegidas por sus pares. CIPPEC integra el listado por segundo año consecutivo. La iniciativa funciona como un ejercicio de reconocimiento entre pares. OTT no ordena a las organizaciones por desempeño […] La entrada CIPPEC, entre los Think Tanks to Watch 2026 de On Think Tanks se publicó primero en CIPPEC .",
-        "source": "CIPPEC — Education (Argentina)",
-        "published": "2026-11-04T19:34:04+00:00",
-        "region": "latin_america",
+        "title": "You are a part of me? Mother’s self-boundary blurring is associated with risk of the child’s mental health problems",
+        "url": "https://www.nature.com/articles/s41599-026-09454-4",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-14T00:00:00+00:00",
+        "region": "global",
         "streams": [
           "research"
         ],
         "stream": "research"
       },
       {
-        "title": "How does social media affect teen mental health?",
-        "url": "https://jacobsfoundation.org/watch-young-people-social-media-and-mental-health/",
-        "summary": "Teenagers are shaping their own social media feeds, finding support online, and navigating risks that adults may not always see. How can we better support them while taking their experiences seriously? Watch Candice Odgers and Swiss experts explore what the research tells us and why young people’s perspectives matter. In studies examining whether giving up […] The post How does social media affect teen mental health? appeared first on Jacobs Foundation .",
-        "source": "Jacobs Foundation — Blog",
-        "published": "2026-11-04T13:03:18+00:00",
+        "title": "Architecture of a virtual simulation teaching platform designed for college students' innovation and entrepreneurship training and its empirical study",
+        "url": "https://www.nature.com/articles/s41598-026-78786-7",
+        "summary": "",
+        "source": "Nature — Education",
+        "published": "2026-11-14T00:00:00+00:00",
         "region": "global",
         "streams": [
           "research"
@@ -5975,18 +6049,6 @@
         "region": "global"
       },
       {
-        "title": "Former US national security adviser confronted by students on Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
-        "summary": "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-11-20T18:51:26+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "global"
-      },
-      {
         "title": "Klaus J. Jacobs Research Prize 2027 (up to 1 million Swiss Francs)",
         "url": "https://opportunitydesk.org/2026/11/20/klaus-j-jacobs-research-prize-2027/",
         "summary": "Deadline: January 31, 2027 Applications are open for the Klaus J. Jacobs Research Prize 2027. The Klaus J. Jacobs Awards were established in 2009, in memory of the founder of the Jacobs Foundation, to honor his commitment to promoting scientific advancement in our knowledge of how children learn and develop. The Klaus J. Jacobs Research [...]",
@@ -5995,18 +6057,6 @@
         "stream": "funding",
         "streams": [
           "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Swimming lessons offer Gaza’s children a moment of relief",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
-        "summary": "Palestinian children gathered along Gaza’s coast for swimming lessons, finding relief from the psychological toll of war",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-11-20T18:43:37+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "global"
       },
@@ -6417,6 +6467,30 @@
           "research"
         ],
         "region": "global"
+      },
+      {
+        "title": "Motor imagery-based brain-computer interface training for upper-limb rehabilitation after subacute stroke: A randomized sham-controlled trial",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363060",
+        "summary": "by Qifeng Tong, Jianing Wu, Pengcheng Fan, Sunyue Cai, Minzhe Wang, Jianqiu Gong, Fangchao Wu Objective To determine whether motor imagery (MI) based brain-computer interface (BCI) training improves upper-limb motor function in patients with subacute stroke compared with a high-fidelity sham-BCI control, and to explore accompanying structural and resting-state functional MRI changes. Method In this participant-blinded randomized controlled trial, 32 patients with subacute stroke were randomized to a MI-based BCI group or a high-fidelity BCI sham-control group (n = 16 each). Both groups receive",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-11-20T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Impact of MRI sequence heterogeneity on deep learning–based segmentation of brain metastases",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363055",
+        "summary": "by Dong-Won Shin, Chang Hyun Lee, Hyun Ju Kim, Kihoon Sung, Young Jae Kim, Kwang Gi Kim, Gi Taek Yee Brain metastases (BMs) require accurate delineation for treatment planning, yet magnetic resonance imaging (MRI) acquisition protocols vary substantially in clinical practice. Such protocol-level heterogeneity may affect the generalizability of deep learning-based segmentation models. This study evaluated the impact of heterogeneous T1-weighted MRI protocols on BM segmentation performance using two three-dimensional architectures, 3D Attention U-Net and DUCK-Net 3D. A retrospective dataset of 9",
+        "source": "PLOS ONE — Education Research",
+        "published": "2026-11-20T14:00:00+00:00",
+        "stream": "research",
+        "streams": [
+          "research"
+        ],
+        "region": "global"
       }
     ],
     "south_asia": [
@@ -6425,10 +6499,23 @@
         "url": "https://kathmandupost.com/national/2026/11/20/lack-of-verified-data-delays-scholarships-for-flood-hit-students",
         "summary": "Nearly three months after the Bhotekoshi catastrophe, the government has approved scholarships for 27 students, but the number of other children who lost their parents or homes remains unknown.",
         "source": "The Kathmandu Post — Nepal",
-        "published": "2026-11-20T23:31:43.991020+00:00",
+        "published": "2026-11-21T04:59:11.694421+00:00",
         "stream": "policy",
         "streams": [
           "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "$35bn per year needed for pre-primary education by 2030: Unesco report",
+        "url": "https://www.dawn.com/news/2046006/35bn-per-year-needed-for-pre-primary-education-by-2030-unesco-report",
+        "summary": "ISLAMABAD: Ensuring that every child benefits from at least one year of pre-primary education by 2030 would require more than $35 billion in additional annual investment globally, according to a new Unesco report released on the World Children’s Day on Friday. Pre-primary enrolment rates have stalled over the past decade, and only 6 in 10 children entering primary school worldwide have attended at least one year of preschool, with major regional disparities. The report shows that growing financing gaps and persistent inequalities continue to deprive millions of young children around the world ",
+        "source": "Dawn — Pakistan",
+        "published": "2026-11-20T23:32:44+00:00",
+        "stream": "foundational",
+        "streams": [
+          "foundational",
+          "school"
         ],
         "region": "south_asia"
       },
@@ -6465,18 +6552,6 @@
         "stream": "policy",
         "streams": [
           "policy"
-        ],
-        "region": "south_asia"
-      },
-      {
-        "title": "Two Pakistani schools earn global recognition at World’s Best School Prizes 2026",
-        "url": "https://www.dawn.com/news/2045891/two-pakistani-schools-earn-global-recognition-at-worlds-best-school-prizes-2026",
-        "summary": "Two Pakistani schools — a private institution in Lahore and a government-run high school in Hyderabad — have earned international recognition after being named among the leading institutions in their respective categories at the World’s Best School Prizes 2026, organised by T4 Education . T4 Education is an international organisation that recognises outstanding educational institutions from around the world. The World’s Best School Prizes are regarded as among the most prestigious global awards in education. The prizes recognise schools across five categories: Community Collaboration, Environm",
-        "source": "Dawn — Pakistan",
-        "published": "2026-11-20T10:47:39+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
         ],
         "region": "south_asia"
       },
@@ -7634,6 +7709,186 @@
     ],
     "east_asia": [
       {
+        "title": "A steadier US-China relationship still leaves Southeast Asia on guard",
+        "url": "https://www.scmp.com/week-asia/opinion/article/3375242/steadier-us-china-relationship-still-leaves-southeast-asia-guard",
+        "summary": "Even as Washington and Beijing seek greater stability in their relationship, tensions involving China and US allies and partners in Southeast Asia can and do persist. On September 24, while Chinese President Xi Jinping was on a state visit to Washington, another incident unfolded around Second Thomas Shoal in the South China Sea, with Manila and Beijing offering different accounts. This captures a broader regional reality: US-China stabilisation may lower some risks but raise others and leave...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T04:00:14+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Tanks, drone and anti-drone vehicles spotted at Zhuhai air show site",
+        "url": "https://www.scmp.com/news/china/article/3375197/tanks-drone-and-anti-drone-vehicles-spotted-zhuhai-air-show-site",
+        "summary": "New vehicles for drone and anti-drone warfare have been spotted at the site where the Zhuhai air show will be held next month, reflecting China’s push to integrate hi-tech platforms on land battlefields as well as its ambitions in the global defence market. Images and videos circulating online show hardware including two unmanned combat vehicles – one equipped with Hongjian missiles – and a new type of anti-drone tactical vehicle at the site in southeastern China where the air show will be held...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T04:00:12+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Hong Kong commerce chief ‘cautiously optimistic’ after China-US-Russia peace declaration",
+        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375308/hong-kong-commerce-chief-cautiously-optimistic-after-china-us-russia-peace-declaration",
+        "summary": "The China-US-Russia joint peace declaration at the Apec Summit sent a positive message about the global and local economies, but Hong Kong should remain “cautiously optimistic” as problems could not be solved overnight, the city’s commerce chief has said. Secretary for Commerce and Economic Development Algernon Yau Ying-wah said on Saturday that the consensus among the three countries on bringing peace and resolving disputes sent a positive message. “Such a consensus among these three major...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T03:55:19+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Japan’s ‘Rabbit Island’ draws tourists with fluffy bunnies and dark wartime past",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3375307/japans-rabbit-island-draws-tourists-fluffy-bunnies-and-dark-wartime-past",
+        "summary": "Stepping onto an island in western Japan, tourists squeal with joy at the sight of hundreds of fluffy rabbits, but few realise the land was once home to a secret chemical weapons factory for the country’s Imperial Army. Okunoshima – also known as “Rabbit Island” – has a perimeter of just four kilometres (2.5 miles) but welcomes thousands of snap-happy visitors attracted by its bunny population each year. “This was my dream,” to visit the island, 67-year-old Susan Balzer from Canada said. “You...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T03:25:40+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "China pet ‘memorial diamond’ industry charging US$15,000 for ash gems faces scrutiny",
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3375306/china-pet-memorial-diamond-industry-charging-us15000-ash-gems-faces-scrutiny",
+        "summary": "Moving beyond traditional urns and paw-print keepsakes, some grieving pet owners in China are having their companions’ fur and ashes turned into lab-grown diamonds. A woman in northeastern China has sparked widespread debate about the growing industry after paying 8,950 yuan (US$1,350) for a diamond ring made using her dog’s fur. According to Jimu News, Chen Xing, from Jilin province, commissioned the ring in 2020, as her toy poodle, Baobao, entered its senior years. The 18-karat gold ring,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T02:36:04+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "North Korea’s Kim Jong-un visits school gear factories after apparent Trump snub",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3375305/north-koreas-kim-jong-un-visits-school-gear-factories-after-apparent-trump-snub",
+        "summary": "North Korean leader Kim Jong-un was seen inspecting school equipment and teaching aids, state media said on Saturday, after an apparent snub of US President Donald Trump during his Asia tour. Trump met Kim three times during his first term and has repeatedly floated another meeting since his return to the White House, including during his Asia tour this week. Trump left Asia late on Thursday after a landmark trilateral summit which included the Chinese and Russian presidents, without meeting...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T02:10:03+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Japan wants an Asian energy agency. Will the region buy in?",
+        "url": "https://www.scmp.com/week-asia/economics/article/3375246/japan-wants-asian-energy-agency-will-region-buy",
+        "summary": "Asia already has oil-sharing pacts it has never used. Now, Japan wants to add another that critics warn will do little to solve the region’s dependence on energy imports and may simply add another level of bureaucracy. Japanese Prime Minister Sanae Takaichi announced the plan on Tuesday at an Asia Zero-Emission Community leaders’ meeting in Manila, on the sidelines of this year’s Asean summit. “We would like to position this as an Asian version of the IEA,” Takaichi said, referring to the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T02:00:10+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "China’s top intelligence agency touts ‘common international security’ after summit",
+        "url": "https://www.scmp.com/news/china/politics/article/3375207/chinas-top-intelligence-agency-touts-common-international-security-after-summit",
+        "summary": "China’s top intelligence agency has warned that no nation can achieve “absolute security” at the expense of others, underscoring Beijing’s messaging on security just a day after Thursday’s unprecedented China-US-Russia trilateral summit. In a commentary published on its official social account on Friday, the Ministry of State Security (MSS) framed China’s security philosophy as both a theoretical evolution of Marxism and “an urgent response to mounting geopolitical instability”. The article,...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T02:00:08+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Who are you calling a ‘Chinese honeypot’?",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3374874/who-are-you-calling-chinese-honeypot",
+        "summary": "“Please stop being such a Chinese honeypot.” When reports emerged alleging that then-Nvidia chief executive Jensen Huang had been romantically involved with a Chinese woman suspected of espionage, my inbox filled with remarks from friends and acquaintances about my supposed career as a Chinese spy. One came from an old university mate I hadn’t seen in more than a decade. Underneath the humour was a more revealing assumption. I am a British woman of Vietnamese-Chinese ancestry, with no family...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T01:30:06+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Nvidia faces further blow after shock US export permit data release: analysts",
+        "url": "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts",
+        "summary": "US lawmakers have thrown the cross-border semiconductor trade into fresh turmoil after releasing confidential licensing records showing Washington approved the sale of nearly 880,000 advanced AI chips to Chinese tech companies earlier this year. The disclosures, made by a US House committee on Thursday, could prompt Chinese buyers to pivot from Nvidia to Advanced Micro Devices (AMD) in the short term and accelerate their transition to home-made chips over the long run, analysts said. The filing...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T01:00:13+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Tycoons campaign on the streets as Hong Kong Election Committee vote nears",
+        "url": "https://www.scmp.com/news/hong-kong/politics/article/3375285/tycoons-campaign-streets-hong-kong-election-committee-vote-nears",
+        "summary": "Mobilisation and campaigning have been ramped up ahead of Hong Kong’s Election Committee poll as Beijing expects turnout to surpass the 2021 level – a push observers say is aimed at closing the distance between the body that selects the city’s next leader and the public while enhancing its legitimacy. Sunday’s poll is set to be markedly more competitive than the 2021 ballot, with 31 of the 36 elective subsectors contested, up from just 13 five years ago, and 856 candidates vying for 723 seats on...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T01:00:11+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Japan government criticised over conspiracy-theory YouTuber in security PR push",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3375304/japan-government-criticised-over-conspiracy-theory-youtuber-security-pr-push",
+        "summary": "The Japanese government has faced a wave of criticism for featuring a conspiracy-theory-oriented YouTuber in its public outreach regarding national security policy, with the controversy putting Prime Minister Sanae Takaichi’s administration under pressure. While the government argues that the initiative is intended to reach younger audiences, opposition parties and users on social media warn it could undermine the government’s own credibility. While some experts call for time to assess the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T00:57:35+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Trump threatens ‘tremendous tax’ on US firms building AI data centres overseas",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3375303/trump-threatens-tremendous-tax-us-firms-building-ai-data-centres-overseas",
+        "summary": "President Donald Trump on Friday threatened “a tremendous tax” on US companies that build artificial intelligence data centres abroad, highlighting a divide between a president who sees their expansion as critical to winning the AI race and an American public that is deeply sceptical of their benefits. Briefing reporters at the White House shortly after his return from Asia, the president said the country was ahead of China in developing what he likes to call “superintelligence”. But he warned...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T00:48:00+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Marcos Jnr promised a ‘new Philippines’. What happened?",
+        "url": "https://www.scmp.com/week-asia/people/article/3375235/marcos-jnr-promised-new-philippines-what-happened",
+        "summary": "“I knew your parents very well and they were great,” US President Donald Trump told his Philippine counterpart at a dinner in Manila this week, offering a glowing tribute to a family that was once forced into exile in disgrace. Turning to his host, Ferdinand “Bongbong” Marcos Jnr, Trump recalled his friendship with the Philippine leader’s parents, the late dictator Ferdinand Marcos Snr and his wife Imelda. “It’s a true pleasure to be back in the Philippines. I’ve been here numerous times,” he...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-21T00:00:08+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Russian missiles land in Poland, as Europe holds military drills nearby",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3375302/russian-missiles-land-poland-europe-holds-military-drills-nearby",
+        "summary": "Two Russian missiles and a suspected drone came down in Poland on Friday in what its prime minister said was likely to be a provocation timed to coincide with European military exercises in his country for a possible post-war mission in Ukraine. The incidents occurred while Russia carried out a major nighttime bombardment of neighbouring Ukraine. The development stoked tensions between Europe and Moscow just as the US is trying to add momentum to talks it is mediating on ending the war that...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-20T23:43:44+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
         "title": "Hong Kong looks to community networks to support Tai Po fire survivors’ mental health",
         "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375288/hong-kong-looks-community-networks-support-tai-po-fire-survivors-mental-health",
         "summary": "More than 3,000 survivors of Hong Kong’s deadly Wang Fuk Court fire have received mental health support from authorities in the past year, with some experiencing fewer symptoms of post-traumatic stress disorder (PTSD) after psychological intervention. Dr Lam Ching-choi, chairman of the Advisory Committee on Mental Health, said on Friday that the government would study whether existing community networks could continue to offer mental health support to people affected by the fire. The committee...",
@@ -7927,186 +8182,6 @@
         "summary": "Hong Kong authorities will not obstruct residents from holding memorial activities to mark the first anniversary of the deadly Wang Fuk Court blaze, the city’s No 2 official has said. Chief Secretary Eric Chan Kwok-ki said on Friday that the government was willing to offer help to organisations in holding memorial events. “I have heard that some groups claim they were pressured to cancel certain memorial events. I want to clarify and reiterate that Hong Kong is a place governed by the rule of...",
         "source": "South China Morning Post — Education",
         "published": "2026-11-20T12:16:17+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Hong Kong joins global drug body ahead of schedule, boosting regulatory ambitions",
-        "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375266/hong-kong-joins-global-drug-body-ahead-schedule-boosting-regulatory-ambitions",
-        "summary": "Hong Kong has joined a global body for drug regulators ahead of schedule, a move health authorities say brings the city closer to establishing its own internationally recognised regulatory authority. The city was admitted as the 20th regulatory member of the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) at an assembly meeting in Prague on Tuesday. Hong Kong is poised to become a crucial “bridgehead” for mainland Chinese drugs to reach...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T12:03:00+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Xi presses Trump to do ‘the right thing’ on Taiwan. Where does that leave US arms sales?",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3375260/xi-presses-trump-do-right-thing-taiwan-where-does-leave-us-arms-sales",
-        "summary": "Chinese President Xi Jinping urged visiting US President Donald Trump to do “the right thing” on Taiwan this week – a remark experts said suggested a push for further restrictions on US arms sales to the island. “The US must keep doing the right thing to avoid major setbacks in China-US relations,” Xi told Trump during their bilateral talks on Thursday at the Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen, according to Beijing’s summary of the meeting. Trump said the US did not...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T12:00:07+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Estonia to close border with Russia for at least 6 months over foiled sabotage",
-        "url": "https://www.scmp.com/news/world/europe/article/3375264/estonia-close-border-russia-least-6-months-over-foiled-sabotage",
-        "summary": "Estonia will close its road border crossings with Russia on security grounds from December 1 and will decide after six months whether ‌to extend the suspension, the Baltic country’s government said on Friday. Estonia on Sunday accused Russian security services of staging an attempted arson attack on an Estonian defence company, in what it said was the second such incident this year. “The closure of the border crossing points is not a reaction to a single incident, but the next ⁠step following...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T11:52:05+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "It’s just a song: Philippine leader Marcos laughs off debate over Apec welcome track Anak",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3375258/its-just-song-philippine-leader-laughs-debate-over-apec-welcome-track-anak",
-        "summary": "Philippine President Ferdinand Marcos Jnr has downplayed Beijing’s choice of music to greet him at the Apec summit, saying the debate about possible hidden meanings was overblown. A Chinese orchestra played the classic Philippine song “Anak”, which means child, when the Philippine presidential couple entered the hall for the welcome banquet in Shenzhen on Wednesday. The song, written by Freddie Aguilar, tells the tale of a young person’s rebellion against parental authority and subsequent...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T11:27:21+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Vietnam scraps death sentence for drug trafficking",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375257/vietnam-scraps-death-sentence-drug-trafficking",
-        "summary": "Vietnam abolished the death penalty for drug trafficking and several other crimes on Friday, leaving execution available as a punishment for only four offences. Communist Vietnam uses lethal injection as its execution method after retiring its firing squads in 2013, but has never made public the number of people it has put to death. Amnesty International estimates more than 1,200 people were on death row in the country at the end of 2023. In September, 11 people were condemned to die for...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T11:13:26+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "China’s rare earth magnet exports to US and EU fall after September rebound",
-        "url": "https://www.scmp.com/economy/china-economy/article/3375248/chinas-rare-earth-magnet-exports-us-and-eu-fall-after-september-rebound",
-        "summary": "China’s exports of rare earth permanent magnets to the US and the European Union resumed their decline in October, as Beijing navigated trade relations with both economies. Exports to the US totalled 563.6 tonnes (621.26 short tonnes) last month, down 6.7 per cent from September, according to customs data released on Friday. The decline reversed September’s 18 per cent month-on-month increase and left shipments 14.1 per cent lower than a year earlier. Exports to the EU declined 9.7 per cent...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T11:00:06+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Evolution of China public holidays from ancient ‘golden weeks’ to modern make-up workdays",
-        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3375252/evolution-china-public-holidays-ancient-golden-weeks-modern-make-workdays",
-        "summary": "Each year, when China releases its list of public holidays for the coming year, it sparks heated online discussions about the lack of days off – and sometimes even nostalgia for holidays in ancient China. China first introduced statutory holidays during the Han dynasty (202 BC–220). Officials were required to live and work at their posts, but were allowed one day off every six days to rest and bathe. Workers in China first had more flexible rotational leave systems during the Wei, Jin, Northern...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T10:37:52+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "HKUST turns a 35-year-old vision into impact for the future of regional innovation",
-        "url": "https://www.scmp.com/native/news/hong-kong/education/topics/hkust-35-vision-impact/article/3373243/hkust-turns-35-year-old-vision-impact-future-regional-innovation",
-        "summary": "The Hong Kong University of Science and Technology (HKUST) marks its 35th anniversary this year, having established itself as one of Asia’s most highly ranked universities with a reputation built around research excellence, entrepreneurship, innovation and national development. Behind this success is the vision of its founding president, the late Professor Woo Chia-wei. “He didn’t just want to build a university,” says HKUST president Professor Nancy Ip Yuk-yu. “He envisioned an institution...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T10:32:11+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Waiting time for Hong Kong public housing at 10-year low",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3375226/hong-kongs-waiting-time-public-housing-its-shortest-more-10-years",
-        "summary": "The waiting time for Hong Kong’s public housing fell to its lowest level in a decade in the 12 months to end-September, dropping to 4.4 years from 4.8 years at the end of the previous quarter. The Housing Bureau said on Friday that for general applications, composite waiting times – which cover standard public rental flats and homes under the Light Public Housing (LPH) scheme – had declined across urban areas, extended urban areas and the New Territories districts. At the end of September, about...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T10:11:47+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Mexican leader Sheinbaum’s 21-hour economy-class journey draws praise in China",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3375244/mexican-leader-sheinbaums-21-hour-economy-class-journey-draws-praise-china",
-        "summary": "Mexican President Claudia Sheinbaum’s journey in economy class from Mexico City to Shenzhen for the Asia-Pacific Economic Cooperation summit has gone viral on Chinese social media. While most world leaders travelled to the southern Chinese city on chartered airliners or government aircraft, Sheinbaum arrived on Monday on a scheduled commercial flight. She flew on China Southern Airlines flight CZ8032, according to CARNOC, a Chinese aviation trade publication. The aircraft had a special blue,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T10:04:50+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Why the Philippines is turning to India to boost defence capabilities",
-        "url": "https://www.scmp.com/week-asia/politics/article/3375245/why-philippines-turning-india-boost-defence-capabilities",
-        "summary": "After purchasing India’s BrahMos anti-ship missiles, the Philippines is reportedly considering two more Indian weapons systems that analysts say could help Manila build a more formidable deterrent while laying the groundwork for closer military integration with New Delhi. The Philippines is reportedly eyeing the acquisition of more than five regiments of Akash air defence systems and several batteries of Pinaka rocket launchers, according to Indian digital news outlet Firstpost, which cited...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T10:00:27+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Malaysia scrubs post announcing Rohingya repatriation plan to Turkey",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375243/malaysia-plans-resettle-10000-rohingya-turkey",
-        "summary": "Malaysia appeared on Friday to row back from an announcement that it had secured an agreement with Turkey to accept 10,000 Rohingya refugees to train as part of their workforce, with a top official’s statement scrubbed from social media. Deputy Prime Minister Ahmad Zahid Hamidi earlier announced in a Facebook post that Malaysia was seeking to resettle 10,000 Rohingya migrants in Turkey. “We note that the post by the Deputy Prime Minister referred to in the above-mentioned news article has since...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T10:00:03+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Philippine military rejects Trump’s request for MacArthur-style gold baton",
-        "url": "https://www.scmp.com/week-asia/politics/article/3375228/philippine-military-rejects-trumps-request-macarthur-style-gold-baton",
-        "summary": "The Philippine military has clarified that a gold baton awarded to the late American general Douglas MacArthur is no longer part of its honours system, dampening a demand for a similar accolade from US President Donald Trump. Addressing a state lunch gathering at the presidential palace in Manila on Wednesday, Trump paid tribute to the long-standing diplomatic relations between the two countries. “From William Howard Taft to Dwight D. Eisenhower, some of the best minds and foremost leaders of...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T09:12:25+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "China-US-Russia talks, economy concerns, Auto Guangzhou",
-        "url": "https://www.scmp.com/plus/economy/china-economy/article/3375227/china-us-russia-talks-economy-concerns-auto-guangzhou",
-        "summary": "An unprecedented trilateral meeting between the leaders of China, the United States and Russia produced a pledge “to increase the production and supply of refined petroleum products for the benefit of all nations”. Turning that into a reality is likely to prove a challenge. The pledge should carry weight, as the US and Russia are two of the world’s largest oil producers while China is the biggest crude importer. Fuel was also second in the four-point agreement reached at the Shenzhen meeting,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T09:04:05+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Hong Kong plans EV battery levy of HK$6 per kg on suppliers from 2028",
-        "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375222/hong-kong-plans-impose-ev-battery-levy-hk6-kg-suppliers-2028",
-        "summary": "Hong Kong plans to impose a recycling levy of about HK$3,000 (US$380) on each electric vehicle battery, with suppliers rather than vehicle owners required to pay the charge as demand grows for the handling of retired batteries. The Environmental Protection Department said on Friday that the levy, expected to be implemented in 2028, would be raised gradually and reach about HK$15,000 in 2043 for a battery typically weighing 500kg (1,102lbs). Asked whether suppliers would pass the extra costs on...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-20T08:55:31+00:00",
         "stream": "higher",
         "streams": [
           "higher"
@@ -8604,7 +8679,7 @@
         "url": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
         "summary": "In a draft report, officials found widespread training gaps as the Department of Homeland Security sought to rapidly hire and deploy 10,000 new officers.",
         "source": "New York Times — Education",
-        "published": "2026-11-20T22:35:10+00:00",
+        "published": "2026-11-21T01:43:40+00:00",
         "stream": "policy",
         "streams": [
           "policy"
@@ -8975,11 +9050,11 @@
         "title": "‘GTA Flu’ Has Schools and Jobs Bracing for Sick Days",
         "url": "https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html",
         "summary": "The highly anticipated release of Grand Theft Auto VI is expected to prompt a wave of students and employees to stay home on Thursday.",
-        "source": "New York Times — Education",
+        "source": "New York Times — Technology",
         "published": "2026-11-19T08:53:03+00:00",
-        "stream": "policy",
+        "stream": "edtech",
         "streams": [
-          "policy"
+          "edtech"
         ],
         "region": "north_america"
       },
@@ -9023,11 +9098,11 @@
         "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
         "url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
         "summary": "Google’s refusal to unbundle A.I. features from search for students prompted a backlash. Now schools are looking for alternatives.",
-        "source": "New York Times — Education",
+        "source": "New York Times — Technology",
         "published": "2026-11-18T23:23:06+00:00",
-        "stream": "policy",
+        "stream": "edtech",
         "streams": [
-          "policy"
+          "edtech"
         ],
         "region": "north_america"
       },
