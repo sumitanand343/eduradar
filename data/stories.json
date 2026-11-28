@@ -345,6 +345,30 @@
     ],
     "school": [
       {
+        "title": "School leaders vote in favour of industrial action, says union",
+        "url": "https://www.bbc.co.uk/news/articles/c63rg45027z0o?at_medium=RSS&at_campaign=rss",
+        "summary": "The union said the results reflect deep concern about the long-term sustainability of school leadership.",
+        "source": "BBC — Education",
+        "published": "2026-11-27T22:39:07+00:00",
+        "region": "global",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
+        "title": "New Mexico Education Advocates, Lawmakers Oppose Federal Education Tax Credit",
+        "url": "https://www.the74million.org/article/new-mexico-education-advocates-lawmakers-oppose-federal-education-tax-credit/",
+        "summary": "New Mexico education advocates, teachers union representatives and a state lawmaker on Tuesday held a news conference to decry the state’s participation in a controversial federal education tax credit. The Federal Scholarship Tax Credit program, established in President Trump’s One Big Beautiful Bill Act enacted last year, allows eligible taxpayers to receive a federal tax […]",
+        "source": "The 74 Million",
+        "published": "2026-11-27T17:30:00+00:00",
+        "region": "north_america",
+        "streams": [
+          "school"
+        ],
+        "stream": "school"
+      },
+      {
         "title": "Malaysian teacher gets 60 years, 24 strokes in Sarawak school sex abuse case",
         "url": "https://www.scmp.com/week-asia/people/article/3375992/malaysian-teacher-gets-60-years-24-strokes-sarawak-school-sex-abuse-case",
         "summary": "A teacher in Malaysia has been sentenced to 60 years in prison for sexually assaulting eight girls aged between seven and 12 at a primary school in Sarawak, the latest in a string of cases involving educators despite the government’s toughened stance on such crimes. The Sessions Court in Sri Aman also ordered 24 strokes of the cane for Wong Fei Sing, 35, after he pleaded guilty on Wednesday to 64 charges, including possession of child sexual abuse material. According to police, the abuse took...",
@@ -448,18 +472,6 @@
         "source": "The 74 Million",
         "published": "2026-11-25T11:30:00+00:00",
         "region": "north_america",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "Pupils served life lessons from pickleball-playing pensioners",
-        "url": "https://www.bbc.co.uk/news/articles/cxyvdjpjd1lvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Pickleball and pensioners are helping A-Level students in Belfast learn beyond their school classroom.",
-        "source": "BBC — Education",
-        "published": "2026-11-25T06:21:20+00:00",
-        "region": "global",
         "streams": [
           "school"
         ],
@@ -675,18 +687,6 @@
         "summary": "The first time her daughter came home saying she’d missed recess for “study hall,” Brandi Vesco thought nothing of it. But as it continued to happen, she began to see skipped recess as a bigger problem. Vesco found out the school was keeping kids from recess if they hadn’t finished their in-class work. On Wednesdays, […]",
         "source": "The 74 Million",
         "published": "2026-11-20T19:30:00+00:00",
-        "region": "north_america",
-        "streams": [
-          "school"
-        ],
-        "stream": "school"
-      },
-      {
-        "title": "Indianapolis Public Schools Proposes Closing 6 Schools Amid Declining Enrollment and Budget Shortfall",
-        "url": "https://www.the74million.org/article/indianapolis-public-schools-proposes-closing-6-schools-amid-declining-enrollment-and-budget-shortfall/",
-        "summary": "Indianapolis Public Schools is proposing to close six schools after this school year as student enrollment plunges and budget problems plague the district. The following schools would be affected, according to information shared at a Tuesday agenda review session of the IPS school board, which is expected to take action on the plan Dec. 8. […]",
-        "source": "The 74 Million",
-        "published": "2026-11-20T17:30:00+00:00",
         "region": "north_america",
         "streams": [
           "school"
@@ -1117,6 +1117,126 @@
     ],
     "higher": [
       {
+        "title": "Australia quietly revives Antarctic logistics pact with China as ties steady",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3376076/australia-quietly-revives-antarctic-logistics-pact-china-ties-steady",
+        "summary": "Australia has quietly revived a bilateral Antarctic logistics pact with China, as the two countries work to put bilateral ties on a stable footing despite lingering security tensions. The new agreement, which covers logistics cooperation for the 2026-27 Antarctic summer season, was revealed in an Australian Senate estimates brief prepared for the environment department last month and obtained by the Australian Broadcasting Corporation (ABC) under freedom of information laws, the public...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-28T00:00:11+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Myanmar’s Asean exit talk: a pariah pushes back",
+        "url": "https://www.scmp.com/week-asia/politics/article/3376067/myanmars-asean-exit-talk-pariah-pushes-back",
+        "summary": "For five years, one name card has been missing from the grand circular table at the Association of Southeast Asean Nations biannual leaders’ summit: Min Aung Hlaing. As president of Myanmar, he should by diplomatic convention sit alongside the 10 other leaders of the Southeast Asian bloc at its regular get-togethers. Yet Asean has kept Myanmar at arm’s length ever since the coup that Min Aung Hlaing led as army chief in February 2021. At its latest summit in Manila this month, Myanmar was...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-28T00:00:08+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Son of Hamas chief survived Israeli strike, group says",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3376106/son-hamas-chief-survives-israeli-strike-group-says",
+        "summary": "The son of Hamas ⁠chief Khalil al-Hayya survived an assassination attempt ⁠by the Israeli military on Friday, senior Hamas official ⁠Basem Naim said. He said that Izzeldeen al-Hayya and his family had survived a dawn air strike and Hamas sources said several people, including Hayya’s daughter-in-law, had been wounded but there had been no deaths. The Israeli military had no immediate comment. Naim described Izzeldeen al-Hayya, born in 1997, as the Hamas chief’s last surviving son, with four...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-27T23:52:33+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Colombian Congress chiefs rush to reassure China as envoy berates lawmakers in Taiwan",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3376105/colombian-congress-chiefs-rush-reassure-china-envoy-berates-lawmakers-taiwan",
+        "summary": "Colombian congressional leaders lined up to reaffirm the one-China policy in meetings with Beijing’s ambassador, as nine lawmakers neared the end of a trip to Taiwan that Colombian President Abelardo de la Espriella has yet to comment on. On Thursday, Chinese Ambassador Zhu Jingyang met Elizabeth Jay-Pang Diaz, who chairs the Colombian government’s lower house foreign affairs committee, and the embassy said she reaffirmed the policy. Earlier in the week, Zhu met speaker Nicolas Barguil and the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-27T22:27:36+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Taiwan is expanding its military draft. Will those troops make a difference?",
+        "url": "https://www.scmp.com/news/china/politics/article/3376027/taiwan-expanding-its-military-draft-will-those-troops-make-difference",
+        "summary": "Taiwan’s move to toughen up on exemptions to military service has sparked anxiety among some young men facing conscription and raised questions over whether expanding recruitment will actually strengthen the island’s combat readiness. While the government argues that limiting exemptions will make conscription fairer and ease personnel shortages, critics warn that recruiting men previously deemed medically unsuitable could endanger their health, complicate training and undermine morale. The...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-27T22:00:15+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Philippines could be key player in US-China AI competition",
+        "url": "https://www.scmp.com/opinion/asia-opinion/article/3375746/philippines-could-be-key-player-us-china-ai-competition",
+        "summary": "“We’ve just consummated a trade deal, the biggest trade deal we’ve ever made by far and it’s a fair deal for both countries. … It’s a magnificent deal for both,” US President Donald Trump declared as he visited Manila this month. “I’m proud to say that we’re making the alliance between the United States and the Philippines much stronger than it’s ever been before, especially with the consummation of this deal.” Days after Trump’s characteristically superlative pronouncement, however, there are...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-27T21:30:08+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Ukraine says it used laser weapon to shoot down Russian drone for first time",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3376104/ukraine-says-it-used-laser-weapon-shoot-down-russian-drone-first-time",
+        "summary": "Ukraine has for the first time used a laser weapon to shoot down a Russian jet-powered drone, its state-backed defence group Brave1 said on Friday. Earlier this week, Serhiy Beskrestnov, an adviser to President Volodymyr Zelensky, published footage showing a target crashing in a fireball, saying a Russian Geran jet drone had been shot down by a laser system for the “first time”. “Footage recently emerged online showing a Ukrainian laser system being used in combat to intercept an enemy...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-27T21:08:33+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Canada’s top court upholds Quebec ban on religious symbols for public servants",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3376103/canadas-top-court-upholds-quebec-ban-religious-symbols-public-servants",
+        "summary": "Canada’s Supreme Court on Friday upheld Quebec’s ban on religious symbols for public servants, prompting rights groups to warn the ruling unfairly targets Muslim women and weakens legal protections for fundamental rights. The decision is a political win for Quebec’s sovereigntist government and could complicate Prime Minister Mark Carney’s efforts to unify Canada as the country faces a trade war and annexation threats from US President Donald Trump. Quebec’s ‌previous government passed Bill 21...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-27T20:25:58+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "WHO sounds alarm as measles fight falters: ‘it is back’",
+        "url": "https://www.scmp.com/news/world/article/3376102/who-sounds-alarm-measles-fight-falters-it-back",
+        "summary": "The World Health Organization sounded the alarm on measles on Friday, warning that progress on elimination had stalled amid rising misinformation and disinformation. The WHO’s overview of the long-term battle against the highly contagious disease came the week after the United States lost its measles elimination status, with declining vaccination rates sending US cases soaring. Worldwide, the Covid-19 pandemic disrupted immunisation programmes, the UN health agency said, with many countries...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-27T20:12:12+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "More than 57,000 granted UK permanent residence via BN(O) route in year to September",
+        "url": "https://www.scmp.com/news/hong-kong/politics/article/3376100/more-57000-granted-uk-permanent-residence-bno-route-year-september",
+        "summary": "More than 57,000 arrivals from Hong Kong became permanent residents in the United Kingdom in the 12 months to September 2026 under the bespoke BN(O) immigration pathway launched five years ago, with the city ranking second behind India in the number of UK settlement grants during the period. According to the UK Home Office, 57,040 people were granted permanent residence via the BN(O) route in the 12 months to September 30, 2026. This was up from just 637 BN(O) grants in the preceding 12 months...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-27T16:38:31+00:00",
+        "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
         "title": "French arrest warrant issued for German man supplying migrant smuggling boats",
         "url": "https://www.scmp.com/news/world/europe/article/3376097/french-arrest-warrant-issued-german-man-supplying-migrant-smuggling-boats",
         "summary": "France has issued an arrest warrant for a German national it suspects of involuntary manslaughter as part of an investigation into a series of clandestine migrant crossings to Britain, a prosecutor has said. According to a joint investigation by several media outlets including French daily Le Monde and the BBC, the managing director of a small firm in western Germany, Marvin Reuter of MaRe Boote, is suspected of supplying inflatable boats, engines and life jackets worth hundreds of thousands of...",
@@ -1231,6 +1351,18 @@
         "source": "South China Morning Post — Education",
         "published": "2026-11-27T12:25:16+00:00",
         "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Canada plans 2027 pilot to speed up study-permit processing",
+        "url": "https://thepienews.com/canada-plans-2027-pilot-to-speed-up-study-permit-processing/",
+        "summary": "Canada is developing a pilot program with a select group of designated learning institutess (DLIs) to improve study permit processing and reduce avoidable refusals. The post Canada plans 2027 pilot to speed up study-permit processing appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-11-27T12:08:56+00:00",
+        "region": "global",
         "streams": [
           "higher"
         ],
@@ -1369,6 +1501,18 @@
         "stream": "higher"
       },
       {
+        "title": "The view from Germany: a German degree should lead to a German career",
+        "url": "https://thepienews.com/a-german-degree-should-lead-to-a-german-career/",
+        "summary": "Germany has become the most popular study destination outside the English-speaking world, but the challenge now is ensuring international graduates can find work after completing their degrees. The post The view from Germany: a German degree should lead to a German career appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-11-27T09:45:34+00:00",
+        "region": "global",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
         "title": "Hong Kong Science Park veteran named CEO of Hung Shui Kiu industrial park operator",
         "url": "https://www.scmp.com/news/hong-kong/society/article/3376044/hong-kong-science-park-veteran-named-ceo-hung-shui-kiu-industrial-park-operator",
         "summary": "A former senior executive of the Hong Kong Science and Technology Parks Corporation (HKSTP) has been appointed CEO of the Hung Shui Kiu Industry Park Company to accelerate the development of the Northern Metropolis megaproject. The park company, the first government-owned entity established to drive the megaproject’s development, said on Friday that Yiu Hing-leung would assume office on December 1 for a three-year term. Yiu has more than 30 years of experience in the technology and industrial...",
@@ -1435,6 +1579,18 @@
         "source": "South China Morning Post — Education",
         "published": "2026-11-27T08:44:00+00:00",
         "region": "east_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Universities urged to abandon ‘static’ models amid global uncertainty",
+        "url": "https://thepienews.com/goverment-urges-universities-to-move-away-from-static-models/",
+        "summary": "As universities continue to face new global challenges, delegates at Going Global 2026 called on institutions to move away from their traditional, “static” models and towards more “flexible” and “nimble” ones. The post Universities urged to abandon ‘static’ models amid global uncertainty appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-11-27T08:30:00+00:00",
+        "region": "global",
         "streams": [
           "higher"
         ],
@@ -1525,6 +1681,18 @@
         "stream": "higher"
       },
       {
+        "title": "LHC seeks replies on plea by five Afghan medical students over MBBS registration",
+        "url": "https://www.dawn.com/news/2047447/lhc-seeks-replies-on-plea-by-five-afghan-medical-students-over-mbbs-registration",
+        "summary": "LAHORE: The Lahore High Court (LHC) on Friday issued notices to the Pakistan Medical and Dental Council (PMDC) and other respondents on a petition filed by five Afghan medical students seeking registration to sit their first professional MBBS examination in January. The petitioners — Forough Dihqanpur, Shahira Sharif, Zahra Nabawi, Faiza Noori and Shabana Rahimi — are enrolled in the first year of the MBBS programme at Sheikh Khalifa Bin Zayed Al Nahyan Medical and Dental College, Lahore, under the Allama Muhammad Iqbal Scholarship Programme run by the Higher Education Commission (HEC). Advoca",
+        "source": "Dawn — Pakistan",
+        "published": "2026-11-27T06:47:02+00:00",
+        "region": "south_asia",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
         "title": "Keralam’s FYUGP may be renamed Flexible Graduate Programme; KSHEC panel proposes framework overhaul",
         "url": "https://www.thehindu.com/news/national/kerala/keralams-fyugp-may-be-renamed-flexible-graduate-programme-kshec-panel-proposes-framework-overhaul/article71749547.ece",
         "summary": "Committee formed by Kerala State Higher Education Council recommends rationalising credit requirements for undergraduate degrees from 133 to 132 for three-year programme and from 177 to 176 for four-year Honours and Honours with Research programmes",
@@ -1609,120 +1777,12 @@
         "stream": "higher"
       },
       {
-        "title": "Huawei guilty on 10 counts in US trial; Nvidia’s Jensen Huang returns: SCMP’s 7 highlights",
-        "url": "https://www.scmp.com/news/world/article/3375979/huawei-guilty-10-counts-us-trial-nvidias-jensen-huang-returns-scmps-7-highlights",
-        "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Chinese astronauts greet first foreign crew member with historic handshake China’s latest crewed space mission, Shenzhou-24, successfully delivered three astronauts to the Tiangong space station on Wednesday, including its first...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T04:15:06+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Dream homes at sea run aground in Asia as fuel costs and debts bite",
-        "url": "https://www.scmp.com/week-asia/people/article/3375913/dream-homes-sea-run-aground-asia-fuel-costs-and-debts-bite",
-        "summary": "When Randy Cassingham returned to his US$379,000 cabin aboard the Villa Vie Odyssey in Sihanoukville, Cambodia, ship security had to break a seal on the door. He retrieved his medication and some clothes, but had to leave behind several pairs of new shoes and a US$1,500 desk chair he had bought for an office he rented aboard the ship. He and his wife, Kit, had even bought new pillows for a bed they thought they would be sleeping in for years to come. “We got two years of use out of our cabin …...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T04:00:16+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "What will Taiwan local elections reveal about 2028 race and cross-strait shifts?",
-        "url": "https://www.scmp.com/news/china/politics/article/3375904/what-will-taiwan-local-elections-reveal-about-2028-race-and-cross-strait-shifts",
-        "summary": "The local elections in Taiwan on Saturday will offer Beijing a window into shifting public sentiment and the island’s political trajectory ahead of its 2028 general poll, with the results potentially affecting city-level cross-strait exchanges, according to analysts. The “nine-in-one” elections – to decide the island’s mayors, county magistrates and thousands of grass-roots officials – are widely viewed as a midterm test for Taiwan’s leader William Lai Ching-te, who took office in May 2024. But...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T04:00:12+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "CIExpo 2026 reinforces Hong Kong's role as a global construction innovation hub",
-        "url": "https://www.scmp.com/presented/news/hong-kong/topics/ciexpo-showcases-hk-tech-hub/article/3375835/ciexpo-2026-reinforces-hong-kongs-role-global-construction-innovation-hub",
-        "summary": "[The content of this article has been produced by our advertising partner.] With Hong Kong’s construction output projected to reach HK$360 billion by 2030/31 the industry is entering a new phase of expansion and transformation. To accelerate the adoption of game-changing technologies such as artificial intelligence (AI), robotics, Building Information Modelling (BIM) and Modular Integrated Construction (MiC), the Construction Industry Council (CIC) joined forces with the Development Bureau...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T03:19:51+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Trump says he urged Putin to pull back ‘all military aggression’ in Europe",
-        "url": "https://www.scmp.com/news/world/europe/article/3375978/trump-says-he-urged-putin-pull-back-all-military-aggression-europe",
-        "summary": "US President Donald Trump said Thursday he had asked Vladimir Putin to “pull back all military aggression” against Europe, in a fresh shift in tone towards the Russian leader he called his friend just last week. Trump said he had made the request to Putin when they met in China last week, adding that he thought it would help lead to a deal to end Moscow’s grinding war in Ukraine. Trump’s comments come a day after he hosted Nato chief Mark Rutte in Florida, after which the two leaders issued a...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T03:12:46+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Will Taiwan’s referendum bring back nuclear power as chips and AI strain the grid?",
-        "url": "https://www.scmp.com/news/china/politics/article/3375975/will-taiwans-referendum-bring-back-nuclear-power-chips-and-ai-strain-grid",
-        "summary": "Taiwan’s growing demand for electricity to sustain its semiconductor and AI industries has thrust a nuclear power referendum into the spotlight in Saturday’s local elections. The vote could also offer Taiwanese leader William Lai Ching-te a way out of a political dilemma as his administration explored the possibility of reviving nuclear power despite decades of opposition from his ruling Democratic Progressive Party, analysts said. Taiwan became nuclear-free in May last year when its final...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T02:59:14+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Ferry crashes into floating dock near Hong Kong oil depot, 22 injured",
-        "url": "https://www.scmp.com/news/hong-kong/transport/article/3375974/ferry-runs-floating-dock-waters-hong-kong-oil-depot-24-injured",
-        "summary": "A high-speed passenger ferry collided with a floating dry dock in the waters off an oil depot in Tsing Yi, leaving 22 people injured and two in a serious condition, according to Hong Kong police. The force said on Friday that it received a report at 9.25am. Fifteen ambulances arrived at the scene, with emergency responders conducting rescue operations. A source said the ferry’s captain found the helm malfunctioning, lost control of the boat and crashed into the floating dry dock. Thirty-five...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T02:55:59+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Chinese job applicant claims HR staffer cancelled interview after she refused to buy drink",
-        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3375972/chinese-job-applicant-claims-hr-staffer-cancelled-interview-after-she-refused-buy-drink",
-        "summary": "A job applicant in China discovered that her interview had been cancelled after she refused to buy a drink for the company’s human resources manager. The incident, shared by a woman surnamed Wang, has attracted significant attention online. Her post has been viewed more than 70 million times across several Chinese social media platforms, the Yangtze Evening News reported. Wang, who lives in Kunshan, in eastern China’s Jiangsu province, said she found a job listing on the recruitment platform...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T02:39:19+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Iran denies role in drone attack that killed Italians in Kuwait",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3375970/iran-denies-launching-drone-attack-killed-italians-kuwait",
-        "summary": "A drone attack in Kuwait killed two Italian technicians working on an air defence system on Thursday, marking the first fatal strike in the Gulf state for months. Both Italy and Kuwait confirmed the deaths, blaming the attack on Iran. But Tehran’s foreign minister Abbas Araghchi insisted in calls to his Kuwaiti and Italian counterparts that it was not behind the deadly strike. Iran has in the last week ratcheted up attacks on Kuwait and Gulf neighbour Bahrain while it continues to fight the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T02:28:47+00:00",
-        "region": "east_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Skiing in China was once a luxury. Local manufacturers are slashing costs",
-        "url": "https://www.scmp.com/economy/china-economy/article/3375908/skiing-china-was-once-luxury-local-manufacturers-are-slashing-costs",
-        "summary": "Skiing has long been considered an expensive sport in China, with the industry heavily reliant on imported specialised equipment and machinery for resorts. But domestic manufacturers are beginning to reshape the market by offering cheaper alternatives while also expanding overseas. The shift is already visible at indoor ski centres in Shenzhen, where locally made equipment is increasingly being used for ski lessons and rental services. “Domestic equipment has improved rapidly and is particularly...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T02:00:15+00:00",
-        "region": "east_asia",
+        "title": "Nepal’s new rules could push responsible education agencies out of business",
+        "url": "https://thepienews.com/nepals-new-rules-could-push-responsible-education-agencies-out-of-business/",
+        "summary": "Nepal’s mandatory NPR 2.5 million deposit could force smaller education agencies to close, leaving more students reliant on unregistered advisers, while new ownership rules affect universities with a stake in local agencies, argues Bikalp Raj Pokhrel. The post Nepal’s new rules could push responsible education agencies out of business appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-11-26T16:40:04+00:00",
+        "region": "global",
         "streams": [
           "higher"
         ],
@@ -1747,6 +1807,42 @@
         "source": "EdNews Africa",
         "published": "2026-11-26T12:23:13+00:00",
         "region": "east_africa",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Australia faces challenging 2027 as early international student figures emerge",
+        "url": "https://thepienews.com/australia-faces-challenging-2027-as-early-international-student-figures-emerge/",
+        "summary": "Australia’s international education sector is facing another challenging year in 2027, with early recruitment figures emerging amid ongoing concerns over student visa approvals. The post Australia faces challenging 2027 as early international student figures emerge appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-11-26T11:37:12+00:00",
+        "region": "global",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Iran looks to online courses to recruit students in Kenya",
+        "url": "https://thepienews.com/iran-looks-to-online-courses-to-recruit-students-in-kenya/",
+        "summary": "Iran aims to attract 320,000 international students, including online learners, as Kenyan universities pursue ties with Iranian counterparts in agriculture and cancer care. The post Iran looks to online courses to recruit students in Kenya appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-11-26T11:31:49+00:00",
+        "region": "global",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "UK study visa refusals hit highest rate in over a decade as withdrawals soar",
+        "url": "https://thepienews.com/uk-study-visa-refusals-hit-highest-rate-in-over-a-decade-as-withdrawals-soar/",
+        "summary": "The rolling refusal rate for UK study visas has reached 6.4%, while withdrawn applications in the peak recruitment quarter rose by more than 370% on last year. The post UK study visa refusals hit highest rate in over a decade as withdrawals soar appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-11-26T11:20:23+00:00",
+        "region": "global",
         "streams": [
           "higher"
         ],
@@ -1814,6 +1910,30 @@
         "stream": "higher"
       },
       {
+        "title": "China looks to deepen international university partnerships",
+        "url": "https://thepienews.com/china-looks-to-deepen-international-university-partnerships/",
+        "summary": "China is seeking to strengthen international education partnerships, with Thailand taking centre stage as the country of honour for the first time at this year's CACIE conference. The post China looks to deepen international university partnerships appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-11-25T16:21:06+00:00",
+        "region": "global",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "UK TNE expands amid Uzbekistan’s higher education boom",
+        "url": "https://thepienews.com/uk-tne-expands-amid-uzbekistans-higher-education-boom/",
+        "summary": "The number of students in higher education in Uzbekistan has increased nearly six-fold since 2015, with rapid UK TNE expansion further contributing to the country's increasingly internationalised landscape. But the challenge facing TNE now is maintaining standards in a locally embedded system as provision grows and diversifies. The post UK TNE expands amid Uzbekistan’s higher education boom appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-11-25T15:49:06+00:00",
+        "region": "global",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
         "title": "Summer Slimdown: The Science of Losing Fat Without Losing Your Mind",
         "url": "https://www.ednews.africa/p/summer-slimdown-the-science-of-losing",
         "summary": "Why sustainable weight loss is more about metabolism, muscle and smart habits than crash diets and endless cardio.",
@@ -1844,6 +1964,18 @@
         "source": "EdNews Africa",
         "published": "2026-11-25T12:55:45+00:00",
         "region": "east_africa",
+        "streams": [
+          "higher"
+        ],
+        "stream": "higher"
+      },
+      {
+        "title": "Push immigration minister to back international students, Canadian MP urges",
+        "url": "https://thepienews.com/push-immigration-minister-to-back-international-students-canadian-mp-urges/",
+        "summary": "Canada's parliamentary secretary to the minister of foreign affairs urged the sector to keep pressing the federal government for stronger support for international students, research collaboration and the arts and humanities. The post Push immigration minister to back international students, Canadian MP urges appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-11-25T12:54:01+00:00",
+        "region": "global",
         "streams": [
           "higher"
         ],
@@ -1940,138 +2072,6 @@
         "source": "Inside Higher Ed",
         "published": "2026-11-25T08:00:00+00:00",
         "region": "north_america",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Back to the Grind in the Ford Tourneo Titanium X",
-        "url": "https://www.ednews.africa/p/back-to-the-grind-in-the-ford-tourneo",
-        "summary": "Ford's flagship Tourneo blends luxury, practicality and long-distance comfort into a package that feels more executive shuttle than family van.",
-        "source": "EdNews Africa",
-        "published": "2026-11-25T07:50:16+00:00",
-        "region": "east_africa",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Management Insights: Lessons From Business Schools",
-        "url": "https://www.ft.com/reports/management-insights?syn-25a6b1a6=1",
-        "summary": "A Financial Times series highlighting the best of business school research. In the second edition, we look at the different types of friction that organisations have to deal with",
-        "source": "Financial Times — Education",
-        "published": "2026-11-25T05:07:51+00:00",
-        "region": "global",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Spotify Brings Running Mode to South Africa as Fitness and Personalisation Trends Accelerate",
-        "url": "https://www.ednews.africa/p/spotify-brings-running-mode-to-south",
-        "summary": "Available across Premium plans, the new feature adapts music to runners’ goals, workout styles and tempo, transforming everyday exercise into a customised listening experience.",
-        "source": "EdNews Africa",
-        "published": "2026-11-24T19:23:25+00:00",
-        "region": "east_africa",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Ramaphosa Engagement Puts Universities at the Centre of South Africa’s Development Future",
-        "url": "https://www.ednews.africa/p/ramaphosa-engagement-puts-universities",
-        "summary": "Meeting between the Presidency, university vice-chancellors and science council leaders showcases how research, innovation and partnerships are helping address national priorities",
-        "source": "EdNews Africa",
-        "published": "2026-11-24T18:44:53+00:00",
-        "region": "east_africa",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Higher education needs to centre merit",
-        "url": "https://www.thehindu.com/opinion/op-ed/higher-education-needs-to-centre-merit/article71736073.ece",
-        "summary": "In many IITs and IIMs, directors lack solid teaching experience and baulk from conducting classes as they are chosen solely as administrators.",
-        "source": "The Hindu — Education",
-        "published": "2026-11-24T09:03:01+00:00",
-        "region": "south_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "From Tazz to Prado: The Evolution of J'Something",
-        "url": "https://www.ednews.africa/p/from-tazz-to-prado-the-evolution",
-        "summary": "The musician, entrepreneur and television personality reflects on self-love, spirituality, purpose and the journey from a humble Toyota Tazz to a Toyota Prado.",
-        "source": "EdNews Africa",
-        "published": "2026-11-23T19:23:21+00:00",
-        "region": "east_africa",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Toyota Corolla Cross e-HEV: A Hybrid That Makes Everyday Sense",
-        "url": "https://www.ednews.africa/p/toyota-corolla-cross-e-hev-a-hybrid",
-        "summary": "In a world increasingly obsessed with full electrification, Toyota’s Corolla Cross e-HEV takes a more practical approach, delivering efficiency, comfort and everyday usability without the need to plug",
-        "source": "EdNews Africa",
-        "published": "2026-11-23T18:44:31+00:00",
-        "region": "east_africa",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "The classroom contract: rethinking attendance policies in Indian higher education",
-        "url": "https://www.thehindu.com/education/the-classroom-contract-rethinking-attendance-policies-in-indian-higher-education/article71733819.ece",
-        "summary": "In-person higher education requires meaningful participation, but rigid, uniform rules are neither practical nor equitable.",
-        "source": "The Hindu — Education",
-        "published": "2026-11-23T18:39:53+00:00",
-        "region": "south_asia",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Ford Ranger Sport: Pace Comes at a Price",
-        "url": "https://www.ednews.africa/p/ford-ranger-sport-pace-comes-at-a",
-        "summary": "Powered by a 222kW EcoBoost engine, the Ranger Sport delivers plenty of punch, but efficiency remains its Achilles heel.",
-        "source": "EdNews Africa",
-        "published": "2026-11-23T17:39:45+00:00",
-        "region": "east_africa",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "AA Raises Concerns Over Jetour T1 Structural Integrity",
-        "url": "https://www.ednews.africa/p/aa-raises-concerns-over-jetour-t1",
-        "summary": "The AA says evidence points to a possible structural defect in a Jetour T1, while MIOSA has recommended the vehicle be replaced pending further investigations.",
-        "source": "EdNews Africa",
-        "published": "2026-11-23T15:14:45+00:00",
-        "region": "east_africa",
-        "streams": [
-          "higher"
-        ],
-        "stream": "higher"
-      },
-      {
-        "title": "Mercedes-Benz CLE 200: A Convertible Fantasy",
-        "url": "https://www.ednews.africa/p/mercedes-benz-cle-200-a-convertible",
-        "summary": "Elegant, comfortable and effortlessly cool, the CLE 200 Cabriolet proves there's still something special about driving with the roof down.",
-        "source": "EdNews Africa",
-        "published": "2026-11-23T12:39:44+00:00",
-        "region": "east_africa",
         "streams": [
           "higher"
         ],
@@ -2439,6 +2439,18 @@
         "source": "Nordic Journal of Vocational Education & Training",
         "published": "2026-10-25T23:00:00+00:00",
         "region": "europe",
+        "streams": [
+          "tvet"
+        ],
+        "stream": "tvet"
+      },
+      {
+        "title": "From Hawassa to Harare: Meet Agernesh Mekonnen, the Young Ethiopian Woman Turning Skills Into Safe Water and Sanitation for Africa",
+        "url": "https://fawe.org/en/from-hawassa-to-harare-meet-agernesh-mekonnen-the-young-ethiopian-woman-turning-skills-into-safe-water-and-sanitation-for-africa/",
+        "summary": "At the 3rd Africa Skills Week 2026 in Harare, Zimbabwe, one young woman’s quiet determination spoke louder than any speech. In a world where young women are too often told to wait their turn, Agernesh Mekonnen decided to take hers. A student of Water Supply and Sanitation at Hawassa Polytechnic College and a proud participant […] The post From Hawassa to Harare: Meet Agernesh Mekonnen, the Young Ethiopian Woman Turning Skills Into Safe Water and Sanitation for Africa appeared first on FORUM FOR AFRICAN WOMEN EDUCATIONALISTS (FAWE) .",
+        "source": "FAWE — African Women Educationalists",
+        "published": "2026-10-15T19:55:56+00:00",
+        "region": "east_africa",
         "streams": [
           "tvet"
         ],
@@ -2831,6 +2843,18 @@
       }
     ],
     "edtech": [
+      {
+        "title": "Internal Company Podcasts: A Guide To Private Employee Learning",
+        "url": "https://elearningindustry.com/internal-company-podcasts",
+        "summary": "Learn how an internal company podcast supports private employee learning, onboarding, training, knowledge sharing, and secure workplace communication. This post was first published on eLearning Industry .",
+        "source": "eLearning Industry",
+        "published": "2026-11-27T20:00:05+00:00",
+        "region": "global",
+        "streams": [
+          "edtech"
+        ],
+        "stream": "edtech"
+      },
       {
         "title": "The End Of The Road For Manual Authoring In eLearning?",
         "url": "https://elearningindustry.com/the-end-of-the-road-for-manual-authoring-in-elearning",
@@ -3782,28 +3806,16 @@
           "edtech"
         ],
         "stream": "edtech"
-      },
-      {
-        "title": "Can AI Tell How Well Teachers Notice? Researchers Are Testing It.",
-        "url": "https://www.edsurge.com/news/can-ai-tell-how-well-teachers-notice-researchers-are-testing-it",
-        "summary": "The team will study whether AI can measure a key teaching skill and provide useful feedback faster than humans.",
-        "source": "EdSurge",
-        "published": "2026-11-09T00:00:00+00:00",
-        "region": "north_america",
-        "streams": [
-          "edtech"
-        ],
-        "stream": "edtech"
       }
     ],
     "policy": [
       {
-        "title": "Serbia’s student-led movement nominates chemistry professor for presidency",
-        "url": "https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency?traffic_source=rss",
-        "summary": "Radomir Saicic, who teaches at Belgrade University, was among the first university professors to join the movement.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-11-27T15:26:50+00:00",
-        "region": "global",
+        "title": "Quebec Can Keep Its Ban on Religious Symbols, Canada’s Top Court Rules",
+        "url": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+        "summary": "In a landmark decision, the Supreme Court backed the province’s use of a constitutional override while leaving the door open to future legal scrutiny.",
+        "source": "New York Times — Education",
+        "published": "2026-11-27T21:17:11+00:00",
+        "region": "north_america",
         "streams": [
           "policy"
         ],
@@ -3840,6 +3852,18 @@
         "source": "BBC — Education",
         "published": "2026-11-27T10:10:36+00:00",
         "region": "global",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Dog that visited 7-Eleven for 2 years reunited with owner",
+        "url": "https://www.bangkokpost.com/learning/easy/3362256/dog-that-visited-7eleven-for-2-years-reunited-with-owner",
+        "summary": "A dog named Latte has been reunited with its owner after appearing at a convenience store for almost two years.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-27T10:09:00+00:00",
+        "region": "southeast_asia",
         "streams": [
           "policy"
         ],
@@ -3906,12 +3930,12 @@
         "stream": "policy"
       },
       {
-        "title": "Fall in international student numbers ‘damaging UK economy and universities’",
-        "url": "https://www.independent.co.uk/news/uk/home-news/international-students-universities-uk-economy-b3092453.html",
-        "summary": "The number of non-EU overseas students coming to the UK fell by around 33,000 in the 12 months to June this year, ONS said",
-        "source": "The Independent — Education",
-        "published": "2026-11-26T21:15:17+00:00",
-        "region": "europe",
+        "title": "University's £15m savings could be felt 'beyond the campus', union warns",
+        "url": "https://www.bbc.co.uk/news/articles/c699emngkkn5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Bangor University has announced savings of \"at least 15m\" would be made through voluntary redundancies.",
+        "source": "BBC — Education",
+        "published": "2026-11-26T19:38:29+00:00",
+        "region": "global",
         "streams": [
           "policy"
         ],
@@ -3990,24 +4014,24 @@
         "stream": "policy"
       },
       {
-        "title": "‘Pumpkin Pie Is Disgusting’ and Other Unpopular Opinions",
-        "url": "https://www.nytimes.com/2026/11/26/opinion/thanksgiving-america-education-disabilities.html",
-        "summary": "We give thanks. Lots of thanks. Really.",
-        "source": "New York Times — Education",
-        "published": "2026-11-26T10:04:24+00:00",
-        "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
         "title": "Why children struggle to read, and what the brain can tell us about it",
         "url": "https://www.thehindu.com/education/why-children-struggle-to-read-and-what-the-brain-can-tell-us/article71738517.ece",
         "summary": "A child must convert visual shapes into sounds, name each letter, and name strings of letters before focusing easily on meaning.",
         "source": "The Hindu — Education",
         "published": "2026-11-26T10:03:11+00:00",
         "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Drunk man seen folding people’s laundry in Bangkok",
+        "url": "https://www.bangkokpost.com/learning/easy/3361689/drunk-man-seen-folding-peoples-laundry-in-bangkok",
+        "summary": "A foreign man has been seen taking clothes from washing lines outside people’s homes and folding them in Bangkok’s Phasi Charoen district.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-26T09:00:00+00:00",
+        "region": "southeast_asia",
         "streams": [
           "policy"
         ],
@@ -4375,6 +4399,18 @@
         "stream": "policy"
       },
       {
+        "title": "Northerners invite PM to ‘toxic meal’ at Parliament",
+        "url": "https://www.bangkokpost.com/learning/easy/3361101/northerners-invite-pm-to-toxic-meal-at-parliament",
+        "summary": "People affected by river contamination in northern Thailand staged a symbolic “toxic meal” at Parliament on Wednesday, inviting the prime minister and four ministers to eat fish dishes sourced from the Sai and Mekong rivers.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-25T10:27:00+00:00",
+        "region": "southeast_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
         "title": "Why teachers must believe in the profession they represent",
         "url": "https://www.thehindu.com/education/why-teachers-must-believe-in-the-profession-they-represent/article71737855.ece",
         "summary": "Teaching is often treated as a fallback career. It is time educators reclaimed the pride, purpose, and possibilities of their profession",
@@ -4471,6 +4507,18 @@
         "stream": "policy"
       },
       {
+        "title": "Most Bangkok Krathong rafts this year made from natural materials",
+        "url": "https://www.bangkokpost.com/learning/easy/3360980/most-bangkok-krathong-rafts-this-year-made-from-natural-materials",
+        "summary": "City Hall workers reported that most Krathong rafts were made from natural materials this year after collecting 404,907 from the Loy Krathong festival Tuesday night.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-25T04:35:00+00:00",
+        "region": "southeast_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
         "title": "'India's aspirations change every 50 kilometres': Kanak Gupta on taking schools beyond metros",
         "url": "https://education.economictimes.indiatimes.com/news/school-education/indias-aspirations-change-every-50-kilometres-kanak-gupta-on-taking-schools-beyond-metros/136094246",
         "summary": "With 91 schools in its network, including 74 operational campuses, and around 75,000 students, Seth M.R. Jaipuria Group of Schools is betting on India's smaller cities for its next phase of growth. Group Director Kanak Gupta discusses the opportunity in Tier 2 and Tier 3 markets, the economics of school education, NEP 2020, dummy schools and the growing role of AI in classrooms.",
@@ -4513,18 +4561,6 @@
         "source": "New York Times — Education",
         "published": "2026-11-24T20:08:23+00:00",
         "region": "north_america",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "DUP accused of 'anti-Irish bigotry' as education bill blocked",
-        "url": "https://www.bbc.co.uk/news/articles/crgj38nlj45wo?at_medium=RSS&at_campaign=rss",
-        "summary": "The bill would have required the Department of Education to prepare a workforce plan for schools where all subjects are taught in Irish.",
-        "source": "BBC — Education",
-        "published": "2026-11-24T18:38:03+00:00",
-        "region": "global",
         "streams": [
           "policy"
         ],
@@ -4615,6 +4651,30 @@
         "stream": "policy"
       },
       {
+        "title": "Myanmar man suspected of murder, dismemberment",
+        "url": "https://www.bangkokpost.com/learning/easy/3360439/myanmar-man-suspected-of-murder-dismemberment",
+        "summary": "Police have arrested a Myanmar man whose wife was found murdered and dismembered in a rubbish heap in Bangkok on Sunday night.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-24T08:28:00+00:00",
+        "region": "southeast_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Thais urged to wear traditional dress on Dec 2",
+        "url": "https://www.bangkokpost.com/learning/easy/3360395/thais-urged-to-wear-traditional-dress-on-dec-2",
+        "summary": "The Ministry of Culture has encouraged people across Thailand to wear traditional Thai dress on Dec 2 to prepare for Unesco to make the clothing an Intangible Cultural Heritage of Humanity.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-24T06:06:00+00:00",
+        "region": "southeast_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
         "title": "Virginia School District Shaken by Sex Abuse Claims Closes for a Week",
         "url": "https://www.nytimes.com/2026/11/23/us/albemarle-virginia-school-district-sex-abuse-closure.html",
         "summary": "The district failed to conduct required background checks on more than 500 employees. The problem came to light after two staff members were arrested in separate child sex abuse and pornography charges.",
@@ -4651,12 +4711,36 @@
         "stream": "policy"
       },
       {
+        "title": "UN stamp series to include Chud Thai",
+        "url": "https://www.bangkokpost.com/learning/easy/3359854/un-stamp-series-to-include-chud-thai",
+        "summary": "The United Nations Postal Administration (UNPA) postage stamp series \"National Costumes\" will feature Thailand’s traditional dress, known in Thai language as Chud Thai.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-23T11:20:00+00:00",
+        "region": "southeast_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
         "title": "Supreme Court bars Tamil Nadu government from coercive action against SASTRA University over land dispute",
         "url": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-bars-tamil-nadu-government-from-coercive-action-against-sastra-university-over-land-dispute/article71733721.ece",
         "summary": "A Bench headed by CJI Surya Kant made absolute its interim order staying any coercive measures over 31.37 acres of government land allegedly encroached upon by the Thanjavur university",
         "source": "The Hindu — Education",
         "published": "2026-11-23T09:40:59+00:00",
         "region": "south_asia",
+        "streams": [
+          "policy"
+        ],
+        "stream": "policy"
+      },
+      {
+        "title": "Dismembered body in fertiliser bag found in Lat Phrao",
+        "url": "https://www.bangkokpost.com/learning/easy/3359825/dismembered-body-in-fertiliser-bag-found-in-lat-phrao",
+        "summary": "Reports from residents of Lat Phrao 109 led police to a fertiliser sack containing the dismembered body of a woman on Sunday night.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-23T08:52:00+00:00",
+        "region": "southeast_asia",
         "streams": [
           "policy"
         ],
@@ -4680,78 +4764,6 @@
         "summary": "What defines a good or high-quality book? Should AI-translated or -generate books be dismissed outright?",
         "source": "The Hindu — Education",
         "published": "2026-11-23T05:52:38+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Why biotechnology is emerging as a promising career choice",
-        "url": "https://www.thehindu.com/education/why-biotechnology-is-emerging-as-a-promising-career-choice/article71708401.ece",
-        "summary": "With applications cutting across various domains, today, biotechnology is far more than an academic discipline",
-        "source": "The Hindu — Education",
-        "published": "2026-11-23T05:26:35+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Pakistan: Women on the Frontline of Climate Crisis",
-        "url": "https://blogs.lse.ac.uk/southasia/2026/11/23/pakistan-women-on-the-frontline-of-climate-crisis/",
-        "summary": "A fuller understanding of the climate crisis in Pakistan is only possible through a gendered perspective; any adaptation strategy without acknowledgement of this skew will strengthen the inequalities that it purports to solve. Munazza Khan explains the importance of seeing the resilience of women in and after climate emergencies, rather than only as victims. * … Continued The post Pakistan: Women on the Frontline of Climate Crisis first appeared on South Asia @ LSE .",
-        "source": "LSE South Asia Blog",
-        "published": "2026-11-23T05:12:41+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "From Nadar's ₹1,047 crore to Adani's ₹563 crore: Who is funding India's education?",
-        "url": "https://education.economictimes.indiatimes.com/news/industry/from-nadars-1047-crore-to-adanis-563-crore-who-is-funding-indias-education/136069849",
-        "summary": "Education attracted ₹4,188 crore in philanthropic allocations, with 200 donors supporting the sector. But Shiv Nadar and Gautam Adani together account for nearly 38.5% of the total, raising questions about how concentrated India's education philanthropy is.",
-        "source": "Economic Times — Education (India)",
-        "published": "2026-11-23T00:30:00+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "What does noisome mean?",
-        "url": "https://www.thehindu.com/education/what-does-noisome-mean/article71732275.ece",
-        "summary": "",
-        "source": "The Hindu — Education",
-        "published": "2026-11-22T17:22:08+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Why India’s Public Policy schools need to rethink how they teach",
-        "url": "https://www.thehindu.com/education/schools/why-indias-public-policy-schools-need-to-rethink-how-they-teach/article71707249.ece",
-        "summary": "What is required is a robust ecosystem of Indian policy cases and not reliance on Western examples",
-        "source": "The Hindu — Education",
-        "published": "2026-11-22T10:37:51+00:00",
-        "region": "south_asia",
-        "streams": [
-          "policy"
-        ],
-        "stream": "policy"
-      },
-      {
-        "title": "Why Engineering students need to know what to do when the machine doesn’t work",
-        "url": "https://www.thehindu.com/education/colleges/why-engineering-students-need-to-know-what-to-do-when-the-machine-doesnt-work/article71708787.ece",
-        "summary": "Learning to diagnose and set right failures may be the most important experiment missing from Engineering labs",
-        "source": "The Hindu — Education",
-        "published": "2026-11-22T10:37:07+00:00",
         "region": "south_asia",
         "streams": [
           "policy"
@@ -5723,6 +5735,42 @@
     ],
     "funding": [
       {
+        "title": "DOT Climate Innovation Bootcamp 2026",
+        "url": "https://opportunitydesk.org/2026/11/27/dot-climate-innovation-bootcamp-2026/",
+        "summary": "Deadline: Ongoing Applications are open for the Digital Opportunity Trust (DOT) Climate Innovation Bootcamp 2026. The world needs bold, youth-led climate solutions now more than ever. Whether your idea is just starting or you’ve already piloted a project, scaling it requires the right tools, mindset, and strategies. The Climate Innovation Bootcamp is designed for youth [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-11-27T18:30:00+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "EU–India Young Leaders Exchange Programme 2026–2027 (Funded)",
+        "url": "https://opportunitydesk.org/2026/11/27/eu-india-young-leaders-exchange-programme-2026-2027/",
+        "summary": "Deadline: December 11, 2026 The European Union Delegation to India invites young professionals and emerging leaders from the European Union and India to apply for the EU–India Young Leaders Exchange Programme 2026–2027. The initiative brings emerging leaders together to strengthen dialogue, build connections and contribute new ideas to the EU–India Strategic Partnership. The programme will [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-11-27T18:26:23+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
+        "title": "Queen Elizabeth Commonwealth Scholarships 2027 (Fully-funded)",
+        "url": "https://opportunitydesk.org/2026/11/27/queen-elizabeth-commonwealth-scholarships-2027/",
+        "summary": "Deadline: January 13, 2027 Applications are open for the Queen Elizabeth Commonwealth Scholarships 2027. The Queen Elizabeth Commonwealth Scholarships (QECS) offer a unique opportunity to study a two-year master’s degree in a low or middle-income Commonwealth country. Aimed at students who are committed to creating change in their communities, the scholarships are a life-changing opportunity [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-11-27T18:07:19+00:00",
+        "region": "global",
+        "streams": [
+          "funding"
+        ],
+        "stream": "funding"
+      },
+      {
         "title": "Beyond the Credential: How an Online DBA Can Reshape the Way You Lead",
         "url": "https://opportunitydesk.org/2026/11/27/beyond-the-credential-how-an-online-dba-can-reshape-the-way-you-lead/",
         "summary": "Business leadership is changing quickly today. Technology is reshaping operations, teams are increasingly distributed, and leaders are expected to make consequential decisions with incomplete information. Experience remains valuable, but experience alone does not always provide the tools to evaluate complex problems or challenge familiar assumptions. For professionals who already hold management responsibility, a Doctor of [...]",
@@ -5831,59 +5879,11 @@
         "stream": "funding"
       },
       {
-        "title": "IAFFE Feminist Economics School 2027 (Funded)",
-        "url": "https://opportunitydesk.org/2026/11/25/iaffe-feminist-economics-school-2027/",
-        "summary": "Deadline: December 10, 2026 Applications are open for the IAFFE Feminist Economics School 2027. The IAFFE Feminist Economics School is designed to bring together approximately 30 early-career scholars, practitioners, activists, and policymakers engaged in research and action on issues of concern to feminist economics, but who have had little or no formal access to training [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-11-25T20:59:12+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "Make Your Holidays Count: How to Gain New Skills During the Holiday Season",
-        "url": "https://opportunitydesk.org/2026/11/25/make-your-holidays-count-how-to-gain-new-skills-during-the-holiday-season/",
-        "summary": "The holiday season is often associated with celebrations, family gatherings, travel, relaxation and taking a break from the demands of work or school. While it is important to rest and reconnect with loved ones, the holidays also present an excellent opportunity to invest in your personal and professional development. In an increasingly competitive and rapidly [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-11-25T20:42:42+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "How to Boost Your Sales During the Festive Season: 10 Strategies Every Business Owner Should Know",
-        "url": "https://opportunitydesk.org/2026/11/25/how-to-boost-your-sales-during-the-festive-season-10-strategies-every-business-owner-should-know/",
-        "summary": "The festive season presents one of the biggest opportunities for entrepreneurs and business owners to increase revenue, attract new customers and strengthen their brand visibility. From Christmas and New Year celebrations to other cultural and religious festivities, consumers are often more willing to spend on gifts, food, fashion, entertainment, travel and personal experiences. However, increased [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-11-25T20:31:38+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
         "title": "Applications open for the 2028–2030 Jacobs CIFAR Research Fellowship",
         "url": "https://jacobsfoundation.org/applications-open-for-the-2028-2030-jacobs-cifar-research-fellowship/",
         "summary": "Deadline for submission: 13 January 2027 at 12:00 PM (EST). The Jacobs Foundation and the Canadian Institute for Advanced Research (CIFAR) invite applications for the 2028-2030 Jacobs CIFAR Research Fellowship. Understanding how children learn and develop takes more than one disciplinary perspective. The three-year Fellowship supports early- and mid-career researchers from around the world, providing […] The post Applications open for the 2028–2030 Jacobs CIFAR Research Fellowship appeared first on Jacobs Foundation .",
         "source": "Jacobs Foundation — Blog",
         "published": "2026-11-25T14:41:23+00:00",
-        "region": "global",
-        "streams": [
-          "funding"
-        ],
-        "stream": "funding"
-      },
-      {
-        "title": "LMS RFP Template: Requirements And Vendor Scorecard",
-        "url": "https://elearningindustry.com/lms-rfp-template",
-        "summary": "Use this LMS RFP template to define functional and technical requirements, ask the right vendor questions, compare pricing, and score LMS providers. This post was first published on eLearning Industry .",
-        "source": "eLearning Industry",
-        "published": "2026-11-19T20:00:50+00:00",
         "region": "global",
         "streams": [
           "funding"
@@ -6017,14 +6017,62 @@
   "regions": {
     "global": [
       {
-        "title": "Serbia’s student-led movement nominates chemistry professor for presidency",
-        "url": "https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency?traffic_source=rss",
-        "summary": "Radomir Saicic, who teaches at Belgrade University, was among the first university professors to join the movement.",
-        "source": "Al Jazeera — News (education-gated)",
-        "published": "2026-11-27T15:26:50+00:00",
-        "stream": "policy",
+        "title": "School leaders vote in favour of industrial action, says union",
+        "url": "https://www.bbc.co.uk/news/articles/c63rg45027z0o?at_medium=RSS&at_campaign=rss",
+        "summary": "The union said the results reflect deep concern about the long-term sustainability of school leadership.",
+        "source": "BBC — Education",
+        "published": "2026-11-27T22:39:07+00:00",
+        "stream": "school",
         "streams": [
-          "policy"
+          "school"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Internal Company Podcasts: A Guide To Private Employee Learning",
+        "url": "https://elearningindustry.com/internal-company-podcasts",
+        "summary": "Learn how an internal company podcast supports private employee learning, onboarding, training, knowledge sharing, and secure workplace communication. This post was first published on eLearning Industry .",
+        "source": "eLearning Industry",
+        "published": "2026-11-27T20:00:05+00:00",
+        "stream": "edtech",
+        "streams": [
+          "edtech"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "DOT Climate Innovation Bootcamp 2026",
+        "url": "https://opportunitydesk.org/2026/11/27/dot-climate-innovation-bootcamp-2026/",
+        "summary": "Deadline: Ongoing Applications are open for the Digital Opportunity Trust (DOT) Climate Innovation Bootcamp 2026. The world needs bold, youth-led climate solutions now more than ever. Whether your idea is just starting or you’ve already piloted a project, scaling it requires the right tools, mindset, and strategies. The Climate Innovation Bootcamp is designed for youth [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-11-27T18:30:00+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "EU–India Young Leaders Exchange Programme 2026–2027 (Funded)",
+        "url": "https://opportunitydesk.org/2026/11/27/eu-india-young-leaders-exchange-programme-2026-2027/",
+        "summary": "Deadline: December 11, 2026 The European Union Delegation to India invites young professionals and emerging leaders from the European Union and India to apply for the EU–India Young Leaders Exchange Programme 2026–2027. The initiative brings emerging leaders together to strengthen dialogue, build connections and contribute new ideas to the EU–India Strategic Partnership. The programme will [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-11-27T18:26:23+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Queen Elizabeth Commonwealth Scholarships 2027 (Fully-funded)",
+        "url": "https://opportunitydesk.org/2026/11/27/queen-elizabeth-commonwealth-scholarships-2027/",
+        "summary": "Deadline: January 13, 2027 Applications are open for the Queen Elizabeth Commonwealth Scholarships 2027. The Queen Elizabeth Commonwealth Scholarships (QECS) offer a unique opportunity to study a two-year master’s degree in a low or middle-income Commonwealth country. Aimed at students who are committed to creating change in their communities, the scholarships are a life-changing opportunity [...]",
+        "source": "Opportunity Desk — Scholarships & Fellowships",
+        "published": "2026-11-27T18:07:19+00:00",
+        "stream": "funding",
+        "streams": [
+          "funding"
         ],
         "region": "global"
       },
@@ -6053,6 +6101,18 @@
         "region": "global"
       },
       {
+        "title": "Canada plans 2027 pilot to speed up study-permit processing",
+        "url": "https://thepienews.com/canada-plans-2027-pilot-to-speed-up-study-permit-processing/",
+        "summary": "Canada is developing a pilot program with a select group of designated learning institutess (DLIs) to improve study permit processing and reduce avoidable refusals. The post Canada plans 2027 pilot to speed up study-permit processing appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-11-27T12:08:56+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "global"
+      },
+      {
         "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
         "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
         "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
@@ -6073,6 +6133,30 @@
         "stream": "edtech",
         "streams": [
           "edtech"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "The view from Germany: a German degree should lead to a German career",
+        "url": "https://thepienews.com/a-german-degree-should-lead-to-a-german-career/",
+        "summary": "Germany has become the most popular study destination outside the English-speaking world, but the challenge now is ensuring international graduates can find work after completing their degrees. The post The view from Germany: a German degree should lead to a German career appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-11-27T09:45:34+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Universities urged to abandon ‘static’ models amid global uncertainty",
+        "url": "https://thepienews.com/goverment-urges-universities-to-move-away-from-static-models/",
+        "summary": "As universities continue to face new global challenges, delegates at Going Global 2026 called on institutions to move away from their traditional, “static” models and towards more “flexible” and “nimble” ones. The post Universities urged to abandon ‘static’ models amid global uncertainty appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-11-27T08:30:00+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
         ],
         "region": "global"
       },
@@ -6137,6 +6221,18 @@
         "region": "global"
       },
       {
+        "title": "University's £15m savings could be felt 'beyond the campus', union warns",
+        "url": "https://www.bbc.co.uk/news/articles/c699emngkkn5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Bangor University has announced savings of \"at least 15m\" would be made through voluntary redundancies.",
+        "source": "BBC — Education",
+        "published": "2026-11-26T19:38:29+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "global"
+      },
+      {
         "title": "Schools given emergency action plans for power outages and extreme weather",
         "url": "https://www.bbc.co.uk/news/articles/cmdx1y2d4yqno?at_medium=RSS&at_campaign=rss",
         "summary": "Cyber attacks and building collapses are among the risks schools in England are being urged to prepare for.",
@@ -6145,6 +6241,18 @@
         "stream": "policy",
         "streams": [
           "policy"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Nepal’s new rules could push responsible education agencies out of business",
+        "url": "https://thepienews.com/nepals-new-rules-could-push-responsible-education-agencies-out-of-business/",
+        "summary": "Nepal’s mandatory NPR 2.5 million deposit could force smaller education agencies to close, leaving more students reliant on unregistered advisers, while new ownership rules affect universities with a stake in local agencies, argues Bikalp Raj Pokhrel. The post Nepal’s new rules could push responsible education agencies out of business appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-11-26T16:40:04+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
         ],
         "region": "global"
       },
@@ -6269,6 +6377,30 @@
         "region": "global"
       },
       {
+        "title": "Australia faces challenging 2027 as early international student figures emerge",
+        "url": "https://thepienews.com/australia-faces-challenging-2027-as-early-international-student-figures-emerge/",
+        "summary": "Australia’s international education sector is facing another challenging year in 2027, with early recruitment figures emerging amid ongoing concerns over student visa approvals. The post Australia faces challenging 2027 as early international student figures emerge appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-11-26T11:37:12+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "Iran looks to online courses to recruit students in Kenya",
+        "url": "https://thepienews.com/iran-looks-to-online-courses-to-recruit-students-in-kenya/",
+        "summary": "Iran aims to attract 320,000 international students, including online learners, as Kenyan universities pursue ties with Iranian counterparts in agriculture and cancer care. The post Iran looks to online courses to recruit students in Kenya appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-11-26T11:31:49+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "global"
+      },
+      {
         "title": "Friends of Pakistan Fellowship 2027 (Funded)",
         "url": "https://opportunitydesk.org/2026/11/26/friends-of-pakistan-fellowship-2027/",
         "summary": "Deadline: December 11, 2026 Applications are open for the Friends of Pakistan Fellowship 2027. Pakistan has extraordinary leaders working on big social problems. Scale is the next frontier. Each year, a small cohort of Pakistani leaders spends seven days in Northern Pakistan refining their model for scale. They leave with a sharper operating approach, an [...]",
@@ -6277,6 +6409,18 @@
         "stream": "funding",
         "streams": [
           "funding"
+        ],
+        "region": "global"
+      },
+      {
+        "title": "UK study visa refusals hit highest rate in over a decade as withdrawals soar",
+        "url": "https://thepienews.com/uk-study-visa-refusals-hit-highest-rate-in-over-a-decade-as-withdrawals-soar/",
+        "summary": "The rolling refusal rate for UK study visas has reached 6.4%, while withdrawn applications in the peak recruitment quarter rose by more than 370% on last year. The post UK study visa refusals hit highest rate in over a decade as withdrawals soar appeared first on The PIE News .",
+        "source": "The PIE News",
+        "published": "2026-11-26T11:20:23+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
         ],
         "region": "global"
       },
@@ -6352,150 +6496,6 @@
           "policy"
         ],
         "region": "global"
-      },
-      {
-        "title": "10 Global Scholarship Opportunities Currently Open – November 25, 2026",
-        "url": "https://opportunitydesk.org/2026/11/25/10-global-scholarship-opportunities-currently-open-november-25-2026/",
-        "summary": "1. ANSO-CAS-TWAS/UNESCO PhD Scholarship 2026-2027 (Funded)The ANSO-CAS-TWAS/UNESCO PhD Scholarship supports outstanding students from developing countries to pursue full-time doctoral study at the University of Science and Technology of China, the University of Chinese Academy of Sciences, or institutes of the Chinese Academy of Sciences. Up to 40 PhD candidates are selected annually under the TWAS/UNESCO [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-11-25T21:55:55+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "1776 Reimagined: A Revolution Without the Declaration Essay Competition 2026",
-        "url": "https://opportunitydesk.org/2026/11/25/1776-reimagined-essay-competition-2026/",
-        "summary": "Deadline: December 18, 2026 Applications are open for the 1776 Reimagined: A Revolution Without the Declaration Essay Competition 2026. 1776 gave America more than independence from Great Britain. The Declaration of Independence also provided later generations a statement of the principles that define the United States: liberty, equality, self-government, and respect for natural rights. But [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-11-25T21:27:45+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Iso Lomso Fellowships 2028 (Funded)",
-        "url": "https://opportunitydesk.org/2026/11/25/iso-lomso-fellowships-2028/",
-        "summary": "Deadline: February 15, 2027 Applications are open for the Iso Lomso Fellowships 2028. The Iso Lomso Fellowships provide a three-year affiliation with STIAS. The aim is to facilitate and support emerging researchers towards becoming established scholars in their fields. This is achieved by enabling the Iso Lomso Fellows to develop and conduct a long-term research programme [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-11-25T21:12:18+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "20 Communications, Talent Management & Creative Job Opportunities Currently Open – November 25, 2026",
-        "url": "https://opportunitydesk.org/2026/11/25/20-communications-talent-management-creative-job-opportunities-currently-open-november-25-2026/",
-        "summary": "1. Advocacy Manager, Professional Products Division – L’Oréal, London, United Kingdom L’Oréal is recruiting an Advocacy Manager to translate global consumer strategies into locally relevant advocacy and creator-marketing plans. The role focuses on cultural trends, influencer and creator relationships, brand storytelling, digital engagement and campaign execution across the Professional Products Division. It is suited to [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-11-25T21:06:46+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "IAFFE Feminist Economics School 2027 (Funded)",
-        "url": "https://opportunitydesk.org/2026/11/25/iaffe-feminist-economics-school-2027/",
-        "summary": "Deadline: December 10, 2026 Applications are open for the IAFFE Feminist Economics School 2027. The IAFFE Feminist Economics School is designed to bring together approximately 30 early-career scholars, practitioners, activists, and policymakers engaged in research and action on issues of concern to feminist economics, but who have had little or no formal access to training [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-11-25T20:59:12+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Make Your Holidays Count: How to Gain New Skills During the Holiday Season",
-        "url": "https://opportunitydesk.org/2026/11/25/make-your-holidays-count-how-to-gain-new-skills-during-the-holiday-season/",
-        "summary": "The holiday season is often associated with celebrations, family gatherings, travel, relaxation and taking a break from the demands of work or school. While it is important to rest and reconnect with loved ones, the holidays also present an excellent opportunity to invest in your personal and professional development. In an increasingly competitive and rapidly [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-11-25T20:42:42+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "How to Boost Your Sales During the Festive Season: 10 Strategies Every Business Owner Should Know",
-        "url": "https://opportunitydesk.org/2026/11/25/how-to-boost-your-sales-during-the-festive-season-10-strategies-every-business-owner-should-know/",
-        "summary": "The festive season presents one of the biggest opportunities for entrepreneurs and business owners to increase revenue, attract new customers and strengthen their brand visibility. From Christmas and New Year celebrations to other cultural and religious festivities, consumers are often more willing to spend on gifts, food, fashion, entertainment, travel and personal experiences. However, increased [...]",
-        "source": "Opportunity Desk — Scholarships & Fellowships",
-        "published": "2026-11-25T20:31:38+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Thought Leader Q&A: Designing For Learning And Growth Within The Workplace With Stelios Sergis",
-        "url": "https://elearningindustry.com/thought-leader-qa-designing-for-learning-and-growth-within-the-workplace-with-stelios-sergis",
-        "summary": "This Thought Leader Q&A with Stelios Sergis from Epignosis discusses how L&D teams can design experiences for learning and growth within the work environment. This post was first published on eLearning Industry .",
-        "source": "eLearning Industry",
-        "published": "2026-11-25T20:00:00+00:00",
-        "stream": "edtech",
-        "streams": [
-          "edtech"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Badenoch challenges Burnham over university fees for EU students",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gn8lxj5r1o?at_medium=RSS&at_campaign=rss",
-        "summary": "The PM says EU students paying the same as British students is the European position and \"won't be put on the table\".",
-        "source": "BBC — Education",
-        "published": "2026-11-25T16:46:17+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Reality TV star backs extending sex education to 18",
-        "url": "https://www.bbc.co.uk/news/articles/cqgkl38j1r76o?at_medium=RSS&at_campaign=rss",
-        "summary": "Georgia Harrison, who was a victim of \"revenge porn\", says children are exposed to online \"poison\".",
-        "source": "BBC — Education",
-        "published": "2026-11-25T15:03:44+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Applications open for the 2028–2030 Jacobs CIFAR Research Fellowship",
-        "url": "https://jacobsfoundation.org/applications-open-for-the-2028-2030-jacobs-cifar-research-fellowship/",
-        "summary": "Deadline for submission: 13 January 2027 at 12:00 PM (EST). The Jacobs Foundation and the Canadian Institute for Advanced Research (CIFAR) invite applications for the 2028-2030 Jacobs CIFAR Research Fellowship. Understanding how children learn and develop takes more than one disciplinary perspective. The three-year Fellowship supports early- and mid-career researchers from around the world, providing […] The post Applications open for the 2028–2030 Jacobs CIFAR Research Fellowship appeared first on Jacobs Foundation .",
-        "source": "Jacobs Foundation — Blog",
-        "published": "2026-11-25T14:41:23+00:00",
-        "stream": "funding",
-        "streams": [
-          "funding"
-        ],
-        "region": "global"
-      },
-      {
-        "title": "Training That Responds in Real Time: How L&D Can Use Operational Data to Deliver Learning When Performance Dips",
-        "url": "https://elearningindustry.com/training-that-responds-in-real-time-how-ld-can-use-operational-data-to-deliver-learning-when-performance-dips",
-        "summary": "Learn how L&D teams use operational data to identify performance gaps and deliver targeted learning interventions when employees need them. This post was first published on eLearning Industry .",
-        "source": "eLearning Industry",
-        "published": "2026-11-25T14:00:17+00:00",
-        "stream": "edtech",
-        "streams": [
-          "edtech"
-        ],
-        "region": "global"
       }
     ],
     "south_asia": [
@@ -6532,6 +6532,18 @@
         "stream": "policy",
         "streams": [
           "policy"
+        ],
+        "region": "south_asia"
+      },
+      {
+        "title": "LHC seeks replies on plea by five Afghan medical students over MBBS registration",
+        "url": "https://www.dawn.com/news/2047447/lhc-seeks-replies-on-plea-by-five-afghan-medical-students-over-mbbs-registration",
+        "summary": "LAHORE: The Lahore High Court (LHC) on Friday issued notices to the Pakistan Medical and Dental Council (PMDC) and other respondents on a petition filed by five Afghan medical students seeking registration to sit their first professional MBBS examination in January. The petitioners — Forough Dihqanpur, Shahira Sharif, Zahra Nabawi, Faiza Noori and Shabana Rahimi — are enrolled in the first year of the MBBS programme at Sheikh Khalifa Bin Zayed Al Nahyan Medical and Dental College, Lahore, under the Allama Muhammad Iqbal Scholarship Programme run by the Higher Education Commission (HEC). Advoca",
+        "source": "Dawn — Pakistan",
+        "published": "2026-11-27T06:47:02+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
         ],
         "region": "south_asia"
       },
@@ -6966,18 +6978,6 @@
           "policy"
         ],
         "region": "south_asia"
-      },
-      {
-        "title": "Cybersecurity courses: Despite great promise, first job remains elusive",
-        "url": "https://www.thehindu.com/education/cybersecurity-courses-despite-great-promise-first-job-remains-elusive/article71451192.ece",
-        "summary": "Cybersecurity jobs can involve analysing alerts, investigating suspicious activity, following incident-response procedures, and handling sensitive information. These are reasons why employers ask for previous experience even in jobs described as entry-level.",
-        "source": "The Hindu — Education",
-        "published": "2026-11-25T06:48:28+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
-        ],
-        "region": "south_asia"
       }
     ],
     "east_africa": [
@@ -7220,6 +7220,126 @@
           "foundational"
         ],
         "region": "east_africa"
+      },
+      {
+        "title": "FAWE Senegal Celebrates 30 Years of Commitment to Girls’ Education and Launches the Academic Year for Phase II of the FAWE-Mastercard Foundation Program",
+        "url": "https://fawe.org/en/fawe-senegal-celebrates-30-years-of-commitment-to-girls-education-and-launches-the-academic-year-for-phase-ii-of-the-fawe-mastercard-foundation-program/",
+        "summary": "From October 24 to 27, 2026, FAWE Senegal marked a historic milestone by celebrating its 30th anniversary. Three days of activities, centered on mobilization, recognition, and the future, highlighted three decades of action in favor of girls’ and young women’s education, leadership, and empowerment. The celebrations began on Saturday, October 24, with a large citizen walk […] The post FAWE Senegal Celebrates 30 Years of Commitment to Girls’ Education and Launches the Academic Year for Phase II of the FAWE-Mastercard Foundation Program appeared first on FORUM FOR AFRICAN WOMEN EDUCATIONALISTS (",
+        "source": "FAWE — African Women Educationalists",
+        "published": "2026-10-28T16:50:02+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "east_africa"
+      },
+      {
+        "title": "Investing in the girl who stays in school: FAWE Africa’s perspectives from the Johannesburg regional dialogue",
+        "url": "https://fawe.org/en/investing-in-the-girl-who-stays-in-school-fawe-africas-perspectives-from-the-johannesburg-regional-dialogue/",
+        "summary": "By Annah Katuki, Senior Gender Officer, FAWE Regional Secretariat When fifty civil society organisations from across East and Southern Africa sat down together in Johannesburg this week to think about the future of girls, young women and women in the region, the conversation ranged across child marriage, early pregnancy, violence, disability, climate, the law and […] The post Investing in the girl who stays in school: FAWE Africa’s perspectives from the Johannesburg regional dialogue appeared first on FORUM FOR AFRICAN WOMEN EDUCATIONALISTS (FAWE) .",
+        "source": "FAWE — African Women Educationalists",
+        "published": "2026-10-23T10:31:19+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "east_africa"
+      },
+      {
+        "title": "Five Young Africans, One Second Chance: How the FAWE/Mastercard Foundation Program Is Transforming Lives and Building Africa’s Future",
+        "url": "https://fawe.org/en/five-young-africans-one-second-chance-how-the-fawe-mastercard-foundation-program-is-transforming-lives-and-building-africas-future/",
+        "summary": "They came from different countries, studied different fields, and carried different dreams. But they shared one thing: a second chance that changed everything. Every young person deserves a future. But for millions of young Africans — especially those from marginalized backgrounds — the path to that future is blocked by barriers that feel insurmountable. Poverty. […] The post Five Young Africans, One Second Chance: How the FAWE/Mastercard Foundation Program Is Transforming Lives and Building Africa’s Future appeared first on FORUM FOR AFRICAN WOMEN EDUCATIONALISTS (FAWE) .",
+        "source": "FAWE — African Women Educationalists",
+        "published": "2026-10-18T13:41:23+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "east_africa"
+      },
+      {
+        "title": "Wiring Africa’s Future: Meet Yosef Dechasa, the Young Ethiopian Technician Powering Change",
+        "url": "https://fawe.org/en/wiring-africas-future-meet-yosef-dechasa-the-young-ethiopian-technician-powering-change/",
+        "summary": "At the 3rd Africa Skills Week 2026 in Harare, Zimbabwe, one young man discovered that the most powerful engine for Africa’s development isn’t found under a car hood — it’s found in the skills of its youth. In a world that often celebrates the loudest voices, Yosef Dechasa speaks through his work. A student of Automotive […] The post Wiring Africa’s Future: Meet Yosef Dechasa, the Young Ethiopian Technician Powering Change appeared first on FORUM FOR AFRICAN WOMEN EDUCATIONALISTS (FAWE) .",
+        "source": "FAWE — African Women Educationalists",
+        "published": "2026-10-18T13:09:37+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "east_africa"
+      },
+      {
+        "title": "Bottles, Barriers, and Breakthroughs: Meet Tshamala Paul, the Young Engineer Turning Waste Into Walls",
+        "url": "https://fawe.org/en/bottles-barriers-and-breakthroughs-meet-tshamala-paul-the-young-engineer-turning-waste-into-walls/",
+        "summary": "At the 3rd Africa Skills Week 2026 in Harare, Zimbabwe, one first-year student discovered that the biggest ideas often start small — and that the world is waiting for his. Most first-year university students are still finding their footing. Tshamala Paul is already building houses — from discarded plastic bottles. A civil engineering student at […] The post Bottles, Barriers, and Breakthroughs: Meet Tshamala Paul, the Young Engineer Turning Waste Into Walls appeared first on FORUM FOR AFRICAN WOMEN EDUCATIONALISTS (FAWE) .",
+        "source": "FAWE — African Women Educationalists",
+        "published": "2026-10-18T12:53:21+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "east_africa"
+      },
+      {
+        "title": "From Second Chance to Standing Tall: Meet Tatenda Fungai Mudengu, the Young Zimbabwean Engineer Breaking Barriers and Building Africa",
+        "url": "https://fawe.org/en/from-second-chance-to-standing-tall-meet-tatenda-fungai-mudengu-the-young-zimbabwean-engineer-breaking-barriers-and-building-africa/",
+        "summary": "At the 3rd Africa Skills Week 2026 in Harare, Zimbabwe, one young woman found something she had been searching for her whole life: proof that she belongs. Some women wait for a seat at the table. Tatenda Fungai Mudengu is building her own table — from concrete, steel, and unshakeable determination. A civil engineering student […] The post From Second Chance to Standing Tall: Meet Tatenda Fungai Mudengu, the Young Zimbabwean Engineer Breaking Barriers and Building Africa appeared first on FORUM FOR AFRICAN WOMEN EDUCATIONALISTS (FAWE) .",
+        "source": "FAWE — African Women Educationalists",
+        "published": "2026-10-15T20:15:23+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "east_africa"
+      },
+      {
+        "title": "From Hawassa to Harare: Meet Agernesh Mekonnen, the Young Ethiopian Woman Turning Skills Into Safe Water and Sanitation for Africa",
+        "url": "https://fawe.org/en/from-hawassa-to-harare-meet-agernesh-mekonnen-the-young-ethiopian-woman-turning-skills-into-safe-water-and-sanitation-for-africa/",
+        "summary": "At the 3rd Africa Skills Week 2026 in Harare, Zimbabwe, one young woman’s quiet determination spoke louder than any speech. In a world where young women are too often told to wait their turn, Agernesh Mekonnen decided to take hers. A student of Water Supply and Sanitation at Hawassa Polytechnic College and a proud participant […] The post From Hawassa to Harare: Meet Agernesh Mekonnen, the Young Ethiopian Woman Turning Skills Into Safe Water and Sanitation for Africa appeared first on FORUM FOR AFRICAN WOMEN EDUCATIONALISTS (FAWE) .",
+        "source": "FAWE — African Women Educationalists",
+        "published": "2026-10-15T19:55:56+00:00",
+        "stream": "tvet",
+        "streams": [
+          "tvet"
+        ],
+        "region": "east_africa"
+      },
+      {
+        "title": "From Training to Value Creation: Meet James Sichone, the Young Zambian Educator Turning Skills Into Africa’s Future",
+        "url": "https://fawe.org/en/from-training-to-value-creation-meet-james-sichone-the-young-zambian-educator-turning-skills-into-africas-future/",
+        "summary": "At the 3rd Africa Skills Week 2026 in Harare, Zimbabwe, one young man’s journey captured the heartbeat of a continent on the rise There are moments in life that don’t just inform you — they transform you. For James Sichone, a third-year student specialising in Mathematics and ICT with Education at the Malcom Moffat College […] The post From Training to Value Creation: Meet James Sichone, the Young Zambian Educator Turning Skills Into Africa’s Future appeared first on FORUM FOR AFRICAN WOMEN EDUCATIONALISTS (FAWE) .",
+        "source": "FAWE — African Women Educationalists",
+        "published": "2026-10-15T16:49:11+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "east_africa"
+      },
+      {
+        "title": "FAWE Regional Secretariat Strengthens FAWE Zanzibar’s Capacity Under the Echidna IV Project",
+        "url": "https://fawe.org/en/fawe-regional-secretariat-strengthens-fawe-zanzibars-capacity-under-the-echidna-iv-project/",
+        "summary": "The FAWE Regional Secretariat has reaffirmed its commitment to supporting national chapters through a dedicated capacity-strengthening mission to FAWE Zanzibar, aimed at enhancing the effective implementation, monitoring, and accountability of the Echidna IV Project. The engagement focused on reviewing programme and monitoring checklists, with the Regional Secretariat team conducting a detailed assessment of the chapter’s […] The post FAWE Regional Secretariat Strengthens FAWE Zanzibar’s Capacity Under the Echidna IV Project appeared first on FORUM FOR AFRICAN WOMEN EDUCATIONALISTS (FAWE) .",
+        "source": "FAWE — African Women Educationalists",
+        "published": "2026-10-14T15:06:10+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "east_africa"
+      },
+      {
+        "title": "FAWE Ghana Strengthened Workplace Safety Through Fire Safety Training with Ghana National Fire Service",
+        "url": "https://fawe.org/en/fawe-ghana-strengthened-workplace-safety-through-fire-safety-training-with-ghana-national-fire-service/",
+        "summary": "On 7 September 2026, a significant step was taken to ensure the safety and preparedness of FAWE Ghana’s workplace. FAWE Ghana staff participated in a Fire Safety Training organised with the Ghana National Fire Service (GNFS), Abelemkpe Fire Service Station, facilitated by SNOII Francis K. Anku, Fire Safety Officer. The training represented a powerful affirmation […] The post FAWE Ghana Strengthened Workplace Safety Through Fire Safety Training with Ghana National Fire Service appeared first on FORUM FOR AFRICAN WOMEN EDUCATIONALISTS (FAWE) .",
+        "source": "FAWE — African Women Educationalists",
+        "published": "2026-10-02T15:42:17+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "east_africa"
       }
     ],
     "west_africa": [
@@ -7273,7 +7393,128 @@
       }
     ],
     "mena": [],
-    "southeast_asia": [],
+    "southeast_asia": [
+      {
+        "title": "Dog that visited 7-Eleven for 2 years reunited with owner",
+        "url": "https://www.bangkokpost.com/learning/easy/3362256/dog-that-visited-7eleven-for-2-years-reunited-with-owner",
+        "summary": "A dog named Latte has been reunited with its owner after appearing at a convenience store for almost two years.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-27T10:09:00+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "southeast_asia"
+      },
+      {
+        "title": "Drunk man seen folding people’s laundry in Bangkok",
+        "url": "https://www.bangkokpost.com/learning/easy/3361689/drunk-man-seen-folding-peoples-laundry-in-bangkok",
+        "summary": "A foreign man has been seen taking clothes from washing lines outside people’s homes and folding them in Bangkok’s Phasi Charoen district.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-26T09:00:00+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "southeast_asia"
+      },
+      {
+        "title": "Northerners invite PM to ‘toxic meal’ at Parliament",
+        "url": "https://www.bangkokpost.com/learning/easy/3361101/northerners-invite-pm-to-toxic-meal-at-parliament",
+        "summary": "People affected by river contamination in northern Thailand staged a symbolic “toxic meal” at Parliament on Wednesday, inviting the prime minister and four ministers to eat fish dishes sourced from the Sai and Mekong rivers.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-25T10:27:00+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "southeast_asia"
+      },
+      {
+        "title": "Most Bangkok Krathong rafts this year made from natural materials",
+        "url": "https://www.bangkokpost.com/learning/easy/3360980/most-bangkok-krathong-rafts-this-year-made-from-natural-materials",
+        "summary": "City Hall workers reported that most Krathong rafts were made from natural materials this year after collecting 404,907 from the Loy Krathong festival Tuesday night.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-25T04:35:00+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "southeast_asia"
+      },
+      {
+        "title": "Myanmar man suspected of murder, dismemberment",
+        "url": "https://www.bangkokpost.com/learning/easy/3360439/myanmar-man-suspected-of-murder-dismemberment",
+        "summary": "Police have arrested a Myanmar man whose wife was found murdered and dismembered in a rubbish heap in Bangkok on Sunday night.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-24T08:28:00+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "southeast_asia"
+      },
+      {
+        "title": "Thais urged to wear traditional dress on Dec 2",
+        "url": "https://www.bangkokpost.com/learning/easy/3360395/thais-urged-to-wear-traditional-dress-on-dec-2",
+        "summary": "The Ministry of Culture has encouraged people across Thailand to wear traditional Thai dress on Dec 2 to prepare for Unesco to make the clothing an Intangible Cultural Heritage of Humanity.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-24T06:06:00+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "southeast_asia"
+      },
+      {
+        "title": "UN stamp series to include Chud Thai",
+        "url": "https://www.bangkokpost.com/learning/easy/3359854/un-stamp-series-to-include-chud-thai",
+        "summary": "The United Nations Postal Administration (UNPA) postage stamp series \"National Costumes\" will feature Thailand’s traditional dress, known in Thai language as Chud Thai.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-23T11:20:00+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "southeast_asia"
+      },
+      {
+        "title": "Dismembered body in fertiliser bag found in Lat Phrao",
+        "url": "https://www.bangkokpost.com/learning/easy/3359825/dismembered-body-in-fertiliser-bag-found-in-lat-phrao",
+        "summary": "Reports from residents of Lat Phrao 109 led police to a fertiliser sack containing the dismembered body of a woman on Sunday night.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-23T08:52:00+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "southeast_asia"
+      },
+      {
+        "title": "Airline explains Thai students sleeping on airport floor in Japan",
+        "url": "https://www.bangkokpost.com/learning/easy/3359735/airline-explains-thai-students-sleeping-on-airport-floor-in-japan",
+        "summary": "Thai AirAsia X has given an explanation as to why more than 100 Thai students taking part in the World Robot Games 2026 in Japan had to sleep on the floor of Narita International Airport.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-23T03:08:00+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "southeast_asia"
+      },
+      {
+        "title": "Chinese barber arrested operating secret salon",
+        "url": "https://www.bangkokpost.com/learning/easy/3358354/chinese-barber-arrested-operating-secret-salon",
+        "summary": "Immigration police have arrested a Chinese national for illegally working as a barber with a secret salon hidden inside a hotel in Bangkok's Ratchadaphisek area.",
+        "source": "Bangkok Post — Education (Thailand)",
+        "published": "2026-11-20T09:54:00+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "southeast_asia"
+      }
+    ],
     "latin_america": [
       {
         "title": "Las olas de calor se cuadruplicaron en la Argentina",
@@ -7457,6 +7698,126 @@
       }
     ],
     "east_asia": [
+      {
+        "title": "Australia quietly revives Antarctic logistics pact with China as ties steady",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3376076/australia-quietly-revives-antarctic-logistics-pact-china-ties-steady",
+        "summary": "Australia has quietly revived a bilateral Antarctic logistics pact with China, as the two countries work to put bilateral ties on a stable footing despite lingering security tensions. The new agreement, which covers logistics cooperation for the 2026-27 Antarctic summer season, was revealed in an Australian Senate estimates brief prepared for the environment department last month and obtained by the Australian Broadcasting Corporation (ABC) under freedom of information laws, the public...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-28T00:00:11+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Myanmar’s Asean exit talk: a pariah pushes back",
+        "url": "https://www.scmp.com/week-asia/politics/article/3376067/myanmars-asean-exit-talk-pariah-pushes-back",
+        "summary": "For five years, one name card has been missing from the grand circular table at the Association of Southeast Asean Nations biannual leaders’ summit: Min Aung Hlaing. As president of Myanmar, he should by diplomatic convention sit alongside the 10 other leaders of the Southeast Asian bloc at its regular get-togethers. Yet Asean has kept Myanmar at arm’s length ever since the coup that Min Aung Hlaing led as army chief in February 2021. At its latest summit in Manila this month, Myanmar was...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-28T00:00:08+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Son of Hamas chief survived Israeli strike, group says",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3376106/son-hamas-chief-survives-israeli-strike-group-says",
+        "summary": "The son of Hamas ⁠chief Khalil al-Hayya survived an assassination attempt ⁠by the Israeli military on Friday, senior Hamas official ⁠Basem Naim said. He said that Izzeldeen al-Hayya and his family had survived a dawn air strike and Hamas sources said several people, including Hayya’s daughter-in-law, had been wounded but there had been no deaths. The Israeli military had no immediate comment. Naim described Izzeldeen al-Hayya, born in 1997, as the Hamas chief’s last surviving son, with four...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-27T23:52:33+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Colombian Congress chiefs rush to reassure China as envoy berates lawmakers in Taiwan",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3376105/colombian-congress-chiefs-rush-reassure-china-envoy-berates-lawmakers-taiwan",
+        "summary": "Colombian congressional leaders lined up to reaffirm the one-China policy in meetings with Beijing’s ambassador, as nine lawmakers neared the end of a trip to Taiwan that Colombian President Abelardo de la Espriella has yet to comment on. On Thursday, Chinese Ambassador Zhu Jingyang met Elizabeth Jay-Pang Diaz, who chairs the Colombian government’s lower house foreign affairs committee, and the embassy said she reaffirmed the policy. Earlier in the week, Zhu met speaker Nicolas Barguil and the...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-27T22:27:36+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Taiwan is expanding its military draft. Will those troops make a difference?",
+        "url": "https://www.scmp.com/news/china/politics/article/3376027/taiwan-expanding-its-military-draft-will-those-troops-make-difference",
+        "summary": "Taiwan’s move to toughen up on exemptions to military service has sparked anxiety among some young men facing conscription and raised questions over whether expanding recruitment will actually strengthen the island’s combat readiness. While the government argues that limiting exemptions will make conscription fairer and ease personnel shortages, critics warn that recruiting men previously deemed medically unsuitable could endanger their health, complicate training and undermine morale. The...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-27T22:00:15+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Philippines could be key player in US-China AI competition",
+        "url": "https://www.scmp.com/opinion/asia-opinion/article/3375746/philippines-could-be-key-player-us-china-ai-competition",
+        "summary": "“We’ve just consummated a trade deal, the biggest trade deal we’ve ever made by far and it’s a fair deal for both countries. … It’s a magnificent deal for both,” US President Donald Trump declared as he visited Manila this month. “I’m proud to say that we’re making the alliance between the United States and the Philippines much stronger than it’s ever been before, especially with the consummation of this deal.” Days after Trump’s characteristically superlative pronouncement, however, there are...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-27T21:30:08+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Ukraine says it used laser weapon to shoot down Russian drone for first time",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3376104/ukraine-says-it-used-laser-weapon-shoot-down-russian-drone-first-time",
+        "summary": "Ukraine has for the first time used a laser weapon to shoot down a Russian jet-powered drone, its state-backed defence group Brave1 said on Friday. Earlier this week, Serhiy Beskrestnov, an adviser to President Volodymyr Zelensky, published footage showing a target crashing in a fireball, saying a Russian Geran jet drone had been shot down by a laser system for the “first time”. “Footage recently emerged online showing a Ukrainian laser system being used in combat to intercept an enemy...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-27T21:08:33+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "Canada’s top court upholds Quebec ban on religious symbols for public servants",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3376103/canadas-top-court-upholds-quebec-ban-religious-symbols-public-servants",
+        "summary": "Canada’s Supreme Court on Friday upheld Quebec’s ban on religious symbols for public servants, prompting rights groups to warn the ruling unfairly targets Muslim women and weakens legal protections for fundamental rights. The decision is a political win for Quebec’s sovereigntist government and could complicate Prime Minister Mark Carney’s efforts to unify Canada as the country faces a trade war and annexation threats from US President Donald Trump. Quebec’s ‌previous government passed Bill 21...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-27T20:25:58+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "WHO sounds alarm as measles fight falters: ‘it is back’",
+        "url": "https://www.scmp.com/news/world/article/3376102/who-sounds-alarm-measles-fight-falters-it-back",
+        "summary": "The World Health Organization sounded the alarm on measles on Friday, warning that progress on elimination had stalled amid rising misinformation and disinformation. The WHO’s overview of the long-term battle against the highly contagious disease came the week after the United States lost its measles elimination status, with declining vaccination rates sending US cases soaring. Worldwide, the Covid-19 pandemic disrupted immunisation programmes, the UN health agency said, with many countries...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-27T20:12:12+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
+      {
+        "title": "More than 57,000 granted UK permanent residence via BN(O) route in year to September",
+        "url": "https://www.scmp.com/news/hong-kong/politics/article/3376100/more-57000-granted-uk-permanent-residence-bno-route-year-september",
+        "summary": "More than 57,000 arrivals from Hong Kong became permanent residents in the United Kingdom in the 12 months to September 2026 under the bespoke BN(O) immigration pathway launched five years ago, with the city ranking second behind India in the number of UK settlement grants during the period. According to the UK Home Office, 57,040 people were granted permanent residence via the BN(O) route in the 12 months to September 30, 2026. This was up from just 637 BN(O) grants in the preceding 12 months...",
+        "source": "South China Morning Post — Education",
+        "published": "2026-11-27T16:38:31+00:00",
+        "stream": "higher",
+        "streams": [
+          "higher"
+        ],
+        "region": "east_asia"
+      },
       {
         "title": "French arrest warrant issued for German man supplying migrant smuggling boats",
         "url": "https://www.scmp.com/news/world/europe/article/3376097/french-arrest-warrant-issued-german-man-supplying-migrant-smuggling-boats",
@@ -7816,126 +8177,6 @@
           "higher"
         ],
         "region": "east_asia"
-      },
-      {
-        "title": "Police handle 30 cybersecurity cases as AI helps hackers exploit flaws",
-        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3376025/hong-kong-police-handle-30-cybersecurity-cases-past-month-including-ai-assisted-hack",
-        "summary": "Hong Kong police have handled 30 cybersecurity incidents since October 1, with loopholes in communication mechanisms between software components accounting for about a third of the cases. The police force released the figures as more cybersecurity incidents emerged, including one at e-payment service provider Octopus that affected 7,500 customers and 22,000 merchants. The Leisure and Cultural Services Department’s SmartPLAY app and consumer finance firm Aeon also recently suffered data...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T07:55:34+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Hong Kong’s top court quashes autistic man’s flag desecration convictions",
-        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3376017/hong-kongs-top-court-quashes-flag-desecration-conviction-autistic-man",
-        "summary": "Hong Kong’s top court has quashed the convictions of an autistic man wrongly prosecuted for desecrating the national and Hong Kong flags when he was 19, ruling that “there was never sufficient evidence” to pursue the case. Overturning Wong Chun-lok’s convictions on three charges on Friday, the Court of Final Appeal said a “vulnerable member of the community was prosecuted for offences that he had not committed”. Wong was charged in 2023 with pulling down the flags and bending metal flagpoles...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T07:30:47+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Royal crisis in Malaysia’s Negeri Sembilan eases as ruler reinstates council",
-        "url": "https://www.scmp.com/week-asia/politics/article/3376015/royal-crisis-malaysias-negeri-sembilan-eases-ruler-reinstates-council",
-        "summary": "Malaysia’s Negeri Sembilan state installed six new executive councillors on Friday, restoring its government and potentially drawing a line under a months-long constitutional crisis. The battle over the western Malaysian state’s throne erupted in April when four traditional chieftains declared its ruler, Tuanku Muhriz, removed and named Tunku Nadzaruddin Tuanku Ja’afar as his successor. The dispute brought down the state government, triggered an election and drew intervention from Prime Minister...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T07:23:57+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Malaysian radio station slammed for parodying Islamic prayer in football video",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3376013/malaysian-radio-station-slammed-parodying-islamic-prayer-football-video",
-        "summary": "Minister in the Prime Minister’s Department (Religious Affairs) Dr Zulkifli Hasan has urged the management of a private radio station in Malaysia to immediately remove a viral video linking solat (Islamic prayer) to English Premier League football matches and issue a public apology to the Muslim community. State news agency Bernama reported that Zulkifli also called on the radio station to issue a public apology to the Muslim community and ensure that a similar incident does not recur. He...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T07:07:32+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Chinese robotic dog in hi-tech fire suit withstands blaze at 1,000 degrees Celsius",
-        "url": "https://www.scmp.com/news/article/3375998/chinese-robotic-dog-hi-tech-fire-suit-withstands-blaze-1000-degrees-celsius",
-        "summary": "A robotic dog withstood heat of up to 1,000 degrees Celsius (1,832 Fahrenheit) after it was sent into a blaze in eastern China to test out a new fire-resistant suit, according to state media. The hi-tech suit – made from a special composite fireproof material – enabled the robotic dog to operate for 10 minutes in the extreme temperatures without damage, the official Science and Technology Daily reported on Thursday. The technology could potentially be used by firefighters and also the military,...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T06:01:05+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Singapore lifts ban on Hainan goose – can chefs match Hong Kong’s gold standard?",
-        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3375995/singapore-lifts-ban-hainan-goose-can-chefs-match-hong-kongs-gold-standard",
-        "summary": "Three times a year, Singaporean lawyer Sunil Sudheesan flies to Hong Kong to satisfy his craving for roast goose – a delicacy that has remained elusive in the city state for decades. With Singapore approving goose imports from China’s Hainan province, he may soon be able to indulge closer to home, even as restaurateurs and food experts warn that replicating Hong Kong’s iconic dish will not be so straightforward. The decision, announced on Monday, covers a range of poultry, pork and eggs from the...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T05:30:05+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Singapore reaches out to local firms amid reports of Nvidia chip shipment halt",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375994/singapore-reaches-out-local-firms-amid-reports-nvidia-chip-shipment-halt",
-        "summary": "Singapore said on Friday it was “engaging” with local businesses over tightened US export controls on advanced AI chips designed by tech titan Nvidia. But Deputy Prime Minister Gan Kim Yong said he was unable to confirm reports that the US firm had halted server shipments to four Southeast Asian countries. Citing national security concerns, the United States has since 2022 restricted exports to China of Nvidia’s industry-leading chips, which are used to train and run artificial intelligence...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T05:13:01+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Malaysian teacher gets 60 years, 24 strokes in Sarawak school sex abuse case",
-        "url": "https://www.scmp.com/week-asia/people/article/3375992/malaysian-teacher-gets-60-years-24-strokes-sarawak-school-sex-abuse-case",
-        "summary": "A teacher in Malaysia has been sentenced to 60 years in prison for sexually assaulting eight girls aged between seven and 12 at a primary school in Sarawak, the latest in a string of cases involving educators despite the government’s toughened stance on such crimes. The Sessions Court in Sri Aman also ordered 24 strokes of the cane for Wong Fei Sing, 35, after he pleaded guilty on Wednesday to 64 charges, including possession of child sexual abuse material. According to police, the abuse took...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T04:58:43+00:00",
-        "stream": "school",
-        "streams": [
-          "school"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Beyond the Degree: How EdUHK’s Honours College Prepares Students for What’s Next",
-        "url": "https://www.scmp.com/presented/news/hong-kong/education/topics/eduhks-internationalisation-drive/article/3375876/beyond-degree-how-eduhks-honours-college-prepares-students-whats-next",
-        "summary": "[The content of this article has been produced by our advertising partner.] As artificial intelligence reshapes classrooms and workplaces, universities must prepare graduates not only to use technology, but to question it, adapt to change and apply knowledge responsibly. At The Education University of Hong Kong (EdUHK), the Honours College advances this mission by connecting the University’s educational expertise with research, emerging technologies and professional experience. The College...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T04:47:37+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
-      },
-      {
-        "title": "Relief for Japan’s Takaichi as scandal-hit education chief survives censure motion",
-        "url": "https://www.scmp.com/news/asia/east-asia/article/3375984/relief-japans-takaichi-scandal-hit-education-chief-survives-censure-motion",
-        "summary": "Japan’s Senate on Friday narrowly rejected a censure motion against Education Minister Yoshihiro Seki over his controversial fundraising events attended by bureaucrats, easing pressure on him to resign and potentially providing a temporary reprieve for Prime Minister Sanae Takaichi’s government. The motion, which is nonbinding, was defeated by 124 votes to 120 in a plenary session of the 248-seat upper house after being jointly submitted by opposition parties a day earlier, amid uncertainty over...",
-        "source": "South China Morning Post — Education",
-        "published": "2026-11-27T04:16:47+00:00",
-        "stream": "higher",
-        "streams": [
-          "higher"
-        ],
-        "region": "east_asia"
       }
     ],
     "europe": [
@@ -8010,18 +8251,6 @@
         "stream": "tvet",
         "streams": [
           "tvet"
-        ],
-        "region": "europe"
-      },
-      {
-        "title": "Fall in international student numbers ‘damaging UK economy and universities’",
-        "url": "https://www.independent.co.uk/news/uk/home-news/international-students-universities-uk-economy-b3092453.html",
-        "summary": "The number of non-EU overseas students coming to the UK fell by around 33,000 in the 12 months to June this year, ONS said",
-        "source": "The Independent — Education",
-        "published": "2026-11-26T21:15:17+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "europe"
       },
@@ -8422,9 +8651,45 @@
           "tvet"
         ],
         "region": "europe"
+      },
+      {
+        "title": "Why classroom conditions are back on the agenda",
+        "url": "https://www.etf.europa.eu/en/node/13846",
+        "summary": "Why classroom conditions are back on the agenda Image Read the story How PISA 2025 data can show what students really experience at school, from attendance to digital distraction, in 20 ETF partner countries.",
+        "source": "ETF — European Training Foundation",
+        "published": "2026-10-30T13:51:53+00:00",
+        "stream": "tvet",
+        "streams": [
+          "tvet"
+        ],
+        "region": "europe"
       }
     ],
     "north_america": [
+      {
+        "title": "Quebec Can Keep Its Ban on Religious Symbols, Canada’s Top Court Rules",
+        "url": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+        "summary": "In a landmark decision, the Supreme Court backed the province’s use of a constitutional override while leaving the door open to future legal scrutiny.",
+        "source": "New York Times — Education",
+        "published": "2026-11-27T21:17:11+00:00",
+        "stream": "policy",
+        "streams": [
+          "policy"
+        ],
+        "region": "north_america"
+      },
+      {
+        "title": "New Mexico Education Advocates, Lawmakers Oppose Federal Education Tax Credit",
+        "url": "https://www.the74million.org/article/new-mexico-education-advocates-lawmakers-oppose-federal-education-tax-credit/",
+        "summary": "New Mexico education advocates, teachers union representatives and a state lawmaker on Tuesday held a news conference to decry the state’s participation in a controversial federal education tax credit. The Federal Scholarship Tax Credit program, established in President Trump’s One Big Beautiful Bill Act enacted last year, allows eligible taxpayers to receive a federal tax […]",
+        "source": "The 74 Million",
+        "published": "2026-11-27T17:30:00+00:00",
+        "stream": "school",
+        "streams": [
+          "school"
+        ],
+        "region": "north_america"
+      },
       {
         "title": "Opinion: Behind the Teacher Recruitment and Retention Problem Is a Crisis of Mattering",
         "url": "https://www.the74million.org/article/behind-the-teacher-recruitment-and-retention-problem-is-a-crisis-of-mattering/",
@@ -8518,18 +8783,6 @@
         "stream": "edtech",
         "streams": [
           "edtech"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "‘Pumpkin Pie Is Disgusting’ and Other Unpopular Opinions",
-        "url": "https://www.nytimes.com/2026/11/26/opinion/thanksgiving-america-education-disabilities.html",
-        "summary": "We give thanks. Lots of thanks. Really.",
-        "source": "New York Times — Education",
-        "published": "2026-11-26T10:04:24+00:00",
-        "stream": "policy",
-        "streams": [
-          "policy"
         ],
         "region": "north_america"
       },
@@ -8890,18 +9143,6 @@
         "stream": "school",
         "streams": [
           "school"
-        ],
-        "region": "north_america"
-      },
-      {
-        "title": "Principal burnout looks different in the leaders who stayed",
-        "url": "https://www.eschoolnews.com/educational-leadership/2026/11/24/principal-burnout-looks-different-in-the-leaders-who-stayed/",
-        "summary": "The exodus headlines have quieted. A March 2026 RAND report drawn from the American School District Panel estimates that principal turnover fell to about 8 percent in 2024-2025, down from a pandemic high of 16 percent, though still above prepandemic levels.",
-        "source": "eSchool News",
-        "published": "2026-11-24T10:00:00+00:00",
-        "stream": "edtech",
-        "streams": [
-          "edtech"
         ],
         "region": "north_america"
       }
